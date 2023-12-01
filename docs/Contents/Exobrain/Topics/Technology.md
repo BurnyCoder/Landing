@@ -1,3 +1,3 @@
 has:
-[[computers]]
-[[artificial intelligence]]
+- [[computer]]
+- [[Machine learning]] 
