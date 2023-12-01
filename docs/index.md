@@ -1,11 +1,13 @@
-# Obsidian Notes
+# Welcome
 
-Publish your public notes with MkDocs
+[[About me]]
+[[Exobrain]]
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Welcome  
+About - for researchers programmers, ml researcher, engineer, psychonaut, meditator, endless learner, utopian future is possible  
+Exobrain  
+Blog casual intellectual  
+Videos  
+Projects  
+How can i help you/you help me  
+Contact
