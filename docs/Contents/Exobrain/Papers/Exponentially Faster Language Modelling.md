@@ -13,7 +13,7 @@
 ## Deep dive
 - 
 ## Brain storming
-- Feel the [[AGI]]
+- Feel the [[AGI]]!
 ## Related
 ## AI 
 - (GPT summary?)
