@@ -1,0 +1,1 @@
+has [[Zettelkasten notetaking]]

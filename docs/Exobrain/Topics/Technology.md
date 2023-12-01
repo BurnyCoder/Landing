@@ -1,0 +1,3 @@
+has:
+[[computers]]
+[[artificial intelligence]]
