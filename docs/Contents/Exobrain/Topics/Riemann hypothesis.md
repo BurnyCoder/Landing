@@ -4,9 +4,3 @@ is [[Math]] [[Complex analysis]] [[Mathematical analysis]] [[Theorem]]
 [[Transformer#^353651
 
 ![[Pasted image 20231128173838.png]]
-
-Test
-Test
-Test
-git
-test
