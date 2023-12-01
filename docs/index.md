@@ -1,7 +1,7 @@
 # Welcome
 
-[[About me]]
-[[Exobrain]]
+- [[About me]]
+- [[Exobrain]]
 
 Welcome  
 About - for researchers programmers, ml researcher, engineer, psychonaut, meditator, endless learner, utopian future is possible  
