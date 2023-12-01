@@ -1,0 +1,1 @@
+Using Obsidian and MkDocs template jobindjohn/obsidian-publish-mkdocs

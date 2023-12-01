@@ -1,1 +1,0 @@
-Using obsidian and this template GitHub - jobindjohn/obsidian-publish-mkdocs: A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
