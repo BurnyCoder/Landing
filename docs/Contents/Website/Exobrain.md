@@ -6,5 +6,6 @@
 - [[Science]]
 - [[Technology]]
 - [[Humanity]]
+- [[Future]]
 - [[Movements]]
 - [[Aethetics]]

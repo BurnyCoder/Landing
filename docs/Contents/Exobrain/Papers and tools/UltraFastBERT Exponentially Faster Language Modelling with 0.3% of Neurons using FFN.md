@@ -1,5 +1,4 @@
 ## Tags
-- Metadata: #paper #tool  #processing #long #focus
 - Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]] [[Speed optimization]] [[landing/docs/Contents/Exobrain/Topics/Open source|Open source]] 
 - Additional: [[SotA]] 
 ## Significance
@@ -22,4 +21,5 @@
 - 
 ## AI 
 - 
-
+## Metadata
+- #paper #tool  #processing #long #focus

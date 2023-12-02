@@ -3,7 +3,6 @@ aliases:
   - All
 ---
 ## Tags
-- Metadata: #topic #processing #important #short #long #casual #focus
 - Topics: 
 - Additional: 
 ## Significance
@@ -36,3 +35,5 @@ aliases:
 ## Related
 - Limits to formalizing everything mathematically: [[Russel’s paradox]]
 ## AI 
+
+- Metadata: #topic #processing #important #short #long #casual #focus
