@@ -14,14 +14,18 @@
 ## Landscapes
 - By domain 
 	- [[Theory of Everything in Fundamental Physics]]
+		- solve [[Quantum gravity]]
+		- unify [[Relativity]] with [[Quantum mechanics]]
+		- unify all other [[Fundamental forces|fundamental forces]]
 		- 
 	- [[Theory of Everything in All of Physics]]
 	- [[Theory of Everything in Natural Sciences]]
 	- [[Theory of Everything in Mathematics]]
-	- [[Theory of Everything in Science]]
+	- [[Theory of Everything in All Sciences]]
 	- [[Theory of Everything in Metaphysics]]
-	- [[Theory of Everything in Logic]]
 	- [[Theory of Everything in Philosophy]]
+	- Meta therTheory of Theories of Everything: Solve all above and integrate into one [[mental framework]]
+	- Comparative analysis of theories of everything and theories of theories of everything
 ## Contents
 - 
 ## Deep dives
