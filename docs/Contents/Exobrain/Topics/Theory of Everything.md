@@ -6,8 +6,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Definition|Defining]] and [[Explanation|explaining]] [[Everything|all]] [[phenomena]] in given problem domain
-	- in [[empiricism|empirical]] [[science]] also [[Prediction|predicting]], [[controlling]], [[Replication crisis|replicating]], [[simulating]], [[building]]
+- [[Definition|Defining]] and [[Explanation|explaining]] [[Everything|all]] defined [[phenomena]] in given problem domain.
+	- In [[empiricism|empirical]] [[sciences|science]] also [[Prediction|predicting]], [[controlling]], [[Replication crisis|replicating]], [[simulating]], [[building]] the defined phenomena if possible.
 ## Technical summaries
 - [[Theory]] of [[Everything]] means something else in [[physics]], [[Natural science|natural sciences]], [[Formal science|formal sciences]], overall [[science]], [[philosophy]], casual [[language]] and so on.
 ## Main resources 
