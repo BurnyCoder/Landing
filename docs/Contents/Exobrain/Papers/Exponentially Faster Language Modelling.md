@@ -2,7 +2,7 @@
 - Metadata: #paper #toprocess
 - Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]]
 - Additional: [[SotA]] [[Open Source]]
-## High level implications
+## Importance
 - Extremely reducing the size of LLMs and losing as little accuracy as possible
 ## Summary
 -  a [[BERT]] variant using 0.3% of neurons needed for same performance using [[fast feedforward networks]]
@@ -14,6 +14,8 @@
 - 
 ## Brain storming
 - Feel the [[AGI]]!
+## Resources 
+
 ## Related
 ## AI 
 - (GPT summary?)
