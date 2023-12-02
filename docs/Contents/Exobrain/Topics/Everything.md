@@ -1,6 +1,7 @@
-- - -  
-aliases: [All]
-- - -
+---
+aliases:
+  - All
+---
 ## Tags
 - Metadata: #topic #processing #important #short #long #casual #focus
 - Topics: 
