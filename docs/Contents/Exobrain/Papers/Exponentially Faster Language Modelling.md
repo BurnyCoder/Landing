@@ -6,7 +6,7 @@
 - Extremely reducing the size of LLMs and losing as little accuracy as possible
 ## Summary
 -  a [[BERT]] variant using 0.3% of neurons needed for same performance using [[fast feedforward networks]]
-## Article
+## Main resources 
 - [[2311.10770] Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 - <iframe src="https://arxiv.org/abs/2311.10770" allow="fullscreen" allowfullscreen="" style="height:50%;width:50%; aspect-ratio: 16 / 9; "></iframe>
 
@@ -14,7 +14,7 @@
 - 
 ## Brain storming
 - Feel the [[AGI]]!
-## Resources 
+## Additional resources  
 
 ## Related
 ## AI 

@@ -8,7 +8,7 @@
 - [[Math]] constrained by reality.
 ## Summary
 -  Equations describing physical systems
-## Article
+## Main resources 
 
 <iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:50%;width:50%; aspect-ratio: 16 / 9; "></iframe>
 ## Landscape
@@ -22,7 +22,7 @@
 - 
 ## Brain storming
 
-## Resources 
+## Additional resources  
 
 ## Related
 ## AI 
