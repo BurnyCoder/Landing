@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic #processing #important #short #long #casual #focus
-- Topics: [[Philosophy of Science]]
+- Topics: 
 - Additional: 
 ## Significance
 - 
@@ -14,7 +14,12 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+- Subfields
+	- [[Ethics]]
+	- [[Epistemology]]
+- Applications
+	- [[Philosophy of Philosophy]]
+	- [[Philosophy of Science]]
 ## Contents
 - 
 ## Deep dives

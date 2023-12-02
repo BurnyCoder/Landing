@@ -1,4 +1,6 @@
 - [[Philosophy]] 
+- [[Linguistics]]
+- [[Logic]]
 - [[Math]]
 - [[Science]]
 - [[Technology]]
