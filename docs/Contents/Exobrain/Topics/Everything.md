@@ -35,5 +35,6 @@ aliases:
 ## Related
 - Limits to formalizing everything mathematically: [[Russel’s paradox]]
 ## AI 
-
-- Metadata: #topic #processing #important #short #long #casual #focus
+- 
+## Metadata 
+- #topic #processing #important #short #long #casual #focus
