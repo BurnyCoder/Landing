@@ -1,4 +1,4 @@
-is [[language]]
+is [[Language]]
 is [[Philosophy]] constrained by symbolic formality
 
 has:
