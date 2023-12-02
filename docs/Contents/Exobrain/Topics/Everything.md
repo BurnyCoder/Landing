@@ -16,16 +16,20 @@ aliases:
 - [[Statespace]] of everything
 - Transcends all [[Boundary|boundaries]], [[Category|categories]], [[Distinction|distinctions]], [[Division|divisions]]
 ## Technical summaries
--  
+-  The concept of everything can be studied using many lenses such as [[philosophy]], [[logic]], [[math]], [[science]].
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
 - 
 ## Deep dives
-- The concept of everything can be studied using many lenses such as [[philosophy]], [[logic]], [[math]], [[science]].
+- 
+- Everything in science and philosophy
+	-  <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- Everything in science
+	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- Everything in philosophy
 ## Brain storming
 - 
 ## Additional resources  

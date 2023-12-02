@@ -7,8 +7,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Instances of [[subjective]] [[consciousness|conscious]] [[experience]]
-- In [[panpsychism|panpsychist]] [[physicalism]]: [[physics|Physical]] correlate corresponding to property or part of [[experience]].
+- Instances of [[Subjective]] [[consciousness|conscious]] [[experience]]
+- In [[panpsychism|panpsychist]] [[Physicalism]]: [[physics|Physical]] correlate corresponding to property or part of [[experience]].
 ## Technical summaries
 -  
 ## Main resources 
