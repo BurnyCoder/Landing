@@ -8,4 +8,4 @@
 - [[How can I/you help]]
 - [[Contact]]
 
-This website design is improvised, better one coming soon
+This website’s content is highly unfinished and design is improvised, better one coming soon.
