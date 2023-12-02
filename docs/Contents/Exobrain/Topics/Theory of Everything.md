@@ -13,14 +13,13 @@
 - 
 ## Landscapes
 - By domain 
-	- [[Theory of Everything in Fundamental Physics]]
-		- solve [[Quantum gravity]]
-		- unify [[Relativity]] with [[Quantum mechanics]]
-		- unify all other [[Fundamental forces|fundamental forces]]
-		- 
+	- [[Theory of Everything in Fundamental Physics#Landscapes]]
+		- ![[Theory of Everything in Fundamental Physics#Landscapes]]
 	- [[Theory of Everything in All of Physics]]
 	- [[Theory of Everything in Natural Sciences]]
 	- [[Theory of Everything in Mathematics]]
+	- [[Theory of Everything in Machine Learning]]
+	- [[Theory of Everything in Neuroscience]]
 	- [[Theory of Everything in All Sciences]]
 	- [[Theory of Everything in Metaphysics]]
 	- [[Theory of Everything in Philosophy]]
