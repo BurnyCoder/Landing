@@ -9,12 +9,12 @@ aliases:
 ## Significance
 - 
 ## Intuitive summaries
-- It encompasses all possible [[thought|thoughts]], all possible [[Linguistics|language]], all possible [[sense|senses]], all possible [[Experience]], all possible structures
+- It encompasses all possible [[Thought|thoughts]], all possible [[Linguistics|language]], all possible [[Sense|senses]], all possible [[experience]], all possible structures
 ## Definitions
-- Container of containers 
-- Transcends all boundaries, categories, divisions
-- Concept that includes all other concepts, structures, intuitions, [[Linguistics|languages]], [[Qualia]]
+- Container of [[Container|containers]] 
+- Concept that includes all other [[Concept|concepts]], [[Structure|structures]], [[Intuition|intuitions]], [[Linguistics|languages]], [[qualia]]
 - [[Statespace]] of everything
+- Transcends all [[Boundary|boundaries]], [[Category|categories]], [[Distinction|distinctions]], [[Division|divisions]]
 ## Technical summaries
 -  
 ## Main resources 
