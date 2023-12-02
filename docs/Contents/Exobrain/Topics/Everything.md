@@ -9,7 +9,7 @@ aliases:
 ## Significance
 - 
 ## Intuitive summaries
-- 
+- It encompasses all possible [[thought|thoughts]], all possible [[Linguistics|language]], all possible [[sense|senses]], all possible [[experience]], all possible structures
 ## Definitions
 - Container of containers 
 - Transcends all boundaries, categories, divisions
