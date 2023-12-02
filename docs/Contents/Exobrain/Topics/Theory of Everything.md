@@ -20,7 +20,7 @@
 		- ![[Theory of Everything in All of Physics#Definitions]]
 	- [[Theory of Everything in Natural Sciences#Definitions]]
 		- ![[Theory of Everything in Natural Sciences#Definitions]]
-	- [[Theory of Everything in All Sciences]]
+	- [[Theory of Everything in All of Science]]
 	- [[Theory of Everything in Metaphysics]]
 	- [[Theory of Everything in Philosophy]]
 	- [[Theory of Everything in Spirituality]]

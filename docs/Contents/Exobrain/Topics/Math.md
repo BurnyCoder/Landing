@@ -3,7 +3,7 @@ is [[Philosophy]] constrained by symbolic formality
 
 has:
 [[philosophy of mathematics]]
-[[logic]]
+[[Logic]]
 [[foundations of mathematics]]
 [[geometry]]
 [[algebra]]

@@ -6,11 +6,12 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Not only solving [[Theory of Everything in All of Physics]], but also solving how all [[Natural science|natural sciences]], like [[chemistry]], [[biology]], [[neuroscience]], [[consciousness]], [[neurophenomenology]], [[social systems]], and so on emerge or work in synergy with [[Theory of Everything in Fundamental Physics]] and all of [[physics]].
+- Not only solving [[Theory of Everything in Natural Sciences]], but also unifying and integrating together [[Formal science|formal sciences]], such as [[math]], [[logic]]  
 ## Technical summaries
 -  
 ## Main resources 
 - 
+	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
