@@ -4,7 +4,8 @@
 - Additional: [[SotA]] [[Open Source]]
 ## Importance
 - Extremely reducing the size of LLMs and losing as little accuracy as possible
-## Summary
+## Intuitive summary
+## Technical summary
 -  a [[BERT]] variant using 0.3% of neurons needed for same performance using [[fast feedforward networks]]
 ## Main resources 
 - [[2311.10770] Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)

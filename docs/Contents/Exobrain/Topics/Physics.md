@@ -1,12 +1,13 @@
 ## Tags
 - Metadata: #topic #toprocess #short #long
-- Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]]
+- Topics: [[landing/docs/Contents/Exobrain/Topics/Science|Science]] [[landing/docs/Contents/Exobrain/Topics/Math|Math]] 
 - Additional: [[SotA]] [[Open Source]]
 ## Importance
 - Allowing to predict, control, design and explain any physical system, which is all systems in reality.
 ## Definition
 - [[Math]] constrained by reality.
-## Summary
+## Intuitive summary
+## Technical summary
 -  Equations describing physical systems
 ## Main resources 
 
