@@ -4,20 +4,20 @@
 - Additional: 
 ## Significance
 - Allowing to predict, control, design and explain any physical system, which is all systems in reality.
-## Intuitive summary
+## Intuitive summaries
 - 
 ## Definitions
 - [[Math]] constrained by reality.
-## Technical summary
--  
+## Technical summaries
+-  Equations describing physical systems.
 ## Main resources 
 - 
-- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:50%;width:50%; aspect-ratio: 16 / 9; "></iframe>
-## Landscape
+- <iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+## Landscapes
 - 
 ## Contents
 - 
-## Deep dive
+## Deep dives
 - 
 ## Brain storming
 - 
