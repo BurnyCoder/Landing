@@ -1,7 +1,7 @@
 ## Tags
 - Metadata: #topic #toprocess #short #long
 - Topics: [[landing/docs/Contents/Exobrain/Topics/Science|Science]] [[landing/docs/Contents/Exobrain/Topics/Math|Math]] 
-- Additional: [[SotA]] [[Open Source]]
+- Additional: 
 ## Importance
 - Allowing to predict, control, design and explain any physical system, which is all systems in reality.
 ## Definition
