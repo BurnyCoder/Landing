@@ -1,7 +1,6 @@
---- 
-aliases: 
-- Doggo 
-- Woofer - Yapper ---
+- - -  
+aliases: [All]
+- - -
 ## Tags
 - Metadata: #topic #processing #important #short #long #casual #focus
 - Topics: 
@@ -25,7 +24,7 @@ aliases:
 ## Contents
 - 
 ## Deep dives
-- 
+- The concept of everything can be studied using many lenses such as [[philosophy]], [[logic]], [[math]], [[science]].
 ## Brain storming
 - 
 ## Additional resources  
