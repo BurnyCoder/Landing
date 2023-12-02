@@ -1,3 +1,7 @@
+--- 
+aliases: 
+- Doggo 
+- Woofer - Yapper ---
 ## Tags
 - Metadata: #topic #processing #important #short #long #casual #focus
 - Topics: 
@@ -7,8 +11,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Transcends all boundaries, categories
 - Container of containers 
+- Transcends all boundaries, categories, divisions
 - Concept that includes all other concepts, structures, intuitions, [[linguistics|languages]], [[qualia]]
 - [[Statespace]] of everything
 ## Technical summaries
@@ -27,5 +31,5 @@
 ## Additional resources  
 - 
 ## Related
-- 
+- [[Russel’s paradox]]
 ## AI 
