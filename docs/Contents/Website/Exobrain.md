@@ -1,3 +1,4 @@
+- [[Everything]]
 - [[Philosophy]] 
 - [[Linguistics]]
 - [[Logic]]
