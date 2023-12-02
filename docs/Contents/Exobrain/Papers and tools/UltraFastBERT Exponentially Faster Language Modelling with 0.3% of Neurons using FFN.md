@@ -1,4 +1,31 @@
 ## Tags
+- Metadata: #paper #tool  #processing #long #focus
+- Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]] [[Speed optimization]]
+- Additional: [[SotA]] 
+## Significance
+- 
+## Intuitive summary
+-  
+## Technical summary
+- 
+## Main resources
+- [[2311.10770] Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
+	- <iframe src="https://arxiv.org/abs/2311.10770" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+## Deep dive
+- 
+## Brain storming
+- 
+## Additional resources 
+- 
+
+## Related
+- 
+## AI 
+- 
+
+
+
+## Tags
 - Metadata: #paper #toprocess
 - Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]]
 - Additional: [[landing/docs/Contents/Exobrain/Other and unrelated/]] [[Open Source]]
