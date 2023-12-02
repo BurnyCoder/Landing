@@ -7,8 +7,9 @@
 - 
 ## Definitions
 - [[Definition|Defining]] and [[Explanation|explaining]] [[Everything|all]] [[phenomena]] in given problem domain
+	- in [[empiricism|empirical]] [[science]] also [[Prediction|predicting]], [[controlling]], [[Replication crisis|replicating]], [[simulating]], [[building]]
 ## Technical summaries
-- Theory of everything means something else in [[physics]], [[Natural science|natural sciences]], [[Formal science|formal sciences]], overall [[science]], [[philosophy]], casual [[language]] and so on.
+- [[Theory]] of [[Everything]] means something else in [[physics]], [[Natural science|natural sciences]], [[Formal science|formal sciences]], overall [[science]], [[philosophy]], casual [[language]] and so on.
 ## Main resources 
 - 
 ## Landscapes
@@ -19,9 +20,6 @@
 		- ![[Theory of Everything in All of Physics#Definitions]]
 	- [[Theory of Everything in Natural Sciences]]
 	- [[Theory of Everything in Mathematics]]
-	- [[Theory of Everything in Machine Learning]]
-	- [[Theory of Everything in Neuroscience]]
-	- - [[Theory of Everything in Cognitive science]]
 	- [[Theory of Everything in All Sciences]]
 	- [[Theory of Everything in Metaphysics]]
 	- [[Theory of Everything in Philosophy]]
