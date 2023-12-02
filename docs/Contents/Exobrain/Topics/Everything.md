@@ -13,7 +13,7 @@ aliases:
 ## Definitions
 - Container of containers 
 - Transcends all boundaries, categories, divisions
-- Concept that includes all other concepts, structures, intuitions, [[linguistics|languages]], [[qualia]]
+- Concept that includes all other concepts, structures, intuitions, [[Linguistics|languages]], [[qualia]]
 - [[Statespace]] of everything
 ## Technical summaries
 -  
