@@ -21,8 +21,9 @@
 	- [[Theory of Everything in Natural Sciences#Definitions]]
 		- ![[Theory of Everything in Natural Sciences#Definitions]]
 	- [[Theory of Everything in All of Science#Definitions]]
-		- Theor
+		- ![[Theory of Everything in All of Science#Definitions]]
 	- [[Theory of Everything in Metaphysics]]
+		- 
 	- [[Theory of Everything in Philosophy]]
 	- [[Theory of Everything in Spirituality]]
 	- Meta Theory of Everything
