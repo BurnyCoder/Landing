@@ -26,14 +26,13 @@ aliases:
 ## Deep dives
 - 
 - Everything in science and philosophy
-	-  <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-- Everything in science
-	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-- Everything in philosophy
+	-  [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
+		- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- Formalized by [[Theory of Everything|Theories of Everything]].
 ## Brain storming
 - 
 ## Additional resources  
 - 
 ## Related
-- [[Russel’s paradox]]
+- Limits to formalizing everything mathematically: [[Russel’s paradox]]
 ## AI 
