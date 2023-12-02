@@ -3,17 +3,24 @@
 - Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]]
 - Additional: [[SotA]] [[Open Source]]
 ## Importance
-- Extremely reducing the size of LLMs and losing as little accuracy as possible
+- Allowing to predict, control, design and explain any physical system, which is all systems in reality.
+## Definition
+- [[Math]] constrained by reality.
 ## Summary
--  a [[BERT]] variant using 0.3% of neurons needed for same performance using [[fast feedforward networks]]
+-  Equations describing physical systems
 ## Article
-- [[2311.10770] Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
-- <iframe src="https://arxiv.org/abs/2311.10770" allow="fullscreen" allowfullscreen="" style="height:50%;width:50%; aspect-ratio: 16 / 9; "></iframe>
+[Summary](<%3Ciframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "%3E</iframe>>)
+## Landscape
+- [[Classical physics]]
+- [[Relativity]]
+- [[Quantum mechanics]]
+- [[Statistical physics]]
+## Phenomena
 
 ## Deep dive
 - 
 ## Brain storming
-- Feel the [[AGI]]!
+
 ## Resources 
 
 ## Related
@@ -22,12 +29,5 @@
 
 
 
-is [[Math]] constrained by reality
-
-has:
-[[classical physics]]
-[[relativity]]
-[[quantum mechanics]]
-[[statistical physics]]
 
 <iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
