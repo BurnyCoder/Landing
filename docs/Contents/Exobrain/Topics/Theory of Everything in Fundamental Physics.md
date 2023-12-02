@@ -16,15 +16,14 @@
 - By subproblems
 	- solve [[Quantum gravity]]
 	- unify [[Relativity]] with [[Quantum mechanics]]
-		- [[Relativity emergining from Quantum mechanics]]
+		- Relativity emerging from Quantum mechanics
 			- [[Quantum Darwinism]]
 			- [[Sean Caroll’s physics project]]
 	- unify all other [[Fundamental forces|fundamental forces]]
 	- find alternative to [[Standard Model of Particle Physics]]
 		- [[String theory]]
 		- [[Loop Quantum Gravity]]
-		- [[Wolfram’s Theory of Ever]]
-- 
+		- [[Wolfram’s Theory of Everything]]
 ## Contents
 - 
 ## Deep dives
