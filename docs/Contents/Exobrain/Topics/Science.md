@@ -1,6 +1,6 @@
 has:
 [[dynamical systems]]
-[[Physics]]
+[[landing/docs/Contents/Exobrain/Topics/Physics]]
 [[chemistry]]
 [[biology]]
 [[Neuroscience]]

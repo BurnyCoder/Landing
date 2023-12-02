@@ -1,5 +1,5 @@
 ## Tags
-- Metadata: #paper #toprocess
+- Metadata: #topic #toprocess #short #long
 - Topics: [[Machine learning]] [[Language model]] [[Natural language processing]] [[Transformer]]
 - Additional: [[SotA]] [[Open Source]]
 ## Importance
@@ -9,7 +9,8 @@
 ## Summary
 -  Equations describing physical systems
 ## Article
-[Summary](<%3Ciframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "%3E</iframe>>)
+
+<iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:50%;width:50%; aspect-ratio: 16 / 9; "></iframe>
 ## Landscape
 - [[Classical physics]]
 - [[Relativity]]
@@ -25,9 +26,3 @@
 
 ## Related
 ## AI 
-- (GPT summary?)
-
-
-
-
-<iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
