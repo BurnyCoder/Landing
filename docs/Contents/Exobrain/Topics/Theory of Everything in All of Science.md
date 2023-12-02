@@ -6,7 +6,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Not only solving [[Theory of Everything in Natural Sciences]], but also unifying and integrating together [[Formal science|formal sciences]], such as [[math]], [[logic]]  
+- Not only solving [[Theory of Everything in Natural Sciences]], but also unifying and integrating together [[Formal science|formal sciences]], such as [[math]] and [[logic]], and   
 ## Technical summaries
 -  
 ## Main resources 
