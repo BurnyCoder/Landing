@@ -13,9 +13,18 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- solve [[Quantum gravity]]
-- unify [[Relativity]] with [[Quantum mechanics]]
-- unify all other [[Fundamental forces|fundamental forces]]
+- By subproblems
+	- solve [[Quantum gravity]]
+	- unify [[Relativity]] with [[Quantum mechanics]]
+		- [[Relativity emergining from Quantum mechanics]]
+			- [[Quantum Darwinism]]
+			- [[Sean Caroll’s physics project]]
+	- unify all other [[Fundamental forces|fundamental forces]]
+	- find alternative to [[Standard Model of Particle Physics]]
+		- [[String theory]]
+		- [[Loop Quantum Gravity]]
+		- [[Wolfram’s Theory of Ever]]
+- 
 ## Contents
 - 
 ## Deep dives
