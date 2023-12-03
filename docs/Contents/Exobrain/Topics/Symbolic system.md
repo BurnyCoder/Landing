@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Symbolic artificial intellgience]] [[Mathematics]]  
 - Related: 
 - Includes:
 - Additional: 
@@ -16,7 +16,9 @@
 - [Physical symbol system - Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
 	- <iframe src="https://en.wikipedia.org/wiki/Physical_symbol_system" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- Formal symbolic systems: 
+- [[Formal system]] 
+- [Physical symbol system - Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
+	- [[Logic]], [[Algebra]], Chess, a [[computer]] running a [[program]], [[Intelligence|intelligent]] human thought, English [[language]]
 ## Contents
 - 
 ## Deep dives
