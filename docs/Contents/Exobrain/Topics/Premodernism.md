@@ -5,12 +5,11 @@
 ## Significance
 - 
 ## Intuitive summaries
-- 
+- connection with nature, nature spirits control all
 ## Definitions
-- unify or synergize [[Premodernism|premodernism]], [[Modernism]], [[Postmodernism]], [[metamodernism]]
-- unify or synergize polarized [[Political compass|political compass]]: left and right, libertarian and authoritarian
-## Technical summaries
 - 
+## Technical summaries
+-  
 ## Main resources 
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
