@@ -1,17 +1,17 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Science]] 
+- Part of: [[Philosophy]] [[Process]] [[Empiricism]]
 - Related: 
-- Includes: [[Metatheory]]
+- Includes:
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- [[Object|Objects[[]] in [[time]] or instantiations of properties in objects
 ## Technical summaries
--  A [[Rationialism|rational]] type of abstract thinking about a [[Phenomenon|phenomenon]], or the results of such thinking
+-  
 ## Main resources 
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>

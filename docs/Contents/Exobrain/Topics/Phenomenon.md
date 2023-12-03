@@ -1,20 +1,21 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Science]] 
+- Part of: [[Philosophy]] [[Science]] [[Theory]] [[Empiricism]]
 - Related: 
-- Includes: [[Metatheory]]
+- Includes:
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- directly or indirectly observable [[Event|event]]
+- opposite of [[noumenon]]
 ## Technical summaries
--  A [[Rationialism|rational]] type of abstract thinking about a [[Phenomenon|phenomenon]], or the results of such thinking
+-  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Phenomenon" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
