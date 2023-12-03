@@ -19,9 +19,10 @@
 - By approach
 	- [[Symbolic artificial intelligence]] 
 		- ![[Symbolic artificial intelligence#Definitions]] 
-	- [[Machine learning artificial intelligence]]
+	- [[Machine learning]]
 		-  ![[Machine learning#Definitions]]
 	- [[Hybrid artificial intelligence]]
+		- ![[Hybrid artificial intelligence#Definitions]]
 ## Contents
 - 
 ## Deep dives

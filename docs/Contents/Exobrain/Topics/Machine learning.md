@@ -9,12 +9,12 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Development and study of [[Statistics|statistical]] [[Algorithm|algorithms]] that can effectively generalize and thus perform tasks without explicit instructions
+- A branch of [[artificial Intelligence]] that focuses on [[Statistics|statistical]] [[Algorithm|algorithms]] that can effectively generalize and thus perform tasks without explicit instructions.
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+	- <iframe src="https://en.wikipedia.org/wiki/Machine_learning" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
