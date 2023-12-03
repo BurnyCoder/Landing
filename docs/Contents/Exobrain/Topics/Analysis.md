@@ -9,12 +9,12 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- [[process]] of breaking a [[complexity|complex]] topic or [[substance]] into smaller [[part|parts]] in order to gain a better [[understanding]] of it
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Analysis - Wikipedia](https://en.wikipedia.org/wiki/Analysis)
+	- <iframe src="https://en.wikipedia.org/wiki/Analysis" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
