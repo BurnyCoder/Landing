@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- [[Systematic]] study of [[general]] and [[fundamental]] questions concerning topics like [[existence]], [[reasoning|reason]], [[knowledge]], [[value]], [[mind]], and language rationally and critically inquiring by reflecting on its own methods and assumptions.
 - [[Language]] constrained by trying to explain something, vaguely or strictily [[Formal system|formally]].
 ## Technical summaries
 -  

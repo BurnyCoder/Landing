@@ -9,12 +9,13 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Structure]] constrained by vague or [[Formal system|formal]] [[Regularity|regularities]], can be analyzed by all sorts of [[mathematics]] from for example [[information theory]].
+- [[Structure|Structured]] [[system]] of [[communication]] that consists of [[grammar]] and [[vocabulary]]
+- [[Structure]] constrained by vague or [[Formal system|formal]] [[Regularity|regularities]], studies by [[linguistics]], that can be analyzed by all sorts of [[mathematics]] from for example [[information theory]].
 ## Technical summaries
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Language" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
