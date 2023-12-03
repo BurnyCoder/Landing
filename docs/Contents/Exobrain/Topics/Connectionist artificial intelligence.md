@@ -16,7 +16,7 @@
 - [Connectionism - Wikipedia](https://en.wikipedia.org/wiki/Connectionism)
 	- <iframe src="https://en.wikipedia.org/wiki/Connectionism" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Artificial neural networks]]
+- [[Artificial neural network]]
 ## Contents
 - 
 ## Deep dives

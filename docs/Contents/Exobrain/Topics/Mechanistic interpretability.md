@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Machine learning]] [[Artificial Intelligence]] [[Capability]] [[Ai safety]] 
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- Study of taking a trained [[artificial neural network]], and analyzing the weights to reverse engineer the algorithms learned by the model.
 ## Technical summaries
 -  
 ## Main resources 

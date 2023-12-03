@@ -31,7 +31,7 @@
 			- [[Classifier]]
 				- [[Support-vector machines]]
 		- [[Unsupervised learning]]
-			- [[Artificial neural networks]]
+			- [[Artificial neural network]]
 			- [[Association rule learning]]
 			- [[Hiearchical clustering]]
 			- [[Cluster analysis]]
