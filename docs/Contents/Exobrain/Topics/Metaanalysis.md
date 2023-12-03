@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Higher order 
+- [[Higher order]] analysis of other analyses. 
 - [[Statistics|Statistical]] [[analysis]] that combines the results of multiple [[science|scientific]] studies (especially randomised control trials)
 ## Technical summaries
 -  
