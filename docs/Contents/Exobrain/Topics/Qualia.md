@@ -1,5 +1,4 @@
 ## Tags
-- Metadata: #topic #processing #important #short #long #casual #focus
 - Topics: [[landing/docs/Contents/Exobrain/Topics/Cognitive science|Cognitive science]] [[Phenomenology]] [[Neurophenomenology]] [[landing/docs/Contents/Exobrain/Topics/Philosophy|Philosophy]]
 - Additional: 
 ## Significance
@@ -27,3 +26,6 @@
 ## Related
 - 
 ## AI 
+
+## Metadata
+- #topic #processing #important #short #long #casual #focus
