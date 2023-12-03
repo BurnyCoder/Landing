@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Science]] [[Natural science]] [[Social science]]
 - Related: 
 - Includes:
 - Additional: 
@@ -9,12 +9,13 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- Applied [[biology]], applied [[neuroscience]].
+- Studies [[Dynamical system|dynamics]] of [[Biology|biological]] [[Consciousness|conscious]] [[physics|physical]] systems on mostly nontechnical [[functionalism|functional]] level
 ## Technical summaries
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Psychology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
