@@ -1,3 +1,3 @@
 has:
-- [[computer]]
+- [[Computer]]
 - [[Artificial Intelligence]] 
