@@ -27,13 +27,8 @@
 		- ![[Theory of Everything in Philosophy#Definitions]]
 	- [[Theory of Everything in Culture#Definitions]]
 		- ![[Theory of Everything in Culture#Definitions]]
-	- [[Meta Theory of Everything]]
-		- 
-	- [[Comparative analysis]] of Theories of Everything 
-		- Mapping out theoretical and practical advantages and disadvantages of different theories of everything
-		- Comparing different definitions of theories of everything in different fields 
-		- Comparing different solutions in the various fields 
-		- Comparing solutions across definitions 
+	- [[Meta Theory of Everything#Definitions]]
+		- ![[Meta Theory of Everything#Definitions]]
 ## Contents
 - 
 ## Deep dives
