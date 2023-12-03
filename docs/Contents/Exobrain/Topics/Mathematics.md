@@ -32,7 +32,7 @@
 		- [[Topology]]
 	- [[Calculus]] and [[Mathematical analysis]]
 	- [[Discrete mathematics]]
-			- [[Graph theory]]
+		- [[Graph theory]]
 	- [[Statistics]], [[Probability theory]]
 	- [[Computational mathematics]]
 	- [[Metamathematics]]
