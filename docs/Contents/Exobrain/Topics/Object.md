@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Philosophy]] [[Process]] [[Empiricism]]
+- Part of: [[Physics]] [[Philosophy]]
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Object|Objects]] in [[time]] or instantiations of properties in objects
+- 
 ## Technical summaries
 -  
 ## Main resources 
