@@ -19,9 +19,12 @@
 	- <iframe src="https://en.wikipedia.org/wiki/Outline_of_philosophy" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 	- [[Ethics]]
 	- [[Epistemology]]
-	- [[Ontology]]
+	- [[Logic]]
 	- [[Metaphysics]]
+	- [[Ontology]]
 	- [[Aethetics]]
+- [[Continental philosophy]] and [[Analytic philosophy]]
+- [[Western philosophy]] and [[Eastern philosophy]]
 - Applications
 	- [[Metaphilosophy]]
 	- [[Philosophy of Science]]

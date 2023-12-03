@@ -10,7 +10,7 @@
 - 
 ## Definitions
 - Area of [[knowledge]] that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes
-- [[Philosophy]] constrained by [[Symbolic system|symbolic]] [[Formal system|formality]].
+- [[Philosophy]] constrained by strict [[symbol|symbolic]] [[formal]] [[Definition|definitions]] and rules ([[logic]] studies those rules) studying arbitrary relations between arbitrary things or inner structure of things
 ## Technical summaries
 -  
 ## Main resources 
