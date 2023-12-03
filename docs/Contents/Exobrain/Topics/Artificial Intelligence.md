@@ -43,7 +43,26 @@
 			- [[Cognitive architecture]]
 			- [[Multiagent system]]
 		- Applications
-	
+			- Reasoning and problem solving
+				- [[Automating science]]
+				- [[Expert system]]
+			- [[Knowledge representation]]
+			- [[Planning]]
+			- [[Learning]]
+				- [[Machine learning]]
+			- [[Natural language processing]]
+			- [[Image generation]]
+			- [[Audio generation]]
+			- [[Video generation]]
+			- [[Perception]]
+			- [[Robotics]]
+			- [[Control theory|Control]]
+			- [[Social intelligence]]
+			- [[Game playing]]
+			- [[Computational creativity]]
+			- [[Personal assist]]
+			
+- [Applications of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [[Consciousness]]
 ## Contents
 - 
