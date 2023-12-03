@@ -25,6 +25,8 @@
 			- ![[Natural science#Definitions]]
 		- [[Social science#Definitions]]
 			- ![[Social science#Definitions]]
+		- [[Transdisciplinarity]]
+		- [[Omnidisciplinarity]]
 ## Contents
 - 
 ## Deep dives

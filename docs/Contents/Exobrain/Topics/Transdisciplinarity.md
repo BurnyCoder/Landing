@@ -1,8 +1,8 @@
 ## Tags
 - Metadata: #topic 
 - Part of:
-- Related: 
-- Includes:
+- Related: [[Omnidisciplinarity]]
+- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] 
 - Additional: 
 ## Significance
 - 

@@ -9,7 +9,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A subdivision of knowledge 
+- A subdivision of [[knowledge]].
+	- Example is disciplines in [[science]].
 - [[Statistics|Statistical]] [[Set theory|subset]] of interconnected [[knowledge]] [[Graph theory|graph]], formalized by [[Clustering|clustering]] methods identifying concrete categories/types or [[Markov blanket|markov blankets]] identifying boundaries.
 ## Technical summaries
 -  

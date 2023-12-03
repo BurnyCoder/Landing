@@ -1,15 +1,15 @@
 ## Tags
 - Metadata: #topic 
 - Part of:
-- Related: 
-- Includes:
+- Related: [[Transdisciplinarity]] 
+- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] 
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- Research strategy that crosses boundaries and holistically integrates all [[Discipline|disciplines]].
 ## Technical summaries
 -  
 ## Main resources 
