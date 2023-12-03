@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Theory of/about [[Theory of Everything|Theories of Everything]]: Solve all in [[Theory of Everything#Landscapes]] and integrate into one [[mental framework]]
+- Theory of/about [[Theory of Everything|Theories of Everything]]: Solve all in [[temp#Landscapes]] and integrate into one [[mental framework]]
 -  Mapping out theoretical and practical advantages and disadvantages of different theories of everything
 	- Comparing different definitions of theories of everything in different fields 
 	- Comparing different solutions in the various fields 

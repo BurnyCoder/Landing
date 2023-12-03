@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A model that accurately predicts: given a [[Physics|physical]] [[Information theory|information processing]] [[dynamical system]], [[Consciousness|natural]] or artificial
+- A model that accurately predicts: given a [[Physics|physical]] [[Intelligence|intelligent]] [[Information theory|information processing]] [[dynamical system]], [[Consciousness|natural]] or [[Machine learning|artificial]], given its training data, given
 ## Technical summaries
 -  
 ## Main resources 
