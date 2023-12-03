@@ -8,6 +8,7 @@
 - 
 ## Definitions
 - 
+- [[Language]] constrained by trying to explain something, vaguely or strictily [[Formal system|formally]].
 ## Technical summaries
 -  
 ## Main resources 

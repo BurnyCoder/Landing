@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Structure]] constrained by vague or [[Formal system|formal]] [[Regularity|regularities]], can be analyzed by all sorts of [[mathematics]] from for example [[information theory]].
+- Reocurring [[pattern]] in [[time]].
 ## Technical summaries
 -  
 ## Main resources 
