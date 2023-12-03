@@ -2,7 +2,7 @@
 - Metadata: #topic 
 - Part of:
 - Related: [[Transdisciplinarity]] 
-- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] 
+- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Machine learning|Artificial Intelligence]]
 - Additional: 
 ## Significance
 - 

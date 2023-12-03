@@ -2,7 +2,7 @@
 - Metadata: #topic 
 - Part of:
 - Related: [[Omnidisciplinarity]]
-- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] 
+- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Biophysics]] [[Neurophysics]]
 - Additional: 
 ## Significance
 - 
