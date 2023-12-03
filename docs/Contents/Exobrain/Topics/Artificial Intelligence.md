@@ -23,20 +23,28 @@
 		-  ![[Machine learning#Definitions]]
 	- [[Hybrid artificial intelligence]]
 		- ![[Hybrid artificial intelligence#Definitions]]
+- By skill:
+	- [[Artificial narrow intelligence]]
+	- [[Artificial general intelligence]]
+	- [[Artificial superintelligence]]
 - [Outline of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-		- [[Search algorithm]]
-		- [[Optimization search]]
-		- [[Logic]]
-		- [[Probabilistic methods for uncertain reasoning]]
-			- [[Bayesian network]]
-			- [[Bayesian inference]]
-		- [[Classification]]
-		- [[Artificial neural networks]]
-		- [[Robotics]]
-		- [[Neuromorphic engineering]]
-		- [[Cognitive architecture]]
-		- [[Multiagent syst]]
+		- [[Algorithm|Algorithms]] and techniques
+			- [[Search algorithm]]
+			- [[Optimization search]]
+			- [[Logic]]
+			- [[Probabilistic methods for uncertain reasoning]]
+				- [[Bayesian network]]
+				- [[Bayesian inference]]
+			- [[Classification]]
+			- [[Artificial neural networks]]
+			- [[Robotics]]
+			- [[Neuromorphic engineering]]
+			- [[Cognitive architecture]]
+			- [[Multiagent system]]
+		- Applications
+	
+- [[Consciousness]]
 ## Contents
 - 
 ## Deep dives
