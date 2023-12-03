@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Combines [[Symbol|symbols]] into [[Structure|structures]] ([[Expression|expressions]]) and manipulates them to produce new expressions.
+- Combines [[Symbol|symbols]] into [[Structure|structures]] ([[Expression|expressions]]) and manipulates them to produce new expressions, inspiring [[symbolic artificial intelligence]].
 ## Technical summaries
 -  
 ## Main resources 

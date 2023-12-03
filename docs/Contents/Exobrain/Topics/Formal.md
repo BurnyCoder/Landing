@@ -9,11 +9,11 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A mark, sign, or [[word]] that indicates, signifies, or is [[understanding|understood]] as representing an idea, [[object]], or [[relationship]], that is being manipulated in [[symbolic system]].
+- Complying with, or not complying with, some [[Set theory|set]] of requirements ([[rule|rules]]).
 ## Technical summaries
 -  
 ## Main resources 
-- 
+- [Formal - Wikipedia](https://en.wikipedia.org/wiki/Formal)
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
