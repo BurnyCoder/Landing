@@ -9,14 +9,14 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Combines methods and techniques 
+- Combines methods and techniques from [[Symbolic artificial intelligence]] and [[Machine learning]].
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Hybrid intelligent system - Wikipedia](https://en.wikipedia.org/wiki/Hybrid_intelligent_system)
+	- <iframe src="https://en.wikipedia.org/wiki/Hybrid_intelligent_system" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+
 ## Contents
 - 
 ## Deep dives

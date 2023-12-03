@@ -23,6 +23,8 @@
 		-  ![[Machine learning#Definitions]]
 	- [[Hybrid artificial intelligence]]
 		- ![[Hybrid artificial intelligence#Definitions]]
+- [Outline of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
+	- 
 ## Contents
 - 
 ## Deep dives
