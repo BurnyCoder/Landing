@@ -9,6 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
+- Relationship of an object from itself to itself
 - Looking at a thing from itself from an outsider perspective
 - Self-reference
 - Transcendence
