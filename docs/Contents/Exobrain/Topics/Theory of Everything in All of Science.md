@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Not only solving [[Theory of Everything in Natural Sciences]], but also unifying the inside and integrating together [[Formal science|formal sciences]], such as [[Mathematics]] and [[logic]], and [[Social science|social sciences]] studying human behavior.
+- A [[Theory of Everything]] that is not only solving [[Theory of Everything in Natural Sciences]], but also unifying the inside and integrating together [[Formal science|formal sciences]], such as [[Mathematics]] and [[logic]], and [[Social science|social sciences]] studying human behavior.
 ## Technical summaries
 -  
 ## Main resources 

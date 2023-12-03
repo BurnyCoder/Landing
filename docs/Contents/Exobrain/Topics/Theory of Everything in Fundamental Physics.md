@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- A [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[Quantum gravity]]
 ## Technical summaries
 -  
 ## Main resources 
