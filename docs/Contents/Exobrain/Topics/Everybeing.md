@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Ethics]]
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Not just every human or every animal
+- Not just every human or every animal, but all [[consciousness|conscious]] [[Systems theory|systems]]!
 ## Technical summaries
 -  
 ## Main resources 
