@@ -48,3 +48,4 @@
 - 
 ## Metadata
 - #topic  #processing #important #short #long #casual #focus
+- Unfinished: #metadata #tags

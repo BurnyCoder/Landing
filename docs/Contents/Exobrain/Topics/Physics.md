@@ -1,5 +1,5 @@
 ## Tags
-- Metadata: #topic #processing #important #short #long #casual #focus
+- Metadata: #topic
 - Topics: [[landing/docs/Contents/Exobrain/Topics/Science|Science]] [[landing/docs/Contents/Exobrain/Topics/Math|Math]] 
 - Additional: 
 ## Significance
@@ -29,3 +29,6 @@
 ## Related
 - 
 ## AI 
+
+## Additional metadata
+- Metadata: #topic #processing #important #short #long #casual #focus
