@@ -30,7 +30,7 @@
 			- [[Neurophysics]]
 			- [[Sociophysics]]
 		- [[Omnidisciplinarity]]
-			- [[Cognitive science]] ([[Artificial Intelligence]], [[Consciousness]])
+			- [[Cognitive science]] ([[Artificial Intelligence]], [[Consciousness]], [[Linguistics]])
 			- [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Systems theory]] [[Systems science]] 
 ## Contents
 - 
