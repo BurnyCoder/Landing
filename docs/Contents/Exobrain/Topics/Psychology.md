@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Science]] [[Natural science]]
+- Part of:
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Selective [[chemistry]].
+- 
 ## Technical summaries
 -  
 ## Main resources 

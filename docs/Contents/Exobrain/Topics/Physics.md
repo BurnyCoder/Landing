@@ -14,10 +14,12 @@
 - [Physics - Wikipedia](https://en.wikipedia.org/wiki/Physics)
 	- <iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Classical physics]]
-- [[Relativity]]
-- [[Quantum mechanics]]
-- [[Statistical physics]]
+- [Mathematical physics]]
+- By domain
+	- [[Classical physics]]
+	- [[Relativity]]
+	- [[Quantum mechanics]]
+	- [[Statistical physics]]
 ## Contents
 - 
 ## Deep dives

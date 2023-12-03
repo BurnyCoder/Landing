@@ -10,7 +10,7 @@
 - 
 ## Definitions
 - One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of [[physicalism|physical]] [[Process|processes]] based on [[empiricism]] with [[scientific method]]: observation, [[Hypothesis|hypotheses]], [[Theory|theories]], experimentation, replication, [[Metaanalysis|metaanalyses]].
-- Using the tools of applied [[mathematics]] mathematics constrained by making predictions about reality (part of systems science and mathematical physics)
+- Using the tools of applied [[mathematics]], mathematics constrained by making predictions about reality
 ## Technical summaries
 -  
 ## Main resources 
@@ -24,6 +24,7 @@
 		- [[Chemistry]]
 		- [[Biology]]
 		- [[Neuroscience]]
+		- [[Psychology]]
 		- [[Systems science]]
 		- [[Earth science]], [[Astronomy]]
 		- [[Transdisciplinarity]]
