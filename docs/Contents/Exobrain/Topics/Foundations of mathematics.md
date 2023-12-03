@@ -1,8 +1,8 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Metamathematics]] [[Mathematics]] [[Philosophy of mathematics]] [[Logic]] [[phil]]
+- Part of: [[Metamathematics]] [[Mathematics]] [[Philosophy of mathematics]] [[Logic]] [[Philosophy of mathematics]] 
 - Related: [[Russel’s paradox]]
-- Includes: [[Philosophy of mathematics]]
+- Includes: [[Philosophy of mathematics]] [[Set theory]] [[ZFC]] [[Category theory]] [[Classical logic]] [[Constructivism]] [[Computationalism]] [[Finitism]] [[Topos theory]] 
 - Additional: 
 ## Significance
 - 
