@@ -9,7 +9,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- a [[theory]] the subject matter of which is theory itself
+- in [[mathematics]]: metatheory is a mathematical theory about another mathematical theory
 ## Technical summaries
 -  
 ## Main resources 
