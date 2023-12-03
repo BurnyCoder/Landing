@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Metamathematics]] [[Mathematics]]
+- Part of: [[Metamathematics]] [[Mathematics]] [[Philosophy of mathematics]] [[Logic]] [[phil]]
 - Related: [[Russel’s paradox]]
 - Includes: [[Philosophy of mathematics]]
 - Additional: 
@@ -9,7 +9,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Study of the [[philosophy|philosophical]] and logical[1] and/or algorithmic basis of mathematics, or, in a broader sense, the mathematical investigation of what underlies the philosophical theories concerning the nature of mathematics.
+- Study of the [[philosophy|philosophical]] and [[Logic|logical]] and/or [[Algorithm|algorithmic]] basis of mathematics, or, in a broader sense 
+- Mathematical investigation of what underlies the philosophical theories concerning the nature of mathematics
 ## Technical summaries
 -  
 ## Main resources 
