@@ -1,7 +1,7 @@
 ## Tags
 - Metadata: #topic 
 - Part of: [[Logic]]
-- Related: 
+- Related: [[Metamathematics]] [[Meta]]
 - Includes:
 - Additional: 
 ## Significance
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- First-order [[logic]] quantifies only variables that range over individuals; second-order logic, also quantifies over sets; third-order logic also quantifies over sets of sets, and so on. Higher-order logic is the union of first-, second-, third-, ..., nth-order logic; i.e., higher-order logic admits quantification over sets that are nested arbitrarily deeply.
+- First-order [[logic]] quantifies only variables that range over individuals; second-order logic, also quantifies over [[Set theory|sets]]; third-order logic also quantifies over sets of sets, and so on. Higher-order logic is the union of first-, second-, third-, ..., nth-order logic; i.e., higher-order logic admits quantification over sets that are nested arbitrarily deeply.
 ## Technical summaries
 -  
 ## Main resources 
