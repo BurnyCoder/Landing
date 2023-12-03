@@ -1,7 +1,7 @@
 ## Tags
 - Metadata: #topic 
 - Part of: [[Science]] [[Philosophy]] 
-- Related: 
+- Related: [[Natural science]]
 - Includes:[[Mathematics]]
 - Additional: 
 ## Significance
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Branch of [[science]] studying disciplines concerned with abstract [[Structures|structures]] described by [[Formal system|formal systems]], which use [[a priori]] [[Knowledge]], as opposed to [empiricism](https://en.wikipedia.org/wiki/Empirical_evidence "Empirical evidence") 
+- Branch of [[science]] studying disciplines concerned with abstract [[Structures|structures]] described by [[Formal system|formal systems]], which use [[a priori]] [[knowledge]], as opposed to [empiricism](https://en.wikipedia.org/wiki/Empirical_evidence "Empirical evidence") 
 ## Technical summaries
 -  
 ## Main resources 

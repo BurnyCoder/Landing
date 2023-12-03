@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Epistemology]]
+- Part of: [[Epistemology]] [[Science]]
 - Related: 
 - Includes:
 - Additional: 

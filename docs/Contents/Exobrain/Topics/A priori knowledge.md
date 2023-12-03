@@ -1,7 +1,7 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
-- Related: 
+- Part of: [[Knowledge]] 
+- Related: [[A posteriori knowledge]] 
 - Includes:
 - Additional: 
 ## Significance
