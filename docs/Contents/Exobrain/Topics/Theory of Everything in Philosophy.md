@@ -9,8 +9,9 @@
 ## Definitions
 - ultimate, all-encompassing [[Metaphysics|metaphysical]] explanation or description of reality
 - answering "Why is reality understandable?" "Why are the laws of nature as they are?" "[[Why is there something rather than nothing?]]"
-- unify [[Analytic philosophy|analytic]] and [[Continental philosophy|continental]] philosophy
-- find objective or unify [[Ethics|ethics]], [[Metaphysics|metaphysics]], [[Epistemology|epistemology]], [[logic]]
+- unify [[Analytic philosophy|analytic]] and [[Continental philosophy|continental]] [[philosophy]]
+- unify [[Western philosophy|western]] and [[Eastern philosophy|eastern]] philosophy
+- find objective or unify [[Ontology|ontology]], [[Ethics|ethics]], [[Metaphysics|metaphysics]], [[Epistemology|epistemology]], [[logic]]
 ## Technical summaries
 -  
 ## Main resources 
