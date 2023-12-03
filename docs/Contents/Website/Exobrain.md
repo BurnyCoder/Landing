@@ -2,7 +2,7 @@
 - [[Philosophy]] 
 - [[Linguistics]]
 - [[Logic]]
-- [[Math]]
+- [[Mathematics]]
 - [[Science]]
 - [[Technology]]
 - [[Humanity]]

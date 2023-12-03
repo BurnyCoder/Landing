@@ -1,13 +1,13 @@
 ## Tags
 - Metadata: #topic
-- Topics: [[landing/docs/Contents/Exobrain/Topics/Science|Science]] [[landing/docs/Contents/Exobrain/Topics/Math|Math]] 
+- Topics: [[landing/docs/Contents/Exobrain/Topics/Science|Science]] [[Mathematics|Mathematics]] 
 - Additional: 
 ## Significance
 - Allowing to predict, control, design and explain any physical system, which is all systems in reality.
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Math]] constrained by reality.
+- [[Mathematics]] constrained by reality.
 ## Technical summaries
 -   Equations describing physical systems.
 ## Main resources 

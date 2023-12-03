@@ -1,1 +1,1 @@
-is [[Math]]
+is [[Mathematics]]

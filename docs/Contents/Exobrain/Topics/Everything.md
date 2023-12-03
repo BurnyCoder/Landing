@@ -16,7 +16,7 @@ aliases:
 - [[Statespace]] of everything
 - Transcends all [[Boundary|boundaries]], [[Category|categories]], [[Distinction|distinctions]], [[Division|divisions]]
 ## Technical summaries
--  The concept of everything can be studied using many lenses such as [[philosophy]], [[Logic]], [[math]], [[science]].
+-  The concept of everything can be studied using many lenses such as [[philosophy]], [[Logic]], [[Mathematics]], [[science]].
 ## Main resources 
 - 
 ## Landscapes
