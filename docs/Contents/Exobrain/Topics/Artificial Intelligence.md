@@ -28,7 +28,15 @@
 		- [[Search algorithm]]
 		- [[Optimization search]]
 		- [[Logic]]
-		- 
+		- [[Probabilistic methods for uncertain reasoning]]
+			- [[Bayesian network]]
+			- [[Bayesian inference]]
+		- [[Classification]]
+		- [[Artificial neural networks]]
+		- [[Robotics]]
+		- [[Neuromorphic engineering]]
+		- [[Cognitive architecture]]
+		- [[Multiagent syst]]
 ## Contents
 - 
 ## Deep dives

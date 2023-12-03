@@ -42,6 +42,7 @@
 		- [[Automating science]]
 		- [[Data mining]]
 		- [[Computer vision]]
+		- [[Classification]]
 		- [[Bioinformatics]]
 		- [[Natural language processing]]
 		- [[Pattern recognition]]
