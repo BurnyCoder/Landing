@@ -20,9 +20,18 @@
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_natural_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 		- [[Physics#Landscapes]] 
 			-  ![[Physics#Landscapes]] 
-		- [[Astronomy]]
+		- [[Chemistry]]
+		- [[Biology]]
+		- [[Neuroscience]]
+		- [[Systems ]]
+		- [[Earth science]], [[Astronomy]]
 		- [[Transdisciplinarity]]
+			- 
+			- [[Biophysics]] 
+			- [[Neurophysics]]
 		- [[Omnidisciplinarity]]
+			- [[Cognitive science]] 
+			- 			- [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Systems theory]] [[Systems science]] 
 ## Contents
 - 
 ## Deep dives
