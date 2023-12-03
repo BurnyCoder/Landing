@@ -1,4 +1,5 @@
 ## Tags
+- Metadata: #topic
 - Topics: 
 - Additional: 
 ## Significance
@@ -26,6 +27,6 @@
 - 
 ## AI 
 - 
-## Metadata
--  #topic #processed #processing #toprocess #important #short #long #casual #focus
+## Additional metadata
+-   #processed #processing #toprocess #important #short #long #casual #focus
 - Unfinished: #metadata #tags
