@@ -18,7 +18,9 @@
 ## Landscapes
 - By approach
 	- [[Symbolic artificial intelligence]] 
-	- [[Machine learning]]
+		- ![[Symbolic artificial intelligence#Definitions]] 
+	- [[Machine learning artificial intelligence]]
+		-  ![[Machine learning#Definitions]]
 	- [[Hybrid artificial intelligence]]
 ## Contents
 - 
