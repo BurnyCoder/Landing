@@ -21,10 +21,13 @@
 		- <iframe src="https://en.wikipedia.org/wiki/Branches_of_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 		- [[Formal science#Definitions]]
 			- ![[Formal science#Definitions]]
+			- [[Mathematics]], [[Computer science]]
 		- [[Natural science#Definitions]]
 			- ![[Natural science#Definitions]]
+			- [[Physics]], [[Chemistry]],[[Biology]],[[Neuroscience]]
 		- [[Social science#Definitions]]
 			- ![[Social science#Definitions]]
+			- [[Sociology]]
 		- [[Transdisciplinarity]]
 			- [[Artificial Intelligence]], [[Linguistics]]
 		- [[Omnidisciplinarity]]
