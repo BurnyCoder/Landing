@@ -1,7 +1,7 @@
 ## Tags
 - Metadata: #topic 
 - Part of: [[Science]]
-- Related: [[Formal science]]
+- Related: [[Formal science]] [[Replication crisis]]
 - Includes:
 - Additional: 
 ## Significance
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of physical  [phenomena](https://en.wikipedia.org/wiki/Phenomenon "Phenomenon"), based on [empirical evidence](https://en.wikipedia.org/wiki/Empirical_evidence "Empirical evidence") from [observation](https://en.wikipedia.org/wiki/Observation "Observation") and [experimentation](https://en.wikipedia.org/wiki/Experimentation "Experimentation").
+- One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of [[physicalism|physical]] [[Process|processes]] based on [[empiricism]] with, observation, [[Hypothesis|hypotheses]], [[Theory|theories]], experimentation, replication, [[metaanalysis|metaanalysis]].
 ## Technical summaries
 -  
 ## Main resources 
