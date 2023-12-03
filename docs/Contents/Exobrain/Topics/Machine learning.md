@@ -28,7 +28,8 @@
 		- [[Supervised learning]]
 			- [[Bayesian statistics]]
 			- [[Decision tree algorithm]]
-			- [[Linear classifier]]
+			- [[Classifier]]
+				- [[Support-vector machines]]
 		- [[Unsupervised learning]]
 			- [[Artificial neural networks]]
 			- [[Association rule learning]]
@@ -49,6 +50,7 @@
 		- [[Social engineering]]
 	- [Machine learning Applications - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning#Applications
 	- Machine learning algorithms
+		- [[Gradient descent]]
 - [[Connectionist artificial intelligence]]
 	- ![[Connectionist artificial intelligence#Definitions]]
 - [[Hybrid artificial intelligence]]  
