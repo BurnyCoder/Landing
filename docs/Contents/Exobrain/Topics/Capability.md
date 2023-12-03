@@ -1,13 +1,13 @@
 ## Tags
 - Metadata: #topic 
-- Topics: 
+- Topics: [[Mechanistic Interpretability]]
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- A model that accurately predicts: Given a [[Physics|physical]] [[Intelligence|intelligent]] [[Information theory|information processing]] [[dynamical system]], [[Consciousness|natural]] or [[Machine learning|artificial]], its [[Symbolic artificial intellgience|hardwired]] or [[Connectionism|fluid]] architecture, its training data in given modalities, its [[Agency|agentic]] access to given actions, [[Mechanistic Interpretability|what patters does it learn]], what [[Capability|capabilities]] emerge?
+- 
 ## Technical summaries
 -  
 ## Main resources 
