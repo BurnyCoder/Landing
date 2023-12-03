@@ -21,8 +21,8 @@
 		- [[Physics#Landscapes]] 
 			-  ![[Physics#Landscapes]] 
 		- [[Astronomy]]
-		- [[Transdisciplinary]]
-		- [[Omnidisciplionary]]
+		- [[Transdisciplinarity]]
+		- [[Omnidisciplinarity]]
 ## Contents
 - 
 ## Deep dives
