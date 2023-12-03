@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Collection of all methods in [[artificial intelligence]] research that are based on high-level symbolic (human-readable) representations of problems, logic and search
+- Collection of all methods in [[artificial intelligence]] research that are based on high-level [[Symbolic system|symbolic]] (human-readable) representations of problems, [[logic]] and [[search]]
 ## Technical summaries
 -  
 ## Main resources 
