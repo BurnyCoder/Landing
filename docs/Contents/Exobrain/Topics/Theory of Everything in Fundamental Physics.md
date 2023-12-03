@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[Quantum gravity]]
+- A [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[quantum gravity]] through for example [[emergence]], alternatively also unifying [[Fundamental forces|fundamental forces]].
 ## Technical summaries
 -  
 ## Main resources 

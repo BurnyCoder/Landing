@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- ultimate, all-encompassing [[Metaphysics|metaphysical]] explanation or description of reality
+- a [[Theory of Everything]] that is ultimate, all-encompassing [[Metaphysics|metaphysical]] explanation or description of reality
 - answering "Why is reality understandable?" "Why are the laws of nature as they are?" "[[Why is there something rather than nothing?]]"
 - unify [[Analytic philosophy|analytic]] and [[Continental philosophy|continental]] [[philosophy]]
 - unify [[Western philosophy|western]] and [[Eastern philosophy|eastern]], [[dual]] and [[nondual]], philosophy

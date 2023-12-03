@@ -15,8 +15,8 @@
 - 
 ## Landscapes
 - By domain 
-	- [[Theory of Everything in Fundamental Physics#Landscapes]]
-		- ![[Theory of Everything in Fundamental Physics#Landscapes]]
+	- [[Theory of Everything in Fundamental Physics#Definitions]]
+		- ![[Theory of Everything in Fundamental Physics#Definitions]]
 	- [[Theory of Everything in All of Physics#Definitions]]
 		- ![[Theory of Everything in All of Physics#Definitions]]
 	- [[Theory of Everything in Natural Sciences#Definitions]]
