@@ -1,13 +1,34 @@
-- [[Dynamical systems]]
-- [[Physics]]
-- [[Chemistry]]
-- [Biology]]
-- [[Neuroscience]]
-- [[Cognitive science]]
-- [[Systems theory]]
-- [[Social systems]]
-
--  has [[scientific method]]
-## Main reference
-
-<iframe src="https://en.wikipedia.org/wiki/Science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+## Tags
+- Metadata: #topic 
+- Part of: [[Epistemology]] [[Modernism]]
+- Related: 
+- Includes: [[Dynamical systems]] [[Physics]] [[Chemistry]] [Biology]] [[Neuroscience]] [[Cognitive science]] [[Systems theory]] [[Social systems]] [[Scientific method]]
+- Additional: 
+## Significance
+- 
+## Intuitive summaries
+- 
+## Definitions
+- Rigorous, systematic endeavor that builds and organizes [[knowledge]] in the form of testable explanations and predictions about the world allowing for control and building [[Systems sciencesystems]]
+## Technical summaries
+-  
+## Main resources 
+- [Science - Wikipedia](https://en.wikipedia.org/wiki/Science)
+	- <iframe src="https://en.wikipedia.org/wiki/Science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+## Landscapes
+- 
+## Contents
+- 
+## Deep dives
+- 
+## Brain storming
+- 
+## Additional resources  
+- 
+## Related
+- 
+## AI 
+- 
+## Additional metadata 
+-  #processed #processing #toprocess #important #short #long #casual #focus
+- Unfinished: #metadata #tags 
