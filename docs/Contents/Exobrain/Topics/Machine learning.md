@@ -37,6 +37,17 @@
 			- [[Anomaly detection]]
 		- [[Semi-supervised learning]]
 		- [[Deep learning]]
+	- By application
+		- [[Automating science]]
+		- [[Data mining]]
+		- [[Computer vision]]
+		- [[Bioinformatics]]
+		- [[Natural language processing]]
+		- [[Pattern recognition]]
+		- [[Recommendation system]]
+		- [[Search engine]]
+		- [[Social engineering]]
+	- [Machine learning Applications - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning#Applications
 	- Machine learning algorithms
 - [[Connectionist artificial intelligence]]
 	- ![[Connectionist artificial intelligence#Definitions]]
