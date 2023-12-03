@@ -18,9 +18,15 @@
 ## Landscapes
 - [Outline of machine learning - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_machine_learning" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-	- 
+	- By methods
+		- [[Instance-based algorithm]]
+		- [[Regression analysis]]
+		- [[Dimensionality reduction]]
+		- [[Ensemble learning]]
+		- [[Metalearning]]
 - [[Connectionist artificial intelligence]]
 	- ![[Connectionist artificial intelligence#Definitions]]
+- [[Hybrid artificial intelligence]]  
 ## Contents
 - 
 ## Deep dives
