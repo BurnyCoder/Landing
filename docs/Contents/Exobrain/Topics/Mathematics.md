@@ -19,16 +19,23 @@
 ## Landscapes
 - [Outline of mathematics - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_mathematics)
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-		- [[Foundations of mathematics]]
-			- [[Logic]]
+- [Mathematics - Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
+	- [[Foundations of mathematics]]
+	- [[Logic]]
 			- [[Set theory]]
 			- [[Category theory]]
-		- [[Number theory]]
-		- [[Algebra]]
-			- [[Linear algebra]]
-		- [[Geometry]]
-		- [[Analysis]]
-		- [[Metamathematics]]
+	- [[Number theory]]
+	- [[Algebra]]
+		- [[Linear algebra]]
+		- [[Group theory]]
+	- [[Geometry]]
+		- [[Topology]]
+	- [[Calculus]] and [[Mathematical analysis]]
+	- [[Discrete mathematics]]
+			- [[Graph theory]]
+	- [[Statistics]], [[Probability theory]]
+	- [[Computational mathematics]]
+	- [[Metamathematics]]
 ## Contents
 - 
 ## Deep dives
@@ -45,17 +52,4 @@
 -  #processed #processing #toprocess #important #short #long #casual #focus
 - Unfinished: #metadata #tags
 
-is [[Language]]
-is [[Philosophy]] constrained by symbolic formality
-
-has:
-[[philosophy of mathematics]]
-[[Logic]]
-[[foundations of mathematics]]
-[[geometry]]
-[[algebra]]
-[[calculus]]
-[[linear algebra]]
-[[discrete mathematics]]
-[[computer science]]
 
