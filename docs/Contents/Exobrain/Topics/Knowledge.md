@@ -19,7 +19,9 @@
 - [A priori and a posteriori - Wikipedia](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 	- [[A priori knowledge#Definitions]]
 		- ![[A priori knowledge#Definitions]]
-	- [[A posteriori knowledge]]
+	-  [[A posteriori knowledge#Definitions]]
+		- ![[A posteriori knowledge#Definitions]]
+
 ## Contents
 - 
 ## Deep dives
