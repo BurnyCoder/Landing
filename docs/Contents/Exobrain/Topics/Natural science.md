@@ -1,8 +1,8 @@
 ## Tags
 - Metadata: #topic 
 - Part of: [[Science]]
-- Related: [[Formal science]] [[Replication crisis]]
-- Includes:
+- Related: [[Formal science]] [[Replication crisis]] [[Metascience]]
+- Includes: [[Scientific method]]
 - Additional: 
 ## Significance
 - 
@@ -20,7 +20,10 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [[Theory of Everything in Natural Sciences#Definitions]]
+	- ![[Theory of Everything in Natural Sciences#Definitions]]
+- [[Metascience]]
+	- ![[Metascience#Definitions]]
 ## Brain storming
 - 
 ## Additional resources  
