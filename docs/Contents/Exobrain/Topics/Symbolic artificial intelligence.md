@@ -18,7 +18,7 @@
 ## Landscapes
 - 
 ## Contents
-- [[Logic programming]], [[Production rules]], [[Semantic nets]], [[Frames]]
+- [[Logic programming]], [[Production rules]], [[Semantic nets]], [[Frames]], [[Ontology]]
 ## Deep dives
 - 
 ## Brain storming
