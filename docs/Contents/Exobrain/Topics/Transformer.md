@@ -13,8 +13,8 @@
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Transformer_(machine_learning_model)](<https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)>)[Transformer (machine learning model) - Wikipedia](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))
+	- <iframe src="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents

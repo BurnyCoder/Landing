@@ -1,8 +1,6 @@
 - [[Everything]]
 - [[Philosophy]] 
 - [[Linguistics]]
-- [[Logic]]
-- [[Mathematics]]
 - [[Science]]
 - [[Technology]]
 - [[Humanity]]
