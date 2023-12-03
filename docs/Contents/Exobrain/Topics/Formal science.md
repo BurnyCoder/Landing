@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Branch of [[science]] studying disciplines concerned with abstract [[Structures|structures]] described by [[Formal system|formal systems]], which use an _[a priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori "A priori and a posteriori")_, as opposed to [empirical](https://en.wikipedia.org/wiki/Empirical_evidence "Empirical evidence") 
+- Branch of [[science]] studying disciplines concerned with abstract [[Structures|structures]] described by [[Formal system|formal systems]], which use [[a priori]] [[Knowledge]], as opposed to [empiricism](https://en.wikipedia.org/wiki/Empirical_evidence "Empirical evidence") 
 ## Technical summaries
 -  
 ## Main resources 

@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Rigorous, systematic endeavor that builds and organizes [[knowledge]] in the form of testable explanations and [[Predictions|prediction]] about the world allowing for control and building [[Systems science|systems]] and [[technology]]
+- Rigorous, systematic endeavor that builds and organizes [[Knowledge]] in the form of testable explanations and [[Predictions|prediction]] about the world allowing for control and building [[Systems science|systems]] and [[technology]]
 ## Technical summaries
 -  
 ## Main resources 
