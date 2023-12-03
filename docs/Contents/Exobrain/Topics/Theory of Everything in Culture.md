@@ -7,7 +7,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- unify or synergize [[Premodernism|premodernism]], [[Modernism]], [[Postmodernism]], [[metamodernism]]
+- unify or synergize [[Premodernism|premodernism]], [[modernism]], [[postmodernism]], [[metamodernism]]
+- unify [[Western philosophy|western]] and [[Eastern philosophy|eastern]], [[dual]] and [[nondual]], [[Rationality|rational enlightenment]] and [[spiritual enlightenment]]
 - unify or synergize polarized [[Political compass|political compass]]: left and right, libertarian and authoritarian
 ## Technical summaries
 - 

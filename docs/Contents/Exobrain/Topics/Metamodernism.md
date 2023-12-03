@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- the best from [[Premodernism]], [[Modernism]], [[Postmodernism]] in one [[mental framework]]
+- the best from [[premodernism]], [[modernism]], [[postmodernism]] in one [[mental framework]]
 ## Technical summaries
 -  
 ## Main resources 
