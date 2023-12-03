@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Most popular [[artificial intelligence]] [[model|models]] in [[connectionist artificial intelligence]], a branch of [[machine learning]] models in 
+- Most popular [[artificial intelligence]] [[model|models]] in [[connectionist artificial intelligence]], a branch of [[machine learning]] models that are build using the principles of neuronal organization discovered by [[connectionism]] in [[biological neural network|biological neural networks]].
 ## Technical summaries
 -  
 ## Main resources 
