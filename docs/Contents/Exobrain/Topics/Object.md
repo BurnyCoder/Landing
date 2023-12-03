@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- Has a [[boundary]]. 
 ## Technical summaries
 -  
 ## Main resources 

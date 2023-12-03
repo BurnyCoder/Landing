@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Philosophy]] [[Science]] [[Theory]] [[Empiricism]] [[Epistemology]]
+- Part of:
 - Related: 
 - Includes:
 - Additional: 
@@ -9,14 +9,14 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- any [[object]] observable by (human) [[sense|senses]]
-- directly or indirectly observable [[Event|event]]
-- opposite of [[Noumenon]]
+- 
 ## Technical summaries
--  
+- an [[object]] that exists independently of (human) [[sense|senses]]
+- unobservable [[event]] 
+- opposite of [[phenomenon]]
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/Phenomenon" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Noumenon" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
