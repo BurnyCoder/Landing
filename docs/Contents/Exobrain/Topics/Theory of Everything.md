@@ -23,6 +23,7 @@
 		- ![[Theory of Everything in Natural Sciences#Definitions]]
 	- [[Theory of Everything in All of Science#Definitions]]
 		- ![[Theory of Everything in All of Science#Definitions]]
+	-  [[Theory of Everything in Intelligence#Definitions]]
 	- [[Theory of Everything in Philosophy#Definitions]]
 		- ![[Theory of Everything in Philosophy#Definitions]]
 	- [[Theory of Everything in Culture#Definitions]]
