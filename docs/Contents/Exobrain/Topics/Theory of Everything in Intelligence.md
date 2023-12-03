@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A model that accurately predicts: given a [[Physics|physical]] [[Intelligence|intelligent]] [[Information theory|information processing]] [[dynamical system]], [[Consciousness|natural]] or [[Machine learning|artificial]], given its training data, given
+- A model that accurately predicts: Given a [[Physics|physical]] [[Intelligence|intelligent]] [[Information theory|information processing]] [[dynamical system]], [[Consciousness|natural]] or [[Machine learning|artificial]], its [[Symbolic artificial intellgience|hardwired]] or [[Connectionism|fluid]] architecture, its training data in given modalities, [[Mechanistic Interpretability|what patters does it learn]], what [[capabilities]] emerge?
 ## Technical summaries
 -  
 ## Main resources 
