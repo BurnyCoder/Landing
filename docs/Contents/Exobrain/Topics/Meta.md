@@ -1,21 +1,22 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Philosophy]] [[Mathematics]]
 - Related: 
-- Includes:
+- Includes: [[Metaanalysis]], [[Metaphilosophy]] [[Meta Theory of Everything]] [[]]
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Meta]] analysis of other analyses. 
-- [[Statistics|Statistical]] [[analysis]] that combines the results of multiple [[science|scientific]] studies (especially randomised control trials)
+- Looking at a thing outside of it
+- Transcendence or self-reference 
+- 
 ## Technical summaries
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/Metaanalysis" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
