@@ -23,15 +23,15 @@
 		- [[Chemistry]]
 		- [[Biology]]
 		- [[Neuroscience]]
-		- [[Systems ]]
+		- [[Systems science]]
 		- [[Earth science]], [[Astronomy]]
 		- [[Transdisciplinarity]]
-			- 
 			- [[Biophysics]] 
 			- [[Neurophysics]]
+			- [[Sociophysics]]
 		- [[Omnidisciplinarity]]
-			- [[Cognitive science]] 
-			- 			- [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Systems theory]] [[Systems science]] 
+			- [[Cognitive science]] ([[Artificial Intelligence]], [[Consciousness]])
+			- [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Systems theory]] [[Systems science]] 
 ## Contents
 - 
 ## Deep dives
