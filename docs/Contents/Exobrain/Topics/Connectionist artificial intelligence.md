@@ -1,15 +1,15 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Artificial Intelligence]] 
 - Related: 
-- Includes:
+- Includes: [[Graph theory]]
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- Inspired by [[Connectionism]] from [[cognitive science]], [[machine learning]] architectures that are [[Network theory|networks]] of simple and often uniform units
 ## Technical summaries
 -  
 ## Main resources 
