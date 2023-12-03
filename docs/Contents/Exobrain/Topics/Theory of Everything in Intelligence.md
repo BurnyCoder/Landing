@@ -18,7 +18,7 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [[Chaos theory]] exists, it should take it into account
 ## Brain storming
 - 
 ## Additional resources  
