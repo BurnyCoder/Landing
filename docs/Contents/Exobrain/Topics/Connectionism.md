@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Experience|Mental]] [[Phenomenon|phenomena]] can be described by interconnected [[Network theory|networks]] of simple and often uniform units. Neurons or more abstr
+- [[Experience|Mental]] [[Phenomenon|phenomena]] can be described by interconnected [[Network theory|networks]] of simple and often uniform units. [[Neuron|Neurons]] or more [[abstract]] units.
 ## Technical summaries
 -  
 ## Main resources 
