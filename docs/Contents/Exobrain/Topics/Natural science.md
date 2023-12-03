@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of [[physicalism|physical]] [[Process|processes]] based on [[empiricism]] with, observation, [[Hypothesis|hypotheses]], [[Theory|theories]], experimentation, replication, [[metaanalysis|metaanalysis]].
+- One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of [[physicalism|physical]] [[Process|processes]] based on [[empiricism]] with, observation, [[Hypothesis|hypotheses]], [[Theory|theories]], experimentation, replication, [[Metaanalysis|Metaanalysis]].
 ## Technical summaries
 -  
 ## Main resources 

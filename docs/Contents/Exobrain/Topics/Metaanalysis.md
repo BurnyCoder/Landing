@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Ethics]]
+- Part of:
 - Related: 
 - Includes:
 - Additional: 
@@ -9,11 +9,13 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Not just every human or every animal, but all [[consciousness|conscious]] [[Systems theory|systems]]!
+- [[Higher order 
+- [[Statistics|Statistical]] [[analysis]] that combines the results of multiple [[science|scientific]] studies (especially randomised control trials)
 ## Technical summaries
 -  
 ## Main resources 
 - 
+	- <iframe src="https://en.wikipedia.org/wiki/Metaanalysis" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
