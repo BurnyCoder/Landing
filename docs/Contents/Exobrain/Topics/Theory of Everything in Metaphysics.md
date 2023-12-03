@@ -7,7 +7,8 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- ultimate, all-encompassing [[Metaphysics|metaphysical]] explanation or description of reality
+- Answering "Why is reality understandable?" "Why are the laws of nature as they are?" "[[Why is there something rather than nothing?]]"
 ## Technical summaries
 -  
 ## Main resources 
