@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Mathematics]] [[Metamathematics]] [[Foundations of mathematics]]
+- Part of: [[Formal science]] [[Mathematics]] [[Metamathematics]] [[Foundations of mathematics]]
 - Related: 
 - Includes: 
 - Additional: 

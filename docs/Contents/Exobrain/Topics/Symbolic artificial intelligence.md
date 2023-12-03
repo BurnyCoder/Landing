@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Collection of all methods in [[artificial intelligence]] research that are based on high-level [[Symbolic system|symbolic]] (human-readable) representations of problems, [[logic]] and [[search]]
+- Collection of all methods in [[artificial intelligence]] research that are based on high-level [[Symbolic system|symbolic]] (human-readable) representations of problems, [[logic]] and [[Search alrogithm|search]]
 ## Technical summaries
 -  
 ## Main resources 
@@ -18,7 +18,7 @@
 ## Landscapes
 - 
 ## Contents
-- 
+- [[Logic programming]], [[Production rules]], [[Semantic nets]], [[Frames]]
 ## Deep dives
 - 
 ## Brain storming
