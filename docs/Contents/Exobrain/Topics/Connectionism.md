@@ -3,13 +3,13 @@
 - Part of: [[Cognitive science]], [[Neuroscience]] [[Network neuroscience]]
 - Related: 
 - Includes:
-- Additional:  [[Graph theory]] [[Network theory]]
+- Additional: [[Graph theory]] [[Network theory]]
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- [[Experience|Mental]] [[Phenomenon|phenomena]] can be described by interconnected [[Network theory|networks]] of simple and often uniform units. Neurons or more abstr
 ## Technical summaries
 -  
 ## Main resources 
