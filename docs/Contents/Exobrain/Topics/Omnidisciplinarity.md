@@ -9,8 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A subdivision of knowledge 
-- [[Statistics|Statistical]] [[Set theory|subset]] of interconnected [[knowledge]] [[Graph theory|graph]], formalized by [[Clustering|clustering]] methods identifying concrete categories/types or [[Markov blanket|markov blankets]] identifying boundaries.
+- 
 ## Technical summaries
 -  
 ## Main resources 
