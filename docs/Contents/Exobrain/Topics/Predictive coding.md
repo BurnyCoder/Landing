@@ -1,4 +1,4 @@
-https://twitter.com/pika_labs/status/1729510078959497562?s=46&t=1y5Lfd5tlvuELqnKdztWKQis [[Neuroscience]] [[Cognitive science]] [[Machine learning]]
+https://twitter.com/pika_labs/status/1729510078959497562?s=46&t=1y5Lfd5tlvuELqnKdztWKQis [[Neuroscience]] [[Cognitive science]] [[Artificial Intelligence]]
 
 theory that brain is predicting and updating a mental model
 

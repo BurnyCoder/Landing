@@ -1,6 +1,6 @@
 ## Tags 
 - Metadata: #topic
-- Category: [[Machine learning]] [[Natural language processing]] [[Language model]] [[attention]]
+- Category: [[Artificial Intelligence]] [[Natural language processing]] [[Language model]] [[attention]]
 ## Summary
 - Present in currently biggest [[language model|language models]].
 

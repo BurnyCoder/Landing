@@ -1,15 +1,15 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
-- Related: [[Transdisciplinarity]] 
-- Includes: [[Cognitive science]] [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Artificial Intelligence|Artificial Intelligence]]
+- Part of: [[Science]] [[Engineering]] 
+- Related: 
+- Includes:
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- Research strategy that crosses boundaries and holistically integrates all [[Discipline|disciplines]].
+- 
 ## Technical summaries
 -  
 ## Main resources 

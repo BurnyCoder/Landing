@@ -1,4 +1,4 @@
-- is [[Machine learning]]
+- is [[Artificial Intelligence]]
 Language model
 types:
 [[Transformer]]
