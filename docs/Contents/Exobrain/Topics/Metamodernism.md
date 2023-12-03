@@ -7,10 +7,9 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- unify or synergize [[Premodernism|premodernism]], [[modernism]], [[postmodernism]], [[metamodernism]]
-- unify or synergize polarized [[Political compass|political compass]]: left and right, libertarian and authoritarian
+- the best from [[Premodernism|premodernism]], [[modernism]], [[postmodernism]] in one [[mental framework]]
 ## Technical summaries
-- 
+-  
 ## Main resources 
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>

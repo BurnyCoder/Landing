@@ -25,7 +25,8 @@
 		- ![[Theory of Everything in All of Science#Definitions]]
 	- [[Theory of Everything in Philosophy#Definitions]]
 		- ![[Theory of Everything in Philosophy#Definitions]]
-	- [[Theory of Everything in Culture]]
+	- [[Theory of Everything in Culture#Definitions]]
+		- ![[Theory of Everything in Culture#Definitions]]
 	- Meta Theory of Everything
 		- Theory of Theories of Everything: Solve all above and integrate into one [[mental framework]]
 		- Theory of Theories of Theories of…: Definition and analysis of this meta theoretical process
