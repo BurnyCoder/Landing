@@ -55,6 +55,7 @@
 - [[Connectionist artificial intelligence]]
 	- ![[Connectionist artificial intelligence#Definitions]]
 - [[Hybrid artificial intelligence]]  
+- [[Mechanistic interpretability]]
 ## Contents
 - 
 ## Deep dives

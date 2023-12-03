@@ -60,10 +60,20 @@
 			- [[Social intelligence]]
 			- [[Game playing]]
 			- [[Computational creativity]]
-			- [[Personal assist]]
-			
+			- [[Personal assistant]]			
 - [Applications of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [[Consciousness]]
+- [[Neurotechnology]]
+- [[Selfreplicating machines]]
+- [[Singularity]]
+	- [[Recursive self improvement]]
+	- [[Intelligence explosion]]
+	- [[Hive mind]]
+	- [[Robot swam]]
+	- [[Transhumanism]]
+- [[Risks of artificial intelligence]]
+	- [[AI safety]]
+- [[Mechanistic interpretability]]
 ## Contents
 - 
 ## Deep dives
