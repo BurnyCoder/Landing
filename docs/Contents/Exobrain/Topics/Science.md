@@ -26,7 +26,9 @@
 		- [[Social science#Definitions]]
 			- ![[Social science#Definitions]]
 		- [[Transdisciplinarity]]
+			- [[Artificial Intelligence]], [[Linguistics]]
 		- [[Omnidisciplinarity]]
+			- [[Cognitive science]]
 ## Contents
 - 
 ## Deep dives
