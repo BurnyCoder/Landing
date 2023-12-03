@@ -17,7 +17,14 @@
 	- <iframe src="https://en.wikipedia.org/wiki/Science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - Groups
-	- <iframe src="https://en.wikipedia.org/wiki/Branches_of_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- [Branches of science - Wikipedia](https://en.wikipedia.org/wiki/Branches_of_science)
+		- <iframe src="https://en.wikipedia.org/wiki/Branches_of_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+		- [[Formal science#Definitions]]
+			- ![[Formal science#Definitions]]
+		- [[Natural science#Definitions]]
+			- ![[Natural science#Definitions]]
+		- [[Social science#Definitions]]
+			- ![[Social science#Definitions]]
 ## Contents
 - 
 ## Deep dives
