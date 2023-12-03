@@ -28,7 +28,8 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [[Theory of Everything in All of Science#Definitions]]
+	- ![[Theory of Everything in All of Science#Definitions]]
 ## Brain storming
 - 
 ## Additional resources  
