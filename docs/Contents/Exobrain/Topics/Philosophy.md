@@ -22,7 +22,7 @@
 	- [[Logic]]
 	- [[Metaphysics]]
 	- [[Ontology]]
-	- [[Aethetics]]
+	- [[Aesthetics]]
 - [[Continental philosophy]] and [[Analytic philosophy]]
 - [[Western philosophy]] and [[Eastern philosophy]]
 - Applications
