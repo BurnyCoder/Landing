@@ -21,6 +21,8 @@
 - [[f1f05bc594801e497d17177ba78c50c8_MD5.jpeg|Open: Pasted image 20231204150406.png]]
 ![[f1f05bc594801e497d17177ba78c50c8_MD5.jpeg]]
 I think the bottom can eventually cascade to the top. From [[intuition]] to [[Replication crisis|replicated[]] [[Model|models]].
+[[landing/docs/Images/062c9b122adf69b0f1991f4f37e80244_MD5.jpeg|Open: Pasted image 20231204215517.png]]
+![[landing/docs/Images/062c9b122adf69b0f1991f4f37e80244_MD5.jpeg]]
 ## Deep dives
 - 
 ## Brain storming
