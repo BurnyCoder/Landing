@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Machine learning]] [[Artificial Intelligence]] [[Capability]] [[Ai safety]] 
+- Part of: [[Machine learning]] [[Artificial Intelligence]] [[Capability]] [[Artificial intelligence safety]] 
 - Related: 
 - Includes:
 - Additional: 
@@ -13,8 +13,8 @@
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Concrete Steps to Get Started in Transformer Mechanistic Interpretability — Neel Nanda](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
+	- <iframe src="https://www.neelnanda.io/mechanistic-interpretability/getting-started" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents

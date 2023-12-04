@@ -72,7 +72,7 @@
 	- [[Robot swam]]
 	- [[Transhumanism]]
 - [[Risks of artificial intelligence]]
-	- [[AI safety]]
+	- [[Artificial intelligence safety]]
 - [[Mechanistic interpretability]]
 ## Contents
 - 

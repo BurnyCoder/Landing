@@ -24,7 +24,9 @@
 ## Brain storming
 - 
 ## Additional resources  
-- 
+- [[Joscha Bach]]
+- [[Theories of Everything with Curt Jaimungal]]
+- [[Machine Learning Street Talk]]
 ## Related
 - 
 ## AI 
