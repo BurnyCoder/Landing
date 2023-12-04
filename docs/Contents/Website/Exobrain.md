@@ -3,4 +3,4 @@
 - [[Philosophy]] 
 - [[Humanity]]
 - [[Everything]]
-- [[Aethetics]]
+- [[Aethetics]]                                                                                                                                                                              
