@@ -1,6 +1,6 @@
-- [[Everything]]
-- [[Philosophy]] 
 - [[Science]]
 - [[Technology]]
+- [[Philosophy]] 
 - [[Humanity]]
+- [[Everything]]
 - [[Aethetics]]
