@@ -20,8 +20,8 @@
 ## Deep dives
 - 
 ## Brain storming
-- [[images/2978c7e9a2e8098ca005414a102d57cf_MD5.jpeg|Open: Pasted image 20231203124212.png]]
-![[images/2978c7e9a2e8098ca005414a102d57cf_MD5.jpeg]]
+- [[2978c7e9a2e8098ca005414a102d57cf_MD5.jpeg|Open: Pasted image 20231203124212.png]]
+![[2978c7e9a2e8098ca005414a102d57cf_MD5.jpeg]]
 ## Additional resources  
 - 
 ## Related

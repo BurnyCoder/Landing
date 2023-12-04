@@ -18,8 +18,8 @@
 ## Landscapes
 - 
 ## Contents
-- [[images/f1f05bc594801e497d17177ba78c50c8_MD5.jpeg|Open: Pasted image 20231204150406.png]]
-![[images/f1f05bc594801e497d17177ba78c50c8_MD5.jpeg]]
+- [[f1f05bc594801e497d17177ba78c50c8_MD5.jpeg|Open: Pasted image 20231204150406.png]]
+![[f1f05bc594801e497d17177ba78c50c8_MD5.jpeg]]
 ## Deep dives
 - 
 ## Brain storming
