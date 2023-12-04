@@ -56,6 +56,9 @@
 	- ![[Connectionist artificial intelligence#Definitions]]
 - [[Hybrid artificial intelligence]]  
 - [[Mechanistic interpretability]]
+- [The landscape of the Machine Learning section of ArXiv.](https://twitter.com/leland_mcinnes/status/1731752287788265726)
+	- [[landing/docs/Images/d53207aee25be09f22c9bebc583ac099_MD5.jpeg|Open: Pasted image 20231204230523.png]]
+![[landing/docs/Images/d53207aee25be09f22c9bebc583ac099_MD5.jpeg]]
 ## Contents
 - 
 ## Deep dives
