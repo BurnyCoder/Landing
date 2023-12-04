@@ -1,6 +1,7 @@
 ---
 aliases:
   - All
+  - all
 ---
 ## Tags
 - Metadata: #topic

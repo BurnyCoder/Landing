@@ -9,14 +9,16 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Research strategy that crosses boundaries and holistically integrates all [[Discipline|disciplines]].
+- Research strategy that crosses all boundaries and holistically integrates [[Everything|all]] [[Discipline|disciplines]].
 ## Technical summaries
 -  
 ## Main resources 
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+- [[Joscha Bach]]
+- [[Theories of Everything with Curt Jaimungal]]
+- [[Machine Learning Street Talk]]
 ## Contents
 - 
 ## Deep dives
@@ -24,9 +26,7 @@
 ## Brain storming
 - 
 ## Additional resources  
-- [[Joscha Bach]]
-- [[Theories of Everything with Curt Jaimungal]]
-- [[Machine Learning Street Talk]]
+
 ## Related
 - 
 ## AI 
