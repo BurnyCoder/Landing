@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Science]] [[Engineering]] [[Computer science]]
+- Part of: [[Science]] [[Engineering]] [[Computer science]] [[Technology]] [[Natural science]]
 - Related: 
 - Includes:
 - Additional: 
@@ -77,7 +77,8 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [[Theory of Everything in Intelligence]]
+	-  ![[Theory of Everything in Intelligence#Definitions]]
 ## Brain storming
 - 
 ## Additional resources  

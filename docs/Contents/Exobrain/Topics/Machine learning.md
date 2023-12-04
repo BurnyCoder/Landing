@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Artificial Intelligence]] 
+- Part of: [[Artificial Intelligence]] [[Science]] [[Engineering]] [[Science]] [[Technology]]
 - Related: 
 - Includes:
 - Additional: 
@@ -59,7 +59,8 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [[Theory of Everything in Intelligence]]
+	-  ![[Theory of Everything in Intelligence#Definitions]]
 ## Brain storming
 - 
 ## Additional resources  
