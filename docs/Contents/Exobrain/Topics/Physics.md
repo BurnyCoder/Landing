@@ -17,9 +17,22 @@
 - [Mathematical physics]]
 - By domain
 	- [[Classical physics]]
+		- [[Fluid mechanics]]
+		- [[Field theory]]
+		- [[Electromagnetism]]
+		- [[Optics]]
 	- [[Relativity]]
 	- [[Quantum mechanics]]
 	- [[Statistical physics]]
+		- [[Thermodynamics]]
+		- [[Nonequilibrium thermodynamics]]
+	- [[Information theory]]
+	- Unity
+		- [[Relativistic quantum mechanics]]
+			- [[Quantum field theory]]
+				- [[Quantum electrodynamics]]
+		- [[Quantum statistical mechanics]]
+		- [[Quantum information theory]]
 ## Contents
 - 
 ## Deep dives
