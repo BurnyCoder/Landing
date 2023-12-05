@@ -34,6 +34,12 @@
 	- [[Discrete mathematics]]
 		- [[Graph theory]]
 	- [[Statistics]], [[Probability theory]]
+
+	- Unity
+		- [[Algebraic Geometry]]
+		- [[Algebraic Topology]]
+		- [[Differential Topology]]
+
 	- [[Computational mathematics]]
 	- [[Metamathematics]]
 ## Contents

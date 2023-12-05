@@ -74,6 +74,7 @@
 - [[Risks of artificial intelligence]]
 	- [[Artificial intelligence safety]]
 - [[Mechanistic interpretability]]
+- [[Explainable artificial intelligence]]
 ## Contents
 - 
 ## Deep dives
