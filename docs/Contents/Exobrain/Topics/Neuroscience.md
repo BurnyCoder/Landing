@@ -20,9 +20,10 @@
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_neuroscience" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 		- [[Neurophysiology]] - study of the function (as opposed to structure) of the nervous system
 		- [[Neuroanatomy]] - study of the anatomy of nervous tissue and neural structures of the nervous system
-		- [[Neuropharmacology]] -  study of how drugs affect cellular function in the nervous system.
-			- [[Neuropsychopharmacology]] -  study of the neural mechanisms that drugs act upon to influence behavior
-		- 
+		- [[Neuropharmacology]] -  study of how [[Substance|substances]] affect cellular function in the nervous system.
+			- [[Neuropsychopharmacology]] -  study of the neural mechanisms that [[Substance|substances]] act upon to influence behavior
+		- [[Behavioral neuroscience]] - application of the principles of [[biology]] to the study of [[Experience|mental]] processes and behavior in human and non-human animals
+		- [[Developmental neuroscience]] - aims to describe the cellular basis of brain development and to address the underlying mechanisms
 ## Contents
 - 
 ## Deep dives
