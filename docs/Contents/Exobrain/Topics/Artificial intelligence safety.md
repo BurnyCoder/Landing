@@ -25,6 +25,7 @@
 		- ![[Capability#Definitions]]
 	- [[Process supervision]]
 		- ![[Process supervision#Definitions]]
+	- [[Artificial Intelligence governance]]
 
 - [Alex Turner’s landscape](https://www.youtube.com/watch?v=02kbWY5mahQ)
 	- ![US presidents rate AI alignment agendas - YouTube](https://www.youtube.com/watch?v=02kbWY5mahQ)
