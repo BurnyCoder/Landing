@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Game theory]] [[Evolutionary game theory]] [[Artificial Intelligence]] [[Reinforcement learning]] [[Economics]] [[Free energy principle]] [[Machine learning]]
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A system that has [[agency]]
+- A system that has [[Agency]]
 - Perceives its environment, takes actions [[Autonomous|autonomously]] in order to achieve goals, and may improve its performance with learning or acquiring [[knowledge]]
 ## Technical summaries
 -  

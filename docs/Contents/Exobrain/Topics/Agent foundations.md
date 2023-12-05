@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Game theory]] [[Evolutionary game theory]] [[Artificial Intelligence]] [[Reinforcement learning]] [[Economics]] [[Free energy principle]] [[Machine learning]] [[Mathematics]]
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Some [[Systems science|systems]] in the world seem to behave like “[[Agent|agents]]”: they make consistent decisions, and sometimes display complex goal-seeking behaviour. Can we develop a robust mathematical description of such systems and build provably aligned AI agents?
+- Some [[Systems science|systems]] in the world seem to behave like “[[Agent|agents]]”: they make consistent decisions, and sometimes display complex goal-seeking behaviour. Can we develop a robust [[Mathematics|mathematical]] description of such systems and build provably aligned AI agents?
 ## Technical summaries
 -  
 ## Main resources 
