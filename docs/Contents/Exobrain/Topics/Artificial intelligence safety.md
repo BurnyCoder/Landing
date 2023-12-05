@@ -22,8 +22,10 @@
 	- [[Readteaming]]
 		- ![[Readteaming#Definitions]]
 	- Evaluating dangerous [[Capability|capabilities]]
-		- 
-	
+		- ![[Capability#Definitions]]
+	- [[Process supervision]]
+		- ![[Process supervision#Definitions]]
+
 - [Alex Turner’s landscape](https://www.youtube.com/watch?v=02kbWY5mahQ)
 	- ![US presidents rate AI alignment agendas - YouTube](https://www.youtube.com/watch?v=02kbWY5mahQ)
 		- [[Mechanistic interpretability]]
