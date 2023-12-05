@@ -21,7 +21,8 @@
 		- [[Neurophysiology]] - study of the function (as opposed to structure) of the nervous system
 		- [[Neuroanatomy]] - study of the anatomy of nervous tissue and neural structures of the nervous system
 		- [[Neuropharmacology]] -  study of how drugs affect cellular function in the nervous system.
-			- [[Neuropsychopharmacology]]
+			- [[Neuropsychopharmacology]] -  study of the neural mechanisms that drugs act upon to influence behavior
+		- 
 ## Contents
 - 
 ## Deep dives
