@@ -19,13 +19,15 @@
 - Methods
 	- [[Mechanistic interpretability]] 
 		 -  ![[Mechanistic interpretability#Definitions]]
-	- [[Readteaming]] - form of evaluation that elicits model vulnerabilities that might lead to undesirable behaviors,  goal of red-teaming language models is to craft a prompt that would trigger the model to generate text that is likely to cause harm
-	- 
+	- [[Readteaming]]
+		- ![[Readteaming#Definitions]]
+	
 - [Alex Turner’s landscape](https://www.youtube.com/watch?v=02kbWY5mahQ)
 	- ![US presidents rate AI alignment agendas - YouTube](https://www.youtube.com/watch?v=02kbWY5mahQ)
 		- [[Mechanistic interpretability]]
 			- ![[Mechanistic interpretability#Definitions]]
-		- [[Agent foundations]] - [Artificial Intelligence @ MIRI](https://intelligence.org/)
+		- [[Agent foundations]]
+			- [[Agent foundations]]
 		- [[Cognitive Emulation]] - build predictably _boundable_ systems
 		- [[Shard Theory]] - research program aimed at explaining the systematic relationships between the reinforcement schedules and learned values of reinforcement-learning agents
 		- [[Infrabayesianism]] - [Infra-Bayesianism - LessWrong](https://www.lesswrong.com/s/CmrW8fCmSLK7E25sa)
