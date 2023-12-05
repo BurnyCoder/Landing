@@ -1,13 +1,13 @@
 ## Tags
 - Metadata: #topic 
-- Topics: [[Mechanistic Interpretability]]
+- Topics: [[Mechanistic Interpretability]] [[Artificial intelligence safety]] 
 - Additional: 
 ## Significance
 - 
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- How complicated a [[pattern]] or relationship a model can express
 ## Technical summaries
 -  
 ## Main resources 
