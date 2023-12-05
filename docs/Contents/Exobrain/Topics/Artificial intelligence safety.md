@@ -18,7 +18,7 @@
 ## Landscapes
 - Methods
 	- [[Mechanistic interpretability]] - taking a trained [[artificial neural network]], and analyzing the weights to reverse engineer the algorithms learned by the model.
-	- [[Readteaming]]
+	- [[Readteaming]] -  form of evaluation that elicits model vulnerabilities that might lead to undesirable behaviors,  goal of red-teaming language models is to craft a prompt that would trigger the model to generate text that is likely to cause harm
 	- 
 - [Alex Turner’s landscape](https://www.youtube.com/watch?v=02kbWY5mahQ)
 	- ![US presidents rate AI alignment agendas - YouTube](https://www.youtube.com/watch?v=02kbWY5mahQ)
