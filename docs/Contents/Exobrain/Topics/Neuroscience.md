@@ -27,7 +27,9 @@
 		- [[Cognitive neuroscience]] - study of biological substrates underlying cognition, with a focus on the neural substrates of mental processes
 		- [[Systems neuroscience]] - studies the function of neural circuits and [[System theory|systems]],.It is an umbrella term, encompassing a number of areas of study concerned with how nerve cells behave when connected together to form neural networks
 		- [[Molecular neuroscience]] - examines the biology of the nervous system with [[molecular biology]], molecular [[genetics]], [[protein]] [[chemistry]] and related methodologies
-		- [[Computational neuroscience]] - study of the [[information theory|information processing]] functions of the nervous system, and the use of digital computers to study the nervous system
+		- [[Computational neuroscience]] - study of the [[Information processing theory|information processing]] functions of the nervous system, and the use of digital computers to study the nervous system instegrating [[neuroscience]], [[cognitive science]] and [[psychology]], [[electrical engineering]], [[computer science]], [[physics]] and [[mathematics]].
+		- [[Philosophy of neuroscience]] - [[Transdisciplinarity|interdisciplionary]] study of [[neuroscience]] and [[philosophy]]
+		- [[Neurology]] - 
 ## Contents
 - 
 ## Deep dives
