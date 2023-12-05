@@ -24,6 +24,10 @@
 			- [[Neuropsychopharmacology]] -  study of the neural mechanisms that [[Substance|substances]] act upon to influence behavior
 		- [[Behavioral neuroscience]] - application of the principles of [[biology]] to the study of [[Experience|mental]] processes and behavior in human and non-human animals
 		- [[Developmental neuroscience]] - aims to describe the cellular basis of brain development and to address the underlying mechanisms
+		- [[Cognitive neuroscience]] - study of biological substrates underlying cognition, with a focus on the neural substrates of mental processes
+		- [[Systems neuroscience]] - studies the function of neural circuits and [[System theory|systems]],.It is an umbrella term, encompassing a number of areas of study concerned with how nerve cells behave when connected together to form neural networks
+		- [[Molecular neuroscience]] - examines the biology of the nervous system with [[molecular biology]], molecular [[genetics]], [[protein]] [[chemistry]] and related methodologies
+		- [[Computational neuroscience]] - study of the [[information theory|information processing]] functions of the nervous system, and the use of digital computers to study the nervous system
 ## Contents
 - 
 ## Deep dives
