@@ -29,7 +29,9 @@
 		- [[Molecular neuroscience]] - examines the biology of the nervous system with [[molecular biology]], molecular [[genetics]], [[protein]] [[chemistry]] and related methodologies
 		- [[Computational neuroscience]] - study of the [[Information processing theory|information processing]] functions of the nervous system, and the use of digital computers to study the nervous system instegrating [[neuroscience]], [[cognitive science]] and [[psychology]], [[electrical engineering]], [[computer science]], [[physics]] and [[mathematics]].
 		- [[Philosophy of neuroscience]] - [[Transdisciplinarity|interdisciplionary]] study of [[neuroscience]] and [[philosophy]]
-		- [[Neurology]] - 
+		- [[Neurology]] - medical specialty dealing with disorders of the nervous system
+		- [[Neuropsychology]] - studies the [[structure]] and [[function]] of the brain related to [[psychology|psychological]] [[process|processes]] and behaviors
+		- [[Neuroevolution]] - dates back to the first development of nervous systems in animals
 ## Contents
 - 
 ## Deep dives
