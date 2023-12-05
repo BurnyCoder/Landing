@@ -1,4 +1,4 @@
-- Best pages
+- [[Best pages]]
 - [[Science]]
 - [[Technology]]
 - [[Philosophy]] 
