@@ -3,4 +3,5 @@
 	- [[Natural science]]
 - [[Artificial Intelligence]]
 	- [[Machine learning]]
+	- [[Artificial intelligence safety]]
 	- [[Mechanistic interpretability]]
