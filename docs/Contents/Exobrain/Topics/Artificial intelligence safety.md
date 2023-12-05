@@ -22,6 +22,7 @@
 	- [[Readteaming]]
 		- ![[Readteaming#Definitions]]
 	- Evaluating dangerous [[Capability|capabilities]]
+		- 
 	
 - [Alex Turner’s landscape](https://www.youtube.com/watch?v=02kbWY5mahQ)
 	- ![US presidents rate AI alignment agendas - YouTube](https://www.youtube.com/watch?v=02kbWY5mahQ)

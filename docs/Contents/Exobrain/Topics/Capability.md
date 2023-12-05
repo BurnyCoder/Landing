@@ -8,6 +8,7 @@
 - 
 ## Definitions
 - How complicated a [[pattern]] or relationship a model can express
+- What can the model realistically do
 ## Technical summaries
 -  
 ## Main resources 
