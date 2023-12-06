@@ -10,13 +10,13 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 
 - How does artificial intelligence, that might soon become very general and superintelligent, works from an multidisciplinary lens using all sorts of mathematics and methodologies from computer science, statistics, information theory, physics, systems theory, mechanistic interpretability, game theory, cognitive science and so on?
 
-- What's the current state of the art in research and industry around artificial intelligence? What are the most effective methods to make it better?
+- What's the current state of the art in research and industry mainly around but not limited to artificial intelligence? What are the most effective methods to make it better?
 
 - How will the current artificial intelligence revolution transform humanity technologically, economically, culturally, governmentaly? Can it automate everything, from science to industry to art? Is AI a tool like scissors, or like internet, or as powerful as nuclear weapons? Is singularity near?
 
   
 
-- How does the brain work? How to integrate the lenses of statistics, biology, neuroscience, chemistry, fundamental and overall physics? How does learning work, what kind of intelligence is it when compared to AIs? How does wellbeing, agency, productivity, meaning etc. work on the level of the brain and the whole society? How does experience arise? What's the best philosophy of mind? What are the best psychotechnologies and neurotechnologies? How can we upgrade ourselves collectively?
+- How does the brain work? How to integrate the lenses of statistics, biology, neuroscience, chemistry, fundamental and overall physics? How does learning work, what kind of intelligence is it when compared to AIs? How does wellbeing, agency, productivity, meaning etc. work on the level of the brain and the whole society? How does experience arise? What's the best philosophy of mind? What are the best psychotechnologies and neurotechnologies? How can we upgrade ourselves collectively? Is immortality possible?
 
   
 
@@ -36,11 +36,11 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 - What are the most useful logic and mathematical foundations? What are the most beautiful, novel and exotic parts of formal sciences? Can we mathematize ethics? Are ontological and metaphysical positons arbitrary? What is the best epistemology according to information theory? What are the best positions in philosophy for science, meaning, wellbeing and freedom? 
 -
 
-- How does meditation and psychedelics work? What are the most optimal meditation techniques for wellbeing and culativation of meaning and connection? Can we make spiritual traditions scientific? How to get the best psychedelic experience? How to use metamodernism, worldviews, philosophical assumptions, or identities the most efficiently in different contexts? How to balance acceptance and change? How to be, do, and become the most meaningfully? What are all the possible experiences? Can we map out the statespace of consciousness? What is on the edge of the mind? How to approximate with language and modelling experiences that go absolutely beyond any conventional conceptual understanding when all mental faculties dissolve?
+- How does meditation and psychedelics work? What are the most optimal meditation techniques for wellbeing and cultivation of meaning and connection? Can we make spiritual traditions scientific? How to get the best psychedelic experience? How to use metamodernism, worldviews, philosophical assumptions, or identities the most efficiently in different contexts? How to balance acceptance and change? How to be, do, and become the most meaningfully? What are all the possible experiences? Can we map out the statespace of consciousness? What is on the edge of the mind? How to approximate with language and modelling experiences that go absolutely beyond any conventional conceptual understanding when all mental faculties dissolve?
 
   
 
 
   
 
-Omni/Acc = Steelman and verify all scientific models from all disciplines, all theoretical, applied, natural, formal, social sciences, movements with worldviews shaping the future, overall philosophical or other perspectives, and synthesize them all on a higher order of complexity as compatibly as possible for collective survival, growth, wellbeing and flourishing of all of sentience! Let's integrate it all into one useful framework! 
+Omni/Acc = Steelman and verify all scientific models from all disciplines, all theoretical, applied, natural, formal, social sciences, movements with worldviews shaping the future, overall philosophical or other perspectives, and synthesize them all on a higher order of complexity as compatibly as possible for collective survival, wellbeing, flourishing and growth of all of sentience! Let's integrate it all into one useful framework! 
