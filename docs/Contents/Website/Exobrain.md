@@ -8,7 +8,7 @@
 
 Greetings fellow reality connoisseur! On this site I explore these questions:
 
-- How does artificial intelligence, that might soon become very general and superintelligent, works from an omnidisciplionary lens using all sorts of mathematics and methodologies from computer science, statistics, information theory, physics, systems theory, cognitive science and so on?
+- How does artificial intelligence, that might soon become very general and superintelligent, works from an omnidisciplionary lens using all sorts of mathematics and methodologies from computer science, statistics, information theory, physics, systems theory, mechanistic interpretability, game theory, cognitive science and so on?
 
 - What's the current state of the art in research and industry around artificial intelligence? What are the most effective methods to make it better?
 
@@ -16,7 +16,7 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 
   
 
-- How does the brain work? How to integrate the lenses of biology, neuroscience, chemistry, fundamental or overall physics? How does learning work, what kind of intelligence is it when compared to AIs? How does wellbeing, agency, productivity, meaning etc. work on the level of the brain and the whole society? How does experience arise? What's the best philosophy of mind? What are the best psychotechnologies and neurotechnologies? How can we upgrade ourselves collectively?
+- How does the brain work? How to integrate the lenses of statistics, biology, neuroscience, chemistry, fundamental or overall physics? How does learning work, what kind of intelligence is it when compared to AIs? How does wellbeing, agency, productivity, meaning etc. work on the level of the brain and the whole society? How does experience arise? What's the best philosophy of mind? What are the best psychotechnologies and neurotechnologies? How can we upgrade ourselves collectively?
 
   
 
@@ -30,7 +30,7 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 
 - How can we the most effectively use science, technology and other methods to solve the biggest world problems, from suffering from for example poverty to wars to crises to various existecial risks such as pandemics, nuclear war, climate change or maybe technology itself becoming too powerful or in the hands of the wrong people, as some AI researchers say?
 
-- How do we collectively steer all of sentience not into opressive dystopia without democracy, or complete extinction, or platou, but into benefitial collective growth of science and technology, connection and optional merging with eachother or machines or the universe, knowledge, wellbeing, freedom, intelligence, agency, longterm adaptibility and sustainability, resistivity to entropy, bliss, love, peace, safety, meaning, truth, fullfillment, selfactualization and so on for every being using the most optimal collective emergent thermodynamic cybernetic architecture that might expand into the whole universe and becoming a beautiful cosmic constellation of linked posthumanist clusters of sentient matter of any form it wishes to be in?
+- How do we collectively steer all of sentience not into opressive dystopia without democracy, or complete extinction, or platou, but into benefitial collective growth of science and technology, connection and optional merging with eachother or machines or the universe, knowledge, wellbeing, freedom, intelligence, agency, longterm adaptibility and sustainability, resistivity to entropy, bliss, love, peace, safety, meaning, truth, fullfillment, selfactualization and so on for every being using the most optimal collective emergent coordinated thermodynamic cybernetic architecture that might expand into the whole universe and becoming a beautiful cosmic constellation of linked posthumanist clusters of sentient matter of any form it wishes to be in?
 
   
 
