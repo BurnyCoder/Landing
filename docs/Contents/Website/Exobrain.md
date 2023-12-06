@@ -8,11 +8,11 @@
 
 Greetings fellow reality connoisseur! On this site I explore these questions:
 
-- How does artificial intelligence, that might soon become very general and superintelligent, works from an omnidisciplionary lens using all sorts of mathematics and methodologies from computer science, statistics, information theory, physics, systems theory, mechanistic interpretability, game theory, cognitive science and so on?
+- How does artificial intelligence, that might soon become very general and superintelligent, works from an multidisciplinary lens using all sorts of mathematics and methodologies from computer science, statistics, information theory, physics, systems theory, mechanistic interpretability, game theory, cognitive science and so on?
 
 - What's the current state of the art in research and industry around artificial intelligence? What are the most effective methods to make it better?
 
-- How will the current artificial intelligence revolution transform humanity technologically, economically, culturally, governmentally? Can it automate everything, from science to industry to art? Is AI tool like scissors, or like internet, or as powerful as nuclear weapons? Is universal basic income or services realistic? Is singularity near?
+- How will the current artificial intelligence revolution transform humanity technologically, economically, culturally, governmentally? Can it automate everything, from science to industry to art? Is AI a tool like scissors, or like internet, or as powerful as nuclear weapons? Is singularity near?
 
   
 
@@ -28,13 +28,13 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 
   
 
-- How can we the most effectively use science, technology and other methods to solve the biggest world problems, from suffering from for example poverty to wars to crises to various existecial risks such as pandemics, nuclear war, climate change or maybe technology itself becoming too powerful or in the hands of the wrong people, as some AI researchers say? Should it be open source? What is the best political system? Should we regulate more or less? How to prevent realistic risks and regulatory capture?
+- How can we the most effectively use science, technology and other methods to solve the biggest world problems, from suffering from for example poverty to wars to crises to various existecial risks such as pandemics, nuclear war, climate change or maybe technology itself becoming too powerful or in the hands of the wrong people, as some AI researchers say? Should it be open source? What is the best political system? Should we regulate more or less? How to prevent realistic risks and regulatory capture? Is universal basic income or services realistic?
 
 - How do we collectively steer all of sentience not into opressive dystopia without democracy, or complete extinction, or platou, but into benefitial protopia, collective growth of science and technology, connection and optional merging with eachother or machines or the universe, knowledge, wellbeing, freedom, intelligence, agency, longterm adaptibility and sustainability, resistivity to entropy, bliss, love, peace, safety, meaning, truth, fullfillment, selfactualization and so on for every being using the most optimal collective emergent coordinated thermodynamic cybernetic architecture that might expand into the whole universe and becoming a beautiful cosmic constellation of linked posthumanist clusters of sentient matter of any form it wishes to be in?
 
   
 
-- How does meditation and psychedelics work? What are the most optimal meditation techniques for wellbeing and culativation of meaning and connection? Can we make spiritual traditions scientific? How to get the best psychedelic experience? How to use identities the most efficiently for different usecases? How to balance acceptance and change? What is the statespace of consciousness, what is the edge of the mind, what are all the possible exotic experiences? How to approximate with language and modelling experiences that go absolutely beyond any conventional conceptual understanding when all mental faculties dissolve?
+- How does meditation and psychedelics work? What are the most optimal meditation techniques for wellbeing and culativation of meaning and connection? Can we make spiritual traditions scientific? How to get the best psychedelic experience? How to use metamodernism, worldviews, philosophical assumptions, or identities the most efficiently in different contexts? How to balance acceptance and change? What is the statespace of consciousness, what is the edge of the mind, what are all the possible exotic experiences? How to approximate with language and modelling experiences that go absolutely beyond any conventional conceptual understanding when all mental faculties dissolve?
 
   
 
