@@ -26,6 +26,7 @@
 		- [[Neuroscience]]
 		- [[Psychology]]
 		- [[Systems science]]
+		- [[Systems theory]]
 		- [[Earth science]], [[Astronomy]]
 		- [[Transdisciplinarity]]
 			- [[Biophysics]] 
@@ -33,7 +34,7 @@
 			- [[Sociophysics]]
 		- [[Omnidisciplinarity]]
 			- [[Cognitive science]] ([[Artificial Intelligence]], [[Consciousness]], [[Linguistics]])
-			- [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Systems theory]] [[Systems science]] 
+			- [[Philosophy]] [[Mathematics]] [[Physics]] [[Computer science]] [[Dynamical systems]] [[Systems science]] [[Systems theory]] 
 ## Contents
 - 
 ## Deep dives

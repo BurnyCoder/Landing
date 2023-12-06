@@ -19,6 +19,8 @@
 - [Outline of social science - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_social_science)
 	- <iframe src="https://en.wikipedia.org/wiki/Outline_of_social_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 		- [[Anthropilogy]], [[Economics]], [[Cognitive science]], [[Gender studies]], [[Geography]], [[History]], [[Law]], [[Information science]], [[Linguistics]], [[Political science]], [[Psychology]], [[Religious studies]], [[Sociology]], [[Sustainability]]
+- [[Systems science]]
+- [[Systems theory]]
 ## Contents
 - 
 ## Deep dives
