@@ -12,7 +12,7 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 
 - What's the current state of the art in research and industry around artificial intelligence? What are the most effective methods to make it better?
 
-- How will the current artificial intelligence revolution transform humanity technologically, economically, culturally, governmentally? Can it automate everything, from science to industry to art? Is singularity near?
+- How will the current artificial intelligence revolution transform humanity technologically, economically, culturally, governmentally? Can it automate everything, from science to industry to art? Is universal basic income or services realistic? Is singularity near?
 
   
 
@@ -28,9 +28,9 @@ Greetings fellow reality connoisseur! On this site I explore these questions:
 
   
 
-- How can we the most effectively use science, technology and other methods to solve the biggest world problems, from suffering from for example poverty to wars to crises to various existecial risks such as pandemics, nuclear war, climate change or maybe technology itself becoming too powerful or in the hands of the wrong people, as some AI researchers say?
+- How can we the most effectively use science, technology and other methods to solve the biggest world problems, from suffering from for example poverty to wars to crises to various existecial risks such as pandemics, nuclear war, climate change or maybe technology itself becoming too powerful or in the hands of the wrong people, as some AI researchers say? Should it be open source? What is the best political system? Should we regulate more or less?
 
-- How do we collectively steer all of sentience not into opressive dystopia without democracy, or complete extinction, or platou, but into benefitial collective growth of science and technology, connection and optional merging with eachother or machines or the universe, knowledge, wellbeing, freedom, intelligence, agency, longterm adaptibility and sustainability, resistivity to entropy, bliss, love, peace, safety, meaning, truth, fullfillment, selfactualization and so on for every being using the most optimal collective emergent coordinated thermodynamic cybernetic architecture that might expand into the whole universe and becoming a beautiful cosmic constellation of linked posthumanist clusters of sentient matter of any form it wishes to be in?
+- How do we collectively steer all of sentience not into opressive dystopia without democracy, or complete extinction, or platou, but into benefitial protopia, collective growth of science and technology, connection and optional merging with eachother or machines or the universe, knowledge, wellbeing, freedom, intelligence, agency, longterm adaptibility and sustainability, resistivity to entropy, bliss, love, peace, safety, meaning, truth, fullfillment, selfactualization and so on for every being using the most optimal collective emergent coordinated thermodynamic cybernetic architecture that might expand into the whole universe and becoming a beautiful cosmic constellation of linked posthumanist clusters of sentient matter of any form it wishes to be in?
 
   
 
