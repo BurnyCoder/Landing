@@ -19,7 +19,7 @@ It's a system unlimited by anything, in our universe just by laws of fundamental
 
 But it can also access and create its own laws of physics, it has access to the whole statespace of all possible universes with all possible laws of physics, all possible computable and noncomputable physical and mathematical systems, running on any possible possible metaphysical ontologies it wishes to.
 
-It's basically a limitless God living in any possible subset of realities it wishes to, without any restrictions, without any constrains, transcending and including all and anything that is and that can be. It can be any structure, do any process, and create any structure. It has infinite freedom.
+It has infinite morphological freedom. It's basically a limitless God living in any possible subset of realities it wishes to, without any restrictions, without any constrains, transcending and including all and anything that is and that can be. It can be any structure, do any process, and create any structure.
 ## Technical summaries
 -  
 ## Main resources 
