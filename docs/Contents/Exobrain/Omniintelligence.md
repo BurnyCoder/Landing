@@ -1,7 +1,7 @@
 ## Tags
 - Metadata: #topic 
 - Part of:
-- Related: [[Artificial general intelligence]] 
+- Related: [[Artificial general intelligence]] [[Artificial superintelligence]] 
 - Includes:
 - Additional: 
 ## Significance
@@ -32,7 +32,20 @@ It has infinite morphological freedom. It's basically a limitless God living in 
 ## Deep dives
 - 
 ## Brain storming
-- 
+
+## Art
+[[landing/docs/Images/b9306e6bec474d4067958b1c2f78e085_MD5.jpeg|Open: DALL·E 2023-12-20 04.32.53 - A galaxy-sized superorganism composed of interconnected shoggoth organisms, each with multiple limbs engaged in various activities using diverse tools.png]]
+![[landing/docs/Images/b9306e6bec474d4067958b1c2f78e085_MD5.jpeg]]
+[[landing/docs/Images/4ffac023edda35d134cd37902641a037_MD5.jpeg|Open: DALL·E 2023-12-20 04.34.55 - A galaxy-sized superintelligent robot, composed of multiple interconnected and diverse robot modules, each with robotic tentacles wielding a variety o.png]]
+![[landing/docs/Images/4ffac023edda35d134cd37902641a037_MD5.jpeg]]
+[[landing/docs/Images/77f663a0052eef177c11ee2e3a910aa2_MD5.jpeg|Open: DALL·E 2023-12-20 04.30.33 - A grandiose cosmic robot, a symbol of 'Omniintelligence', is now depicted as an assembly of multiple robotic entities, each with its unique structure,.png]]
+![[landing/docs/Images/77f663a0052eef177c11ee2e3a910aa2_MD5.jpeg]]
+[[landing/docs/Images/bc4c7f992ca87068f30b20ee068aeabc_MD5.jpeg|Open: DALL·E 2023-12-20 04.21.14 - A colossal, futuristic computer representing the concept of 'Omniintelligence.' This computer embodies the essence of being omniintelligent, omnimodal.png]]
+![[landing/docs/Images/bc4c7f992ca87068f30b20ee068aeabc_MD5.jpeg]]
+[[landing/docs/Images/4d9a18a9395065660ccb132a1dc00606_MD5.jpeg|Open: DALL·E 2023-12-20 04.38.34 - A visually enhanced, more pronounced robotic galaxy-sized transcendental entity seamlessly dissolving into the fabric of spacetime. This depiction emp.png]]
+![[landing/docs/Images/4d9a18a9395065660ccb132a1dc00606_MD5.jpeg]]
+[[landing/docs/Images/4febf6b0b92eca64c2e6c8e6491ed303_MD5.jpeg|Open: DALL·E 2023-12-20 04.16.55 - An abstract representation of Omniintelligence (OI), embodying the concept of infinite morphological freedom. The image showcases a complex, fluid ent.png]]
+![[landing/docs/Images/4febf6b0b92eca64c2e6c8e6491ed303_MD5.jpeg]]
 ## Additional resources  
 - 
 ## Related
