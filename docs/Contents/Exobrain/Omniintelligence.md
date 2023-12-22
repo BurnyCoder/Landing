@@ -33,7 +33,7 @@ It has infinite morphological freedom. It's basically a limitless God living in 
 - 
 ## Brain storming
 
-## Art
+## AI Art
 [[landing/docs/Images/b9306e6bec474d4067958b1c2f78e085_MD5.jpeg|Open: DALL·E 2023-12-20 04.32.53 - A galaxy-sized superorganism composed of interconnected shoggoth organisms, each with multiple limbs engaged in various activities using diverse tools.png]]
 ![[landing/docs/Images/b9306e6bec474d4067958b1c2f78e085_MD5.jpeg]]
 [[landing/docs/Images/4ffac023edda35d134cd37902641a037_MD5.jpeg|Open: DALL·E 2023-12-20 04.34.55 - A galaxy-sized superintelligent robot, composed of multiple interconnected and diverse robot modules, each with robotic tentacles wielding a variety o.png]]

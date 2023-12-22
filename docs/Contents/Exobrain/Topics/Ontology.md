@@ -43,7 +43,7 @@ Any those can hold alone nondually (all is x, only x holds, x is fundamental), o
 - collective mind emerges from individual minds
 - fundamental physics is collective mind
 - everything is a different illusory or emergent lens on the ineffable (pluralism, Three Blind Men and an Elephant)
-- every possible configuration is true... but also not true... all models are correctly approximating the ineffable reality according to how predictive they are? all models are wrong but some are useful? bayesian pragmatism? (scientific method, LessWrong) (or frequentist?) 
+- every possible configuration is true... but also not true... or neither true nor not true?.. all models are correctly approximating the ineffable reality according to how predictive they are? all models are wrong but some are useful? bayesian pragmatism? (scientific method, LessWrong) (or frequentist?) 
 
 So many more combinations are possible in this ontological algebra! 
 I also suspect there are genetic/environmental neural correlates that can predict what ontological framework one tends to subscribe to. 
@@ -67,7 +67,7 @@ I also suspect there are genetic/environmental neural correlates that can predic
 - 
 ## Additional resources  
 - 
-## Art
+## AI Art
 - [[landing/docs/Images/70fb390326b63cda6211f664dbb497ab_MD5.jpeg|Open: DALL·E 2023-12-21 23.47.49 - A complex, abstract artwork representing various ontological perspectives on reality. The image should depict a vibrant tapestry of interconnected ide.png]]
 ![[landing/docs/Images/70fb390326b63cda6211f664dbb497ab_MD5.jpeg]]
 ## Related
