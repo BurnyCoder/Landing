@@ -21,19 +21,24 @@
 	- <iframe src="https://www.neelnanda.io/mechanistic-interpretability/glossary" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [Mechanistic Interpretability - NEEL NANDA (DeepMind) - YouTube](https://www.youtube.com/watch?v=_Ygf0GnlwmY)
 	- ![[Mechanistic Interpretability - NEEL NANDA (DeepMind) - YouTube](https://www.youtube.com/watch?v=_Ygf0GnlwmY)
-## Landscapes
-- [[Superposition]]
-	- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
-- [[Grokking]]
-	- [[Grokking Modular Addition]] - [[2301.05217] Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
-	- [[Induction heads]] [Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)
-	- [[Grokking Group Operations using Representation theory]] [[2302.03025] A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations](https://arxiv.org/abs/2302.03025)
-- [[Top down representation engineering]] - [Representation Engineering: A Top-Down Approach to AI Transparency](https://www.ai-transparency.org/)
-- [[Fractal data manifold dimensions]] - [[2004.10802] A Neural Scaling Law from the Dimension of the Data Manifold](https://arxiv.org/abs/2004.10802)
+## Landscapes 
+- [GitHub - JShollaj/awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources.](https://github.com/JShollaj/awesome-llm-interpretability)
+- By theme:
+	- [[Superposition]]
+		- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+	- [[Grokking]]
+		- [[Grokking Modular Addition]] - [[2301.05217] Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
+		- [[Induction heads]] [Induction heads - illustrated — LessWrong](https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated)
+		- [[Grokking Group Operations using Representation theory]] [[2302.03025] A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations](https://arxiv.org/abs/2302.03025)
+	- [[Top down representation engineering]] - [Representation Engineering: A Top-Down Approach to AI Transparency](https://www.ai-transparency.org/)
+	- [[Fractal data manifold dimensions]] - [[2004.10802] A Neural Scaling Law from the Dimension of the Data Manifold](https://arxiv.org/abs/2004.10802)
 ## Contents
 - 
 ## Deep dives
 - 
+## Papers
+- [GitHub - JShollaj/awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources.](https://github.com/JShollaj/awesome-llm-interpretability)
+	- 
 ## Brain storming
 - 
 ## Additional resources  
