@@ -29,6 +29,7 @@
 	- [[Metaphilosophy]]
 	- [[Philosophy of Science]]
 	- [[Philosophy of Mathematics]]
+	- [[Philosophy of mind]]
 ## Contents
 - 
 ## Deep dives

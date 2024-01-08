@@ -34,6 +34,7 @@
 		- [[Neuropsychology]] - studies the [[structure]] and [[function]] of the brain related to [[psychology|psychological]] [[process|processes]] and behaviors
 		- [[Neuroevolution]] - dates back to the first development of nervous systems in animals
 - [[Wellbeing]]
+- [[Philosophy of mind]]
 ## Contents
 - 
 ## Deep dives
