@@ -13,8 +13,10 @@
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Futures studies - Wikipedia](https://en.wikipedia.org/wiki/Futures_studies)
+	- <iframe src="https://en.wikipedia.org/wiki/Futures_studies" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [THE HUMAN FUTURE: A Case for Optimism - YouTube](https://www.youtube.com/watch?v=o48X3_XQ9to&pp=ygUZZnV0dHVyZSBjYXNlIGZvciBvcHRpbWlzbQ%3D%3D)
+	- <iframe title="THE HUMAN FUTURE: A Case for Optimism" src="https://www.youtube.com/embed/o48X3_XQ9to?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Landscapes
 -  [[Movements]]
 ## Contents
