@@ -13,13 +13,10 @@
 ## Technical summaries
 -  
 ## Main resources 
-- 
+- [Game B Wiki](https://www.gameb.wiki/index.php?title=Main_Page)
+	- <iframe src="https://www.gameb.wiki/index.php?title=Main_Page" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Effective Altruism]]
-	- [[Artificial intelligence safety]]
-- [[Effective Accelerationism]]
-	- [[Network states]]
-- [[Game B]]
+- 
 ## Contents
 - 
 ## Deep dives
@@ -27,7 +24,7 @@
 ## Brain storming
 - 
 ## Additional resources  
-- [Movement - Wikipedia](https://en.wikipedia.org/wiki/Movement#Society_and_culture)
+- 
 ## Related
 - 
 ## Related resources  
