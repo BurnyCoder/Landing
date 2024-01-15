@@ -3035,7 +3035,7 @@ https://www.youtube.com/watch?v=NfbTqo3GOtk ai explained
 
 https://www.lesswrong.com/posts/mLfPHv4QjmeQrsSva/paper-on-measuring-situational-awareness-in-llms
 
-- [[Future of humanity]]
+- [[Future of humanity and sentience]]
 - [[Movements]]
 - 
 Part of it is gigantic generalist synthesis of knowledge to more easily think about everything, a giant map for big philosophical, scientific, technological, societal goals, with bigger unity of perspectives.

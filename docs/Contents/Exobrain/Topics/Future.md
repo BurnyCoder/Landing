@@ -16,9 +16,8 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Future of humanity]]
-- [[Future of sentience]]
-- [[future of universe]]
+- [[Future of humanity and sentience]]
+- [[Future of universe]]
 ## Contents
 - 
 ## Deep dives
