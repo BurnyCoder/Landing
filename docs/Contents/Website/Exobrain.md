@@ -22,5 +22,5 @@ Greetings fellow reality connoisseur!
 
 ```wordcloud 
 source: file 
-query: '/home/burny/Desktop/Everything/landing/docs/Contents/Exobrain' 
+query: '/home/burny/Desktop/Everything/landing/docs/Contents' 
 ```

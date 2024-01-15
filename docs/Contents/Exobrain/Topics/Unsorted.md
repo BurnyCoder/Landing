@@ -1,3 +1,8 @@
+```wordcloud 
+source: file 
+query: '' 
+```
+
 https://spectrum.ieee.org/paris-olympics-2024 A New Olympics Event: Algorithmic Video Surveillance 
 
 https://techcrunch.com/2024/01/09/amazons-alexa-gets-new-generative-ai-powered-experiences/ Amazon’s Alexa gets new generative AI-powered experiences
