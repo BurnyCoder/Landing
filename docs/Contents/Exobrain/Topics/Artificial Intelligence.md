@@ -13,15 +13,18 @@ aliases:
 ## Intuitive summaries
 - 
 ## Definitions
-- 
+- A [[Systems theory|system]] that is [[intelligence|intelligent]] and constructed by humans.
+- A branch of [[computer science]] which develops and studies [[intelligence|intelligent]] machines.
 ## Technical summaries
--  A branch of [[computer science]] which develops and studies [[intelligence|intelligent]] machines.
+- 
 ## Main resources 
 - [Artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 	- <iframe src="https://en.wikipedia.org/wiki/Artificial Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - [[Generative AI]]
 - [[Robotics]]
+- [[Intelligence#Definitions]]
+- [[Intersection between biological and artificial intelligence]]
 - By approach
 	- [[Symbolic artificial intelligence]] 
 		- ![[Symbolic artificial intelligence#Definitions]] 
