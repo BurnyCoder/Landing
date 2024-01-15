@@ -30,6 +30,8 @@ aliases:
 	- [[Hybrid artificial intelligence]]
 		- ![[Hybrid artificial intelligence#Definitions]]
 - By skill:
+	- [\[2311.02462\] Levels of AGI: Operationalizing Progress on the Path to AGI](https://arxiv.org/abs/2311.02462)[[landing/docs/Images/9bb2cfbcdbb8274393aa4b4fd2d4b604_MD5.jpeg|Open: Pasted image 20240115053147.png]]
+![[landing/docs/Images/9bb2cfbcdbb8274393aa4b4fd2d4b604_MD5.jpeg]]
 	- [[Artificial narrow intelligence]]
 	- [[Artificial general intelligence]]
 	- [[Artificial superintelligence]]
