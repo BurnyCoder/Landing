@@ -8,7 +8,7 @@
 - 
 ## Definitions
 - [[Mathematics]] constrained by reality.
-## Technical summaries
+## Technical summaries 
 -   Equations describing physical systems.
 ## Main resources 
 - [Physics - Wikipedia](https://en.wikipedia.org/wiki/Physics)
