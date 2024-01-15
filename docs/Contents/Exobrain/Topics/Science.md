@@ -17,6 +17,8 @@
 	- <iframe src="https://en.wikipedia.org/wiki/Science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 	- MIT courses on everything: [MIT Open Learning Library | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/collections/mit-open-learning-library/)
 ## Landscapes
+- [[landing/docs/Images/63d4790b8b7459a2525816a96b471c4c_MD5.jpeg|Open: Pasted image 20240115083928.png]]
+![[landing/docs/Images/63d4790b8b7459a2525816a96b471c4c_MD5.jpeg]]
 - Groups
 	- [Branches of science - Wikipedia](https://en.wikipedia.org/wiki/Branches_of_science)
 		- <iframe src="https://en.wikipedia.org/wiki/Branches_of_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
