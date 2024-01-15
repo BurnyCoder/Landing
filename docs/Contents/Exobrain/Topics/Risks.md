@@ -18,6 +18,7 @@
 ## Landscapes
 - [[Risks of artificial intelligence]]
 - [The Map of Doom | Apocalypses Ranked - YouTube](https://www.youtube.com/watch?v=Htf0XR6W9WQ)
+	- <iframe title="The Map of Doom | Apocalypses Ranked" src="https://www.youtube.com/embed/Htf0XR6W9WQ?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Contents
 - 
 ## Deep dives

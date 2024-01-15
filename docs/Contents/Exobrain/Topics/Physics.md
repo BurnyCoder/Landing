@@ -58,7 +58,8 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [Every Thing in Space - YouTube](https://www.youtube.com/watch?v=uniGQrGLEoI)
+- [The Map of Black Holes | Black Holes Explained - YouTube](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 ## Brain storming
 - 
 ## Additional resources  

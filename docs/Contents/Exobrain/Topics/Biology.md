@@ -24,7 +24,8 @@
 ## Contents
 - [[Life]]
 ## Deep dives
-- 
+- [[Healthcare]]
+- [The Surprising Map of Plants - YouTube](https://www.youtube.com/watch?v=ONVpFtiD-fo)
 ## Brain storming
 - 
 ## Additional resources  
