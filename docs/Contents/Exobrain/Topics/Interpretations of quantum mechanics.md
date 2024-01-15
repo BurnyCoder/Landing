@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Quantum mechanics]] [[Foundations of physics [[Philosophy of physics]]]] [[Physics]]
+- Part of: [[Quantum mechanics]] [[Foundations of physics]] [[Philosophy of physics]] [[Physics]]
 - Related: 
 - Includes:
 - Additional: 

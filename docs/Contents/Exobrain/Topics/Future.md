@@ -18,6 +18,7 @@
 ## Landscapes
 - [[Future of humanity and sentience]]
 	- [[Movements]]
+	- [[Risks]]
 - [[Future of universe]]
 ## Contents
 - 
