@@ -33,12 +33,14 @@
 		- [[Neurology]] - medical specialty dealing with disorders of the nervous system
 		- [[Neuropsychology]] - studies the [[structure]] and [[function]] of the brain related to [[psychology|psychological]] [[process|processes]] and behaviors
 		- [[Neuroevolution]] - dates back to the first development of nervous systems in animals
+- [[Neurophysics]]
+	- [[Nonequilibrium statistical physics of biology]]
 - [[Wellbeing]]
 - [[Philosophy of mind]]
 ## Contents
 - 
 ## Deep dives
-- 
+- [No Turning Back: The Nonequilibrium Statistical Thermodynamics of becoming (and remaining) Life-Like - YouTube](https://www.youtube.com/watch?v=10cVVHKCRWw)
 ## Brain storming
 - 
 ## Additional resources  

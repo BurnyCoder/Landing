@@ -14,13 +14,13 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Biology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
-- 
+- [[Life]]
 ## Deep dives
-- 
+- [No Turning Back: The Nonequilibrium Statistical Thermodynamics of becoming (and remaining) Life-Like - YouTube](https://www.youtube.com/watch?v=10cVVHKCRWw)
 ## Brain storming
 - 
 ## Additional resources  

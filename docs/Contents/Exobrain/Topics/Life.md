@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Biology]]
 - Related: 
 - Includes:
 - Additional: 
@@ -14,7 +14,7 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Life" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
