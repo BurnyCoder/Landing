@@ -35,6 +35,8 @@ aliases:
 		- ![[Symbolic artificial intelligence#Definitions]] 
 	- [[Machine learning]]
 		-  ![[Machine learning#Definitions]]
+		- [[Quantum machine learning]]
+		- [[Thermodynamic AI]]
 	- [[Hybrid artificial intelligence]]
 		- ![[Hybrid artificial intelligence#Definitions]]
 - By skill:
