@@ -16,6 +16,8 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
+- [Quantum Gravity Explained in 9 Slides - YouTube](https://www.youtube.com/watch?v=d-86tNCSJsg&t=373s)
+	- <iframe title="Quantum Gravity Explained in 9 Slides" src="https://www.youtube.com/embed/d-86tNCSJsg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - By subproblems
 	- solve [[Quantum gravity]]
 	- additionally to [[Standard Model of Particle Physics]] [[Quantum field theory]], unify general [[Theory of relativity]] with [[Quantum mechanics]]
@@ -36,7 +38,7 @@
 ## Additional resources  
 - 
 ## Related
-- 
+- [[Theory of Everything in All of Physics]]
 ## AI 
 - 
 ## Additional metadata

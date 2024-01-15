@@ -23,7 +23,7 @@
 ## Additional resources  
 - 
 ## Related
-- 
+- [[Theory of Everything in All of Science]]
 ## AI 
 - 
 ## Additional metadata

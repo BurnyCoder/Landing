@@ -26,7 +26,7 @@
 ## Additional resources  
 - 
 ## Related
-- 
+- [[Theory of Everything in Natural Sciences]]
 ## AI 
 - 
 ## Additional metadata

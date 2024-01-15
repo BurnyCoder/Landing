@@ -30,6 +30,8 @@
 - 
 ## Additional resources  
 - 
+## Additional topics
+- [Every Animal In Your DNA - YouTube](https://www.youtube.com/watch?v=GRm__SOzz6c)
 ## Related
 - 
 ## AI 

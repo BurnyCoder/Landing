@@ -62,8 +62,10 @@
 - [The Map of Black Holes | Black Holes Explained - YouTube](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 ## Brain storming
 - 
-## Additional resources  
+## Additional resources
 - 
+## Additional topics
+- [The Map of Superconductivity - YouTube](https://www.youtube.com/watch?v=bD2M7P6dTVA)
 ## Related
 - 
 ## AI 

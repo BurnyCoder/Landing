@@ -32,7 +32,7 @@
 ## Brain storming
 - 
 ## Additional resources  
-- 
+- [You Use Quantum Physics to Smell - YouTube](https://www.youtube.com/watch?v=DJsJIVXkrGQ)
 ## Related
 - 
 ## Related resources  

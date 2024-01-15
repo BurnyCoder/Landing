@@ -24,7 +24,7 @@
 ## Additional resources  
 - 
 ## Related
-- 
+- [[Theory of Everything in Philosophy]]
 ## AI 
 - 
 ## Additional metadata
