@@ -31,6 +31,7 @@
 	- [Transactional interpretation](https://en.wikipedia.org/wiki/Transactional_interpretation)
 	- [Objective-collapse theories](https://en.wikipedia.org/wiki/Objective-collapse_theory)
 	- [Relational interpretation](https://en.wikipedia.org/wiki/Relational_quantum_mechanics)
+	- [QBism](https://en.wikipedia.org/wiki/Quantum_Bayesianism "Quantum Bayesianism")
 ## Contents
 - 
 ## Deep dives
