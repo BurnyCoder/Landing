@@ -14,11 +14,9 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Future of humanity and sentience]]
-	- [[Movements]]
-- [[Future of universe]]
+- [[Effective Altruism]]
+- [[Effective Accelerationism]]
 ## Contents
 - 
 ## Deep dives
