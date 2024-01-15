@@ -20,7 +20,7 @@
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [The Map of Physics - YouTube](https://www.youtube.com/watch?v=ZihywtixUYo)
 	- <iframe title="The Map of Physics" src="https://www.youtube.com/embed/ZihywtixUYo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-- [Mathematical physics]]
+- [[Mathematical physics]]
 - By domain
 	- [[Classical mechanics]]
 		- [[Fluid mechanics]]
@@ -58,6 +58,8 @@
 ## Contents
 - 
 ## Deep dives
+- [List of unsolved problems in physics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+	-  <iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [Every Thing in Space - YouTube](https://www.youtube.com/watch?v=uniGQrGLEoI)
 - [The Map of Black Holes | Black Holes Explained - YouTube](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
 ## Brain storming
