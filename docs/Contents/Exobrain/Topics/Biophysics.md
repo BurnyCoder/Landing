@@ -28,7 +28,7 @@
 	- <iframe title="Physics of Life: A survey from the US National Academy of Sciences by William Bialek" src="https://www.youtube.com/embed/mfeJ0o9po1A?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [[Karl Friston]]
 	- [Karl Friston on Unifying The Cognitive Sciences - YouTube](https://www.youtube.com/watch?v=Q9hOPiSHbwo&t=631s&pp=ygUUa2FybCBmcmlzdG9uIGxlY3R1cmU%3D)
-	- [Karl Friston on Unifying The Cognitive Sciences - YouTube](https://www.youtube.com/watch?v=Q9hOPiSHbwo)
+	- <iframe title="Karl Friston on Unifying The Cognitive Sciences" src="https://www.youtube.com/embed/Q9hOPiSHbwo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Brain storming
 - 
 ## Additional resources  

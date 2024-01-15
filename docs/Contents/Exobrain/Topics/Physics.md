@@ -39,6 +39,9 @@
 		- [[Quantum statistical mechanics]]
 		- [[Quantum field statistical mechanics]]
 		- [[Quantum information theory]]
+- [[Interdisciplionarity]]
+	- [[Biophysics]]
+		- [[Neurophysics]]
 ## Contents
 - 
 ## Deep dives
