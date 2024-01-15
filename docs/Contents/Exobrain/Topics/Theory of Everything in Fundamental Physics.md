@@ -7,9 +7,9 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- A [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[quantum gravity]] through for example [[emergence]], alternatively also unifying [[Fundamental forces|fundamental forces]].
+- [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[quantum gravity]] through for example [[emergence]], alternatively also unifying [[Fundamental forces|fundamental forces]].
 ## Technical summaries
--  
+-  [[Quantum field theory]] is almost a [[Theory of Everything]], but it hasn't solved all problems in [[ physics]]
 ## Main resources 
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
