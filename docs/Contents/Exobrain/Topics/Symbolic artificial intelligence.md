@@ -16,7 +16,7 @@
 - Symbolic artificial intelligence
 	- <iframe src="https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Knowledge based system]] ([[Expert system]]), [[Computer]] [[algebra]], [[Theorem prover]], [[Semantic web]]
+- [[Knowledge based system]] ([[Expert system]]), [[Computing]] [[algebra]], [[Theorem prover]], [[Semantic web]]
 - [[Hybrid artificial intelligence]]  
 ## Contents
 - [[Planning]], [[Scheduling]]

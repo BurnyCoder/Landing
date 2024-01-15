@@ -18,7 +18,7 @@
 ## Landscapes
 - [[Formal system]] 
 - [Physical symbol system - Wikipedia](https://en.wikipedia.org/wiki/Physical_symbol_system)
-	- [[Logic]], [[Algebra]], Chess, a [[Computer]] running a [[program]], [[Intelligence|intelligent]] human thought, English [[language]]
+	- [[Logic]], [[Algebra]], Chess, a [[Computing]] running a [[program]], [[Intelligence|intelligent]] human thought, English [[language]]
 ## Contents
 - 
 ## Deep dives
