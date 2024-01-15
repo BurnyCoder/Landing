@@ -79,6 +79,8 @@ aliases:
 			- [[Game playing]]
 			- [[Computational creativity]]
 			- [[Personal assistant]]			
+- [Map of Artificial Intelligence - YouTube](https://youtu.be/hDWDtH1jnXg?si=CP-4cX70dNz7U4tp)
+	- <iframe title="Map of Artificial Intelligence" src="https://www.youtube.com/embed/hDWDtH1jnXg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [Applications of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [[Consciousness]]
 - [[Neurotechnology]]
