@@ -21,9 +21,11 @@ aliases:
 ## Main resources 
 -   [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
 	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-## Landscapes
--   [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
-	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+## Landscape
+-   [Wikipedia:Contents/Outlines - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines)
+	- <iframe src="https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Wikipedia:Contents/Lists - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists)
+- [Wikipedia:Contents/Categories - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories)
 - [Wikipedia:Contents - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents)
 - [Wikipedia:Contents/Overviews - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Overviews)
 ## Contents
