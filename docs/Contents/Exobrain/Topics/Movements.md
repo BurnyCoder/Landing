@@ -17,6 +17,7 @@
 ## Landscapes
 - [[Effective Altruism]]
 - [[Effective Accelerationism]]
+- [[Game B]]
 ## Contents
 - 
 ## Deep dives
@@ -24,7 +25,7 @@
 ## Brain storming
 - 
 ## Additional resources  
-- 
+- [Movement - Wikipedia](https://en.wikipedia.org/wiki/Movement#Society_and_culture)
 ## Related
 - 
 ## Related resources  
