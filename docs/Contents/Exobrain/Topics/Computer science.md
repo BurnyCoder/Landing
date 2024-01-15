@@ -42,6 +42,7 @@
 - 
 ## Deep dives
 - [List of unsolved problems in computer science - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
+	-  <iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Brain storming
 - 
 ## Additional resources  
