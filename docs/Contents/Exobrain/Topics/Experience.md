@@ -1,2 +1,6 @@
+---
+aliases:
+  - sentience
+---
 ## Related
-- [[Qualia]]
+- [[Qualia]] 

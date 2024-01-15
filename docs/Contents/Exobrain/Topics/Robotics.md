@@ -21,6 +21,11 @@
 - 
 ## Deep dives
 - 
+## State of the art
+- Mobile ALOHA: software and hardware open source https://fxtwitter.com/zipengfu/status/1742973258528612724 - do laundry👔👖- self-charge⚡️- use a vacuum- water plants🌳- load and unload a dishwasher- use a coffee machine☕️- obtain drinks from the fridge and open a beer🍺- open doors🚪- play with pets🐱- throw away trash - turn on/off a lamp💡
+- Google robotics 
+	- [Scaling up learning across many different robot types - Google DeepMind](https://deepmind.google/discover/blog/scaling-up-learning-across-many-different-robot-types/)
+	- [Shaping the future of advanced robotics - Google DeepMind](https://deepmind.google/discover/blog/shaping-the-future-of-advanced-robotics/)
 ## Brain storming
 - 
 ## Additional resources  
