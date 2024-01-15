@@ -42,6 +42,8 @@
 ## Deep dives
 - [[Theory of Everything in All of Science#Definitions]]
 	- ![[Theory of Everything in All of Science#Definitions]]
+- [Lists of unsolved problems - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
+	- <iframe src="https://en.wikipedia.org/wiki/Lists_of_unsolved_problems" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Brain storming
 - 
 ## Additional resources  

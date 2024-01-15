@@ -14,10 +14,10 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Healthcare" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - [[AI in healthcare]]
-- [The Comprehensive Map of Medicine - YouTube](https://www.youtube.com/watch?v=CkwSeMrOPjc)
+- [[Medicine]]
 ## Contents
 - 
 ## Deep dives
