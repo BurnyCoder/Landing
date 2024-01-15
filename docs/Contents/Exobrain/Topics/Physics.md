@@ -66,6 +66,8 @@
 - 
 ## Additional topics
 - [The Map of Superconductivity - YouTube](https://www.youtube.com/watch?v=bD2M7P6dTVA)
+- [Atomic Spectroscopy Explained in 9 Slides - YouTube](https://www.youtube.com/watch?v=crWBFuUW6kI)
+- [The Incredible Science of CERN - YouTube](https://www.youtube.com/watch?v=hAK6ovQQqtc)
 ## Related
 - 
 ## AI 

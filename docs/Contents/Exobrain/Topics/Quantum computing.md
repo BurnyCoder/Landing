@@ -29,7 +29,7 @@
 ## Related
 - 
 ## Related resources  
-- 
+- [Quantum Simulation Explained in 9 Slides - YouTube](https://www.youtube.com/watch?v=kD370qyxTyw)
 ## AI 
 - 
 ## Additional metadata 

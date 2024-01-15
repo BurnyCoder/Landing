@@ -20,6 +20,8 @@
 ## Landscapes
 - [The Map of Particle Physics | The Standard Model Explained - YouTube](https://www.youtube.com/watch?v=mYcLuWHzfmE)
 	- <iframe title="The Map of Particle Physics | The Standard Model Explained" src="https://www.youtube.com/embed/mYcLuWHzfmE?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+- [[Quantum electrodynamics]]
+- [[Quantum chromodynamics]]
 ## Contents
 - 
 ## Deep dives

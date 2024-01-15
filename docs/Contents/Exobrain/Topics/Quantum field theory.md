@@ -22,7 +22,8 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [Feynman diagram - Wikipedia](https://en.wikipedia.org/wiki/Feynman_diagram)
+	- [How To Read Feynman Diagrams - YouTube](https://www.youtube.com/watch?v=oBNZOOuqO6c)
 ## Brain storming
 - 
 ## Additional resources  
