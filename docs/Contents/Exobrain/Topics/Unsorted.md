@@ -6,7 +6,7 @@ Pigs With Human Brain Cells and Biological Chips: How Lab-Grown Hybrid Life Form
 
 https://twitter.com/rowancheung/status/1746559804527489233 ai tools
 
-https://supertools.therundown.ai/
+[Supertools | Best AI Tools Guide](https://supertools.therundown.ai/)
 
 Nick Bostrom is preparing a new book: "Deep Utopia, Life and Meaning in a Solved World"
 
