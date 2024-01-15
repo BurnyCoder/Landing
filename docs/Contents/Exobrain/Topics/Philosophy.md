@@ -33,7 +33,8 @@
 - [The Map Of Philosophy - YouTube](https://www.youtube.com/watch?v=YxBShJU_CKs)
 	- <iframe title="The Map Of Philosophy" src="https://www.youtube.com/embed/YxBShJU_CKs?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Contents
-- 
+- [[Identity]]
+- [[Self]]
 ## Deep dives
 - 
 ## Brain storming

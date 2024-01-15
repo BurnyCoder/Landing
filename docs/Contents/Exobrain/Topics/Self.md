@@ -14,13 +14,14 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/Ethics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Self" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+- [Outline of self - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_self)
+	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_self" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Contents
 - 
 ## Deep dives
-- [Outline of humanism - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_humanism)
+- 
 ## Brain storming
 - 
 ## Additional resources  

@@ -21,7 +21,8 @@
 		- [[Anthropilogy]], [[Economics]], [[Cognitive science]], [[Gender studies]], [[Geography]], [[History]], [[Law]], [[Information science]], [[Linguistics]], [[Political science]], [[Psychology]], [[Religious studies]], [[Sociology]], [[Sustainability]]
 - [[Systems science]]
 - [[Systems theory]]
-- [[Ideology]]
+- [[Politics]]
+	- [[Ideology]]
 ## Contents
 - 
 ## Deep dives
