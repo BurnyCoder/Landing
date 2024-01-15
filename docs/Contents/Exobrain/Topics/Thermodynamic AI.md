@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Physics]]
+- Part of:
 - Related: 
 - Includes:
 - Additional: 
@@ -13,17 +13,14 @@
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/Quantum_mechanics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Thermodynamic AI and the fluctuation frontier](https://twitter.com/ColesThermoAI/status/1625368583789334528)
+	- <iframe src="https://twitter.com/ColesThermoAI/status/1625368583789334528" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Technology]]
-	- [[Quantum computing]]
-	- [[Quantum machine learning]]
-	[[Quantum field theory]]
+- 
 ## Contents
 - 
 ## Deep dives
-- [[Interpretations of quantum mechanics]]
+- 
 ## Brain storming
 - 
 ## Additional resources  

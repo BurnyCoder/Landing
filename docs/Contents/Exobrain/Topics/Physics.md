@@ -54,7 +54,7 @@
 		- [[Thermodynamic computing]]
 	- [[Artificial Intelligence]]
 		- [[Quantum machine learning]]
-		- [[Thermodynamical machine learning]]
+		- [[Thermodynamic AI]]
 ## Contents
 - 
 ## Deep dives

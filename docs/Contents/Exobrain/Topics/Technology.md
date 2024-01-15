@@ -16,10 +16,13 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Technology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Machine]]
-	[- [[Computing]]](https://www.youtube.com/watch?v=-UlxHPIEVqA&t=825s)
-	- [[Artificial Intelligence]]
-		- [[Robotics]]
+- [[Computing]]
+	- [[Quantum computing]]
+	- [[Thermodynamic computing]]
+- [[Artificial Intelligence]]
+	- [[Quantum machine learning]]
+	- [[Thermodynamic AI]]
+	- [[Robotics]]
 ## Contents
 - 
 ## Deep dives
