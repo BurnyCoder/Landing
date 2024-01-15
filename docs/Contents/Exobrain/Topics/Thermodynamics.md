@@ -14,11 +14,11 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Thermodynamics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
-- [\[1911.09390\] Von Neumann Entropy in QFT](https://arxiv.org/abs/1911.09390)
+- 
 ## Deep dives
 - 
 ## Brain storming

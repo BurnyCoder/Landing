@@ -7,7 +7,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[quantum gravity]] through for example [[emergence]], alternatively also unifying [[Fundamental forces|fundamental forces]].
+- [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[Theory of relativity]] with [[quantum gravity]] through for example [[emergence]], alternatively also unifying [[Fundamental forces|fundamental forces]].
 ## Technical summaries
 - 
 ## Motivation
@@ -18,8 +18,8 @@
 ## Landscapes
 - By subproblems
 	- solve [[Quantum gravity]]
-	- additionally to [[Standard Model of Particle Physics]] [[Quantum field theory]], unify general [[relativity]] with [[Quantum mechanics]]
-		- [[Classical]] from [[quantum]], [[relativity]] emerging from [[Quantum mechanics]]
+	- additionally to [[Standard Model of Particle Physics]] [[Quantum field theory]], unify general [[Theory of relativity]] with [[Quantum mechanics]]
+		- [[Classical]] from [[quantum]], [[Theory of relativity]] emerging from [[Quantum mechanics]]
 			- [[Quantum Darwinism]]
 			- [[Sean Caroll’s physics project]]
 	- unify all other [[Fundamental forces|fundamental forces]]
