@@ -26,6 +26,7 @@
 ## Deep dives
 - [Lists of unsolved problems in biology - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems_in_biology)
 	- <iframe src="https://en.wikipedia.org/wiki/Lists_of_unsolved_problems_in_biology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [[Medicine]]
 - [[Healthcare]]
 - [The Surprising Map of Plants - YouTube](https://www.youtube.com/watch?v=ONVpFtiD-fo)
 ## Brain storming

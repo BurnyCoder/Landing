@@ -19,16 +19,19 @@ aliases:
 ## Technical summaries
 -  The concept of everything can be studied using many lenses such as [[philosophy]], [[Logic]], [[Mathematics]], [[science]].
 ## Main resources 
-- 
+-   [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
+	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+-   [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
+	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Wikipedia:Contents - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents)
+- [Wikipedia:Contents/Overviews - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Overviews)
 ## Contents
 - 
 ## Deep dives
 - 
 - Everything in science and philosophy
-	-  [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
-		- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+
 - Formalized by [[Theory of Everything|Theories of Everything]].
 ## Brain storming
 - 
