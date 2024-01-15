@@ -34,6 +34,8 @@
 	- [Quantum Bayesianism](https://en.wikipedia.org/wiki/Quantum_Bayesianism "Quantum Bayesianism")
 	- [[landing/docs/Images/cc8b7e71884e7930bfa77851a4355635_MD5.jpeg|Open: Pasted image 20240115024350.png]]
 ![[landing/docs/Images/cc8b7e71884e7930bfa77851a4355635_MD5.jpeg]]
+- [The Interpretations of Quantum Mechanics - YouTube](https://www.youtube.com/watch?v=mqofuYCz9gs)
+	- <iframe title="The Interpretations of Quantum Mechanics" src="https://www.youtube.com/embed/mqofuYCz9gs?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Contents
 - 
 ## Deep dives

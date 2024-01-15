@@ -35,6 +35,8 @@
 			- [[Artificial Intelligence]], [[Linguistics]]
 		- [[Omnidisciplinarity]]
 			- [[Cognitive science]]
+- [Map of Science (and everything else) - YouTube](https://www.youtube.com/watch?v=ohyai6GIRZg)
+	- <iframe title="Map of Science (and everything else)" src="https://www.youtube.com/embed/ohyai6GIRZg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Contents
 - 
 ## Deep dives
