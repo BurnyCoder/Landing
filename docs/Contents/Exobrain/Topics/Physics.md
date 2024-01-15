@@ -23,7 +23,7 @@
 		- [[Optics]]
 	- [[Relativity]]
 	- [[Quantum mechanics]]
-	- [[Statistical physics]]
+	- [[Statistical mechanics]]
 		- [[Thermodynamics]]
 		- [[Nonequilibrium thermodynamics]]
 	- [[Information theory]]
@@ -32,6 +32,7 @@
 			- [[Quantum field theory]]
 				- [[Quantum electrodynamics]]
 		- [[Quantum statistical mechanics]]
+		- [[Quantum field statistical mechanics]]
 		- [[Quantum information theory]]
 ## Contents
 - 

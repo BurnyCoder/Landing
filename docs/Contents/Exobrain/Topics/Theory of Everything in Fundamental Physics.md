@@ -9,14 +9,16 @@
 ## Definitions
 - [[Theory of Everything]] solving [[Quantum gravity]] or other ways of unifying [[relativity]] with [[quantum gravity]] through for example [[emergence]], alternatively also unifying [[Fundamental forces|fundamental forces]].
 ## Technical summaries
--  [[Quantum field theory]] is almost a [[Theory of Everything]], but it hasn't solved all problems in [[ physics]]
+- 
+## Motivation
+- [[Quantum field theory]] is almost a [[Theory of Everything]], but it hasn't solved all problems in [[physics]], such as [[quantum gravity]] and others.
 ## Main resources 
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - By subproblems
 	- solve [[Quantum gravity]]
-	- unify [[Relativity]] with [[Quantum mechanics]]
+	- additionally to [[Standard Model of Particle Physics]] [[Quantum field theory]], unify general [[relativity]] with [[Quantum mechanics]]
 		- [[Classical]] from [[quantum]], [[relativity]] emerging from [[Quantum mechanics]]
 			- [[Quantum Darwinism]]
 			- [[Sean Caroll’s physics project]]
