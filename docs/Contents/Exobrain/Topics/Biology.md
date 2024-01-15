@@ -16,11 +16,12 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Biology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+- [Outline of biology - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_biology)
+- [[Biophysics]]
 ## Contents
 - [[Life]]
 ## Deep dives
-- [No Turning Back: The Nonequilibrium Statistical Thermodynamics of becoming (and remaining) Life-Like - YouTube](https://www.youtube.com/watch?v=10cVVHKCRWw)
+- 
 ## Brain storming
 - 
 ## Additional resources  

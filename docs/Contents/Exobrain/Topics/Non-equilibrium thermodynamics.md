@@ -20,7 +20,7 @@
 ## Contents
 - 
 ## Deep dives
-- [No Turning Back: The Nonequilibrium Statistical Thermodynamics of becoming (and remaining) Life-Like - YouTube](https://www.youtube.com/watch?v=10cVVHKCRWw)
+- [[Biophysics]]
 ## Brain storming
 - 
 ## Additional resources  
