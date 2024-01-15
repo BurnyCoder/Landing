@@ -19,3 +19,8 @@ Greetings fellow reality connoisseur!
 - What is the most useful logic and mathematical foundations? What are the most beautiful, novel and exotic parts of formal sciences? Can we mathematize ethics? Are positions in metaphysics with ontology arbitrary? What is the best epistemology according to information theory? What is the best [[Interpretations of quantum mechanics|interpretation of quantum mechanics]]? How does [[Identity]] work? What are the best positions in philosophy for science, meaning, wellbeing and freedom? 
 - Omni/Acc = Steelman and if possible verify all models from all disciplines, all theoretical, applied, natural, formal, social sciences, all movements with worldviews shaping the future, all overall philosophical or other perspectives, and synthesize them all on a higher level of complexity as compatibly as possible for collective survival, wellbeing, flourishing and growth of all of sentience! Let's integrate it all into one useful framework!
 [[Unsorted]] 
+
+```wordcloud 
+source: file 
+query: '/home/burny/Desktop/Everything/landing/docs/Contents/Exobrain' 
+```
