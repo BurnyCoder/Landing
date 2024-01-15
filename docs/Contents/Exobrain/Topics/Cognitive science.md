@@ -18,6 +18,7 @@
 ## Landscapes
 - [[Wellbeing]]
 - [[Philosophy of mind]]
+- [[Identity]]
 ## Contents
 - 
 ## Deep dives

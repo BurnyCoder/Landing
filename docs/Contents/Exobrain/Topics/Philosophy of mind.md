@@ -20,7 +20,7 @@
 - [[landing/docs/Images/ee9303ab02f0f0db1c80e9692e05eb66_MD5.jpeg|Open: Pasted image 20240108022408.png]]
 ![[landing/docs/Images/ee9303ab02f0f0db1c80e9692e05eb66_MD5.jpeg]]
 ## Contents
-- 
+- [[Identity]]
 ## Deep dives
 - 
 ## Brain storming
