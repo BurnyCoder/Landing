@@ -16,8 +16,10 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Technology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Computer]]
-- [[Artificial Intelligence]] 
+- [[Machine]]
+	- [[Computer]]
+	- [[Artificial Intelligence]]
+		- [[Robotics]]
 ## Contents
 - 
 ## Deep dives
