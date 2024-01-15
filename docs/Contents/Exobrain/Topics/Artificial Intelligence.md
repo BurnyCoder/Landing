@@ -20,6 +20,8 @@ aliases:
 - [Artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 	- <iframe src="https://en.wikipedia.org/wiki/Artificial Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
+- [[Generative AI]]
+- [[Robotics]]
 - By approach
 	- [[Symbolic artificial intelligence]] 
 		- ![[Symbolic artificial intelligence#Definitions]] 
