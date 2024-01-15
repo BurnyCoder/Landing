@@ -30,7 +30,9 @@
 ## Contents
 - 
 ## Deep dives
-- 
+- [[Theory of Everything in Intelligence#Definitions]]
+		-  ![[Theory of Everything in Intelligence#Definitions]]
+
 ## Brain storming
 - 
 ## Additional resources  
