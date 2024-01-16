@@ -1,3 +1,9 @@
+---
+aliases:
+  - math
+  - maths
+  - mathematical
+---
 ## Tags
 - Metadata: #topic 
 - Part of: [[Science]] [[Formal science]] [[Natural science]] [[Omnidisciplionary]]

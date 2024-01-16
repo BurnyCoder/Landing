@@ -1,3 +1,7 @@
+---
+aliases:
+  - physical
+---
 ## Tags
 - Metadata: #topic
 - Topics: [[landing/docs/Contents/Exobrain/Topics/Science|Science]] [[Mathematics|Mathematics]] 
