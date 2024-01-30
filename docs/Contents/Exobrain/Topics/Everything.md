@@ -92,7 +92,7 @@ aliases:
    - Planetary Science
    - Astrobiology
 
-### Social Sciences
+### [[Social Science]]
 1. **Psychology**
    - Clinical Psychology
    - Cognitive Psychology
@@ -144,7 +144,7 @@ aliases:
    - Economic History
    - Cultural History
 
-### Formal Sciences
+### [[Formal Science]]
 1. **Mathematics**
    - Algebra
    - Calculus
