@@ -42,9 +42,7 @@ aliases:
 ## Related
 - Limits to formalizing everything mathematically: [[Russel’s paradox]]
 ## AI 
-- Creating an exhaustive list of all branches of knowledge is a challenging task, as knowledge is vast and continuously expanding. However, I can provide a comprehensive list that covers the major fields and some of their subfields. Keep in mind that this list is not exhaustive and the boundaries between these fields can often be fluid.
-
-### Natural Sciences
+### [[Natural Science]]
 1. **Physics**
    - Classical Mechanics
    - Quantum Mechanics
