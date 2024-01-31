@@ -68,7 +68,7 @@
    - Molecular Basis of Neurological Disorders
    - Genetic Engineering in Neuroscience
 
-### 3. Systems Neuroscience
+### 3. [[Systems Neuroscience]]
    - Sensory Systems
    - Motor Systems
    - Neural Circuits
@@ -86,7 +86,7 @@
    - Psychophysics
    - Learning and Memory
 
-### 5. Cognitive Neuroscience
+### 5. [[Cognitive Neuroscience]]
    - Memory and Learning
    - Attention and Decision-Making
    - Language Processing
