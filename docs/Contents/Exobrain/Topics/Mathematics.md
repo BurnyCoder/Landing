@@ -42,7 +42,8 @@ aliases:
 	- [[Discrete mathematics]]
 		- [[Graph theory]]
 	- [[Statistics]], [[Probability theory]]
-
+	- [[Computer science]]
+		- [[Theory of computation]]
 	- Unity
 		- [[Algebraic Geometry]]
 		- [[Algebraic Topology]]

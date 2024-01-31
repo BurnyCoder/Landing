@@ -19,7 +19,7 @@
 - [[Computer science]]
 - [[Theory of computation]]
 - [[Computational complexity theory]]
-- [[Quantum computing]]
+- [[landing/docs/Contents/Exobrain/Topics/Quantum computation]]
 - [[Thermodynamic computing]]
 ## Contents
 - 

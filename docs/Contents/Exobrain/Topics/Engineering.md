@@ -22,7 +22,7 @@
 - [The Map of Engineering - YouTube](https://www.youtube.com/watch?v=pQgxiQAMTTo)
 	- <iframe title="The Map of Engineering" src="https://www.youtube.com/embed/pQgxiQAMTTo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [[Computing]]
-	- [[Quantum computing]]
+	- [[landing/docs/Contents/Exobrain/Topics/Quantum computation]]
 	- [[Thermodynamic computing]]
 - [[Artificial Intelligence]]
 	- [[Quantum machine learning]]

@@ -17,7 +17,7 @@
 	- <iframe src="https://en.wikipedia.org/wiki/Technology" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - [[Computing]]
-	- [[Quantum computing]]
+	- [[landing/docs/Contents/Exobrain/Topics/Quantum computation]]
 	- [[Thermodynamic computing]]
 - [[Artificial Intelligence]]
 	- [[Quantum machine learning]]
