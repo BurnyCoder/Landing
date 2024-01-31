@@ -96,7 +96,7 @@ aliases:
      - Diophantine Geometry
      - Cryptography
      - Combinatorial Number Theory
-   - **Logic and Foundations**
+   - **Logic and [[Foundations of mathematics]]**
      - Mathematical Logic
      - Set Theory
      - Model Theory

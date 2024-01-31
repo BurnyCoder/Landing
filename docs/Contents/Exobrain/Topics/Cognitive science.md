@@ -70,7 +70,7 @@
    - Computer Vision
    - Neural Networks
 
-### 4. Linguistics and Semiotics
+### 4. [[Linguistics]] and [[Semiotics]]
    - Theoretical Linguistics
    - Sociolinguistics
    - Psycholinguistics
