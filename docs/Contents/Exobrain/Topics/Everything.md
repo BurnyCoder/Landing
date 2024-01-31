@@ -175,7 +175,7 @@ aliases:
    - Econometrics
    - Applied Statistics
 
-### Applied Sciences]]
+### [[Applied Science]]
 1. **Engineering**
    - Mechanical Engineering
    - Electrical Engineering
@@ -209,7 +209,7 @@ aliases:
    - Interior Design
    - Sustainable Design
 
-### Humanities
+### [[Humanities]]
 1. **Philosophy**
    - Metaphysics
    - Epistemology
@@ -245,7 +245,7 @@ aliases:
    - Musicology
    - Ethnomusicology
 
-### Interdisciplinary Fields
+### [[interdisciplinarity]]
 - Environmental Studies
 - Gender Studies
 - Urban Studies

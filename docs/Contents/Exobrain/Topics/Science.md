@@ -31,8 +31,8 @@
 		- [[Social science#Definitions]]
 			- ![[Social science#Definitions]]
 			- [[Sociology]]
-		- [[Interdisciplionarity]]
-			- ![[Interdisciplionarity#Definitions]]			
+		- [[Interdisciplinarity]]
+			- ![[Interdisciplinarity#Definitions]]			
 			- [[Artificial Intelligence]], [[Linguistics]]
 		- [[Transdisciplinarity]]
 			- ![[Transdisciplinarity#Definitions]]
@@ -65,8 +65,8 @@
 ## Related
 - 
 ## AI 
-### Natural Sciences
-1. **Physics**
+### [[Natural Science]]
+1. **[[Physics]]**
    - Classical Mechanics
    - Quantum Mechanics
    - Thermodynamics
@@ -117,7 +117,7 @@
    - Planetary Science
    - Astrobiology
 
-### Social Sciences
+### [[Social Science]]
 1. **Psychology**
    - Clinical Psychology
    - Cognitive Psychology
@@ -175,8 +175,8 @@
    - Economic History
    - Cultural History
 
-### Formal Sciences
-1. **Mathematics**
+### [[Formal Science]]
+1. **[[Mathematics]]**
    - Algebra
    - Calculus
    - Geometry
@@ -186,7 +186,7 @@
    - Number Theory
    - Topology
 
-2. **Computer Science**
+2. **[[Computer Science]]**
    - Theoretical Computer Science
    - Software Engineering
    - Artificial Intelligence
@@ -208,7 +208,7 @@
    - Econometrics
    - Applied Statistics
 
-### Applied Sciences
+### [[Applied Science]]
 1. **Engineering**
    - Mechanical Engineering
    - Electrical Engineering
@@ -245,7 +245,7 @@
    - Interior Design
    - Sustainable Design
 
-### Humanities
+### [[Humanities]]
 1. **Philosophy**
    - Metaphysics
    - Epistemology
@@ -287,7 +287,7 @@
    - Musicology
    - Ethnomusicology
 
-### Interdisciplinary Fields
+### [[Interdisciplinarity]]
 - Environmental Studies
 - Gender Studies
 - Urban Studies
