@@ -32,14 +32,14 @@
 ## AI 
 - Mathematical [[logic]] is a subfield of mathematics exploring applications of [[formal logic]] to mathematics. It deals with mathematical properties of formal logical systems. Here's a comprehensive list of the various branches and topics within mathematical logic:
 
-### 1. Set Theory
+### 1. [[Set Theory]]
    - Axiomatic Set Theory (ZFC, Von Neumann-Bernays-Gödel, etc.)
    - Cardinal and Ordinal Numbers
    - Infinite Combinatorics
    - Large Cardinals and Independence Results
    - Constructible Universe (L) and Inner Models
 
-### 2. Model Theory
+### 2. [[Model theory]]
    - Structures and Interpretations
    - Elementary Equivalence and Embeddings
    - Quantifier Elimination and Model Completeness

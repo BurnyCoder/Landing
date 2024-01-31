@@ -48,7 +48,7 @@
    - Infinitary Combinatorics
    - Large Cardinals
 
-### 3. Model Theory
+### 3. [[Model theory]]
    - First-Order Model Theory
    - Model-Theoretic Algebra
    - Model-Theoretic Semantics
