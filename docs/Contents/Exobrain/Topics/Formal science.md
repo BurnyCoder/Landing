@@ -34,7 +34,7 @@
 - 
 ## AI 
 - Formal sciences are disciplines that study formal systems, using mathematical and logical methods. They are crucial in developing the theoretical underpinnings for other scientific fields. Here's a comprehensive list of the various branches and sub-disciplines within formal sciences:
-### 1. Mathematics
+### 1. [[Mathematics]]
    - Pure Mathematics
      - Algebra
      - Geometry
@@ -62,7 +62,7 @@
      - Numerical Analysis
      - Optimization
 
-### 2. Computer Science
+### 2. [[Computer Science]]
    - Theoretical Computer Science
      - Algorithms
      - Data Structures
