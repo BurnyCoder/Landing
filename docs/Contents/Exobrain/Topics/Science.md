@@ -46,8 +46,10 @@
 -  [[Basic research#Definitions]]
 	- ![[Basic research#Definitions]]
 - [[Metascience]]
-	-  ![[Basic research#Definitions]]
-- [[Humanities]], [[Philosophy]]
+	-  ![[Metascience#Definitions]]
+- [[Humanities]]
+	-  ![[Humanities#Definitions]]
+	- [[Philosophy]]
 
 ## Contents
 - 
