@@ -175,7 +175,7 @@ aliases:
    - Econometrics
    - Applied Statistics
 
-### Applied Sciences
+### Applied Sciences]]
 1. **Engineering**
    - Mechanical Engineering
    - Electrical Engineering
@@ -255,6 +255,13 @@ aliases:
 - Neurosciences
 
 This list is a broad overview and is by no means exhaustive. Each field continues to grow and evolve, and new subfields are constantly emerging.
+
+[[landing/docs/Images/1c819f7d79416c7d9285341f99880787_MD5.jpeg|Open: DALL·E 2024-01-31 02.06.05 - A futuristic AI-generated knowledge graph, visually represented as a galaxy-themed brain. This brain is filled with interconnected nodes and pathways,.png]]
+![[landing/docs/Images/1c819f7d79416c7d9285341f99880787_MD5.jpeg]]
+[[landing/docs/Images/73d6095436ed08c90bce22d1e84bf349_MD5.jpeg|Open: DALL·E 2024-01-31 00.37.19 - A creative and detailed illustration of a tree of knowledge, where the roots prominently feature Philosophy, Mathematics, and Physics, emphasizing the.png]]
+![[landing/docs/Images/73d6095436ed08c90bce22d1e84bf349_MD5.jpeg]]
+[[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg|Open: DALL·E 2024-01-31 00.35.14 - An intricate and detailed illustration depicting a tree of knowledge. The tree's branches represent various branches of knowledge. Each major branch i.png]]
+![[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg]]
 ## Additional metadata 
 -  #processing #important #short #long #casual #focus
 - Unfinished: #metadata #tags
