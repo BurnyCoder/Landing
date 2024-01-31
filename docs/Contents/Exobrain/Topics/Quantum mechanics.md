@@ -29,6 +29,8 @@ aliases:
 ## Contents
 - 
 ## Deep dives
+- [What is the Schrödinger Equation? A basic introduction to Quantum Mechanics - YouTube](https://www.youtube.com/watch?v=2WPA1L9uJqo)
+- [The Hydrogen Atom, Part 1 of 3: Intro to Quantum Physics - YouTube](https://www.youtube.com/watch?v=-Y0XL-K0jy0)
 - [[Interpretations of quantum mechanics]]
 ## Brain storming
 - 

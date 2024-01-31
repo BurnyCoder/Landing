@@ -55,7 +55,7 @@ aliases:
 		- [[Neurophysics]]
 - [[Technology]]
 	- [[Computing]]
-		- [[landing/docs/Contents/Exobrain/Topics/Quantum computation]]
+		- [[Quantu]]
 		- [[Thermodynamic computing]]
 	- [[Artificial Intelligence]]
 		- [[Quantum machine learning]]
