@@ -204,7 +204,7 @@ aliases:
    - Autoencoders
    - Radial Basis Function Networks
    - Transformers
-   - State space models
+   - Linear-Time Sequence Modeling with Selective State Spaces
 
 ### 9. Data Mining and Big Data
    - Predictive Analytics
