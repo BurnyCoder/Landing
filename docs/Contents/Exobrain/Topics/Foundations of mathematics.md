@@ -40,7 +40,7 @@
    - Intuitionistic Logic
    - Non-classical Logics
 
-### 2. Set Theory
+### 2. [[Set Theory]]
    - Naive Set Theory
    - Axiomatic Set Theory (Zermelo-Fraenkel, Von Neumann-Bernays-Gödel)
    - Ordinal Theory
@@ -63,7 +63,7 @@
    - Consistency Proofs
    - Computational Proof Theory
 
-### 5. Category Theory
+### 5. [[Category Theory]]
    - Abstract Categories
    - Functors and Natural Transformations
    - Topos Theory
