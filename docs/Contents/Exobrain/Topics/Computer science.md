@@ -30,6 +30,7 @@
 - [[Cryptography]]
 - [[Computational complexity theory]]
 - [[Computing]]
+	- [[Theory of computation]]
 	- [[Quantum computing]]
 	- [[Celluar automata]]
 - [[Software engineering]]
