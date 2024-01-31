@@ -121,10 +121,10 @@ aliases:
      - Topological Groups
    - **Calculus of Variations**
    - **Mathematical Physics**
-     - Quantum Mechanics
+     - [[Quantum Mechanics]]
      - General Relativity
      - String Theory
-     - Statistical Mechanics
+     - [[Statistical Mechanics]]
 
 ### 2. Applied Mathematics
    - **Statistics**
@@ -157,7 +157,7 @@ aliases:
      - Nonlinear Programming
      - Stochastic Models
      - Queueing Theory
-   - **Control Theory**
+   - **[[Control Theory]]**
      - Classical Control Theory
      - Modern Control Theory
      - Optimal Control
