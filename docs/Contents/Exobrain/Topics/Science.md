@@ -31,7 +31,7 @@
 		- [[Social science#Definitions]]
 			- ![[Social science#Definitions]]
 			- [[Sociology]]
-		- [[Transdisciplinarity]]
+		- [[Interdisciplionarity]], [[Transdisciplinarity]]
 			- [[Artificial Intelligence]], [[Linguistics]]
 		- [[Omnidisciplinarity]]
 			- [[Cognitive science]]
