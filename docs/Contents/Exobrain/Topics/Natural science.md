@@ -63,7 +63,7 @@ At 10^-32m is thought to exist a foam of twisted spacetime (Quantum foam). 10^-2
 - 
 ## AI 
 The natural sciences encompass a broad range of fields that study the natural world. Here is a comprehensive list, including various sub-disciplines and specializations:
-### 1. Physics
+### 1. [[Physics]]
    - Classical Mechanics
    - Quantum Mechanics
    - Thermodynamics
