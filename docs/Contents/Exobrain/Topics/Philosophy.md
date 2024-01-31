@@ -56,7 +56,7 @@
    - Metaphysical Theology
    - Modal Logic (Concerning Possibility and Necessity)
 
-### 2. Epistemology
+### 2. [[Epistemology]]
    - Theory of Knowledge
    - Philosophy of Perception
    - Philosophy of Science
