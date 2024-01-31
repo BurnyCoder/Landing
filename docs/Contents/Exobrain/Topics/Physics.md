@@ -81,7 +81,7 @@ aliases:
 
 ### 1. Classical Physics
    - Mechanics
-     - Classical Mechanics
+     - [[Classical Mechanics]]
      - Continuum Mechanics
      - Fluid Mechanics
      - Statics
