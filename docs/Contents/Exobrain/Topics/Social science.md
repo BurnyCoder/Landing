@@ -34,6 +34,7 @@
 ## Related
 - 
 ## AI 
+Social sciences encompass a wide range of disciplines that study society, human behavior, and social relationships. Here's a comprehensive list of various branches and sub-disciplines within social sciences:
 ### 1. Psychology
    - Clinical Psychology
    - Cognitive Psychology

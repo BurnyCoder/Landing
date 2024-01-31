@@ -42,6 +42,7 @@ aliases:
 ## Related
 - Limits to formalizing everything mathematically: [[Russel’s paradox]]
 ## AI 
+### [[Science]]
 ### [[Natural Science]]
 1. **Physics**
    - Classical Mechanics
