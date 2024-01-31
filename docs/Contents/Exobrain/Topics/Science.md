@@ -31,9 +31,13 @@
 		- [[Social science#Definitions]]
 			- ![[Social science#Definitions]]
 			- [[Sociology]]
-		- [[Interdisciplionarity]], [[Transdisciplinarity]]
+		- [[Interdisciplionarity]]
+			- ![[Interdisciplionarity#Definitions]]			
 			- [[Artificial Intelligence]], [[Linguistics]]
+		- [[Transdisciplinarity]]
+			- ![[Transdisciplinarity#Definitions]]
 		- [[Omnidisciplinarity]]
+			- ![[Omnidisciplinarity#Definitions]]
 			- [[Cognitive science]]
 - [Map of Science (and everything else) - YouTube](https://www.youtube.com/watch?v=ohyai6GIRZg)
 	- <iframe title="Map of Science (and everything else)" src="https://www.youtube.com/embed/ohyai6GIRZg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
@@ -42,6 +46,7 @@
 -  [[Basic research#Definitions]]
 	- ![[Basic research#Definitions]]
 - [[Metascience]]
+	-  ![[Basic research#Definitions]]
 - [[Humanities]], [[Philosophy]]
 
 ## Contents
