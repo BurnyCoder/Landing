@@ -48,7 +48,150 @@
 ## Related
 - 
 ## AI 
-- 
+- Neuroscience is an interdisciplinary field that studies the nervous system and its impact on behavior and cognitive functions. It encompasses a wide range of sub-disciplines and specializations. Here's a comprehensive list:
+
+### 1. Cellular Neuroscience
+   - Neuron Anatomy
+   - Synaptic Transmission
+   - Neurogenesis
+   - Glial Cell Function
+   - Cellular Neurophysiology
+   - Molecular Neurobiology
+   - Signal Transduction
+
+### 2. Molecular Neuroscience
+   - Neurochemistry
+   - Neuropharmacology
+   - Neurogenetics
+   - Molecular Neuroanatomy
+   - Neurotransmitters and Receptors
+   - Molecular Basis of Neurological Disorders
+   - Genetic Engineering in Neuroscience
+
+### 3. Systems Neuroscience
+   - Sensory Systems
+   - Motor Systems
+   - Neural Circuits
+   - Neurophysiology
+   - Comparative Neuroscience
+   - Brain Mapping and Imaging
+   - Neural Networks
+
+### 4. Behavioral Neuroscience
+   - Neuropsychology
+   - Cognitive Neuroscience
+   - Emotion and Affective Neuroscience
+   - Social Neuroscience
+   - Neuroethology (Animal Behavior)
+   - Psychophysics
+   - Learning and Memory
+
+### 5. Cognitive Neuroscience
+   - Memory and Learning
+   - Attention and Decision-Making
+   - Language Processing
+   - Perception
+   - Consciousness Studies
+   - Executive Functions
+   - Neuroimaging
+
+### 6. Clinical Neuroscience
+   - Neurology
+   - Psychiatry
+   - Neurosurgery
+   - Pediatric Neuroscience
+   - Neuropsychiatry
+   - Neurorehabilitation
+   - Brain Injury Medicine
+
+### 7. Computational Neuroscience
+   - Neural Modeling
+   - Computational Neuroanatomy
+   - Neuroinformatics
+   - Theoretical Neuroscience
+   - Brain-Computer Interfaces
+   - Machine Learning in Neuroscience
+   - Network Neuroscience
+
+### 8. Neuroimaging
+   - MRI and fMRI
+   - PET and SPECT
+   - EEG and MEG
+   - DTI and QBI
+   - Optical Imaging
+   - Single-Photon Emission Computed Tomography
+   - Near-Infrared Spectroscopy
+
+### 9. Developmental Neuroscience
+   - Neuroembryology
+   - Neural Development
+   - Synaptic Plasticity
+   - Neurotrophic Factors
+   - Developmental Neurobiology
+   - Pediatric Neurology
+   - Neurodevelopmental Disorders
+
+### 10. Neuropharmacology and Neurochemistry
+   - Psychopharmacology
+   - Neurotoxicology
+   - Drug Development and Testing
+   - Neurotransmitter Systems
+   - Chemical Neuroanatomy
+   - Neuromodulators and Neurohormones
+
+### 11. Neuroanatomy
+   - Gross Anatomy of the Brain
+   - Comparative Neuroanatomy
+   - Histology of Nervous Tissue
+   - Tractography
+   - Functional Neuroanatomy
+   - Cytoarchitecture
+
+### 12. Neurophysiology
+   - Electrophysiology
+   - Neuroendocrinology
+   - Sensory Physiology
+   - Motor Physiology
+   - Autonomic Nervous System
+   - Neurovascular Physiology
+
+### 13. Neurogenetics
+   - Genetic Disorders of the Nervous System
+   - Epigenetics in Neuroscience
+   - Neurogenomic Studies
+   - Gene Therapy in Neurological Diseases
+   - Molecular Genetics of Neural Development
+
+### 14. Evolutionary Neuroscience
+   - Evolution of the Nervous System
+   - Comparative Neurology
+   - Paleo-Neurobiology
+   - Animal Models in Neuroscience
+
+### 15. Neuropathology
+   - Neurodegenerative Diseases
+   - Stroke and Cerebrovascular Diseases
+   - Brain Tumors
+   - Infectious Diseases of the Nervous System
+   - Traumatic Brain Injury
+   - Neuroimmunology
+
+### 16. Interventional Neuroscience
+   - Deep Brain Stimulation
+   - Neural Prosthetics
+   - Neuromodulation Therapies
+   - Neurosurgical Techniques
+   - Transcranial Magnetic Stimulation
+
+### 17. Specialized Research Areas
+   - Nutritional Neuroscience
+   - Music Neuroscience
+   - Sports Neuroscience
+   - Geriatric Neuroscience
+   - Environmental Neuroscience
+   - Neuroaesthetics
+
+Each of these branches focuses on different aspects of the nervous system, from molecular and cellular processes to complex behaviors and cognitive functions. Neuroscience is a dynamic and expanding field, continuously evolving with new discoveries and technologies.
 ## Additional metadata 
 -  #processed #processing #toprocess #important #short #long #casual #focus
 - Unfinished: #metadata #tags

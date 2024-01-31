@@ -44,7 +44,7 @@ aliases:
 ## AI 
 ### [[Science]]
 ### [[Natural Science]]
-1. **Physics**
+1. **[[Physics]]**
    - Classical Mechanics
    - Quantum Mechanics
    - Thermodynamics

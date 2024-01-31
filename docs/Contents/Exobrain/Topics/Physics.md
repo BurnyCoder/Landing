@@ -101,7 +101,7 @@ aliases:
 
 ### 2. Modern Physics
    - Quantum Physics
-     - Quantum Mechanics
+     - [[Quantum Mechanics]]
      - Quantum Field Theory
      - Quantum Electrodynamics
      - Quantum Chromodynamics
