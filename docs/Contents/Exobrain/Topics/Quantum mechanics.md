@@ -39,7 +39,7 @@ aliases:
 ## Related resources  
 - 
 ## AI 
-- Quantum physics, also known as quantum mechanics or quantum theory, is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It is a complex and diverse field, with various branches and specialized areas of study. Here's a comprehensive list of the branches of quantum physics:
+- Quantum physics, also known as quantum mechanics or quantum theory, is a fundamental theory in [[physics]] that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It is a complex and diverse field, with various branches and specialized areas of study. Here's a comprehensive list of the branches of quantum physics:
 
 ### 1. Foundations of Quantum Mechanics
    - Quantum Entanglement
@@ -84,6 +84,7 @@ aliases:
    - Quantum Heat Engines
    - Quantum Refrigeration
    - Quantum Entropy
+   - Open Quantum Systems
    - Non-Equilibrium Quantum Systems
 
 ### 6. Quantum Condensed Matter Physics
