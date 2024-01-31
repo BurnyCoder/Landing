@@ -90,7 +90,7 @@ aliases:
      - Acoustics
    - Thermodynamics
      - Heat Transfer
-     - Statistical Mechanics
+     - [[Statistical Mechanics]]
      - Thermoelectricity
    - Electromagnetism
      - Electrostatics
