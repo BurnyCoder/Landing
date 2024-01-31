@@ -38,7 +38,7 @@
 ## AI 
 - The world of technology is vast and diverse, encompassing a wide range of fields that apply [[sciencewscientific]] [[knowledge]] for practical purposes. Starting with applied [[computer science]] [[mathematics]] and extending to the [[physics]] of computer [[hardware]], [[robotics]], and many other technologies, here's an extensive list of various branches within the realm of technology:
 
-### 1. Applied Computer Science Mathematics
+### 1. [[Applied science|Applied]] [[Computer Science]] [[Mathematics]]
    - Algorithm Design and Analysis
    - Cryptography and Network Security
    - Data Structures
@@ -54,27 +54,27 @@
    - Computer Networks and Protocols
    - Distributed and Parallel Computing
 
-### 3. Applied Theory of [[Quantum computing]]
+### 3. Applied Theory of [[Quantum computing|Quantum Computation]]
    - Quantum Algorithms Implementation
    - Quantum Cryptography Applications
    - Quantum Computing Hardware
    - Quantum Simulation for Material Science and Chemistry
 
-### 4. Applied Theory of Machine Learning
+### 4. Applied Theory of [[Machine Learning]]
    - Neural Networks in Practical Applications
    - Deep Learning Technologies
    - Predictive Analytics in Business and Finance
    - Computer Vision and Image Processing
-   - Natural Language Processing and Speech Recognition
+   - [[Natural Language Processing]] and Speech Recognition
 
-### 5. Physics of Computer Hardware
+### 5. [[Physics]] of [[Computer]] [[Hardware]]
    - Semiconductor Physics and Devices
    - Microprocessor Design and Architecture
    - VLSI Design
    - Computer System Architecture
    - Quantum Hardware Development
 
-### 6. Robotics
+### 6. [[Robotics]]
    - Industrial Robotics
    - Humanoid Robots
    - Drones and Aerial Robotics
@@ -278,18 +278,18 @@ Technology is an ever-expanding field, continually evolving with the development
    - Path Planning and Optimization
    - Sensor Fusion and Data Analysis
 
-### 14. Quantum Information Science
+### 14. [[Quantum Information Theory]]
    - Quantum Entanglement and Teleportation
    - Quantum Communication Protocols
    - Quantum Key Distribution
 
-### 15. Artificial Intelligence Theory
+### 15. [[Artificial Intelligence]] Theory
    - Logic and Reasoning in AI
    - Search Algorithms and Heuristics
    - Knowledge Representation
    - Multi-Agent Systems Theory
 
-### 16. Computational Neuroscience
+### 16. [[Computational Neuroscience]]
    - Neural Network Modeling
    - Brain-Computer Interface Modeling
    - Cognitive Computing Models

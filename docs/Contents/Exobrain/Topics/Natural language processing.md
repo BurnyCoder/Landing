@@ -16,7 +16,8 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Natural_language_processing" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- 
+- [[Transformer]]
+- [[GPT4]], [[Gemini]]
 ## Contents
 - 
 ## Deep dives
