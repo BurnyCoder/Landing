@@ -33,7 +33,7 @@
 ## AI 
 - Systems theory is an interdisciplinary field that studies the nature and behavior of complex systems in nature, society, and science. It involves understanding systems by examining the interconnections and interactions among their components. Here's a comprehensive list of various branches and sub-disciplines within systems theory:
 
-### 1. General Systems Theory
+### 1. General [[Systems Theory]]
    - Holism and Reductionism
    - Systems Dynamics
    - Systems Thinking
@@ -41,7 +41,7 @@
    - Systemic Properties (e.g., Emergence, Feedback, Homeostasis)
    - System Structure and Function
 
-### 2. Cybernetics
+### 2. [[Cybernetics]]
    - First-Order Cybernetics
    - Second-Order Cybernetics
    - Control Theory
