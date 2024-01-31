@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Natural science]] [[Formal science]] [[Systems theory]] [[]]
+- Part of: [[Natural science]] [[Formal science]] [[Systems theory]] 
 - Related: 
 - Includes:
 - Additional: 
@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Systems science, also referred to as systems research,[1] or, simply, systems,[2] is a transdisciplinary[3] field concerned with understanding systems—from simple to complex—in nature, society, cognition, engineering, technology and science itself. The field is diverse, spanning the formal, natural, social, and applied sciences.
+- Systems science, also referred to as systems research, or, simply, [[systems]], is a [[Transdisciplinarity|transdisciplionary]] field concerned with understanding systems—from simple to complex—in nature, [[society]], [[cognition]], [[engineering]], [[technology]] and [[science]] itself. The field is diverse, spanning the [[formal]], natural, social, and applied sciences.
 ## Technical summaries
 -  
 ## Main resources 

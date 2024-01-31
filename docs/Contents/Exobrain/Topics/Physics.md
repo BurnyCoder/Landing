@@ -39,6 +39,7 @@ aliases:
 		- [[Thermodynamics]]
 		- [[Non-equilibrium statistical mechanics]]
 			- [[Non-equilibrium thermodynamics]]
+	- [[Dynamical systems theory]]
 	- [[Information theory]]
 	- Unity
 		- [[Relativistic quantum mechanics]]

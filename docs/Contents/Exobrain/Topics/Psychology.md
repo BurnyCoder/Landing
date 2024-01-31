@@ -10,7 +10,7 @@
 - 
 ## Definitions
 - Applied [[biology]], applied [[neuroscience]].
-- Studies [[Dynamical system|dynamics]] of [[Biology|biological]] [[Consciousness|conscious]] [[physics|physical]] systems on mostly nontechnical [[functionalism|functional]] level
+- Studies [[Dynamical systems theory|dynamics]] of [[Biology|biological]] [[Consciousness|conscious]] [[physics|physical]] systems on mostly nontechnical [[functionalism|functional]] level
 ## Technical summaries
 -  
 ## Main resources 

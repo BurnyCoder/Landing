@@ -8,7 +8,7 @@
 - 
 ## Definitions
 - A [[Theory of Everything]] that is that is solving not just [[Theory of Everything in Fundamental Physics]], but also all other unsolved problems in physics, such as dark matter, dark energy, black hole information paradox, neutrino mass and others
-- Finding out exact [[Differential equations|differential equation]] for every possible [[Dynamical system|dynamical system]]
+- Finding out exact [[Differential equations|differential equation]] for every possible [[Dynamical systems theory|dynamical system]]
 ## Technical summaries
 -  
 ## Main resources 
