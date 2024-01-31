@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Theory of Everything in Fundamental Physics]]
 - Related: 
 - Includes:
 - Additional: 
@@ -14,14 +14,13 @@
 -  
 ## Main resources 
 - 
-	- <iframe src="https://en.wikipedia.org/wiki/Theory_of_relativity" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/M-theory" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - 
 ## Contents
-- 
+- [M Theory | Towards a theory of everything? - YouTube](https://www.youtube.com/watch?v=plU31-qtZ78)
 ## Deep dives
-- [relativity in nLab](https://ncatlab.org/nlab/show/relativity)
-- [The Maths of General Relativity](https://www.youtube.com/playlist?list=PLu7cY2CPiRjVY-VaUZ69bXHZr5QslKbzo)
+- 
 ## Brain storming
 - 
 ## Additional resources  

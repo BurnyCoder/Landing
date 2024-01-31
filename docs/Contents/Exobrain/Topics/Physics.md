@@ -50,12 +50,15 @@ aliases:
 		- [[Quantum statistical mechanics]]
 		- [[Quantum field statistical mechanics]]
 		- [[Quantum information theory]]
+		- [[Loop Quantum Gravity]]
+		- [[String theory]]
+		- [[M Theory]]
 - [[Interdisciplinarity]]
 	- [[Biophysics]]
 		- [[Neurophysics]]
 - [[Technology]]
 	- [[Computing]]
-		- [[Quantu]]
+		- [[Quantum computing]]
 		- [[Thermodynamic computing]]
 	- [[Artificial Intelligence]]
 		- [[Quantum machine learning]]
@@ -67,6 +70,7 @@ aliases:
 	-  <iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [Every Thing in Space - YouTube](https://www.youtube.com/watch?v=uniGQrGLEoI)
 - [The Map of Black Holes | Black Holes Explained - YouTube](https://www.youtube.com/watch?v=Wf0uxjWGwPk)
+- [physics in nLab](https://ncatlab.org/nlab/show/physics)
 ## Brain storming
 - 
 ## Additional resources
