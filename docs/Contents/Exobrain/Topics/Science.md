@@ -39,8 +39,9 @@
 	- <iframe title="Map of Science (and everything else)" src="https://www.youtube.com/embed/ohyai6GIRZg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 -  [[Applied science#Definitions]]
 	- ![[Applied science#Definitions]]
-- -  [[Basic re#Definitions]]
-	- ![[Applied science#Definitions]]
+-  [[Basic research#Definitions]]
+	- ![[Basic research#Definitions]]
+- [[Metascience]]
 
 ## Contents
 - 
