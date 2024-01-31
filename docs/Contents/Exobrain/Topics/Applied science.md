@@ -31,9 +31,8 @@
 ## Related resources  
 - 
 ## AI 
-- Applied sciences involve the application of existing scientific knowledge to practical applications, like technology or inventions. Here's a comprehensive list of various branches and sub-disciplines within applied sciences:
-
-### 1. Engineering
+- Applied sciences involve the application of existing scientific knowledge to practical applications, like [[technology]] or inventions. Here's a comprehensive list of various branches and sub-disciplines within applied sciences:
+### 1. [[Engineering]]
    - Mechanical Engineering
      - Thermodynamics
      - Fluid Mechanics
