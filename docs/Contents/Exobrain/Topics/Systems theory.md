@@ -18,6 +18,8 @@
 ## Landscapes
 - [[Systems science]]
 - [[General systems theory]]
+- [[Dynamical systems theory]]
+- [[Physics]]
 ## Contents
 - 
 ## Deep dives

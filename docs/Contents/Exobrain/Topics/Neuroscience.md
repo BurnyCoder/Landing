@@ -104,7 +104,7 @@
    - Neurorehabilitation
    - Brain Injury Medicine
 
-### 7. Computational Neuroscience
+### 7. [[Computational Neuroscience]]
    - Neural Modeling
    - Computational Neuroanatomy
    - Neuroinformatics
