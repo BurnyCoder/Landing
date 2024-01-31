@@ -51,11 +51,15 @@ aliases:
 
 	- [[Computational mathematics]]
 	- [[Metamathematics]]
+- [mathematics in nLab](https://ncatlab.org/nlab/show/Mathematics)
 ## Contents
 - 
 ## Deep dives
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Summer of math exposition 2](https://www.youtube.com/hashtag/some2), [Summer of math exposition 3](https://www.youtube.com/hashtag/some3)
 - [List of unsolved problems in mathematics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 	- <iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+
 ## Brain storming
 - 
 ## Additional resources  
