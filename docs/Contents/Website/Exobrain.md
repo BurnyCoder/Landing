@@ -1,3 +1,4 @@
+- [[Everything.canvas|Canvas of everything]]
 - [[Highlights]]
 - [[Science]]
 - [[Technology]]

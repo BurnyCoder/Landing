@@ -16,8 +16,11 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Cognitive_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
+- [[landing/docs/Images/1c7ead61acb65a4913be648b805534cf_MD5.jpeg|Open: CognitiveScienceMapRiedlAVersionOne (1).png]]
+![[landing/docs/Images/1c7ead61acb65a4913be648b805534cf_MD5.jpeg]]
 - [[Philosophy]] [[Linguistics]] [[Neuroscience]] [[Computer science]] [[Artificial Intelligence]]
 - [[Cognitive Neuroscience]]
+- [[Consciousness]]
 - [[Wellbeing]]
 - [[Philosophy of mind]]
 - [[Identity]]

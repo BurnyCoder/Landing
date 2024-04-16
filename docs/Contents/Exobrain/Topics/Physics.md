@@ -23,7 +23,7 @@ aliases:
 - [Outline of physics - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_physics)
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [The Map of Physics - YouTube](https://www.youtube.com/watch?v=ZihywtixUYo)
-	- <iframe title="The Map of Physics" src="https://www.youtube.com/embed/ZihywtixUYo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+	-  <iframe title="The Map of Physics" src="https://www.youtube.com/embed/ZihywtixUYo?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [[Mathematical physics]]
 - By domain
 	- [[Classical mechanics]]
@@ -53,6 +53,7 @@ aliases:
 		- [[Loop Quantum Gravity]]
 		- [[String theory]]
 		- [[M Theory]]
+		- [[Cosmology]]
 - [[Interdisciplinarity]]
 	- [[Biophysics]]
 		- [[Neurophysics]]
@@ -63,6 +64,7 @@ aliases:
 	- [[Artificial Intelligence]]
 		- [[Quantum machine learning]]
 		- [[Thermodynamic AI]]
+- [[Black hole]]
 ## Contents
 - 
 ## Deep dives

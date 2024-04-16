@@ -16,6 +16,8 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
+- substrate dualism, property dualism, reductive physicalism, idealism, monism, neutral monism, illusionism, panpsychism, mysterianism, transcendentalism, relativism
+
 Different ways to assign realism to various patterns are:
 - physicalism (just part of what is real is physics, or all is physics)
 - mathematicism (all is mathematics, and mathematical physics can be just a subset) 
@@ -59,6 +61,9 @@ I also suspect there are genetic/environmental neural correlates that can predic
 - Want to feel highest agency possible over your mind? All is mind then. (But what about substances and neurotechnologies? Upgrade your agency with those too!)
 - Want to feel one with everything? All is God mind cosplaying as individual minds then for you!
 - Are you ok with any configuration as long as it maximizes empirical predictions? (Multiperspectival) bayesian pragmatism might be for you!
+
+- [[landing/docs/Images/cc05b6d31c4679d5896997c100567178_MD5.jpeg|Open: Pasted image 20240309154749.png]]
+![[landing/docs/Images/cc05b6d31c4679d5896997c100567178_MD5.jpeg]]
 ## Contents
 - 
 ## Deep dives

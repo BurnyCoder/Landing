@@ -16,8 +16,19 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Logic" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
+- [[Classical logic]]
+- [[Nonclassical logic]]
 - [[Mathematical logic]]
 - [[Formal logic]]
+- - [Computability logic](https://en.wikipedia.org/wiki/Computability_logic) is a semantically constructed formal theory of computability—as opposed to classical logic, which is a formal theory of truth—that integrates and extends classical, linear and intuitionistic logics.
+- [Dynamic semantics](https://en.wikipedia.org/wiki/Dynamic_semantics "Dynamic semantics") interprets formulas as update functions, opening the door to a variety of nonclassical behaviours
+- [Many-valued logic](https://en.wikipedia.org/wiki/Many-valued_logic "Many-valued logic") rejects bivalence, allowing for [truth values](https://en.wikipedia.org/wiki/Truth_value "Truth value") other than true and false. The most popular forms are [three-valued logic](https://en.wikipedia.org/wiki/Three-valued_logic "Three-valued logic"), as initially developed by [Jan Łukasiewicz](https://en.wikipedia.org/wiki/Jan_%C5%81ukasiewicz "Jan Łukasiewicz"), and infinitely-valued logics such as [fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic "Fuzzy logic"), which permit any real number between 0 and 1 as a truth value.
+- [Intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic "Intuitionistic logic") rejects the [law of the excluded middle](https://en.wikipedia.org/wiki/Law_of_the_excluded_middle "Law of the excluded middle"), [double negation elimination](https://en.wikipedia.org/wiki/Double_negation_elimination "Double negation elimination"), and part of [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws "De Morgan's laws");
+- [Linear logic](https://en.wikipedia.org/wiki/Linear_logic "Linear logic") rejects [idempotency](https://en.wikipedia.org/wiki/Idempotency "Idempotency") of [entailment](https://en.wikipedia.org/wiki/Logical_consequence "Logical consequence") as well;
+- [Paraconsistent logic](https://en.wikipedia.org/wiki/Paraconsistent_logic "Paraconsistent logic") (e.g., [relevance logic](https://en.wikipedia.org/wiki/Relevance_logic "Relevance logic")) rejects the [principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion "Principle of explosion"), and has a close relation to [dialetheism](https://en.wikipedia.org/wiki/Dialetheism "Dialetheism");
+- [Quantum logic](https://en.wikipedia.org/wiki/Quantum_logic "Quantum logic")
+- [Relevance logic](https://en.wikipedia.org/wiki/Relevance_logic "Relevance logic"), [linear logic](https://en.wikipedia.org/wiki/Linear_logic "Linear logic"), and [non-monotonic logic](https://en.wikipedia.org/wiki/Non-monotonic_logic "Non-monotonic logic") reject monotonicity of entailment;
+- [Non-reflexive](https://en.wikipedia.org/wiki/Reflexive_relation "Reflexive relation") logic (also known as ["Schrödinger logics"](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_logic "Schrödinger logic")) rejects or restricts the [law of identity](https://en.wikipedia.org/wiki/Law_of_identity "Law of identity");[[3]](https://en.wikipedia.org/wiki/Non-classical_logic#cite_note-3)
 ## Contents
 - 
 ## Deep dives
