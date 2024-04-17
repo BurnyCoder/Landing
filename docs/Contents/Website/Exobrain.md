@@ -6,7 +6,7 @@
 - [[Future]]
 - [[Everything]]
 - [[Aesthetics]]
-- [[Unsorted]]
+- [[Unsorted to be included]]
 
 - Greetings fellow [[ontology|reality]] connoisseur!
 
