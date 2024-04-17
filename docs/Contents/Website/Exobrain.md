@@ -20,7 +20,7 @@
 - What is the most useful [[logic]] and [[foundations of mathematics]]? What are the most beautiful, novel and exotic parts of [[formal science|formal sciences]]? Can we [[mathematics|mathematize]] [[ethics]]? What is the best positions in [[metaphysics]] with [[ontology]]? What is the best [[epistemology]] according to[[ information theory]]? What is the best [[Interpretations of quantum mechanics|interpretation of quantum mechanics]]? How does [[Identity]] work? What are the best positions in [[philosophy]] for [[science]], [[meaning]], [[wellbeing]] and [[freedom]]? How to create [[Theory of Everything]],  [[Theory of Everything in Philosophy]], [[Theory of Everything in Culture]], [[Meta Theory of Everything]]? 
 - Omni/Acc = Steelman and if possible verify all [[models]] from all [[science|disciplines]], all [[theoretical science|theoretical]], [[applied science|applied]], [[natural science|natural]], [[formal science|formal]], [[social science|social]] [[science|sciences]], all [[movement|movements]] with [[worldview|worldviews]] shaping the [[future]], all overall [[philosophy|philosophical]] or other [[perspective|perspectives]], and [[Omnidisciplionary|synthesize]] them all on a higher level of [[complexity]] as compatibly as possible for [[collective]] [[survival]], [[wellbeing]], [[flourishing]] and [[growth]] of all of [[sentience]]! Let's [[integration|integrate]] it all into one useful [[framework]]!
 
-- [[Unsorted]] 
+- [[landing/docs/Contents/Exobrain/Topics/Unsorted]] 
 
 ```wordcloud 
 source: file 
