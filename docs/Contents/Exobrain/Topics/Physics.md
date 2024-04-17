@@ -64,6 +64,7 @@ aliases:
 	- [[Artificial Intelligence]]
 		- [[Quantum machine learning]]
 		- [[Thermodynamic AI]]
+	- [[Power generation]]
 - [[Black hole]]
 ## Contents
 - 
