@@ -25,7 +25,7 @@ aliases:
 - [[Intelligence#Definitions]]
 - [[Intersection between biological and artificial intelligence]]
 - By domain
-	- [[Generative AI]]
+	- [[Generative artificial intelligence]]
 	- [[Robotics]]
 - By application 
 	- [[AI in healthcare]]

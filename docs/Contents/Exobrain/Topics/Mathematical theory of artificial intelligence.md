@@ -21,13 +21,17 @@
 - [[Deep Learning]]
 	- [[The Principles of Deep Learning Theory]]
 		- [\[2106.10165\] The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)
+		- [A New Physics-Inspired Theory of Deep Learning | Optimal initialization of Neural Nets - YouTube](https://www.youtube.com/watch?v=m2bXL5Z5CBM)
+		- ![A New Physics-Inspired Theory of Deep Learning | Optimal initialization of Neural Nets - YouTube](https://www.youtube.com/watch?v=m2bXL5Z5CBM)
 		- [[Physics]], [[Probability theory]], [[Kernel methods]], [[Statistical mechanics]], [[Information theory]], [[Effective theory]], [[renormalization group]]
 	- [[Geometric deep learning]]
 		- [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+		- [GEOMETRIC DEEP LEARNING BLUEPRINT - YouTube](https://www.youtube.com/watch?v=bIZB1hIJ4u8&pp=ygUXZ2VvbWV0cmljIGRlZXAgbGVhcm5pbmc%3D)
 		- ![GEOMETRIC DEEP LEARNING BLUEPRINT - YouTube](https://www.youtube.com/watch?v=bIZB1hIJ4u8&pp=ygUXZ2VvbWV0cmljIGRlZXAgbGVhcm5pbmc%3D)
 		- [[Group theory]] - [[Symmetry]]
 	- [[Categorical Deep Learning]]
 		- [\[2402.15332\] Categorical Deep Learning: An Algebraic Theory of Architectures](https://arxiv.org/abs/2402.15332)
+		- [WE MUST ADD STRUCTURE TO DEEP LEARNING BECAUSE... - YouTube](https://www.youtube.com/watch?v=rie-9AEhYdY)
 		- ![WE MUST ADD STRUCTURE TO DEEP LEARNING BECAUSE... - YouTube](https://www.youtube.com/watch?v=rie-9AEhYdY)
 		- [[Category theory]]
 - Idealizations

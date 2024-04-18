@@ -55,6 +55,7 @@
 - [[Connectionist artificial intelligence]]
 	- ![[Connectionist artificial intelligence#Definitions]]
 - [[Hybrid artificial intelligence]]  
+- [[Generative artificial intelligence]]
 - [[Quantum machine learning]]
 - [[Thermodynamic AI]]
 - [[Mechanistic interpretability]]
