@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Cognitive science]], [[Psychotechnology]]
+- Part of: [[Cognitive science]]
 - Related: 
 - Includes:
 - Additional: 
@@ -14,10 +14,10 @@
 -  
 ## Main resources 
 - 
-<iframe src="https://en.wikipedia.org/wiki/Spirituality" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[landing/docs/Images/fb74b8624847f11dbc72ee89d34df59c_MD5.jpeg|Open: Pasted image 20240418030451.png]]
-![[landing/docs/Images/fb74b8624847f11dbc72ee89d34df59c_MD5.jpeg]]
+- [[Meditation]], [[Psychedelics]]
+- [[Spirituality]]
 ## Contents
 - 
 ## Deep dives
@@ -29,6 +29,12 @@
 ## Related
 - 
 ## Related resources  
+- 
+## Explanation by AI 
+- 
+## Landscapes by AI 
+- 
+## Deep dives by AI 
 - 
 ## AI 
 - 

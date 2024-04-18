@@ -21,10 +21,12 @@ aliases:
 -  
 ## Main resources 
 - [Mathematics - Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
-	- <iframe src="https://en.wikipedia.org/wiki/Mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
+- [[landing/docs/Images/9112ec394e713c3a8023c6f0cc7bd040_MD5.jpeg|Open: Pasted image 20240418030623.png]]
+![[landing/docs/Images/9112ec394e713c3a8023c6f0cc7bd040_MD5.jpeg]]
 - [The Map of Mathematics - YouTube](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=1s)
-	- <iframe title="The Map of Mathematics" src="https://www.youtube.com/embed/OmJ-4B-mS-Y?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="The Map of Mathematics" src="https://www.youtube.com/embed/OmJ-4B-mS-Y?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [Outline of mathematics - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_mathematics)
 	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [Mathematics - Wikipedia](https://en.wikipedia.org/wiki/Mathematics)
@@ -59,7 +61,7 @@ aliases:
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 - [Summer of math exposition 2](https://www.youtube.com/hashtag/some2), [Summer of math exposition 3](https://www.youtube.com/hashtag/some3)
 - [List of unsolved problems in mathematics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
-	- <iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 
 ## Brain storming
 - Můj hlavní cíl je vytvořit velkou vizuální mapu, která má co nejvíc informací o matematice přes ukázání těch nejdůležitějších matematických struktur, definic, rovnic, s co nejmenší textovou omáčkou kolem, chci aby co největší % mapy byly hlavně nejvíc matematický symboly, celý v jednom obřím čitelným plagátu! Což jsem ještě neviděl. Jsou nějaký mapy, tabulky, seznamy, wikiny apod. matematiky, ze kterých se inspiruju, ale neviděl jsem nic jako vizuální mapu tuny definicí a rovnic z hlavně foundations matiky, čistou matiku a aplikovanou matiku: teoretickou fyziku, teorii systémů, matematickou biologii, AI, ostatní matematický aplikovaný vědy a engineering obory, který vidím za nejdůležitější. Často jsou moc obecný nebo moc konkrétní jinde než chci. Existuje třeba mapa matiky od [domain of science](<https://www.youtube.com/watch?v=OmJ-4B-mS-Y>), nebo [fyziky](<https://www.youtube.com/watch?v=ZihywtixUYo>) (má jich [víc](<https://www.google.com/search?sca_esv=f032846a98b531f9&sxsrf=ACQVn0976HXiiNvRPJyyV5C4j7DIBC8eyQ:1709279314434&q=map+of+physics&tbm=vid>)), [Mathematopia](<https://tomrocksmaths.com/2020/12/21/mathematopia-the-adventure-map-of-mathematics/>), [geometric representation of mathematics](<https://imgur.com/Tgd6HmA>) [http://srln.se/mapthematics.pdf](http://srln.se/mapthematics.pdf) , od [Zooga](<https://www.reddit.com/r/math/comments/2av79v/map_of_mathematistan_source_in_comments/>), [tahle Laglands nádhera](https://bastian.rieck.me/blog/2020/langlands/), nebo [tady jich pár je listed v math stackexchange](<https://math.stackexchange.com/questions/124709/mind-maps-of-advanced-mathematics-and-various-branches-thereof>) nebo [google search nachází nějaký další](https://www.google.com/search?sca_esv=6416b2a2bca84fa5&sxsrf=ACQVn08EYgLRVx_d0OEctey6oKUsAtsrOg:1709276455770&q=map+of+mathematics&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjUgeD_vtKEAxXS0AIHHaQOBFoQ0pQJegQICxAB&biw=1920&bih=878&dpr=1). Plus Peak math staví velkou vizuální interaktivní [mapu](https://www.peakmath.org/peakmath-landscape).  

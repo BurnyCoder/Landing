@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Psychotechnology]]
 - Related: 
 - Includes:
 - Additional: 
@@ -14,9 +14,12 @@
 -  
 ## Main resources 
 - 
-<iframe src="https://en.wikipedia.org/wiki/" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Meditation" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- ![The Bayesian Brain and Meditation - YouTube](https://www.youtube.com/watch?v=Eg3cQXf4zSE&t=1880s)
+- [The Bayesian Brain and Meditation - YouTube](https://www.youtube.com/watch?v=Eg3cQXf4zSE)
+ ![The Bayesian Brain and Meditation - YouTube](https://www.youtube.com/watch?v=Eg3cQXf4zSE)
+ [[landing/docs/Images/f1617b83d019b16eada4691b5a36fd00_MD5.jpeg|Open: Pasted image 20240418025844.png]]
+![[landing/docs/Images/f1617b83d019b16eada4691b5a36fd00_MD5.jpeg]]
 ## Contents
 - 
 ## Deep dives
