@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- [[Mathematics|Mathematical]] and [[physics]] based theory of [[Artificial Intelligence]], such as [[machine learning]], such as [[deep learning]] with [[Artificial neural network]]s.
+- [[Mathematics|Mathematical]] and [[physics]] based theory of [[artificial Intelligence]], such as [[machine learning]], such as [[deep learning]] with [[artificial neural network]]s.
 ## Technical summaries
 -  
 ## Main resources 
