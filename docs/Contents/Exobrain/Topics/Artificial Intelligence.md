@@ -19,7 +19,7 @@ aliases:
 - 
 ## Main resources 
 - [Artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
-	- <iframe src="https://en.wikipedia.org/wiki/Artificial Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Artificial Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 
 - [[Intelligence#Definitions]]
@@ -80,7 +80,7 @@ aliases:
 			- [[Computational creativity]]
 			- [[Personal assistant]]			
 - [Map of Artificial Intelligence - YouTube](https://youtu.be/hDWDtH1jnXg?si=CP-4cX70dNz7U4tp)
-	- <iframe title="Map of Artificial Intelligence" src="https://www.youtube.com/embed/hDWDtH1jnXg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Map of Artificial Intelligence" src="https://www.youtube.com/embed/hDWDtH1jnXg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [GitHub - dair-ai/ML-YouTube-Courses: 📺 Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Applications of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [[Consciousness]]
@@ -97,11 +97,35 @@ aliases:
 	- [[Artificial intelligence safety]]
 - [[Mechanistic interpretability]]
 - [[Explainable artificial intelligence]]
+- [[Mathematical theory of artificial intelligence]]
 ## Contents
 - 
 ## Deep dives
 - [[Theory of Everything in Intelligence]]
 	-  ![[Theory of Everything in Intelligence#Definitions]]
+## State of the art
+- [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
+Top 10 Takeaways:
+
+1. AI beats humans on some tasks, but not on all. AI has surpassed human performance on several benchmarks, including some in image classification, visual reasoning, and English understanding. Yet it trails behind on more complex tasks like competition-level mathematics, visual commonsense reasoning and planning. 
+
+2. Industry continues to dominate frontier AI research. In 2023, industry produced 51 notable machine learning models, while academia contributed only 15. There were also 21 notable models resulting from industry-academia collaborations in 2023, a new high.
+ 
+3. Frontier models get way more expensive. According to AI Index estimates, the training costs of state-of-the-art AI models have reached unprecedented levels. For example, OpenAI’s GPT-4 used an estimated $78 million worth of compute to train, while Google’s Gemini Ultra cost $191 million for compute. 
+
+4. The United States leads China, the EU, and the U.K. as the leading source of top AI models. In 2023, 61 notable AI models originated from U.S.-based institutions, far outpacing the European Union’s 21 and China’s 15. 
+
+5. Robust and standardized evaluations for LLM responsibility are seriously lacking. New research from the AI Index reveals a significant lack of standardization in responsible AI reporting. Leading developers, including OpenAI, Google, and Anthropic, primarily test their models against different responsible AI benchmarks. This practice complicates efforts to systematically compare the risks and limitations of top AI models. 
+
+6. Generative AI investment skyrockets. Despite a decline in overall AI private investment last year, funding for generative AI surged, nearly octupling from 2022 to reach $25.2 billion. Major players in the generative AI space, including OpenAI, Anthropic, Hugging Face, and Inflection, reported substantial fundraising rounds. 
+
+7. The data is in: AI makes workers more productive and leads to higher quality work. In 2023, several studies assessed AI’s impact on labor, suggesting that AI enables workers to complete tasks more quickly and to improve the quality of their output. These studies also demonstrated AI’s potential to bridge the skill gap between low- and high-skilled workers. Still, other studies caution that using AI without proper oversight can lead to diminished performance.
+
+8. Scientific progress accelerates even further, thanks to AI. In 2022, AI began to advance scientific discovery. 2023, however, saw the launch of even more significant science-related AI applications— from AlphaDev, which makes algorithmic sorting more efficient, to GNoME, which facilitates the process of materials discovery. 
+
+9. The number of AI regulations in the United States sharply increases. The number of AIrelated regulations in the U.S. has risen significantly in the past year and over the last five years. In 2023, there were 25 AI-related regulations, up from just one in 2016. Last year alone, the total number of AI-related regulations grew by 56.3%. 
+
+10. People across the globe are more cognizant of AI’s potential impact—and more nervous. A survey from Ipsos shows that, over the last year, the proportion of those who think AI will dramatically affect their lives in the next three to five years has increased from 60% to 66%. Moreover, 52% express nervousness toward AI products and services, marking a 13 percentage point rise from 2022. In America, Pew data suggests that 52% of Americans report feeling more concerned than excited about AI, rising from 37% in 2022.
 ## Brain storming
 - "Using variations of gradient descent to minimize loss function over predicting tons of text data with attention! (now often with better routing of information thanks to mixture of experts architecture)" based tons of inscrutable matrices s triliardama emergentníma vzorama v dynamice kterým matematicky rozumíme nedostatečně. Co se uvnitř děje a ovládatelnost řeší celej mechanistic interpretability obor [GitHub - JShollaj/awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources.](<https://github.com/JShollaj/awesome-llm-interpretability>),  
 nebo [Statistical learning theory](<https://en.wikipedia.org/wiki/Statistical_learning_theory>) a deep learning theory obor, [[2106.10165] The Principles of Deep Learning Theory](<https://arxiv.org/abs/2106.10165>),  

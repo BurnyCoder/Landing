@@ -52,6 +52,7 @@ aliases:
 	- [[Computational mathematics]]
 	- [[Metamathematics]]
 - [mathematics in nLab](https://ncatlab.org/nlab/show/Mathematics)
+- [Mathematics | /sci/ Wiki | Fandom](https://4chan-science.fandom.com/wiki/Mathematics)
 ## Contents
 - 
 ## Deep dives

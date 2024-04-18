@@ -14,14 +14,14 @@
 -  
 ## Main resources 
 - [Science - Wikipedia](https://en.wikipedia.org/wiki/Science)
-	- <iframe src="https://en.wikipedia.org/wiki/Science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 	- MIT courses on everything: [MIT Open Learning Library | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/collections/mit-open-learning-library/)
 ## Landscapes
 - [[landing/docs/Images/63d4790b8b7459a2525816a96b471c4c_MD5.jpeg|Open: Pasted image 20240115083928.png]]
 ![[landing/docs/Images/63d4790b8b7459a2525816a96b471c4c_MD5.jpeg]]
 - Groups
 	- [Branches of science - Wikipedia](https://en.wikipedia.org/wiki/Branches_of_science)
-		- <iframe src="https://en.wikipedia.org/wiki/Branches_of_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+		<iframe src="https://en.wikipedia.org/wiki/Branches_of_science" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 		- [[Formal science#Definitions]]
 			- ![[Formal science#Definitions]]
 			- [[Mathematics]], [[Computer science]]
@@ -40,7 +40,7 @@
 			- ![[Omnidisciplinarity#Definitions]]
 			- [[Cognitive science]]
 - [Map of Science (and everything else) - YouTube](https://www.youtube.com/watch?v=ohyai6GIRZg)
-	- <iframe title="Map of Science (and everything else)" src="https://www.youtube.com/embed/ohyai6GIRZg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="Map of Science (and everything else)" src="https://www.youtube.com/embed/ohyai6GIRZg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 -  [[Applied science#Definitions]]
 	- ![[Applied science#Definitions]]
 -  [[Basic research#Definitions]]
@@ -50,6 +50,7 @@
 - [[Humanities]]
 	-  ![[Humanities#Definitions]]
 	- [[Philosophy]]
+- [/sci/ Wiki | Fandom]([/sci/ Wiki | Fandom]([/sci/ Wiki | Fandom](https://4chan-science.fandom.com/wiki//sci/_Wiki)))
 
 ## Contents
 - 
@@ -57,7 +58,7 @@
 - [[Theory of Everything in All of Science#Definitions]]
 	- ![[Theory of Everything in All of Science#Definitions]]
 - [Lists of unsolved problems - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
-	- <iframe src="https://en.wikipedia.org/wiki/Lists_of_unsolved_problems" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Lists_of_unsolved_problems" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Brain storming
 - 
 ## Additional resources  

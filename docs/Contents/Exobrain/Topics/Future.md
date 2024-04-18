@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of:
+- Part of: [[Science]]
 - Related: 
 - Includes:
 - Additional: 
@@ -14,7 +14,7 @@
 -  
 ## Main resources 
 ## Landscapes
-- [[Future of humanity and sentience]]
+- [[Future of humanity and sentience futorology]]
 	- [[Movements]]
 	- [[Risks]]
 - [[Future of universe]]

@@ -14,10 +14,10 @@
 -  
 ## Main resources 
 - [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
-	- <iframe src="https://en.wikipedia.org/wiki/Machine_learning" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Machine_learning" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - [Outline of machine learning - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
-	-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_machine_learning" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Outline_of_machine_learning" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 	- By methods
 		- [[Instance-based algorithm]]
 		- [[Regression analysis]]
@@ -58,6 +58,7 @@
 - [[Quantum machine learning]]
 - [[Thermodynamic AI]]
 - [[Mechanistic interpretability]]
+- [[Mathematical theory of artificial intelligence]]
 - [[Meta learning]]
 - [[Online machine learning]]
 - [The landscape of the Machine Learning section of ArXiv.](https://twitter.com/leland_mcinnes/status/1731752287788265726)
@@ -73,6 +74,382 @@
 ## Additional resources  
 - 
 ## Related
+- 
+## Explanation by AI 
+- 
+## Landscapes by AI 
+- Machine Learning Algorithms
+│
+├─ Supervised Learning
+│  ├─ Classification
+│  │  ├─ Generalized Linear Models
+│  │  │  ├─ [[Logistic Regression]]
+│  │  │  ├─ Probit Regression
+│  │  │  └─ Multinomial Logistic Regression
+│  │  ├─ [[Naive Bayes]]
+│  │  │  ├─ Gaussian Naive Bayes
+│  │  │  ├─ Multinomial Naive Bayes
+│  │  │  ├─ Bernoulli Naive Bayes
+│  │  │  └─ Complement Naive Bayes
+│  │  ├─ [[Decision Trees]]
+│  │  │  ├─ ID3
+│  │  │  ├─ C4.5
+│  │  │  ├─ CART
+│  │  │  ├─ CHAID
+│  │  │  └─ Conditional Inference Trees
+│  │  ├─ Rule-Based Classifiers
+│  │  │  ├─ OneR
+│  │  │  ├─ RIPPER
+│  │  │  └─ PART
+│  │  ├─ Ensemble Methods
+│  │  │  ├─ Bagging
+│  │  │  │  ├─ [[Random Forest]]
+│  │  │  │  ├─ Extra Trees
+│  │  │  │  └─ Bagged Decision Trees
+│  │  │  ├─ [[Boosting]]
+│  │  │  │  ├─ AdaBoost
+│  │  │  │  ├─ Gradient Boosting
+│  │  │  │  │  ├─ XGBoost
+│  │  │  │  │  ├─ LightGBM
+│  │  │  │  │  └─ CatBoost
+│  │  │  │  └─ LogitBoost
+│  │  │  ├─ Stacking
+│  │  │  ├─ Voting
+│  │  │  └─ Cascading
+│  │  ├─ [[Support Vector Machines]] (SVM)
+│  │  │  ├─ Linear SVM
+│  │  │  ├─ Kernel SVM
+│  │  │  │  ├─ Polynomial Kernel
+│  │  │  │  ├─ RBF Kernel
+│  │  │  │  ├─ Sigmoid Kernel
+│  │  │  │  └─ Custom Kernels
+│  │  │  ├─ One-Class SVM
+│  │  │  └─ Multiclass SVM
+│  │  │     ├─ One-vs-One
+│  │  │     └─ One-vs-Rest
+│  │  ├─ K-Nearest Neighbors (KNN)
+│  │  │  ├─ Brute Force KNN
+│  │  │  ├─ KD-Trees
+│  │  │  ├─ Ball Trees
+│  │  │  └─ Locality Sensitive Hashing (LSH)
+│  │  ├─ Discriminant Analysis
+│  │  │  ├─ Linear Discriminant Analysis (LDA)
+│  │  │  ├─ Quadratic Discriminant Analysis (QDA)
+│  │  │  └─ Regularized Discriminant Analysis (RDA)
+│  │  ├─ [[Artificial neural network]]
+│  │  │  ├─ Multi-Layer Perceptron (MLP)
+│  │  │  ├─ [[Convolutional Neural Network]] (CNN)
+│  │  │  ├─ Capsule Networks
+│  │  │  └─ [[Spiking Neural Network]] (SNN)
+│  │  └─ Other Classifiers
+│  │     ├─ Bayesian Networks
+│  │     ├─ Gaussian Processes
+│  │     └─ Relevance Vector Machines (RVM)
+│  │
+│  └─ Regression
+│     ├─ Linear Models
+│     │  ├─ [[Linear Regression]]
+│     │  ├─ [[Polynomial Regression]]
+│     │  ├─ Stepwise Regression
+│     │  ├─ LASSO (Least Absolute Shrinkage and Selection Operator)
+│     │  ├─ Ridge Regression
+│     │  ├─ Elastic Net
+│     │  └─ Least-Angle Regression (LARS)
+│     ├─ Regularization Methods
+│     │  ├─ L1 Regularization (LASSO)
+│     │  ├─ L2 Regularization (Ridge)
+│     │  └─ L1/L2 Regularization (Elastic Net)
+│     ├─ Decision Trees
+│     │  ├─ Regression Trees
+│     │  └─ Model Trees
+│     ├─ [[Ensemble Methods]]
+│     │  ├─ Random Forest
+│     │  ├─ Gradient Boosting (e.g., XGBoost, LightGBM, CatBoost)
+│     │  ├─ AdaBoost
+│     │  └─ Stacked Generalization (Stacking)
+│     ├─ Support Vector Regression (SVR)
+│     │  ├─ Linear SVR
+│     │  ├─ Non-Linear SVR
+│     │  └─ Kernels (e.g., RBF, Polynomial)
+│     ├─ Gaussian Process Regression (GPR)
+│     ├─ Isotonic Regression
+│     ├─ Quantile Regression
+│     ├─ Kriging (Spatial Interpolation)
+│     └─ Neural Networks
+│        ├─ [[Multi-Layer Perceptron]] (MLP)
+│        ├─ [[Recurrent Neural Networks]] (RNN)
+│        │  ├─ L[[ong Short-Term Memory]] (LSTM)
+│        │  └─ [[Gated Recurrent Unit]] (GRU)
+│        └─ Convolutional Neural Networks (CNN)
+│
+├─ Unsupervised Learning
+│  ├─ [[Clustering]]
+│  │  ├─ [[Partitioning Methods]]
+│  │  │  ├─ [[K-Means]]
+│  │  │  ├─ K-Medoids (PAM)
+│  │  │  ├─ Fuzzy C-Means
+│  │  │  ├─ Gaussian Mixture Models (GMM)
+│  │  │  └─ Expectation-Maximization (EM)
+│  │  ├─ [[Hierarchical Clustering]]
+│  │  │  ├─ Agglomerative Clustering
+│  │  │  │  ├─ Single Linkage
+│  │  │  │  ├─ Complete Linkage
+│  │  │  │  ├─ Average Linkage
+│  │  │  │  └─ Ward's Method
+│  │  │  └─ Divisive Clustering
+│  │  │     ├─ DIANA
+│  │  │     └─ DISMEA
+│  │  ├─ Density-Based Clustering
+│  │  │  ├─ DBSCAN
+│  │  │  ├─ OPTICS
+│  │  │  ├─ HDBSCAN
+│  │  │  └─ DENCLUE
+│  │  ├─ Grid-Based Clustering
+│  │  │  ├─ STING
+│  │  │  ├─ CLIQUE
+│  │  │  └─ WaveCluster
+│  │  ├─ Model-Based Clustering
+│  │  │  ├─ [[Self-Organizing Maps]] (SOM)
+│  │  │  ├─ Adaptive Resonance Theory (ART)
+│  │  │  └─ Deep Embedded Clustering (DEC)
+│  │  └─ Other Clustering Methods
+│  │     ├─ Spectral Clustering
+│  │     ├─ Affinity Propagation
+│  │     ├─ Mean Shift
+│  │     └─ BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies)
+│  │
+│  ├─ [[Dimensionality Reduction]]
+│  │  ├─ Linear Methods
+│  │  │  ├─ Principal Component Analysis (PCA)
+│  │  │  ├─ Singular Value Decomposition (SVD)
+│  │  │  ├─ Non-Negative Matrix Factorization (NMF)
+│  │  │  ├─ Independent Component Analysis (ICA)
+│  │  │  └─ Factor Analysis
+│  │  ├─ Non-Linear Methods
+│  │  │  ├─ [[t-SNE]] (t-Distributed Stochastic Neighbor Embedding)
+│  │  │  ├─ [[UMAP]] (Uniform Manifold Approximation and Projection)
+│  │  │  ├─ Locally Linear Embedding (LLE)
+│  │  │  ├─ Isomap
+│  │  │  ├─ Laplacian Eigenmaps
+│  │  │  ├─ Diffusion Maps
+│  │  │  ├─ Kernel PCA
+│  │  │  ├─ [[Autoencoder]]
+│  │  │  │  ├─ Vanilla Autoencoder
+│  │  │  │  ├─ Denoising Autoencoder
+│  │  │  │  ├─ [[Sparse Autoencoder]]
+│  │  │  │  └─ [[Variational Autoencoder]] (VAE)
+│  │  │  └─ Self-Supervised Learning
+│  │  │     ├─ Contrastive Learning
+│  │  │     └─ Clustering-Based Methods
+│  │  └─ [[Manifold Learning]]
+│  │     ├─ Multidimensional Scaling (MDS)
+│  │     ├─ Isomap
+│  │     ├─ Locally Linear Embedding (LLE)
+│  │     ├─ Laplacian Eigenmaps
+│  │     ├─ Hessian Eigenmaps
+│  │     ├─ Local Tangent Space Alignment (LTSA)
+│  │     └─ Diffusion Maps
+│  │
+│  └─ Association Rule Learning
+│     ├─ Apriori
+│     ├─ FP-Growth
+│     ├─ Eclat
+│     └─ GUHA (General Unary Hypotheses Automaton)
+│
+├─ Semi-Supervised Learning
+│  ├─ Self-Training
+│  ├─ Co-Training
+│  ├─ Tri-Training
+│  ├─ Transductive SVM
+│  ├─ Graph-Based Methods
+│  │  ├─ Label Propagation
+│  │  └─ Label Spreading
+│  ├─ Generative Models
+│  │  ├─ Gaussian Mixture Models (GMM)
+│  │  └─ Variational Autoencoders (VAE)
+│  └─ Low-Density Separation
+│     ├─ Transductive SVM
+│     └─ S3VM (Semi-Supervised SVM)
+│
+├─ [[Reinforcement Learning]]
+│  ├─ [[Model-Free Methods]]
+│  │  ├─ Value-Based Methods
+│  │  │  ├─ [[Q-Learning]]
+│  │  │  ├─ SARSA (State-Action-Reward-State-Action)
+│  │  │  ├─ Double Q-Learning
+│  │  │  ├─ Expected SARSA
+│  │  │  └─ Deep Q-Networks (DQN)
+│  │  │     ├─ Double DQN
+│  │  │     ├─ Dueling DQN
+│  │  │     ├─ Prioritized Experience Replay (PER)
+│  │  │     └─ Rainbow
+│  │  └─ Policy-Based Methods
+│  │     ├─ Policy Gradients
+│  │     │  ├─ REINFORCE
+│  │     │  ├─ Advantage Actor-Critic (A2C)
+│  │     │  ├─ Asynchronous Advantage Actor-Critic (A3C)
+│  │     │  ├─ Proximal Policy Optimization (PPO)
+│  │     │  └─ Trust Region Policy Optimization (TRPO)
+│  │     ├─ Actor-Critic Methods
+│  │     │  ├─ Deterministic Policy Gradient (DPG)
+│  │     │  ├─ Deep Deterministic Policy Gradient (DDPG)
+│  │     │  ├─ Twin Delayed DDPG (TD3)
+│  │     │  └─ Soft Actor-Critic (SAC)
+│  │     └─ Entropy-Based Methods
+│  │        ├─ Soft Q-Learning
+│  │        └─ Soft Actor-Critic (SAC)
+│  │
+│  └─ Model-Based Methods
+│     ├─[[ Dynamic Programming]]
+│     │  ├─ Value Iteration
+│     │  └─ Policy Iteration
+│     ├─ [[Monte Carlo Tree Search]] (MCTS)
+│     ├─ [[AlphaZero]]
+│     ├─ World Models
+│     └─ Model-Based RL with Uncertainty
+│
+└─ [[Deep Learning]] ([[Artificial neural network]])
+   ├─ [[Feedforward Neural Network]]
+   │  ├─ [[Multi-Layer Perceptron]] (MLP)
+   │  ├─ Extreme Learning Machines (ELM)
+   │  ├─ [[Echo State Network]] (ESN)
+   │  ├─ [[Liquid State Machine]](LSM)
+   │  ├─ [[Spiking Neural Network]] (SNN)
+   │  ├─ [[Autoencoder]]
+   │  │  ├─ Vanilla Autoencoder
+   │  │  ├─ Denoising Autoencoder
+   │  │  ├─ Sparse Autoencoder
+   │  │  ├─ Contractive Autoencoder
+   │  │  ├─ [[Variational Autoencoder]] (VAE)
+   │  │  └─ Adversarial Autoencoder (AAE)
+   │  └─ Deep Belief Networks (DBN)
+   │
+   ├─ Convolutional Neural Networks (CNN)
+   │  ├─ LeNet
+   │  ├─ AlexNet
+   │  ├─ VGGNet
+   │  ├─ GoogLeNet (Inception)
+   │  ├─ ResNet
+   │  ├─ DenseNet
+   │  ├─ MobileNet
+   │  ├─ EfficientNet
+   │  ├─ Vision Transformers (ViT)
+   │  ├─ Spatial Transformer Networks (STN)
+   │  ├─ Deformable Convolutional Networks (DCN)
+   │  ├─ Capsule Networks
+   │  └─ Attention-Based CNNs
+   │
+   ├─ Recurrent Neural Networks (RNN)
+   │  ├─ Simple RNN
+   │  ├─ Long Short-Term Memory (LSTM)
+   │  ├─ Gated Recurrent Unit (GRU)
+   │  ├─ Bidirectional RNN
+   │  ├─ Attention Mechanisms
+   │  │  ├─ Seq2Seq with Attention
+   │  │  ├─ [[Transformer]]
+   │  │  │  ├─ BERT (Bidirectional Encoder Representations from Transformers)
+   │  │  │  ├─ GPT (Generative Pre-trained Transformer)
+   │  │  │  ├─ T5 (Text-to-Text Transfer Transformer)
+   │  │  │  ├─ XLNet
+   │  │  │  ├─ RoBERTa
+   │  │  │  ├─ ALBERT
+   │  │  │  ├─ ELECTRA
+   │  │  │  └─ Reformer
+   │  │  └─ Pointer Networks
+   │  ├─ Memory Networks
+   │  ├─ [[Neural Turing Machine]](NTM)
+   │  └─ [[Differentiable Neural Computer]] (DNC)
+   │
+   ├─ Generative Models
+   │  ├─ [[Generative Adversarial Network]] (GAN)
+   │  │  ├─ DCGAN (Deep Convolutional GAN)
+   │  │  ├─ WGAN (Wasserstein GAN)
+   │  │  ├─ CGAN (Conditional GAN)
+   │  │  ├─ InfoGAN
+   │  │  ├─ Pix2Pix
+   │  │  ├─ CycleGAN
+   │  │  ├─ StarGAN
+   │  │  ├─ Progressive Growing of GANs (PGGAN)
+   │  │  ├─ BigGAN
+   │  │  ├─ StyleGAN
+   │  │  └─ Self-Attention GAN (SAGAN)
+   │  ├─ Variational Autoencoders (VAE)
+   │  │  ├─ Conditional VAE (CVAE)
+   │  │  ├─ Ladder VAE
+   │  │  ├─ VQ-VAE (Vector Quantized VAE)
+   │  │  └─ Disentangled VAE (β-VAE, FactorVAE)
+   │  ├─ Flow-Based Models
+   │  │  ├─ Normalizing Flows
+   │  │  ├─ RealNVP
+   │  │  ├─ Glow
+   │  │  └─ Masked Autoregressive Flow (MAF)
+   │  ├─ Energy-Based Models (EBM)
+   │  └─ Autoregressive Models
+   │     ├─ PixelRNN
+   │     ├─ PixelCNN
+   │     ├─ WaveNet
+   │     └─ Transformer-Based Models (e.g., GPT, CTRL)
+   │
+   ├─ [[Graph Neural Network]] (GNN)
+   │  ├─ [[Graph Convolutional Network]] (GCN)
+   │  ├─ GraphSAGE
+   │  ├─ [[Graph Attention Network]] (GAT)
+   │  ├─ Graph Isomorphism Network (GIN)
+   │  ├─ Gated Graph Neural Networks (GGNN)
+   │  ├─ Graph Recurrent Networks (GRN)
+   │  ├─ Graph Autoencoders (GAE)
+   │  └─ Graph Generative Models
+   │
+   └─ [[Deep Reinforcement Learning]]
+      ├─ [[Deep Q-Networks]] (DQN)
+      ├─ [[Policy Gradient Methods]]
+      │  ├─ TRPO (Trust Region Policy Optimization)
+      │  ├─ PPO (Proximal Policy Optimization)
+      │  └─ DDPG (Deep Deterministic Policy Gradient)
+      ├─ Actor-Critic Methods
+      │  ├─ A2C (Advantage Actor-Critic)
+      │  ├─ A3C (Asynchronous Advantage Actor-Critic)
+      │  └─ ACER (Actor-Critic with Experience Replay)
+      ├─ [[Distributional reinforcement learning]]
+      │  ├─ C51
+      │  └─ QR-DQN (Quantile Regression DQN)
+      ├─ [[Hierarchical reinforcement learning]]
+      │  ├─ Feudal Networks
+      │  ├─ Option-Critic
+      │  └─ MAXQ
+      └─ Inverse Reinforcement Learning (IRL)
+         ├─ Maximum Entropy IRL
+         ├─ Generative Adversarial Imitation Learning (GAIL)
+         └─ Adversarial Inverse Reinforcement Learning (AIRL)
+- Working with machine learning algorithms
+1. Data Preprocessing:
+   - Use NumPy and Pandas for data manipulation and preprocessing.
+   - Scikit-learn provides various tools for data preprocessing, such as scaling, normalization, and encoding categorical variables.
+
+2. Supervised Learning:
+   - Scikit-learn offers implementations of many classic algorithms like linear regression, logistic regression, decision trees, SVMs, and naive Bayes.
+   - For neural networks, you can use libraries like TensorFlow or PyTorch.
+   - XGBoost, LightGBM, and CatBoost are popular libraries for gradient boosting.
+
+3. Unsupervised Learning:
+   - Scikit-learn provides implementations of clustering algorithms like K-means, DBSCAN, and hierarchical clustering.
+   - For dimensionality reduction, you can use PCA, t-SNE, and UMAP from Scikit-learn.
+   - Neural network-based techniques like autoencoders and GANs can be implemented using TensorFlow or PyTorch.
+
+4. Semi-Supervised Learning:
+   - Scikit-learn offers a few semi-supervised learning algorithms, such as label propagation and label spreading.
+   - For more advanced techniques, you may need to implement them from scratch or look for specialized libraries.
+
+5. Reinforcement Learning:
+   - OpenAI Gym is a popular toolkit for developing and comparing reinforcement learning algorithms.
+   - Stable Baselines and RLlib are libraries that provide implementations of various RL algorithms.
+   - For deep reinforcement learning, you can use libraries like TensorFlow or PyTorch in combination with OpenAI Gym.
+
+6. Deep Learning:
+   - TensorFlow and PyTorch are the most widely used libraries for building and training deep neural networks.
+   - Keras is a high-level neural networks API that can run on top of TensorFlow, CNTK, or Theano.
+   - For specific architectures like CNNs, RNNs, and Transformers, these libraries offer pre-built layers and modules.
+## Deep dives by AI 
 - 
 ## AI 
 - Machine learning, a branch of [[artificial intelligence]], focuses on the development of algorithms and [[statistics|statistical]] models that enable computers to perform tasks without explicit instructions, relying on patterns and inference instead. It encompasses a wide range of approaches and methodologies. Here's a comprehensive list of various branches and subfields within machine learning:

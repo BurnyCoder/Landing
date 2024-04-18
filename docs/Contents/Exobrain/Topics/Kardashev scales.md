@@ -5,7 +5,7 @@ aliases:
 ---
 ## Tags
 - Metadata: #topic 
-- Part of: [[Future of humanity and sentience]]
+- Part of: [[Future of humanity and sentience futorology]] [[Power generation]] [[Physics]]
 - Related: 
 - Includes:
 - Additional: 
@@ -24,6 +24,7 @@ aliases:
 - [[landing/docs/Images/5a455ba659a598328ac54648603aaee0_MD5.jpeg|Open: Pasted image 20240418011317.png]]
 ![[landing/docs/Images/5a455ba659a598328ac54648603aaee0_MD5.jpeg]]
 - [[Dyson sphere]]
+- [[Barrow scale]]
 ## Contents
 - 
 ## Deep dives
@@ -37,21 +38,21 @@ aliases:
 ## Related resources  
 - 
 ## Explanation by AI 
-- The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to harness and use[1][2][3][5].
+- The Kardashev scale is a method of measuring a civilization's level of [[technological advancement]] based on the amount of [[energy]] it is able to harness and use[1][2][3][5].
 
 The scale has three main categories[1][3]:
 
-- Type I: Also called a Planetary civilization, it can harness and store all the energy available on its planet[3][5].
-- Type II: Also called a Stellar civilization, it can use and control energy on the scale of its planetary system, e.g. by building Dyson spheres around stars[1][3].  
-- Type III: A Galactic civilization that can harness the energy of its entire host galaxy[3][5].
+- Type I: Also called a Planetary [[civilization]], it can harness and store all the [[energy]] available on its planet[3][5].
+- Type II: Also called a Stellar civilization, it can use and [[control]] energy on the scale of its [[planetary system]], e.g. by building [[Dyson sphere]] around stars[1][3].  
+- Type III: A Galactic civilization that can harness the energy of its entire host [[galaxy]][3][5].
+- Type IV: Capable of using energy at the scale of the whole [[universe]].
+- Type V: Capable of using energy at the scale of [[multiverse]], manipulating multiverses beyond [[spacetime]].
 
-The scale was originally proposed in 1964 by Soviet astronomer Nikolai Kardashev[1][3]. He used the scale to estimate how detectable hypothetical alien civilizations would be based on their energy use[1].
+The scale was originally proposed in 1964 by Soviet astronomer Nikolai Kardashev[1][3]. He used the scale to estimate how detectable hypothetical [[alien]] civilizations would be based on their energy use[1].
 
-Extensions to the scale have been proposed, including Type IV and V civilizations that could harness the energy of the entire universe or even multiple universes[3][4]. However, Kardashev himself did not define anything beyond Type III[3].
+[[Carl Sagan]] proposed a more granular version of the scale that uses decimal values, e.g. a Type 1.2 civilization[1][3]. On this version, present-day human civilization ranks at about 0.7[1][3].
 
-Carl Sagan proposed a more granular version of the scale that uses decimal values, e.g. a Type 1.2 civilization[1][3]. On this version, present-day human civilization ranks at about 0.7[1][3].
-
-While a hypothetical construct, the Kardashev scale puts the energy use of advanced civilizations into perspective and is often referenced in discussions about the search for extraterrestrial intelligence (SETI)[1].
+While a hypothetical construct, the Kardashev scale puts the energy use of advanced civilizations into perspective and is often referenced in discussions about the search for extraterrestrial [[intelligence]] (SETI)[1].
 
 Citations:
 [1]  [The Kardashev scale: Classifying alien civilizations | Space](https://www.space.com/kardashev-scale)
