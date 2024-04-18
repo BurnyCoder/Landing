@@ -16,7 +16,7 @@
 <iframe src="https://en.wikipedia.org/wiki/Philosophy" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 - [Outline of philosophy - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_philosophy)
-<iframe src="https://en.wikipedia.org/wiki/Outline_of_philosophy" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+	- <iframe src="https://en.wikipedia.org/wiki/Outline_of_philosophy" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 	- [[Ethics]]
 	- [[Epistemology]]
 	- [[Logic]]

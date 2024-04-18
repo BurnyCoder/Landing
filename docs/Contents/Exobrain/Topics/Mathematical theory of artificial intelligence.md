@@ -49,7 +49,7 @@
 ## Deep dives
 - 
 ## Brain storming
-- 
+- Categorical geometric effective deep learning
 ## Additional resources  
 - 
 ## Related
