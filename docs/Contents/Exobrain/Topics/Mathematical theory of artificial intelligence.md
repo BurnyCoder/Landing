@@ -28,6 +28,8 @@
 		- [[Physics]], [[Probability theory]], [[Kernel methods]], [[Statistical mechanics]], [[Information theory]], [[Effective theory]], [[renormalization group]]
 	- [[Geometric deep learning]]
 		- [Geometric Deep Learning - Grids, Groups, Graphs, Geodesics, and Gauges](https://geometricdeeplearning.com/)
+		- [ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein - YouTube](https://www.youtube.com/watch?v=w6Pw4MOzMuo&t=630s&pp=ygUXZ2VvbWV0cmljIGRlZXAgbGVhcm5pbmc%3D)
+		- ![ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein - YouTube](https://www.youtube.com/watch?v=w6Pw4MOzMuo&t=630s&pp=ygUXZ2VvbWV0cmljIGRlZXAgbGVhcm5pbmc%3D)
 		- [GEOMETRIC DEEP LEARNING BLUEPRINT - YouTube](https://www.youtube.com/watch?v=bIZB1hIJ4u8&pp=ygUXZ2VvbWV0cmljIGRlZXAgbGVhcm5pbmc%3D)
 		- ![GEOMETRIC DEEP LEARNING BLUEPRINT - YouTube](https://www.youtube.com/watch?v=bIZB1hIJ4u8&pp=ygUXZ2VvbWV0cmljIGRlZXAgbGVhcm5pbmc%3D)
 		- [[Group theory]] - [[Symmetry]]
