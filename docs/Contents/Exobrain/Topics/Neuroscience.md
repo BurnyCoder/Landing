@@ -36,6 +36,7 @@
 - [[Neurophysics]]
 - [[Wellbeing]]
 - [[Philosophy of mind]]
+- [[Longevity]], [[Immortality]]
 ## Contents
 - 
 ## Deep dives

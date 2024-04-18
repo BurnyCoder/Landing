@@ -17,7 +17,9 @@
 - [[Future of humanity and sentience futorology]]
 	- [[Movements]]
 	- [[Risks]]
+	- [[Immortality]]
 - [[Future of universe]]
+	- [[Surviving the end of the universe]]
 ## Contents
 - 
 ## Deep dives

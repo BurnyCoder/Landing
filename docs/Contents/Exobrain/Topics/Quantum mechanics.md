@@ -17,13 +17,15 @@ aliases:
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/Quantum_mechanics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Quantum mechanics - Wikipedia](https://en.wikipedia.org/wiki/Quantum_mechanics)
+<iframe src="https://en.wikipedia.org/wiki/Quantum_mechanics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [The Hydrogen Atom, Part 1 of 3: Intro to Quantum Physics - YouTube](https://www.youtube.com/watch?v=-Y0XL-K0jy0)
+![The Hydrogen Atom, Part 1 of 3: Intro to Quantum Physics - YouTube](https://www.youtube.com/watch?v=-Y0XL-K0jy0)
 ## Landscapes
 - [The Map of Quantum Physics - YouTube](https://www.youtube.com/watch?v=gAFAj3pzvAA)
-	- <iframe title="The Map of Quantum Physics" src="https://www.youtube.com/embed/gAFAj3pzvAA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+<iframe title="The Map of Quantum Physics" src="https://www.youtube.com/embed/gAFAj3pzvAA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [[Technology]]
-	- [[landing/docs/Contents/Exobrain/Topics/Quantum computation]]
+	- [[Quantum computing]]
 	- [[Quantum machine learning]]
 	[[Quantum field theory]]
 ## Contents

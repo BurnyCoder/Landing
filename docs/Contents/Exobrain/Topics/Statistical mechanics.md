@@ -13,8 +13,10 @@
 ## Technical summaries
 -  
 ## Main resources 
-- 
-	- <iframe src="https://en.wikipedia.org/wiki/Statistical_mechanics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Statistical mechanics - Wikipedia](https://en.wikipedia.org/wiki/Statistical_mechanics)
+<iframe src="https://en.wikipedia.org/wiki/Statistical_mechanics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+- [Teach Yourself Statistical Mechanics In One Video - YouTube](https://www.youtube.com/watch?v=zFAxiRAiM24)
+![Teach Yourself Statistical Mechanics In One Video - YouTube](https://www.youtube.com/watch?v=zFAxiRAiM24)
 ## Landscapes
 - [[Non-equilibrium statistical mechanics]]
 ## Contents
