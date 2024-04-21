@@ -8,7 +8,7 @@ aliases:
 - Metadata: #topic 
 - Part of: [[Science]] [[Formal science]] [[Natural science]] [[Omnidisciplionary]]
 - Related: 
-- Includes:
+- Includes: [[Mathematical theory of artificial intelligence]]
 - Additional: 
 ## Significance
 - 
@@ -73,9 +73,7 @@ Já chci do ruky to nový pro všechny neveřejný Googlí AI s lepším reasoni
 - 
 ## Related
 - 
-## Explanation by AI 
-- 
-## Landscapes by AI 
+## Landscapes
 
 - Map
 I. Pure Mathematics
