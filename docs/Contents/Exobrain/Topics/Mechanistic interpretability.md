@@ -32,6 +32,7 @@
 		- [[Grokking Group Operations using Representation theory]] [[2302.03025] A Toy Model of Universality: Reverse Engineering How Networks Learn Group Operations](https://arxiv.org/abs/2302.03025)
 	- [[Top down representation engineering]] - [Representation Engineering: A Top-Down Approach to AI Transparency](https://www.ai-transparency.org/)
 	- [[Fractal data manifold dimensions]] - [[2004.10802] A Neural Scaling Law from the Dimension of the Data Manifold](https://arxiv.org/abs/2004.10802)
+- [[Mathematical theory of artificial intelligence]]
 ## Contents
 - 
 ## Deep dives

@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Psychology]] [[Reinforcement learning]] [[Artificial intelligence safety]]
+- Part of: [[Psychology]] [[Reinforcement learning]] [[Artificial intelligence safety]] [[Mathematical theory of artificial intelligence]]
 - Related: 
 - Includes:
 - Additional: 
