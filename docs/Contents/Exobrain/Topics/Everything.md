@@ -264,6 +264,144 @@ This list is a broad overview and is by no means exhaustive. Each field continue
 ![[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg]]
 
 STEM Fields
+
+
+STEM Fields
+- Mathematics
+-- Calculus  
+-- Linear Algebra
+-- Differential Equations 
+-- Real Analysis
+-- Abstract Algebra
+-- Topology
+- Physics
+-- Classical Mechanics  
+-- Electromagnetism
+-- Thermodynamics 
+-- Quantum Mechanics
+-- Astrophysics
+- Computer Science
+-- Algorithms  
+-- Data Structures
+-- Software Engineering 
+-- Artificial Intelligence
+-- Machine Learning
+-- Computer Architecture 
+- Engineering
+-- Mechanical Engineering 
+-- Electrical Engineering
+-- Civil Engineering
+-- Chemical Engineering  
+-- Industrial Engineering
+- Biology
+-- Cell Biology
+-- Genetics  
+-- Ecology
+-- Evolutionary Biology
+-- Microbiology 
+- Chemistry 
+-- General Chemistry
+-- Organic Chemistry
+-- Physical Chemistry
+-- Biochemistry 
+-- Analytical Chemistry
+
+Arts & Humanities 
+- History
+-- World History 
+-- U.S. History
+-- European History
+-- Asian History  
+-- Art History
+- Literature  
+-- American Literature
+-- British Literature
+-- World Literature 
+-- Literary Theory
+-- Creative Writing
+- Philosophy
+-- History of Philosophy
+-- Ethics
+-- Epistemology 
+-- Logic
+-- Metaphysics
+- Languages
+-- Spanish 
+-- French
+-- German
+-- Italian
+-- Chinese 
+-- Japanese
+-- Arabic
+- Fine Arts
+-- Drawing
+-- Painting  
+-- Sculpture
+-- Photography 
+-- Graphic Design
+- Performing Arts
+-- Theater
+-- Dance
+-- Music Theory
+-- Music Performance  
+
+Social Sciences
+- Psychology 
+-- Abnormal Psychology
+-- Cognitive Psychology
+-- Developmental Psychology
+-- Social Psychology
+- Sociology
+-- Sociological Theory 
+-- Social Inequality
+-- Race & Ethnicity
+-- Gender & Sexuality  
+- Anthropology
+-- Cultural Anthropology 
+-- Biological Anthropology
+-- Archaeology 
+-- Linguistic Anthropology
+- Political Science
+-- Comparative Politics
+-- International Relations
+-- Political Theory
+- Economics  
+-- Microeconomics
+-- Macroeconomics 
+-- Econometrics
+-- Game Theory
+- Geography
+-- Human Geography
+-- Physical Geography 
+-- Geographic Information Systems
+
+Business
+- Accounting 
+-- Financial Accounting
+-- Managerial Accounting 
+-- Auditing
+-- Tax Accounting
+- Finance
+-- Corporate Finance
+-- Investments  
+-- Financial Markets
+-- International Finance 
+- Marketing
+-- Consumer Behavior
+-- Marketing Research
+-- Digital Marketing
+-- Brand Management
+- Management  
+-- Organizational Behavior
+-- Operations Management
+-- Strategic Management 
+-- Entrepreneurship
+- Business Analytics
+-- Statistics  
+-- Data Analysis
+-- Data Visualization
+-- Predictive Modeling
+
 - Mathematics
 -- Calculus
 --- Limits and Continuity
@@ -966,142 +1104,6 @@ STEM Fields
 ---- Atomic Absorption Spectroscopy
 ---- Emission Spectroscopy
 ---- ...
-
-Arts & Humanities 
-- History
--- World History 
--- U.S. History
--- European History
--- Asian History  
--- Art History
-- Literature  
--- American Literature
--- British Literature
--- World Literature 
--- Literary Theory
--- Creative Writing
-- Philosophy
--- History of Philosophy
--- Ethics
--- Epistemology 
--- Logic
--- Metaphysics
-- Languages
--- Spanish 
--- French
--- German
--- Italian
--- Chinese 
--- Japanese
--- Arabic
-- Fine Arts
--- Drawing
--- Painting  
--- Sculpture
--- Photography 
--- Graphic Design
-- Performing Arts
--- Theater
--- Dance
--- Music Theory
--- Music Performance  
-
-Social Sciences
-- Psychology 
--- Abnormal Psychology
--- Cognitive Psychology
--- Developmental Psychology
--- Social Psychology
-- Sociology
--- Sociological Theory 
--- Social Inequality
--- Race & Ethnicity
--- Gender & Sexuality  
-- Anthropology
--- Cultural Anthropology 
--- Biological Anthropology
--- Archaeology 
--- Linguistic Anthropology
-- Political Science
--- Comparative Politics
--- International Relations
--- Political Theory
-- Economics  
--- Microeconomics
--- Macroeconomics 
--- Econometrics
--- Game Theory
-- Geography
--- Human Geography
--- Physical Geography 
--- Geographic Information Systems
-
-STEM Fields
-- Biology
--- Cell Biology
--- Genetics  
--- Ecology
--- Evolutionary Biology
--- Microbiology 
-- Chemistry 
--- General Chemistry
--- Organic Chemistry
--- Physical Chemistry
--- Biochemistry 
--- Analytical Chemistry
-- Physics
--- Classical Mechanics  
--- Electromagnetism
--- Thermodynamics 
--- Quantum Mechanics
--- Astrophysics
-- Mathematics
--- Calculus  
--- Linear Algebra
--- Differential Equations 
--- Real Analysis
--- Abstract Algebra
--- Topology
-- Computer Science
--- Algorithms  
--- Data Structures
--- Software Engineering 
--- Artificial Intelligence
--- Machine Learning
--- Computer Architecture 
-- Engineering
--- Mechanical Engineering 
--- Electrical Engineering
--- Civil Engineering
--- Chemical Engineering  
--- Industrial Engineering
-
-Business
-- Accounting 
--- Financial Accounting
--- Managerial Accounting 
--- Auditing
--- Tax Accounting
-- Finance
--- Corporate Finance
--- Investments  
--- Financial Markets
--- International Finance 
-- Marketing
--- Consumer Behavior
--- Marketing Research
--- Digital Marketing
--- Brand Management
-- Management  
--- Organizational Behavior
--- Operations Management
--- Strategic Management 
--- Entrepreneurship
-- Business Analytics
--- Statistics  
--- Data Analysis
--- Data Visualization
--- Predictive Modeling
 
 Arts & Humanities
 - History
