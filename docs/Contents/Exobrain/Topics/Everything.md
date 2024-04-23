@@ -20,10 +20,10 @@ aliases:
 -  The concept of everything can be studied using many lenses such as [[philosophy]], [[Logic]], [[Mathematics]], [[science]].
 ## Main resources 
 -   [Everything - Wikipedia](https://en.wikipedia.org/wiki/Everything)
-	- <iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Everything" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscape
 -   [Wikipedia:Contents/Outlines - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines)
-	- <iframe src="https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 - [Wikipedia:Contents/Lists - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists)
 - [Wikipedia:Contents/Categories - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents/Categories)
 - [Wikipedia:Contents - Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contents)
@@ -41,7 +41,7 @@ aliases:
 - 
 ## Related
 - Limits to formalizing everything mathematically: [[Russel’s paradox]]
-## AI 
+## AI landscapes
 ### [[Science]]
 ### [[Natural Science]]
 1. **[[Physics]]**
@@ -262,6 +262,3323 @@ This list is a broad overview and is by no means exhaustive. Each field continue
 ![[landing/docs/Images/73d6095436ed08c90bce22d1e84bf349_MD5.jpeg]]
 [[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg|Open: DALL·E 2024-01-31 00.35.14 - An intricate and detailed illustration depicting a tree of knowledge. The tree's branches represent various branches of knowledge. Each major branch i.png]]
 ![[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg]]
+
+STEM Fields
+- Mathematics
+-- Calculus
+--- Limits and Continuity
+---- Limit Definition
+---- Properties of Limits
+---- ...
+--- Derivatives
+---- Definition of Derivative
+---- Rules of Differentiation
+---- ...
+--- Integrals
+---- Definite Integrals
+---- Indefinite Integrals
+---- Fundamental Theorem of Calculus
+---- ...
+--- Series and Sequences
+---- Convergence Tests
+---- Power Series
+---- ...
+--- Multivariable Calculus
+---- Partial Derivatives
+---- Multiple Integrals
+---- Vector Calculus
+---- ...
+-- Linear Algebra
+--- Vector Spaces
+---- Subspaces
+---- Linear Independence
+---- Basis and Dimension
+---- ...
+--- Matrices
+---- Matrix Operations
+---- Determinants
+---- Inverse Matrices
+---- ...
+--- Eigenvalues and Eigenvectors
+---- Characteristic Equation
+---- Diagonalization
+---- ...
+--- Inner Product Spaces
+---- Orthogonality
+---- Gram-Schmidt Process
+---- ...
+-- Differential Equations
+--- First-Order Equations
+---- Separable Equations
+---- Linear Equations
+---- ...
+--- Second-Order Equations
+---- Homogeneous Equations
+---- Nonhomogeneous Equations
+---- ...
+--- Partial Differential Equations
+---- Heat Equation
+---- Wave Equation
+---- Laplace's Equation
+---- ...
+--- Boundary Value Problems
+---- Sturm-Liouville Theory
+---- Fourier Series
+---- ...
+--- Numerical Methods
+---- Euler's Method
+---- Runge-Kutta Methods
+---- ...
+-- Real Analysis
+--- Sequences and Series
+---- Convergence
+---- Cauchy Sequences
+---- ...
+--- Continuity
+---- Continuous Functions
+---- Uniform Continuity
+---- ...
+--- Differentiation
+---- Mean Value Theorem
+---- L'Hôpital's Rule
+---- ...
+--- Integration
+---- Riemann Integrals
+---- Lebesgue Integrals
+---- ...
+--- Measure Theory
+---- Measurable Sets
+---- Lebesgue Measure
+---- ...
+-- Abstract Algebra
+--- Group Theory
+---- Groups
+---- Subgroups
+---- Homomorphisms
+---- ...
+--- Ring Theory
+---- Rings
+---- Ideals
+---- Homomorphisms
+---- ...
+--- Field Theory
+---- Fields
+---- Field Extensions
+---- ...
+--- Galois Theory
+---- Galois Groups
+---- Solvability by Radicals
+---- ...
+--- Representation Theory
+---- Group Representations
+---- Character Theory
+---- ...
+-- Topology
+--- Topological Spaces
+---- Open and Closed Sets
+---- Continuous Functions
+---- ...
+--- Connectedness and Compactness
+---- Connected Spaces
+---- Compact Spaces
+---- ...
+--- Homotopy Theory
+---- Fundamental Group
+---- Homotopy Groups
+---- ...
+--- Manifolds
+---- Differentiable Manifolds
+---- Riemannian Manifolds
+---- ...
+- Physics
+-- Classical Mechanics
+--- Kinematics
+---- Motion in One Dimension
+---- Motion in Two and Three Dimensions
+---- ...
+--- Dynamics
+---- Newton's Laws of Motion
+---- Work, Energy, and Power
+---- ...
+--- Statics
+---- Equilibrium
+---- Torque
+---- ...
+--- Fluid Mechanics
+---- Hydrostatics
+---- Fluid Dynamics
+---- ...
+--- Hamiltonian and Lagrangian Mechanics
+---- Generalized Coordinates
+---- Hamilton's Equations
+---- ...
+-- Electromagnetism
+--- Electrostatics
+---- Coulomb's Law
+---- Electric Fields
+---- ...
+--- Magnetostatics
+---- Magnetic Fields
+---- Ampère's Law
+---- ...
+--- Electromagnetic Waves
+---- Maxwell's Equations
+---- Electromagnetic Spectrum
+---- ...
+--- Optics
+---- Geometric Optics
+---- Wave Optics
+---- ...
+-- Thermodynamics
+--- Laws of Thermodynamics
+---- Zeroth Law
+---- First Law
+---- Second Law
+---- Third Law
+---- ...
+--- Statistical Mechanics
+---- Microstates and Macrostates
+---- Boltzmann Distribution
+---- ...
+--- Kinetic Theory
+---- Ideal Gas Law
+---- Maxwell-Boltzmann Distribution
+---- ...
+--- Heat Transfer
+---- Conduction
+---- Convection
+---- Radiation
+---- ...
+--- Phase Transitions
+---- Phase Diagrams
+---- Critical Points
+---- ...
+-- Quantum Mechanics
+--- Wave Function
+---- Schrödinger Equation
+---- Born Interpretation
+---- ...
+--- Operators and Observables
+---- Hermitian Operators
+---- Eigenvalues and Eigenstates
+---- ...
+--- Angular Momentum
+---- Orbital Angular Momentum
+---- Spin Angular Momentum
+---- ...
+--- Perturbation Theory
+---- Time-Independent Perturbation Theory
+---- Time-Dependent Perturbation Theory
+---- ...
+-- Astrophysics
+--- Stellar Structure and Evolution
+---- Stellar Interiors
+---- Hertzsprung-Russell Diagram
+---- ...
+--- Galactic Astronomy
+---- Galactic Structure
+---- Dark Matter
+---- ...
+--- Cosmology
+---- Big Bang Theory
+---- Cosmic Microwave Background
+---- ...
+--- High Energy Astrophysics
+---- X-ray Astronomy
+---- Gamma-ray Astronomy
+---- ...
+--- Observational Astronomy
+---- Telescopes and Instrumentation
+---- Astronomical Imaging and Data Analysis
+---- ...
+- Computer Science
+-- Algorithms
+--- Complexity Analysis
+---- Big O Notation
+---- Time Complexity
+---- Space Complexity
+---- ...
+--- Sorting and Searching
+---- Bubble Sort
+---- Insertion Sort
+---- Merge Sort
+---- Quick Sort
+---- Binary Search
+---- ...
+--- Graph Algorithms
+---- Depth-First Search
+---- Breadth-First Search
+---- Dijkstra's Algorithm
+---- ...
+--- Dynamic Programming
+---- Memoization
+---- Tabulation
+---- ...
+--- Approximation Algorithms
+---- Vertex Cover
+---- Traveling Salesman Problem
+---- ...
+-- Data Structures
+--- Arrays and Linked Lists
+---- Static and Dynamic Arrays
+---- Singly and Doubly Linked Lists
+---- ...
+--- Stacks and Queues
+---- Stack Operations
+---- Queue Operations
+---- ...
+--- Trees and Graphs
+---- Binary Trees
+---- AVL Trees
+---- Red-Black Trees
+---- Heaps
+---- ...
+--- Hash Tables
+---- Hash Functions
+---- Collision Resolution
+---- ...
+--- Priority Queues
+---- Binary Heap
+---- Fibonacci Heap
+---- ...
+-- Software Engineering
+--- Software Development Lifecycle
+---- Requirements Gathering
+---- Design
+---- Implementation
+---- Testing
+---- Maintenance
+---- ...
+--- Object-Oriented Programming
+---- Classes and Objects
+---- Inheritance
+---- Polymorphism
+---- Encapsulation
+---- ...
+--- Design Patterns
+---- Creational Patterns
+---- Structural Patterns
+---- Behavioral Patterns
+---- ...
+--- Testing and Debugging
+---- Unit Testing
+---- Integration Testing
+---- Debugging Techniques
+---- ...
+--- Project Management
+---- Agile Methodologies
+---- Scrum
+---- Kanban
+---- ...
+-- Artificial Intelligence
+--- Search Algorithms
+---- Uninformed Search
+---- Informed Search
+---- Adversarial Search
+---- ...
+--- Knowledge Representation
+---- Propositional Logic
+---- First-Order Logic
+---- ...
+--- Machine Learning
+---- Supervised Learning
+---- Unsupervised Learning
+---- Reinforcement Learning
+---- ...
+--- Natural Language Processing
+---- Syntactic Analysis
+---- Semantic Analysis
+---- ...
+--- Computer Vision
+---- Image Processing
+---- Object Detection and Recognition
+---- ...
+-- Machine Learning
+--- Supervised Learning
+---- Linear Regression
+---- Logistic Regression
+---- Decision Trees
+---- Support Vector Machines
+---- ...
+--- Unsupervised Learning
+---- K-Means Clustering
+---- Hierarchical Clustering
+---- Principal Component Analysis
+---- ...
+--- Reinforcement Learning
+---- Markov Decision Processes
+---- Q-Learning
+---- Policy Gradients
+---- ...
+--- Neural Networks
+---- Feedforward Neural Networks
+---- Convolutional Neural Networks
+---- Recurrent Neural Networks
+---- ...
+--- Deep Learning
+---- Deep Feedforward Networks
+---- Deep Convolutional Networks
+---- Deep Recurrent Networks
+---- ...
+-- Computer Architecture
+--- Digital Logic
+---- Boolean Algebra
+---- Logic Gates
+---- ...
+--- Microarchitecture
+---- Instruction Set Architecture
+---- Pipelining
+---- ...
+--- Memory Hierarchy
+---- Cache Memory
+---- Main Memory
+---- Virtual Memory
+---- ...
+--- Parallel Computing
+---- Multicore Processors
+---- SIMD and MIMD Architectures
+---- ...
+- Engineering
+-- Mechanical Engineering
+--- Statics and Dynamics
+---- Force Systems
+---- Equilibrium
+---- Kinematics
+---- Kinetics
+---- ...
+--- Thermodynamics
+---- Laws of Thermodynamics
+---- Heat Engines
+---- ...
+--- Fluid Mechanics
+---- Fluid Statics
+---- Fluid Dynamics
+---- ...
+--- Materials Science
+---- Material Properties
+---- Phase Diagrams
+---- ...
+--- Manufacturing Processes
+---- Casting and Molding
+---- Forming and Shaping
+---- Machining and Finishing
+---- ...
+-- Electrical Engineering
+--- Circuit Analysis
+---- Ohm's Law
+---- Kirchhoff's Laws
+---- ...
+--- Electronics
+---- Semiconductor Devices
+---- Amplifiers
+---- Digital Circuits
+---- ...
+--- Signal Processing
+---- Fourier Analysis
+---- Filtering and Convolution
+---- ...
+--- Control Systems
+---- Feedback Control
+---- PID Controllers
+---- ...
+--- Power Systems
+---- Power Generation
+---- Power Transmission and Distribution
+---- ...
+-- Civil Engineering
+--- Structural Engineering
+---- Structural Analysis
+---- Concrete Design
+---- Steel Design
+---- ...
+--- Geotechnical Engineering
+---- Soil Mechanics
+---- Foundation Engineering
+---- ...
+--- Transportation Engineering
+---- Highway Design
+---- Traffic Engineering
+---- ...
+--- Water Resources Engineering
+---- Hydrology
+---- Hydraulics
+---- ...
+--- Environmental Engineering
+---- Water and Wastewater Treatment
+---- Air Pollution Control
+---- Solid Waste Management
+---- ...
+-- Chemical Engineering
+--- Material and Energy Balances
+---- Conservation of Mass
+---- Conservation of Energy
+---- ...
+--- Transport Phenomena
+---- Fluid Mechanics
+---- Heat Transfer
+---- Mass Transfer
+---- ...
+--- Chemical Reaction Engineering
+---- Reaction Kinetics
+---- Reactor Design
+---- ...
+--- Process Control
+---- Feedback Control
+---- Cascade Control
+---- ...
+--- Plant Design
+---- Process Flow Diagrams
+---- Piping and Instrumentation Diagrams
+---- ...
+-- Industrial Engineering
+--- Operations Research
+---- Linear Programming
+---- Queuing Theory
+---- ...
+--- Quality Control
+---- Statistical Process Control
+---- Six Sigma
+---- ...
+--- Ergonomics
+---- Workplace Design
+---- Human Factors Engineering
+---- ...
+--- Supply Chain Management
+---- Inventory Management
+---- Logistics
+---- ...
+--- Simulation Modeling
+---- Discrete-Event Simulation
+---- Monte Carlo Simulation
+---- ...
+- Biology  
+-- Cell Biology
+--- Cell Structure and Function  
+---- Cell Membrane
+---- Organelles
+---- ...  
+--- Cell Signaling
+---- Signal Transduction Pathways
+---- Receptor-Ligand Interactions  
+---- ...
+--- Cell Division
+---- Mitosis  
+---- Meiosis
+---- ...
+--- Cell Metabolism  
+---- Cellular Respiration
+---- Photosynthesis
+---- ...  
+--- Cell Differentiation
+---- Stem Cells
+---- Tissue Engineering
+---- ...  
+-- Genetics
+--- Mendelian Genetics
+---- Laws of Inheritance  
+---- Punnett Squares
+---- ...
+--- Molecular Genetics  
+---- DNA Structure and Function
+---- Gene Expression
+---- ...  
+--- Population Genetics
+---- Hardy-Weinberg Equilibrium
+---- Genetic Drift  
+---- ...
+--- Quantitative Genetics
+---- Heritability  
+---- Polygenic Traits
+---- ...
+--- Genomics  
+---- Genome Sequencing
+---- Bioinformatics
+---- ...  
+-- Ecology
+--- Population Ecology
+---- Population Growth Models  
+---- Intraspecific Competition
+---- ...
+--- Community Ecology  
+---- Species Interactions
+---- Ecological Succession
+---- ...  
+--- Ecosystem Ecology
+---- Energy Flow
+---- Nutrient Cycling  
+---- ...
+--- Conservation Biology
+---- Biodiversity  
+---- Habitat Fragmentation
+---- ...
+--- Behavioral Ecology  
+---- Optimal Foraging Theory
+---- Mating Systems
+---- ...  
+-- Evolutionary Biology
+--- Natural Selection
+--- Adaptation
+---- Convergent Evolution
+---- Divergent Evolution
+---- ...
+--- Speciation
+---- Allopatric Speciation
+---- Sympatric Speciation
+---- ...
+--- Phylogenetics
+---- Cladistics
+---- Molecular Phylogenetics
+---- ...
+--- Molecular Evolution
+---- Neutral Theory
+---- Molecular Clock
+---- ...
+-- Microbiology
+--- Bacteriology
+---- Bacterial Genetics
+---- Bacterial Metabolism
+---- ...
+--- Virology
+---- Viral Structure and Classification
+---- Viral Replication
+---- ...
+--- Mycology
+---- Fungal Morphology
+---- Fungal Ecology
+---- ...
+--- Parasitology
+---- Protozoan Parasites
+---- Helminthic Parasites
+---- ...
+--- Immunology
+---- Innate Immunity
+---- Adaptive Immunity
+---- ...
+- Chemistry
+-- General Chemistry
+--- Atomic Structure
+---- Atomic Models
+---- Quantum Numbers
+---- ...
+--- Chemical Bonding
+---- Ionic Bonding
+---- Covalent Bonding
+---- ...
+--- Stoichiometry
+---- Mole Concept
+---- Balancing Chemical Equations
+---- ...
+--- Thermochemistry
+---- Enthalpy
+---- Hess's Law
+---- ...
+--- Chemical Kinetics
+---- Reaction Rates
+---- Rate Laws
+---- ...
+-- Organic Chemistry
+--- Nomenclature
+---- IUPAC Nomenclature
+---- Common Names
+---- ...
+--- Stereochemistry
+---- Chirality
+---- Enantiomers and Diastereomers
+---- ...
+--- Reactions and Mechanisms
+---- Substitution Reactions
+---- Elimination Reactions
+---- Addition Reactions
+---- ...
+--- Synthesis
+---- Retrosynthetic Analysis
+---- Synthetic Strategies
+---- ...
+--- Spectroscopy
+---- NMR Spectroscopy
+---- IR Spectroscopy
+---- Mass Spectrometry
+---- ...
+-- Physical Chemistry
+--- Thermodynamics
+---- Laws of Thermodynamics
+---- Gibbs Free Energy
+---- ...
+--- Quantum Chemistry
+---- Schrödinger Equation
+---- Molecular Orbital Theory
+---- ...
+--- Statistical Mechanics
+---- Partition Functions
+---- Ensemble Theory
+---- ...
+--- Chemical Kinetics
+---- Reaction Mechanisms
+---- Transition State Theory
+---- ...
+--- Surface Chemistry
+---- Adsorption Isotherms
+---- Catalysis
+---- ...
+-- Biochemistry
+--- Proteins and Enzymes
+---- Protein Structure
+---- Enzyme Kinetics
+---- ...
+--- Carbohydrates
+---- Monosaccharides
+---- Disaccharides
+---- Polysaccharides
+---- ...
+--- Lipids
+---- Fatty Acids
+---- Triglycerides
+---- Steroids
+---- ...
+--- Nucleic Acids
+---- DNA Structure
+---- RNA Structure
+---- ...
+--- Metabolism
+---- Glycolysis
+---- Citric Acid Cycle
+---- Oxidative Phosphorylation
+---- ...
+-- Analytical Chemistry
+--- Quantitative Analysis
+---- Titrations
+---- Gravimetric Analysis
+---- ...
+--- Instrumental Analysis
+---- Spectroscopic Methods
+---- Chromatographic Methods
+---- Electroanalytical Methods
+---- ...
+--- Separation Techniques
+---- Extraction
+---- Distillation
+---- ...
+--- Electrochemistry
+---- Electrodes and Cells
+---- Redox Reactions
+---- ...
+--- Spectroscopy
+---- Atomic Absorption Spectroscopy
+---- Emission Spectroscopy
+---- ...
+
+Arts & Humanities 
+- History
+-- World History 
+-- U.S. History
+-- European History
+-- Asian History  
+-- Art History
+- Literature  
+-- American Literature
+-- British Literature
+-- World Literature 
+-- Literary Theory
+-- Creative Writing
+- Philosophy
+-- History of Philosophy
+-- Ethics
+-- Epistemology 
+-- Logic
+-- Metaphysics
+- Languages
+-- Spanish 
+-- French
+-- German
+-- Italian
+-- Chinese 
+-- Japanese
+-- Arabic
+- Fine Arts
+-- Drawing
+-- Painting  
+-- Sculpture
+-- Photography 
+-- Graphic Design
+- Performing Arts
+-- Theater
+-- Dance
+-- Music Theory
+-- Music Performance  
+
+Social Sciences
+- Psychology 
+-- Abnormal Psychology
+-- Cognitive Psychology
+-- Developmental Psychology
+-- Social Psychology
+- Sociology
+-- Sociological Theory 
+-- Social Inequality
+-- Race & Ethnicity
+-- Gender & Sexuality  
+- Anthropology
+-- Cultural Anthropology 
+-- Biological Anthropology
+-- Archaeology 
+-- Linguistic Anthropology
+- Political Science
+-- Comparative Politics
+-- International Relations
+-- Political Theory
+- Economics  
+-- Microeconomics
+-- Macroeconomics 
+-- Econometrics
+-- Game Theory
+- Geography
+-- Human Geography
+-- Physical Geography 
+-- Geographic Information Systems
+
+STEM Fields
+- Biology
+-- Cell Biology
+-- Genetics  
+-- Ecology
+-- Evolutionary Biology
+-- Microbiology 
+- Chemistry 
+-- General Chemistry
+-- Organic Chemistry
+-- Physical Chemistry
+-- Biochemistry 
+-- Analytical Chemistry
+- Physics
+-- Classical Mechanics  
+-- Electromagnetism
+-- Thermodynamics 
+-- Quantum Mechanics
+-- Astrophysics
+- Mathematics
+-- Calculus  
+-- Linear Algebra
+-- Differential Equations 
+-- Real Analysis
+-- Abstract Algebra
+-- Topology
+- Computer Science
+-- Algorithms  
+-- Data Structures
+-- Software Engineering 
+-- Artificial Intelligence
+-- Machine Learning
+-- Computer Architecture 
+- Engineering
+-- Mechanical Engineering 
+-- Electrical Engineering
+-- Civil Engineering
+-- Chemical Engineering  
+-- Industrial Engineering
+
+Business
+- Accounting 
+-- Financial Accounting
+-- Managerial Accounting 
+-- Auditing
+-- Tax Accounting
+- Finance
+-- Corporate Finance
+-- Investments  
+-- Financial Markets
+-- International Finance 
+- Marketing
+-- Consumer Behavior
+-- Marketing Research
+-- Digital Marketing
+-- Brand Management
+- Management  
+-- Organizational Behavior
+-- Operations Management
+-- Strategic Management 
+-- Entrepreneurship
+- Business Analytics
+-- Statistics  
+-- Data Analysis
+-- Data Visualization
+-- Predictive Modeling
+
+Arts & Humanities
+- History
+-- World History
+--- Ancient History
+--- Medieval History
+--- Modern History
+--- Contemporary History
+-- U.S. History
+--- Colonial America
+--- American Revolution
+--- Civil War Era
+--- 20th Century U.S.
+--- Recent U.S. History
+-- European History
+--- Ancient Greece and Rome
+--- Middle Ages
+--- Renaissance and Reformation
+--- Age of Enlightenment
+--- 19th Century Europe
+--- 20th Century Europe
+-- Asian History
+--- Chinese History
+--- Japanese History
+--- Indian History
+--- Southeast Asian History
+--- Central Asian History
+-- Art History
+--- Ancient Art
+--- Medieval Art
+--- Renaissance Art
+--- Baroque Art
+--- 19th Century Art
+--- Modern Art
+--- Contemporary Art
+- Literature
+-- American Literature
+--- Colonial and Early American Literature
+--- 19th Century American Literature
+--- 20th Century American Literature
+--- Contemporary American Literature
+-- British Literature
+--- Old English Literature
+--- Middle English Literature
+--- Renaissance Literature
+--- 18th Century British Literature
+--- Romantic Period
+--- Victorian Literature
+--- 20th Century British Literature
+-- World Literature
+--- Classical Literature
+--- Medieval Literature
+--- African Literature
+--- Latin American Literature
+--- Asian Literature
+--- Middle Eastern Literature
+-- Literary Theory
+--- Formalism
+--- Structuralism
+--- Post-structuralism
+--- Marxist Literary Theory
+--- Feminist Literary Theory
+--- Postcolonial Theory
+-- Creative Writing
+--- Fiction Writing
+--- Poetry Writing
+--- Nonfiction Writing
+--- Screenwriting
+--- Playwriting
+- Philosophy
+-- History of Philosophy
+--- Ancient Philosophy
+--- Medieval Philosophy
+--- Modern Philosophy
+--- Contemporary Philosophy
+-- Ethics
+--- Normative Ethics
+--- Applied Ethics
+--- Meta-ethics
+-- Epistemology
+--- Skepticism
+--- Rationalism
+--- Empiricism
+--- Pragmatism
+-- Logic
+--- Formal Logic
+--- Informal Logic
+--- Modal Logic
+--- Fuzzy Logic
+-- Metaphysics
+--- Ontology
+--- Philosophy of Mind
+--- Philosophy of Time
+--- Free Will and Determinism
+- Languages
+-- Spanish
+--- Spanish Language (Beginner to Advanced)
+--- Spanish Literature
+--- Spanish Culture and Civilization
+-- French
+--- French Language (Beginner to Advanced)
+--- French Literature
+--- French Culture and Civilization
+-- German
+--- German Language (Beginner to Advanced)
+--- German Literature
+--- German Culture and Civilization
+-- Italian
+--- Italian Language (Beginner to Advanced)
+--- Italian Literature
+--- Italian Culture and Civilization
+-- Chinese
+--- Mandarin Chinese (Beginner to Advanced)
+--- Classical Chinese
+--- Chinese Literature
+--- Chinese Culture and Civilization
+-- Japanese
+--- Japanese Language (Beginner to Advanced)
+--- Classical Japanese
+--- Japanese Literature
+--- Japanese Culture and Civilization
+-- Arabic
+--- Modern Standard Arabic (Beginner to Advanced)
+--- Classical Arabic
+--- Arabic Literature
+--- Islamic Culture and Civilization
+- Fine Arts
+-- Drawing
+--- Life Drawing
+--- Perspective Drawing
+--- Anatomy for Artists
+--- Illustration
+-- Painting
+--- Oil Painting
+--- Acrylic Painting
+--- Watercolor Painting
+--- Mixed Media Painting
+-- Sculpture
+--- Clay Sculpture
+--- Stone Carving
+--- Metal Sculpture
+--- Installation Art
+-- Photography
+--- Digital Photography
+--- Analog Photography
+--- Studio Lighting
+--- Documentary Photography
+-- Graphic Design
+--- Typography
+--- Layout Design
+--- Web Design
+--- Motion Graphics
+- Performing Arts
+-- Theater
+--- Acting
+--- Directing
+--- Stagecraft
+--- Costume Design
+--- Lighting Design
+-- Dance
+--- Ballet
+--- Modern Dance
+--- Jazz Dance
+--- Choreography
+--- Dance History
+-- Music Theory
+--- Harmony
+--- Counterpoint
+--- Form and Analysis
+--- Orchestration
+--- Music Composition
+-- Music Performance
+--- Piano Performance
+--- Vocal Performance
+--- Instrumental Performance (various instruments)
+--- Conducting
+--- Music Technology
+
+Social Sciences
+- Psychology
+-- Abnormal Psychology
+--- Anxiety Disorders
+--- Mood Disorders
+--- Personality Disorders
+--- Schizophrenia
+--- Substance Abuse Disorders
+-- Cognitive Psychology
+--- Perception
+--- Attention
+--- Memory
+--- Language Processing
+--- Decision Making
+-- Developmental Psychology
+--- Prenatal Development
+--- Infancy and Toddlerhood
+--- Childhood
+--- Adolescence
+--- Adulthood and Aging
+-- Social Psychology
+--- Social Cognition
+--- Attitudes and Persuasion
+--- Group Processes
+--- Interpersonal Relationships
+--- Prejudice and Discrimination
+- Sociology
+-- Sociological Theory
+--- Classical Sociological Theory
+--- Contemporary Sociological Theory
+--- Macro-sociology
+--- Micro-sociology
+-- Social Inequality
+--- Social Stratification
+--- Poverty and Welfare
+--- Race and Ethnicity
+--- Gender Inequality
+--- Sexuality and Inequality
+-- Race & Ethnicity
+--- Racial and Ethnic Relations
+--- Sociology of Race
+--- Racial and Ethnic Identity
+--- Immigration and Assimilation
+-- Gender & Sexuality
+--- Sociology of Gender
+--- Sociology of Sexuality
+--- Feminist Theory
+--- LGBTQ+ Studies
+- Anthropology
+-- Cultural Anthropology
+--- Ethnography
+--- Kinship and Family
+--- Religion and Ritual
+--- Economic Anthropology
+--- Political Anthropology
+-- Biological Anthropology
+--- Human Evolution
+--- Primatology
+--- Human Genetics
+--- Forensic Anthropology
+-- Archaeology
+--- Prehistoric Archaeology
+--- Historical Archaeology
+--- Archaeological Methods
+--- Archaeological Theory
+-- Linguistic Anthropology
+--- Language and Culture
+--- Language Acquisition
+--- Language and Identity
+--- Language and Power
+- Political Science
+-- Comparative Politics
+--- Political Systems
+--- Democratization
+--- Authoritarianism
+--- Political Economy
+--- Comparative Public Policy
+-- International Relations
+--- International Security
+--- International Political Economy
+--- Foreign Policy Analysis
+--- International Organizations
+--- Global Governance
+-- Political Theory
+--- Ancient and Medieval Political Thought
+--- Modern Political Thought
+--- Contemporary Political Theory
+--- Feminist Political Theory
+--- Postcolonial Political Theory
+- Economics
+-- Microeconomics
+--- Consumer Theory
+--- Producer Theory
+--- Market Structures
+--- Game Theory
+--- Behavioral Economics
+-- Macroeconomics
+--- Economic Growth
+--- Business Cycles
+--- Monetary Policy
+--- Fiscal Policy
+--- International Macroeconomics
+-- Econometrics
+--- Regression Analysis
+--- Time Series Analysis
+--- Panel Data Analysis
+--- Instrumental Variables
+--- Bayesian Econometrics
+-- Game Theory
+--- Strategic Form Games
+--- Extensive Form Games
+--- Cooperative Games
+--- Evolutionary Game Theory
+--- Mechanism Design
+- Geography
+-- Human Geography
+--- Urban Geography
+--- Economic Geography
+--- Political Geography
+--- Cultural Geography
+--- Population Geography
+-- Physical Geography
+--- Geomorphology
+--- Climatology
+--- Biogeography
+--- Hydrology
+--- Soil Geography
+-- Geographic Information Systems (GIS)
+--- Spatial Analysis
+--- Remote Sensing
+--- Cartography
+--- Web GIS
+--- Geostatistics
+
+STEM Fields
+- Biology
+-- Cell Biology
+--- Cell Structure and Function
+--- Cell Signaling
+--- Cell Division
+--- Cell Metabolism
+--- Cell Differentiation
+-- Genetics
+--- Mendelian Genetics
+--- Molecular Genetics
+--- Population Genetics
+--- Quantitative Genetics
+--- Genomics
+-- Ecology
+--- Population Ecology
+--- Community Ecology
+--- Ecosystem Ecology
+--- Conservation Biology
+--- Behavioral Ecology
+-- Evolutionary Biology
+--- Natural Selection
+--- Adaptation
+--- Speciation
+--- Phylogenetics
+--- Molecular Evolution
+-- Microbiology
+--- Bacteriology
+--- Virology
+--- Mycology
+--- Parasitology
+--- Immunology
+- Chemistry
+-- General Chemistry
+--- Atomic Structure
+--- Chemical Bonding
+--- Stoichiometry
+--- Thermochemistry
+--- Chemical Kinetics
+-- Organic Chemistry
+--- Nomenclature
+--- Stereochemistry
+--- Reactions and Mechanisms
+--- Synthesis
+--- Spectroscopy
+-- Physical Chemistry
+--- Thermodynamics
+--- Quantum Chemistry
+--- Statistical Mechanics
+--- Chemical Kinetics
+--- Surface Chemistry
+-- Biochemistry
+--- Proteins and Enzymes
+--- Carbohydrates
+--- Lipids
+--- Nucleic Acids
+--- Metabolism
+-- Analytical Chemistry
+--- Quantitative Analysis
+--- Instrumental Analysis
+--- Separation Techniques
+--- Electrochemistry
+--- Spectroscopy
+- Physics
+-- Classical Mechanics
+--- Kinematics
+--- Dynamics
+--- Statics
+--- Fluid Mechanics
+--- Hamiltonian and Lagrangian Mechanics
+-- Electromagnetism
+--- Electrostatics
+--- Magnetostatics
+--- Electromagnetic Waves
+--- Maxwell's Equations
+--- Optics
+-- Thermodynamics
+--- Laws of Thermodynamics
+--- Statistical Mechanics
+--- Kinetic Theory
+--- Heat Transfer
+--- Phase Transitions
+-- Quantum Mechanics
+--- Wave Function
+--- Schrödinger Equation
+--- Operators and Observables
+--- Angular Momentum
+--- Perturbation Theory
+-- Astrophysics
+--- Stellar Structure and Evolution
+--- Galactic Astronomy
+--- Cosmology
+--- High Energy Astrophysics
+--- Observational Astronomy
+- Mathematics
+-- Calculus
+--- Limits and Continuity
+--- Derivatives
+--- Integrals
+--- Series and Sequences
+--- Multivariable Calculus
+-- Linear Algebra
+--- Vector Spaces
+--- Matrices
+--- Determinants
+--- Eigenvalues and Eigenvectors
+--- Inner Product Spaces
+-- Differential Equations
+--- First-Order Equations
+--- Second-Order Equations
+--- Partial Differential Equations
+--- Boundary Value Problems
+--- Numerical Methods
+-- Real Analysis
+--- Sequences and Series
+--- Continuity
+--- Differentiation
+--- Integration
+--- Measure Theory
+-- Abstract Algebra
+--- Group Theory
+--- Ring Theory
+--- Field Theory
+--- Galois Theory
+--- Representation Theory
+-- Topology
+--- Topological Spaces
+--- Continuity and Homeomorphisms
+--- Connectedness and Compactness
+--- Homotopy Theory
+--- Manifolds
+- Computer Science
+-- Algorithms
+--- Complexity Analysis
+--- Sorting and Searching
+--- Graph Algorithms
+--- Dynamic Programming
+--- Approximation Algorithms
+-- Data Structures
+--- Arrays and Linked Lists
+--- Stacks and Queues
+--- Trees and Graphs
+--- Hash Tables
+--- Priority Queues
+-- Software Engineering
+--- Software Development Lifecycle
+--- Object-Oriented Programming
+--- Design Patterns
+--- Testing and Debugging
+--- Project Management
+-- Artificial Intelligence
+--- Search Algorithms
+--- Knowledge Representation
+--- Machine Learning
+--- Natural Language Processing
+--- Computer Vision
+-- Machine Learning
+--- Supervised Learning
+--- Unsupervised Learning
+--- Reinforcement Learning
+--- Neural Networks
+--- Deep Learning
+-- Computer Architecture
+--- Digital Logic
+--- Microarchitecture
+--- Instruction Set Architecture
+--- Memory Hierarchy
+--- Parallel Computing
+- Engineering
+-- Mechanical Engineering
+--- Statics and Dynamics
+--- Thermodynamics
+--- Fluid Mechanics
+--- Materials Science
+--- Manufacturing Processes
+-- Electrical Engineering
+--- Circuit Analysis
+--- Electronics
+--- Signal Processing
+--- Control Systems
+--- Power Systems
+-- Civil Engineering
+--- Structural Engineering
+--- Geotechnical Engineering
+--- Transportation Engineering
+--- Water Resources Engineering
+--- Environmental Engineering
+-- Chemical Engineering
+--- Material and Energy Balances
+--- Transport Phenomena
+--- Chemical Reaction Engineering
+--- Process Control
+--- Plant Design
+-- Industrial Engineering
+--- Operations Research
+--- Quality Control
+--- Ergonomics
+--- Supply Chain Management
+--- Simulation Modeling
+
+Business
+- Accounting
+-- Financial Accounting
+--- Financial Statements
+--- Accounting Cycle
+--- Generally Accepted Accounting Principles (GAAP)
+--- International Financial Reporting Standards (IFRS)
+-- Managerial Accounting
+--- Cost Accounting
+--- Budgeting and Forecasting
+--- Performance Measurement
+--- Decision Making
+-- Auditing
+--- Audit Planning
+--- Internal Control
+--- Substantive Testing
+--- Audit Reports
+-- Tax Accounting
+--- Individual Taxation
+--- Corporate Taxation
+--- Partnership Taxation
+--- International Taxation
+--- Tax Planning Strategies
+- Finance
+-- Corporate Finance
+--- Capital Budgeting
+--- Capital Structure
+--- Working Capital Management
+--- Dividend Policy
+--- Mergers and Acquisitions
+-- Investments
+--- Portfolio Theory
+--- Asset Pricing Models
+--- Fixed Income Securities
+--- Derivatives
+--- Alternative Investments
+-- Financial Markets
+--- Equity Markets
+--- Bond Markets
+--- Foreign Exchange Markets
+--- Money Markets
+--- Derivative Markets
+-- International Finance
+--- International Financial Markets
+--- Foreign Direct Investment
+--- Currency Risk Management
+--- International Capital Budgeting
+--- International Trade Finance
+- Marketing
+-- Consumer Behavior
+--- Consumer Decision Making
+--- Perception and Attitudes
+--- Motivation and Emotion
+--- Social and Cultural Influences
+--- Consumer Research Methods
+-- Marketing Research
+--- Research Design
+--- Sampling Methods
+--- Data Collection Techniques
+--- Data Analysis and Interpretation
+--- Reporting and Presentation
+-- Digital Marketing
+--- Search Engine Marketing
+--- Social Media Marketing
+--- Email Marketing
+--- Content Marketing
+--- Web Analytics
+-- Brand Management
+--- Brand Equity
+--- Brand Positioning
+--- Brand Architecture
+--- Brand Communication Strategies
+--- Brand Performance Metrics
+- Management
+-- Organizational Behavior
+--- Individual Behavior
+--- Group Dynamics
+--- Leadership
+--- Motivation
+--- Organizational Culture
+-- Operations Management
+--- Process Analysis and Design
+--- Quality Management
+--- Supply Chain Management
+--- Inventory Management
+--- Project Management
+-- Strategic Management
+--- Environmental Scanning
+--- Strategy Formulation
+--- Strategy Implementation
+--- Performance Evaluation
+--- Corporate Governance
+-- Entrepreneurship
+--- Opportunity Recognition
+--- Business Model Development
+--- Startup Financing
+--- Growth Strategies
+--- Social Entrepreneurship
+- Business Analytics
+-- Statistics
+--- Descriptive Statistics
+--- Probability Distributions
+--- Sampling and Estimation
+--- Hypothesis Testing
+--- Regression Analysis
+-- Data Analysis
+--- Data Preprocessing
+--- Exploratory Data Analysis
+--- Data Mining
+--- Machine Learning
+--- Big Data Analytics
+-- Data Visualization
+--- Information Design
+--- Visual Perception
+--- Data Storytelling
+--- Dashboards and Scorecards
+--- Interactive Visualization
+-- Predictive Modeling
+--- Classification Models
+--- Regression Models
+--- Time Series Analysis
+--- Survival Analysis
+--- Ensemble Methods
+Arts & Humanities
+- History
+-- World History
+--- Ancient History
+---- Prehistoric Era
+---- Bronze Age Civilizations
+---- Classical Antiquity
+---- Late Antiquity
+---- ...
+--- Medieval History
+---- Early Middle Ages
+---- High Middle Ages
+---- Late Middle Ages
+---- Byzantine Empire
+---- Islamic Golden Age
+---- ...
+--- Modern History
+---- Renaissance
+---- Age of Discovery
+---- Reformation
+---- Scientific Revolution
+---- Enlightenment 
+---- Age of Revolutions
+---- ...  
+--- Contemporary History
+---- World War I
+---- Interwar Period
+---- World War II 
+---- Cold War Era
+---- Post-Cold War Era
+---- ...
+-- U.S. History  
+--- Pre-Columbian Era
+--- Colonial America
+---- Jamestown Settlement 
+---- Plymouth Colony
+---- French and Indian War
+---- ...
+--- American Revolution  
+---- Boston Tea Party
+---- Continental Congress
+---- Declaration of Independence
+---- American Revolutionary War
+---- ...
+--- Civil War Era
+---- Antebellum Period  
+---- Abolitionist Movement
+---- Secession Crisis
+---- American Civil War
+---- Reconstruction Era
+---- ...  
+--- 20th Century U.S.
+---- Progressive Era
+---- World War I
+---- Roaring Twenties  
+---- Great Depression
+---- World War II
+---- Civil Rights Movement
+---- Cold War 
+---- ...
+--- Recent U.S. History   
+---- Post-Cold War Era
+---- 9/11 and War on Terror
+---- Great Recession 
+---- Obama Presidency
+---- Trump Presidency
+---- ...
+-- European History
+--- Ancient Greece and Rome
+---- Minoan Civilization
+---- Mycenaean Civilization  
+---- Archaic Period
+---- Classical Greece
+---- Hellenistic Period
+---- Roman Republic
+---- Roman Empire
+---- ...
+--- Middle Ages 
+---- Early Middle Ages
+---- Viking Age
+---- High Middle Ages 
+---- Late Middle Ages
+---- Hundred Years' War
+---- ...
+--- Renaissance and Reformation
+---- Italian Renaissance  
+---- Northern Renaissance
+---- Protestant Reformation
+---- Catholic Counter-Reformation
+---- ...  
+--- Age of Enlightenment
+---- Scientific Revolution
+---- Enlightenment Philosophy  
+---- Enlightened Absolutism
+---- American Revolution
+---- French Revolution
+---- ...
+--- 19th Century Europe  
+---- Napoleonic Wars
+---- Congress of Vienna
+---- Revolutions of 1848 
+---- Crimean War
+---- Italian Unification
+---- German Unification
+---- ...
+--- 20th Century Europe
+---- World War I  
+---- Russian Revolution
+---- Interwar Period
+---- World War II
+---- Cold War  
+---- Decolonization
+---- European Integration
+---- ...
+-- Asian History  
+--- Chinese History
+---- Ancient China
+---- Imperial China
+---- Qin Dynasty  
+---- Han Dynasty
+---- Tang Dynasty
+---- Song Dynasty
+---- Yuan Dynasty
+---- Ming Dynasty  
+---- Qing Dynasty
+---- Republic of China
+---- People's Republic of China
+---- ...
+--- Japanese History
+---- Jōmon Period
+---- Yayoi Period  
+---- Kofun Period
+---- Asuka Period
+---- Nara Period  
+---- Heian Period
+---- Kamakura Period
+---- Muromachi Period
+---- Azuchi-Momoyama Period
+---- Edo Period  
+---- Meiji Period
+---- Taishō Period  
+---- Shōwa Period
+---- Heisei Period
+---- Reiwa Period  
+---- ...
+--- Indian History
+---- Indus Valley Civilization
+---- Vedic Period
+---- Mahajanapadas  
+---- Maurya Empire
+---- Gupta Empire
+---- Chola Dynasty  
+---- Delhi Sultanate
+---- Mughal Empire
+---- British Raj
+---- Indian Independence Movement  
+---- Partition of India
+---- Republic of India
+---- ...
+--- Southeast Asian History
+---- Funan
+---- Chenla  
+---- Srivijaya
+---- Khmer Empire
+---- Sukhothai Kingdom  
+---- Ayutthaya Kingdom
+---- Taungoo Dynasty
+---- Nguyen Dynasty  
+---- European Colonialism
+---- Japanese Occupation  
+---- Decolonization
+---- ...
+--- Central Asian History
+---- Xiongnu Empire
+---- Kushan Empire  
+---- Hephthalite Empire
+---- Göktürks
+---- Uyghur Khaganate  
+---- Mongol Empire
+---- Timurid Empire
+---- Russian Conquest of Central Asia
+---- Soviet Central Asia  
+---- Post-Soviet Central Asia
+---- ...
+-- Art History 
+--- Ancient Art
+---- Paleolithic Art
+---- Neolithic Art
+---- Ancient Near Eastern Art  
+---- Ancient Egyptian Art
+---- Aegean Art
+---- Etruscan Art  
+---- Ancient Greek Art
+---- Ancient Roman Art
+---- ...
+--- Medieval Art  
+---- Early Christian Art
+---- Byzantine Art
+---- Insular Art
+---- Carolingian Art  
+---- Ottonian Art
+---- Romanesque Art  
+---- Gothic Art
+---- ...
+--- Renaissance Art
+---- Early Renaissance  
+---- High Renaissance
+---- Mannerism
+---- Northern Renaissance
+---- Venetian School
+---- ...  
+--- Baroque Art
+---- Italian Baroque
+---- Dutch Golden Age  
+---- Flemish Baroque
+---- Spanish Baroque
+---- French Baroque
+---- Rococo  
+---- ...
+--- 19th Century Art
+---- Neoclassicism
+---- Romanticism  
+---- Realism
+---- Impressionism
+---- Post-Impressionism  
+---- Symbolism
+---- Art Nouveau
+---- ...
+--- Modern Art  
+---- Fauvism
+---- Expressionism
+---- Cubism  
+---- Futurism
+---- Dada
+---- Surrealism  
+---- Abstract Expressionism
+---- Pop Art
+---- Minimalism  
+---- Conceptual Art
+---- ...
+--- Contemporary Art
+---- Postmodernism
+---- Neo-Expressionism  
+---- Transavantgarde
+---- Neo-Geo
+---- Young British Artists  
+---- Stuckism
+---- Street Art
+---- Digital Art
+---- ...  
+- Literature
+-- American Literature
+--- Colonial and Early American Literature
+---- Native American Oral Literature  
+---- Puritan Literature
+---- Enlightenment Literature
+---- ...   
+--- 19th Century American Literature
+---- Romanticism
+---- Transcendentalism  
+---- Realism
+---- Naturalism
+---- ...
+--- 20th Century American Literature   
+---- Modernism
+---- Lost Generation
+---- Southern Renaissance  
+---- Beat Generation
+---- Postmodernism
+---- ...
+--- Contemporary American Literature
+---- Minimalism  
+---- Postcolonial Literature
+---- Ethnic Literature
+---- LGBTQ+ Literature
+---- ...  
+-- British Literature
+--- Old English Literature
+---- Beowulf
+---- The Seafarer  
+---- The Wanderer
+---- ...
+--- Middle English Literature  
+---- Geoffrey Chaucer
+---- Sir Gawain and the Green Knight
+---- William Langland  
+---- ...
+--- Renaissance Literature
+---- William Shakespeare
+---- Christopher Marlowe  
+---- Edmund Spenser
+---- Ben Jonson
+---- John Donne
+---- ...  
+--- 18th Century British Literature
+---- Augustan Literature
+---- Alexander Pope  
+---- Jonathan Swift
+---- Samuel Johnson
+---- ...
+--- Romantic Period  
+---- William Wordsworth
+---- Samuel Taylor Coleridge
+---- Lord Byron  
+---- Percy Bysshe Shelley
+---- John Keats
+---- ...
+--- Victorian Literature 
+---- Charles Dickens
+---- William Makepeace Thackeray
+---- Charlotte Brontë  
+---- Emily Brontë
+---- George Eliot
+---- ...
+--- 20th Century British Literature  
+---- Modernism
+---- Virginia Woolf
+---- James Joyce  
+---- D.H. Lawrence
+---- George Orwell
+---- ...  
+-- World Literature
+--- Classical Literature
+---- Epic of Gilgamesh
+---- Iliad and Odyssey  
+---- Aeneid
+---- ...
+--- Medieval Literature
+---- Divine Comedy  
+---- The Canterbury Tales
+---- The Book of the City of Ladies
+---- ...  
+--- African Literature
+---- Things Fall Apart
+---- Arrow of God  
+---- The Palm-Wine Drinkard
+---- The Beautyful Ones Are Not Yet Born
+---- ...
+--- Latin American Literature  
+---- One Hundred Years of Solitude
+---- The Aleph
+---- Ficciones  
+---- The Death of Artemio Cruz
+---- ...
+--- Asian Literature
+---- The Tale of Genji
+---- Journey to the West  
+---- Dream of the Red Chamber
+---- The Ramayana
+---- The Mahabharata
+---- ...  
+--- Middle Eastern Literature
+---- One Thousand and One Nights
+---- The Blind Owl  
+---- Season of Migration to the North
+---- ...
+-- Literary Theory 
+--- Formalism
+---- Russian Formalism
+---- New Criticism  
+---- ...
+--- Structuralism
+---- Ferdinand de Saussure  
+---- Claude Lévi-Strauss
+---- Roland Barthes
+---- ...
+--- Post-structuralism  
+---- Jacques Derrida
+---- Michel Foucault
+---- Jacques Lacan  
+---- ...
+--- Marxist Literary Theory
+---- Georg Lukács  
+---- Walter Benjamin
+---- Fredric Jameson
+---- ...
+--- Feminist Literary Theory
+---- Simone de Beauvoir  
+---- Elaine Showalter
+---- Hélène Cixous
+---- ...  
+--- Postcolonial Theory
+---- Edward Said
+---- Gayatri Chakravorty Spivak
+---- Homi K. Bhabha  
+---- ...
+-- Creative Writing
+--- Fiction Writing
+---- Short Story Writing  
+---- Novel Writing
+---- Flash Fiction
+---- Experimental Fiction
+---- ...
+--- Poetry Writing
+---- Formal Poetry  
+---- Free Verse Poetry
+---- Spoken Word Poetry
+---- ...  
+--- Nonfiction Writing
+---- Memoir Writing
+---- Personal Essay Writing
+---- Travel Writing  
+---- Nature Writing
+---- ...
+--- Screenwriting  
+---- Feature Film Writing
+---- Television Writing
+---- Documentary Writing  
+---- ...
+--- Playwriting
+---- One-Act Plays
+---- Full-Length Plays  
+---- Musicals
+---- ...
+- Philosophy
+-- History of Philosophy 
+--- Ancient Philosophy
+---- Pre-Socratic Philosophy
+---- Socrates  
+---- Plato
+---- Aristotle
+---- Stoicism  
+---- Epicureanism
+---- Skepticism
+---- ...
+--- Medieval Philosophy
+---- St. Augustine  
+---- St. Anselm
+---- St. Thomas Aquinas
+---- William of Ockham
+---- ...  
+--- Modern Philosophy
+---- René Descartes
+---- Baruch Spinoza  
+---- John Locke
+---- Gottfried Wilhelm Leibniz
+---- David Hume  
+---- Immanuel Kant
+---- ...
+--- Contemporary Philosophy
+---- Existentialism  
+---- Phenomenology
+---- Pragmatism
+---- Analytic Philosophy  
+---- Continental Philosophy
+---- ...
+-- Ethics 
+--- Normative Ethics
+---- Deontology
+---- Consequentialism  
+---- Virtue Ethics
+---- ...
+--- Applied Ethics  
+---- Bioethics
+---- Business Ethics
+---- Environmental Ethics
+---- ...  
+--- Meta-ethics
+---- Moral Realism
+---- Moral Anti-Realism  
+---- Moral Relativism
+---- ...
+-- Epistemology
+--- Skepticism
+---- Pyrrhonian Skepticism  
+---- Cartesian Skepticism
+---- ...
+--- Rationalism
+---- Innate Ideas  
+---- A Priori Knowledge
+---- ...
+--- Empiricism  
+---- Tabula Rasa
+---- A Posteriori Knowledge
+---- ...  
+--- Pragmatism
+---- Charles Sanders Peirce
+---- William James  
+---- John Dewey
+---- ...
+-- Logic
+--- Formal Logic 
+---- Propositional Logic
+---- First-Order Logic
+---- Second-Order Logic  
+---- ...
+--- Informal Logic
+---- Fallacies  
+---- Argument Analysis
+---- ...
+--- Modal Logic
+---- Alethic Modality  
+---- Deontic Logic
+---- Temporal Logic
+---- ...  
+--- Fuzzy Logic
+---- Fuzzy Sets
+---- Fuzzy Inference Systems  
+---- ...
+-- Metaphysics
+--- Ontology
+---- Universals and Particulars  
+---- Abstract Objects
+---- Mereology
+---- ...
+--- Philosophy of Mind  
+---- Dualism
+---- Physicalism
+---- Functionalism  
+---- ...
+--- Philosophy of Time
+---- A-Theory and B-Theory of Time
+---- Presentism and Eternalism  
+---- The Arrow of Time
+---- ...
+--- Free Will and Determinism
+---- Compatibilism  
+---- Incompatibilism
+---- Hard Determinism
+---- Libertarianism
+---- ...  
+- Languages
+-- Spanish
+--- Spanish Language (Beginner to Advanced)
+---- Spanish I  
+---- Spanish II
+---- Spanish III
+---- Spanish IV  
+---- Advanced Spanish Grammar
+---- ...
+--- Spanish Literature  
+---- Medieval Spanish Literature
+---- Golden Age Literature
+---- 19th Century Spanish Literature  
+---- 20th Century Spanish Literature
+---- Contemporary Spanish Literature
+---- ...  
+--- Spanish Culture and Civilization
+---- History of Spain
+---- Spanish Art and Architecture  
+---- Spanish Cinema
+---- Spanish Cuisine
+---- ...
+-- French  
+--- French Language (Beginner to Advanced)
+---- French I
+---- French II  
+---- French III
+---- French IV
+---- Advanced French Grammar 
+---- ...
+--- French Literature
+---- Medieval French Literature
+---- French Renaissance Literature  
+---- 17th Century French Literature
+---- 18th Century French Literature
+---- 19th Century French Literature  
+---- 20th Century French Literature
+---- Contemporary French Literature
+---- ...  
+--- French Culture and Civilization
+---- History of France
+---- French Art and Architecture  
+---- French Cinema
+---- French Cuisine
+---- ...
+-- German  
+--- German Language (Beginner to Advanced)
+---- German I
+---- German II
+---- German III  
+---- German IV
+---- Advanced German Grammar
+---- ...  
+--- German Literature
+---- Medieval German Literature
+---- German Baroque Literature  
+---- German Romanticism
+---- German Realism
+---- German Expressionism  
+---- Postwar German Literature
+---- Contemporary German Literature  
+---- ...
+--- German Culture and Civilization
+---- History of Germany
+---- German Art and Architecture  
+---- German Cinema
+---- German Philosophy
+---- ...  
+-- Italian
+--- Italian Language (Beginner to Advanced)
+---- Italian I
+---- Italian II  
+---- Italian III
+---- Italian IV  
+---- Advanced Italian Grammar
+---- ...
+--- Italian Literature  
+---- Medieval Italian Literature
+---- Italian Renaissance Literature
+---- 19th Century Italian Literature  
+---- 20th Century Italian Literature
+---- Contemporary Italian Literature
+---- ...
+--- Italian Culture and Civilization  
+---- History of Italy
+---- Italian Art and Architecture
+---- Italian Opera  
+---- Italian Cinema
+---- Italian Cuisine  
+---- ...
+-- Chinese 
+--- Mandarin Chinese (Beginner to Advanced)
+---- Chinese I
+---- Chinese II  
+---- Chinese III
+---- Chinese IV
+---- Advanced Chinese Grammar  
+---- ...
+--- Classical Chinese
+---- Confucian Classics  
+---- Taoist Classics
+---- ...
+--- Chinese Literature  
+---- Classical Chinese Poetry
+---- Tang Dynasty Literature  
+---- Song Dynasty Literature
+---- Ming Dynasty Literature
+---- Qing Dynasty Literature  
+---- Modern Chinese Literature
+---- Contemporary Chinese Literature  
+---- ...
+--- Chinese Culture and Civilization
+---- History of China
+---- Chinese Philosophy  
+---- Chinese Art and Architecture
+---- Chinese Cinema
+---- Chinese Cuisine  
+---- ...
+-- Japanese
+--- Japanese Language (Beginner to Advanced)  
+---- Japanese I
+---- Japanese II
+---- Japanese III
+---- Japanese IV  
+---- Advanced Japanese Grammar
+---- ...
+--- Classical Japanese  
+---- Man'yōshū
+---- The Tale of Genji  
+---- ...
+--- Japanese Literature
+---- Heian Period Literature  
+---- Medieval Japanese Literature
+---- Edo Period Literature
+---- Meiji Period Literature  
+---- Taishō Period Literature
+---- Shōwa Period Literature
+---- Contemporary Japanese Literature  
+---- ...
+--- Japanese Culture and Civilization
+---- History of Japan  
+---- Japanese Religion
+---- Japanese Art and Architecture
+---- Japanese Cinema  
+---- Japanese Cuisine
+---- ...
+-- Arabic  
+--- Modern Standard Arabic (Beginner to Advanced)
+---- Arabic I
+---- Arabic II
+---- Arabic III  
+---- Arabic IV
+---- Advanced Arabic Grammar  
+---- ...
+--- Classical Arabic
+---- Qur'anic Arabic  
+---- Arabic Poetry
+---- ...
+--- Arabic Literature  
+---- Pre-Islamic Arabic Literature
+---- Early Islamic Literature
+---- Abbasid Literature  
+---- Andalusian Arabic Literature
+---- Mamluk and Ottoman Literature
+---- Modern Arabic Literature  
+---- ...
+--- Islamic Culture and Civilization
+---- History of Islam
+---- Islamic Art and Architecture  
+---- Islamic Philosophy
+---- Islamic Law (Sharia)
+---- ...  
+- Fine Arts
+-- Drawing
+--- Life Drawing
+---- Figure Drawing  
+---- Anatomy for Artists
+---- ...
+--- Perspective Drawing  
+---- One-Point Perspective
+---- Two-Point Perspective
+---- Three-Point Perspective  
+---- ...
+--- Anatomy for Artists
+---- Skeletal System  
+---- Muscular System
+---- ...
+--- Illustration  
+---- Editorial Illustration
+---- Book Illustration
+---- Scientific Illustration  
+---- ...
+-- Painting
+--- Oil Painting
+---- Color Theory  
+---- Brushwork Techniques
+---- Indirect Painting
+---- ...  
+--- Acrylic Painting
+---- Color Mixing
+---- Layering Techniques
+---- Texture Techniques
+---- ...
+--- Watercolor Painting
+---- Wet-on-Wet Technique
+---- Dry Brush Technique
+---- Glazing Technique
+---- ...
+--- Mixed Media Painting
+---- Collage Techniques
+---- Encaustic Painting
+---- Assemblage
+---- ...
+-- Sculpture
+--- Clay Sculpture
+---- Hand Building Techniques
+---- Wheel Throwing Techniques
+---- Glazing and Firing
+---- ...
+--- Stone Carving
+---- Subtractive Sculpture Techniques
+---- Pneumatic Tools
+---- Finishing Techniques
+---- ...
+--- Metal Sculpture
+---- Welding Techniques
+---- Casting Techniques
+---- Patination
+---- ...
+--- Installation Art
+---- Site-Specific Art
+---- Interactive Installations
+---- Multimedia Installations
+---- ...
+-- Photography
+--- Digital Photography
+---- Camera Operations
+---- Digital Image Processing
+---- Color Management
+---- ...
+--- Analog Photography
+---- Darkroom Techniques
+---- Film Processing
+---- Alternative Processes
+---- ...
+--- Studio Lighting
+---- Continuous Lighting
+---- Strobe Lighting
+---- Light Modifiers
+---- ...
+--- Documentary Photography
+---- Photojournalism
+---- Street Photography
+---- Landscape Photography
+---- ...
+-- Graphic Design
+--- Typography
+---- Type Anatomy
+---- Type Classification
+---- Typography Layout
+---- ...
+--- Layout Design
+---- Grid Systems
+---- Composition Techniques
+---- Visual Hierarchy
+---- ...
+--- Web Design
+---- HTML and CSS
+---- Responsive Design
+---- User Experience (UX) Design
+---- ...
+--- Motion Graphics
+---- Animation Principles
+---- Storyboarding
+---- 2D Animation
+---- 3D Animation
+---- ...
+- Performing Arts
+-- Theater
+--- Acting
+---- Acting Techniques
+---- Character Development
+---- Voice and Movement
+---- ...
+--- Directing
+---- Play Analysis
+---- Blocking and Staging
+---- Rehearsal Techniques
+---- ...
+--- Stagecraft
+---- Set Design and Construction
+---- Lighting Design
+---- Sound Design
+---- ...
+--- Costume Design
+---- Costume History
+---- Costume Construction
+---- Makeup and Wig Design
+---- ...
+--- Lighting Design
+---- Lighting Theory
+---- Lighting Instruments
+---- Lighting Programming
+---- ...
+-- Dance
+--- Ballet
+---- Ballet Technique
+---- Pointe Work
+---- Pas de Deux
+---- ...
+--- Modern Dance
+---- Graham Technique
+---- Horton Technique
+---- Cunningham Technique
+---- ...
+--- Jazz Dance
+---- Jazz Technique
+---- Jazz Styles
+---- Jazz Choreography
+---- ...
+--- Choreography
+---- Dance Composition
+---- Improvisation
+---- Site-Specific Choreography
+---- ...
+--- Dance History
+---- Ballet History
+---- Modern Dance History
+---- World Dance Forms
+---- ...
+-- Music Theory
+--- Harmony
+---- Diatonic Harmony
+---- Chromatic Harmony
+---- Jazz Harmony
+---- ...
+--- Counterpoint
+---- Species Counterpoint
+---- Invertible Counterpoint
+---- Canon and Fugue
+---- ...
+--- Form and Analysis
+---- Phrase Structure
+---- Binary and Ternary Forms
+---- Sonata Form
+---- ...
+--- Orchestration
+---- Instrumentation
+---- Score Reading
+---- Arranging Techniques
+---- ...
+--- Music Composition
+---- Melody Writing
+---- Accompaniment Writing
+---- Orchestral Composition
+---- ...
+-- Music Performance
+--- Piano Performance
+---- Piano Technique
+---- Piano Literature
+---- Collaborative Piano
+---- ...
+--- Vocal Performance
+---- Vocal Technique
+---- Vocal Repertoire
+---- Opera Workshop
+---- ...
+--- Instrumental Performance (various instruments)
+---- Brass Instruments
+---- Woodwind Instruments
+---- String Instruments
+---- Percussion Instruments
+---- ...
+--- Conducting
+---- Baton Technique
+---- Score Study
+---- Rehearsal Techniques
+---- ...
+--- Music Technology
+---- Digital Audio Workstations (DAWs)
+---- MIDI Sequencing
+---- Music Production
+---- ...
+
+Social Sciences
+- Psychology
+-- Abnormal Psychology
+--- Anxiety Disorders
+---- Generalized Anxiety Disorder
+---- Panic Disorder
+---- Phobias
+---- ...
+--- Mood Disorders  
+---- Major Depressive Disorder
+---- Bipolar Disorder
+---- Dysthymia
+---- ...  
+--- Personality Disorders
+---- Borderline Personality Disorder
+---- Narcissistic Personality Disorder  
+---- Antisocial Personality Disorder
+---- ...
+--- Schizophrenia
+---- Positive Symptoms  
+---- Negative Symptoms
+---- Cognitive Symptoms
+---- ...  
+--- Substance Abuse Disorders
+---- Alcohol Use Disorder
+---- Opioid Use Disorder  
+---- Stimulant Use Disorder
+---- ...
+-- Cognitive Psychology
+--- Perception  
+---- Visual Perception
+---- Auditory Perception
+---- Multimodal Perception  
+---- ...
+--- Attention
+---- Selective Attention  
+---- Divided Attention
+---- Sustained Attention
+---- ...  
+--- Memory
+---- Sensory Memory
+---- Short-Term Memory
+---- Long-Term Memory  
+---- ...
+--- Language Processing
+---- Speech Perception  
+---- Language Comprehension
+---- Language Production
+---- ...  
+--- Decision Making
+---- Heuristics and Biases
+---- Behavioral Economics
+---- Game Theory  
+---- ...
+-- Developmental Psychology
+--- Prenatal Development
+---- Genetic Influences  
+---- Teratogens
+---- ...
+--- Infancy and Toddlerhood
+---- Sensorimotor Stage  
+---- Object Permanence
+---- Attachment Theory
+---- ...  
+--- Childhood
+---- Preoperational Stage
+---- Concrete Operational Stage  
+---- Theory of Mind
+---- ...
+--- Adolescence  
+---- Identity Formation
+---- Puberty and Sexual Development
+---- Risk-Taking Behavior
+---- ...  
+--- Adulthood and Aging
+---- Physical Changes in Adulthood
+---- Cognitive Changes in Adulthood
+---- Psychosocial Development  
+---- ...
+-- Social Psychology
+--- Social Cognition
+---- Person Perception  
+---- Attribution Theory
+---- Stereotypes and Prejudice
+---- ...  
+--- Attitudes and Persuasion
+---- Cognitive Dissonance Theory
+---- Elaboration Likelihood Model
+---- Persuasion Techniques  
+---- ...
+--- Group Processes
+---- Social Facilitation  
+---- Social Loafing
+---- Group Polarization
+---- ...  
+--- Interpersonal Relationships
+---- Attraction and Mate Selection
+---- Romantic Relationships
+---- Friendships  
+---- ...
+--- Prejudice and Discrimination
+---- Theories of Prejudice  
+---- Reducing Prejudice
+---- ...
+- Sociology  
+-- Sociological Theory
+--- Classical Sociological Theory
+---- Functionalism (Émile Durkheim)  
+---- Conflict Theory (Karl Marx)
+---- Symbolic Interactionism (George Herbert Mead)
+---- ...  
+--- Contemporary Sociological Theory
+---- Critical Theory
+---- Postmodernism
+---- Feminist Theory  
+---- ...
+--- Macro-sociology
+---- Social Structure  
+---- Social Institutions
+---- Social Change
+---- ...  
+--- Micro-sociology
+---- Social Interaction
+---- Socialization  
+---- Dramaturgy (Erving Goffman)
+---- ...
+-- Social Inequality
+--- Social Stratification  
+---- Class Stratification
+---- Status Stratification
+---- ...  
+--- Poverty and Welfare
+---- Measurement of Poverty
+---- Causes of Poverty
+---- Welfare Programs  
+---- ...
+--- Race and Ethnicity
+---- Racial and Ethnic Identity  
+---- Racism and Discrimination
+---- Intergroup Relations
+---- ...  
+--- Gender Inequality
+---- Gender Socialization
+---- Gender Roles and Stereotypes  
+---- Feminism
+---- ...
+-- Race & Ethnicity
+--- Racial and Ethnic Relations  
+---- Assimilation and Pluralism
+---- Segregation and Integration
+---- ...  
+--- Sociology of Race
+---- Social Construction of Race
+---- Racial Formation Theory  
+---- ...
+--- Racial and Ethnic Identity
+---- Ethnic Identity Development  
+---- Multiracial Identity
+---- ...
+--- Immigration and Assimilation  
+---- Theories of Assimilation
+---- Segmented Assimilation
+---- Transnationalism
+---- ...  
+-- Gender & Sexuality
+--- Sociology of Gender 
+---- Gender and Socialization
+---- Gender and Work  
+---- Gender and Family
+---- ...
+--- Sociology of Sexuality
+---- Sexual Orientation  
+---- Sexual Behavior
+---- Sexual Identities
+---- ...  
+--- Feminist Theory
+---- Liberal Feminism
+---- Radical Feminism  
+---- Socialist Feminism
+---- ...
+--- LGBTQ+ Studies  
+---- Queer Theory
+---- LGBTQ+ History
+---- LGBTQ+ Social Movements
+---- ...  
+- Anthropology
+-- Cultural Anthropology 
+--- Ethnography
+---- Participant Observation  
+---- Ethnographic Interviewing
+---- ...
+--- Kinship and Family  
+---- Kinship Systems
+---- Marriage Patterns
+---- ...  
+--- Religion and Ritual
+---- Myth and Symbolism
+---- Ritual Practices
+---- ...  
+--- Economic Anthropology
+---- Modes of Production
+---- Exchange Systems  
+---- ...
+--- Political Anthropology
+---- Political Systems  
+---- Power and Authority
+---- ...
+-- Biological Anthropology  
+--- Human Evolution
+---- Primate Evolution
+---- Hominid Evolution
+---- ...  
+--- Primatology
+---- Primate Behavior  
+---- Primate Ecology
+---- ...
+--- Human Genetics
+---- Population Genetics  
+---- Molecular Anthropology
+---- ...
+--- Forensic Anthropology  
+---- Skeletal Biology
+---- Taphonomy
+---- ...  
+-- Archaeology
+--- Prehistoric Archaeology
+---- Paleolithic Archaeology  
+---- Neolithic Archaeology
+---- ...
+--- Historical Archaeology  
+---- Classical Archaeology
+---- Medieval Archaeology
+---- ...  
+--- Archaeological Methods
+---- Excavation Techniques
+---- Dating Methods
+---- ...  
+--- Archaeological Theory
+---- Processualism
+---- Post-Processualism  
+---- ...
+-- Linguistic Anthropology
+--- Language and Culture  
+---- Linguistic Relativity (Sapir-Whorf Hypothesis)
+---- Ethnolinguistics
+---- ...  
+--- Language Acquisition
+---- First Language Acquisition
+---- Second Language Acquisition  
+---- ...
+--- Language and Identity
+---- Language and Ethnicity  
+---- Language and Gender
+---- ...
+--- Language and Power  
+---- Language Ideology
+---- Language Policy
+---- ...
+- Political Science  
+-- Comparative Politics
+--- Political Systems
+---- Democracy  
+---- Authoritarianism
+---- Totalitarianism
+---- ...  
+--- Democratization
+---- Theories of Democratization
+---- Transitions to Democracy
+---- ...  
+--- Authoritarianism
+---- Authoritarian Regimes
+---- Personalist Dictatorships  
+---- ...
+--- Political Economy
+---- Varieties of Capitalism  
+---- Welfare State Regimes
+---- ...
+--- Comparative Public Policy  
+---- Health Policy
+---- Education Policy
+---- Environmental Policy
+---- ...  
+-- International Relations
+--- International Security
+---- Realism  
+---- Liberalism
+---- Constructivism
+---- ...  
+--- International Political Economy
+---- International Trade
+---- International Finance  
+---- Globalization
+---- ...
+--- Foreign Policy Analysis  
+---- Decision-Making Models
+---- Bureaucratic Politics Model
+---- ...  
+--- International Organizations
+---- United Nations
+---- European Union
+---- ...  
+--- Global Governance
+---- Global Public Goods
+---- International Law
+---- ...  
+-- Political Theory
+--- Ancient and Medieval Political Thought
+---- Plato  
+---- Aristotle
+---- St. Augustine
+---- ...  
+--- Modern Political Thought
+---- Machiavelli
+---- Hobbes  
+---- Locke
+---- Rousseau
+---- ...  
+--- Contemporary Political Theory
+---- Liberalism
+---- Conservatism  
+---- Marxism
+---- Anarchism
+---- ...  
+--- Feminist Political Theory
+---- Liberal Feminism
+---- Radical Feminism  
+---- Marxist Feminism
+---- ...
+--- Postcolonial Political Theory  
+---- Orientalism
+---- Subaltern Studies
+---- ...
+- Economics  
+-- Microeconomics
+--- Consumer Theory
+---- Utility Maximization  
+---- Indifference Curves
+---- ...
+--- Producer Theory  
+---- Production Functions
+---- Cost Functions
+---- ...  
+--- Market Structures
+---- Perfect Competition
+---- Monopoly  
+---- Oligopoly
+---- Monopolistic Competition
+---- ...  
+--- Game Theory
+---- Nash Equilibrium
+---- Prisoner's Dilemma  
+---- ...
+--- Behavioral Economics
+---- Prospect Theory  
+---- Bounded Rationality
+---- ...
+-- Macroeconomics  
+--- Economic Growth
+---- Solow Growth Model
+---- Endogenous Growth Theory  
+---- ...
+--- Business Cycles
+---- Keynesian Theory  
+---- Real Business Cycle Theory
+---- ...
+--- Monetary Policy  
+---- Money Supply and Demand
+---- Central Banking
+---- ...  
+--- Fiscal Policy
+---- Government Spending
+---- Taxation  
+---- ...
+--- International Macroeconomics
+---- Exchange Rates  
+---- Balance of Payments
+---- ...
+-- Econometrics  
+--- Regression Analysis
+---- Simple Linear Regression
+---- Multiple Linear Regression  
+---- ...
+--- Time Series Analysis
+---- Autoregressive Models  
+---- Moving Average Models
+---- ...
+--- Panel Data Analysis  
+---- Fixed Effects Models
+---- Random Effects Models
+---- ...  
+--- Instrumental Variables
+---- Two-Stage Least Squares
+---- ...  
+--- Bayesian Econometrics
+---- Bayes' Theorem
+---- Markov Chain Monte Carlo Methods
+---- ...  
+-- Game Theory
+--- Strategic Form Games
+---- Dominant Strategy Equilibrium  
+---- Nash Equilibrium
+---- ...
+--- Extensive Form Games  
+---- Subgame Perfect Equilibrium
+---- Backward Induction
+---- ...  
+--- Cooperative Games
+---- Shapley Value
+---- Core  
+---- ...
+--- Evolutionary Game Theory
+---- Evolutionarily Stable Strategies  
+---- Replicator Dynamics
+---- ...
+--- Mechanism Design  
+---- Revelation Principle
+---- Vickrey-Clarke-Groves Mechanism
+---- ...
+- Geography  
+-- Human Geography  
+--- Urban Geography
+---- Urban Morphology
+---- Urban Social Geography  
+---- ...
+--- Economic Geography
+---- Location Theory  
+---- Regional Development
+---- ...
+--- Political Geography  
+---- Geopolitics
+---- Electoral Geography
+---- ...  
+--- Cultural Geography
+---- Landscape Studies
+---- Cultural Ecology  
+---- ...
+--- Population Geography
+---- Demographic Transition  
+---- Migration Studies
+---- ...
+-- Physical Geography  
+--- Geomorphology
+---- Fluvial Geomorphology
+---- Coastal Geomorphology  
+---- ...
+--- Climatology
+---- Climate Systems  
+---- Climate Change
+---- ...
+--- Biogeography  
+---- Island Biogeography
+---- Biogeographical Processes
+---- ...  
+--- Hydrology
+---- Hydrological Cycle
+---- Groundwater Hydrology  
+---- ...
+--- Soil Geography
+---- Soil Formation  
+---- Soil Classification
+---- ...
+-- Geographic Information Systems (GIS)  
+--- Spatial Analysis
+---- Spatial Autocorrelation
+---- Spatial Interpolation  
+---- ...
+--- Remote Sensing
+---- Aerial Photography  
+---- Satellite Imagery
+---- ...
+--- Cartography  
+---- Map Projections
+---- Thematic Mapping
+---- ...  
+--- Web GIS
+---- Web Mapping
+---- Geovisualization
+---- ...  
+--- Geostatistics
+---- Kriging
+---- Spatial Sampling
+---- ...  
+
+Business
+- Accounting
+-- Financial Accounting
+--- Financial Statements
+---- Balance Sheet
+---- Income Statement
+---- Statement of Cash Flows
+---- ...
+--- Accounting Cycle
+---- Journal Entries
+---- Ledgers
+---- Trial Balance
+---- ...
+--- Generally Accepted Accounting Principles (GAAP)
+---- Accrual Basis Accounting
+---- Revenue Recognition
+---- Matching Principle
+---- ...
+--- International Financial Reporting Standards (IFRS)
+---- Comparison with GAAP
+---- Adoption and Convergence
+---- ...
+-- Managerial Accounting
+--- Cost Accounting
+---- Job Order Costing
+---- Process Costing
+---- Activity-Based Costing
+---- ...
+--- Budgeting and Forecasting
+---- Master Budget
+---- Flexible Budget
+---- ...
+--- Performance Measurement
+---- Variance Analysis
+---- Balanced Scorecard
+---- ...
+--- Decision Making
+---- Relevant Costing
+---- Cost-Volume-Profit Analysis
+---- ...
+-- Auditing
+--- Audit Planning
+---- Materiality
+---- Risk Assessment
+---- ...
+--- Internal Control
+---- Control Environment
+---- Control Activities
+---- ...
+--- Substantive Testing
+---- Analytical Procedures
+---- Tests of Details
+---- ...
+--- Audit Reports
+---- Unqualified Opinion
+---- Qualified Opinion
+---- Adverse Opinion
+---- ...
+-- Tax Accounting
+--- Individual Taxation
+---- Gross Income
+---- Deductions and Credits
+---- ...
+--- Corporate Taxation
+---- Tax Rates
+---- Tax Credits
+---- ...
+--- Partnership Taxation
+---- Partnership Formation
+---- Partnership Distributions
+---- ...
+--- International Taxation
+---- Foreign Tax Credit
+---- Transfer Pricing
+---- ...
+--- Tax Planning Strategies
+---- Income Shifting
+---- Tax Deferral
+---- ...
+- Finance
+-- Corporate Finance
+--- Capital Budgeting
+---- Net Present Value (NPV)
+---- Internal Rate of Return (IRR)
+---- Payback Period
+---- ...
+--- Capital Structure
+---- Debt Financing
+---- Equity Financing
+---- Weighted Average Cost of Capital (WACC)
+---- ...
+--- Working Capital Management
+---- Cash Management
+---- Inventory Management
+---- Receivables Management
+---- ...
+--- Dividend Policy
+---- Dividend Payout Ratio
+---- Dividend Yield
+---- ...
+--- Mergers and Acquisitions
+---- Valuation Methods
+---- Synergies
+---- ...
+-- Investments
+--- Portfolio Theory
+---- Diversification
+---- Efficient Frontier
+---- ...
+--- Asset Pricing Models
+---- Capital Asset Pricing Model (CAPM)
+---- Arbitrage Pricing Theory (APT)
+---- ...
+--- Fixed Income Securities
+---- Bonds
+---- Yield Curve
+---- Duration and Convexity
+---- ...
+--- Derivatives
+---- Options
+---- Futures and Forwards
+---- Swaps
+---- ...
+--- Alternative Investments
+---- Real Estate
+Hedge Funds
+---- ...
+-- Financial Markets
+--- Equity Markets
+---- Stock Exchanges
+---- Market Indices
+---- ...
+--- Bond Markets
+---- Government Bonds
+---- Corporate Bonds
+---- Municipal Bonds
+---- ...
+--- Foreign Exchange Markets
+---- Exchange Rates
+---- Currency Pairs
+---- ...
+--- Money Markets
+---- Treasury Bills
+---- Commercial Paper
+---- Certificates of Deposit
+---- ...
+--- Derivative Markets
+---- Futures Markets
+---- Options Markets
+---- Over-the-Counter (OTC) Markets
+---- ...
+-- International Finance
+--- International Financial Markets
+---- Eurocurrency Markets
+---- International Bond Markets
+---- ...
+--- Foreign Direct Investment
+---- Greenfield Investment
+---- Mergers and Acquisitions
+---- ...
+--- Currency Risk Management
+---- Hedging Techniques
+---- Derivative Instruments
+---- ...
+--- International Capital Budgeting
+---- Country Risk Analysis
+---- Adjusted Present Value (APV)
+---- ...
+--- International Trade Finance
+---- Letters of Credit
+---- Export Credit Insurance
+---- ...
+- Marketing
+-- Consumer Behavior
+--- Consumer Decision Making
+---- Problem Recognition
+---- Information Search
+---- Evaluation of Alternatives
+---- Purchase Decision
+---- Post-Purchase Behavior
+---- ...
+--- Perception and Attitudes
+---- Selective Perception
+---- Attitude Formation and Change
+---- ...
+--- Motivation and Emotion
+---- Maslow's Hierarchy of Needs
+---- Herzberg's Two-Factor Theory
+---- ...
+--- Social and Cultural Influences
+---- Reference Groups
+---- Opinion Leaders
+---- ...
+--- Consumer Research Methods
+---- Surveys
+---- Focus Groups
+---- Ethnographic Research
+---- ...
+-- Marketing Research
+--- Research Design
+---- Exploratory Research
+---- Descriptive Research
+---- Causal Research
+---- ...
+--- Sampling Methods
+---- Probability Sampling
+---- Non-Probability Sampling
+---- ...
+--- Data Collection Techniques
+---- Primary Data
+---- Secondary Data
+---- ...
+--- Data Analysis and Interpretation
+---- Univariate Analysis
+---- Bivariate Analysis
+---- Multivariate Analysis
+---- ...
+--- Reporting and Presentation
+---- Written Reports
+---- Oral Presentations
+---- ...
+-- Digital Marketing
+--- Search Engine Marketing
+---- Search Engine Optimization (SEO)
+---- Pay-Per-Click (PPC) Advertising
+---- ...
+--- Social Media Marketing
+---- Social Media Platforms
+---- Content Creation and Curation
+---- ...
+--- Email Marketing
+---- Email Campaign Planning
+---- Email Design and Copywriting
+---- ...
+--- Content Marketing
+---- Blogging
+---- Infographics
+---- Video Marketing
+---- ...
+--- Web Analytics
+---- Google Analytics
+---- Key Performance Indicators (KPIs)
+---- ...
+-- Brand Management
+--- Brand Equity
+---- Brand Awareness
+---- Brand Associations
+---- Perceived Quality
+---- Brand Loyalty
+---- ...
+--- Brand Positioning
+---- Perceptual Mapping
+---- Positioning Strategies
+---- ...
+--- Brand Architecture
+---- Branded House Strategy
+---- House of Brands Strategy
+---- ...
+--- Brand Communication Strategies
+---- Advertising
+---- Public Relations
+---- Sales Promotion
+---- ...
+--- Brand Performance Metrics
+---- Brand Audit
+---- Brand Tracking Studies
+---- ...
+- Management
+-- Organizational Behavior
+--- Individual Behavior
+---- Personality
+---- Values and Attitudes
+---- ...
+--- Group Dynamics
+---- Group Formation
+---- Group Decision Making
+---- ...
+--- Leadership
+---- Leadership Theories
+---- Leadership Styles
+---- ...
+--- Motivation
+---- Content Theories
+---- Process Theories
+---- ...
+--- Organizational Culture
+---- Types of Organizational Culture
+---- Creating and Sustaining Culture
+---- ...
+-- Operations Management
+--- Process Analysis and Design
+---- Process Mapping
+---- Capacity Planning
+---- ...
+--- Quality Management
+---- Total Quality Management (TQM)
+---- Six Sigma
+---- ...
+--- Supply Chain Management
+---- Supplier Selection
+---- Logistics and Distribution
+---- ...
+--- Inventory Management
+---- Economic Order Quantity (EOQ)
+---- Just-in-Time (JIT) Inventory
+---- ...
+--- Project Management
+---- Project Planning
+---- Project Scheduling
+---- Project Monitoring and Control
+---- ...
+-- Strategic Management
+--- Environmental Scanning
+---- PESTEL Analysis
+---- Industry Analysis
+---- ...
+--- Strategy Formulation
+---- SWOT Analysis
+---- Generic Strategies
+---- ...
+--- Strategy Implementation
+---- Organizational Structure
+---- Resource Allocation
+---- ...
+--- Performance Evaluation
+---- Balanced Scorecard
+---- Key Performance Indicators (KPIs)
+---- ...
+--- Corporate Governance
+---- Board of Directors
+---- Shareholder Rights
+---- ...
+-- Entrepreneurship
+--- Opportunity Recognition
+---- Ideation Techniques
+---- Feasibility Analysis
+---- ...
+--- Business Model Development
+---- Business Model Canvas
+---- Lean Startup Methodology
+---- ...
+--- Startup Financing
+---- Bootstrapping
+---- Angel Investors
+---- Venture Capital
+---- ...
+--- Growth Strategies
+---- Market Penetration
+---- Market Development
+---- Product Development
+---- Diversification
+---- ...
+--- Social Entrepreneurship
+---- Triple Bottom Line
+---- Impact Measurement
+---- ...
+- Business Analytics
+-- Statistics
+--- Descriptive Statistics
+---- Measures of Central Tendency
+---- Measures of Dispersion
+---- ...
+--- Probability Distributions
+---- Discrete Probability Distributions
+---- Continuous Probability Distributions
+---- ...
+--- Sampling and Estimation
+---- Simple Random Sampling
+---- Stratified Sampling
+---- Confidence Intervals
+---- ...
+--- Hypothesis Testing
+---- Null and Alternative Hypotheses
+---- Type I and Type II Errors
+---- ...
+--- Regression Analysis
+---- Simple Linear Regression
+---- Multiple Linear Regression
+---- Logistic Regression
+---- ...
+-- Data Analysis
+--- Data Preprocessing
+---- Data Cleaning
+---- Data Integration
+---- Data Transformation
+---- ...
+--- Exploratory Data Analysis
+---- Summary Statistics
+---- Data Visualization
+---- ...
+--- Data Mining
+---- Association Rules
+---- Clustering
+---- Classification
+---- ...
+--- Machine Learning
+---- Supervised Learning
+---- Unsupervised Learning
+---- Reinforcement Learning
+---- ...
+--- Big Data Analytics
+---- Hadoop Ecosystem
+---- NoSQL Databases
+---- ...
+-- Data Visualization
+--- Information Design
+---- Data-Ink Ratio
+---- Gestalt Principles
+---- ...
+--- Visual Perception
+---- Preattentive Processing
+---- Color Theory
+---- ...
+--- Data Storytelling
+---- Narrative Structure
+---- Visual Metaphors
+---- ...
+--- Dashboards and Scorecards
+---- Key Performance Indicators (KPIs)
+---- Dashboard Design Principles
+---- ...
+--- Interactive Visualization
+---- D3.js
+---- Tableau
+---- ...
+-- Predictive Modeling
+--- Classification Models
+---- Logistic Regression
+---- Decision Trees
+---- Support Vector Machines
+---- ...
+--- Regression Models
+---- Linear Regression
+---- Polynomial Regression
+---- Ridge Regression
+---- Lasso Regression
+---- ...
+--- Time Series Analysis
+---- Moving Averages
+---- Exponential Smoothing
+---- ARIMA Models
+---- ...
+--- Survival Analysis
+---- Kaplan-Meier Estimator
+---- Cox Proportional Hazards Model
+---- ...
+--- Ensemble Methods
+---- Bagging
+---- Boosting
+---- Random Forest
+---- ...
+
+---- Private Equity
+----
 ## Additional metadata 
 -  #processing #important #short #long #casual #focus
 - Unfinished: #metadata #tags
