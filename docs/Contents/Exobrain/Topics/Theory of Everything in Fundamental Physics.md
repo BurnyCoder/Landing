@@ -34,7 +34,7 @@
 ## Deep dives
 - 
 ## Brain storming
-- [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1751363140514947286?t=6HWzBMpLjvrMn8hTPEcYnQ&s=19): Solving for the [[Theory of Everything in Fundamental Physics]] comes down to latent model hyperparameter inference for the laws of [[physics]], where tests of these hyperparameters unfortunately lie beyond our currently observable / testable band of [[energy|energies]]. In order to get answers, we will have to ascend the [[Kardashev scales]]. This ascent will unlock perception into this higher energy band. Then we will need the [[intelligence]] to understand what we see. [[Electricity generation]] + [[Artificial Intelligence]] scaling are the truly [[fundamental]] missions. 
+- [Beff Jezos](https://twitter.com/BasedBeffJezos/status/1751363140514947286?t=6HWzBMpLjvrMn8hTPEcYnQ&s=19): Solving for the [[Theory of Everything in Fundamental Physics]] comes down to latent model hyperparameter inference for the laws of [[physics]], where tests of these hyperparameters unfortunately lie beyond our currently observable / testable band of [[energy|energies]]. In order to get answers, we will have to ascend the [[Kardashev scale]]. This ascent will unlock perception into this higher energy band. Then we will need the [[intelligence]] to understand what we see. [[Electricity generation]] + [[Artificial Intelligence]] scaling are the truly [[fundamental]] missions. 
 ## Additional resources  
 - 
 ## Related

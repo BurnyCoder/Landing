@@ -19,7 +19,7 @@
 <iframe title="THE HUMAN FUTURE: A Case for Optimism" src="https://www.youtube.com/embed/o48X3_XQ9to?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 ## Landscapes
 - [[Movements]]
-- [[Kardashev scales]]
+- [[Kardashev scale]]
 ## Contents
 #### Short term
 

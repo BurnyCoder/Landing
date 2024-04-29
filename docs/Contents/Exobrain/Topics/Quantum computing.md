@@ -4,7 +4,7 @@ aliases:
 ---
 ## Tags
 - Metadata: #topic 
-- Part of: [[Computing]] [[Computer science]] [[Computational complexity theory]]
+- Part of: [[Computing]] [[Computer science]] [[Computational complexity theory]] [[Quantum mechanics]] 
 - Related: 
 - Includes:
 - Additional: 

@@ -263,8 +263,7 @@ This list is a broad overview and is by no means exhaustive. Each field continue
 [[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg|Open: DALL·E 2024-01-31 00.35.14 - An intricate and detailed illustration depicting a tree of knowledge. The tree's branches represent various branches of knowledge. Each major branch i.png]]
 ![[landing/docs/Images/40d779e1490e1b9e72501dea635174a7_MD5.jpeg]]
 
-STEM Fields
-
+Map of university curriculum plans for various fields and topics
 
 STEM Fields
 - Mathematics
@@ -401,6 +400,641 @@ Business
 -- Data Analysis
 -- Data Visualization
 -- Predictive Modeling
+
+STEM Fields
+- Mathematics
+-- Calculus
+--- Limits and Continuity
+--- Derivatives
+--- Integrals
+--- Series and Sequences
+--- Multivariable Calculus
+-- Linear Algebra
+--- Vector Spaces
+--- Matrices
+--- Determinants
+--- Eigenvalues and Eigenvectors
+--- Inner Product Spaces
+-- Differential Equations
+--- First-Order Equations
+--- Second-Order Equations
+--- Partial Differential Equations
+--- Boundary Value Problems
+--- Numerical Methods
+-- Real Analysis
+--- Sequences and Series
+--- Continuity
+--- Differentiation
+--- Integration
+--- Measure Theory
+-- Abstract Algebra
+--- Group Theory
+--- Ring Theory
+--- Field Theory
+--- Galois Theory
+--- Representation Theory
+-- Topology
+--- Topological Spaces
+--- Continuity and Homeomorphisms
+--- Connectedness and Compactness
+--- Homotopy Theory
+--- Manifolds
+- Physics
+-- Classical Mechanics
+--- Kinematics
+--- Dynamics
+--- Statics
+--- Fluid Mechanics
+--- Hamiltonian and Lagrangian Mechanics
+-- Electromagnetism
+--- Electrostatics
+--- Magnetostatics
+--- Electromagnetic Waves
+--- Maxwell's Equations
+--- Optics
+-- Thermodynamics
+--- Laws of Thermodynamics
+--- Statistical Mechanics
+--- Kinetic Theory
+--- Heat Transfer
+--- Phase Transitions
+-- Quantum Mechanics
+--- Wave Function
+--- Schrödinger Equation
+--- Operators and Observables
+--- Angular Momentum
+--- Perturbation Theory
+-- Astrophysics
+--- Stellar Structure and Evolution
+--- Galactic Astronomy
+--- Cosmology
+--- High Energy Astrophysics
+--- Observational Astronomy
+- Chemistry
+-- General Chemistry
+--- Atomic Structure
+--- Chemical Bonding
+--- Stoichiometry
+--- Thermochemistry
+--- Chemical Kinetics
+-- Organic Chemistry
+--- Nomenclature
+--- Stereochemistry
+--- Reactions and Mechanisms
+--- Synthesis
+--- Spectroscopy
+-- Physical Chemistry
+--- Thermodynamics
+--- Quantum Chemistry
+--- Statistical Mechanics
+--- Chemical Kinetics
+--- Surface Chemistry
+-- Biochemistry
+--- Proteins and Enzymes
+--- Carbohydrates
+--- Lipids
+--- Nucleic Acids
+--- Metabolism
+-- Analytical Chemistry
+--- Quantitative Analysis
+--- Instrumental Analysis
+--- Separation Techniques
+--- Electrochemistry
+--- Spectroscopy
+- Biology
+-- Cell Biology
+--- Cell Structure and Function
+--- Cell Signaling
+--- Cell Division
+--- Cell Metabolism
+--- Cell Differentiation
+-- Genetics
+--- Mendelian Genetics
+--- Molecular Genetics
+--- Population Genetics
+--- Quantitative Genetics
+--- Genomics
+-- Ecology
+--- Population Ecology
+--- Community Ecology
+--- Ecosystem Ecology
+--- Conservation Biology
+--- Behavioral Ecology
+-- Evolutionary Biology
+--- Natural Selection
+--- Adaptation
+--- Speciation
+--- Phylogenetics
+--- Molecular Evolution
+-- Microbiology
+--- Bacteriology
+--- Virology
+--- Mycology
+--- Parasitology
+--- Immunology
+- Computer Science
+-- Algorithms
+--- Complexity Analysis
+--- Sorting and Searching
+--- Graph Algorithms
+--- Dynamic Programming
+--- Approximation Algorithms
+-- Data Structures
+--- Arrays and Linked Lists
+--- Stacks and Queues
+--- Trees and Graphs
+--- Hash Tables
+--- Priority Queues
+-- Software Engineering
+--- Software Development Lifecycle
+--- Object-Oriented Programming
+--- Design Patterns
+--- Testing and Debugging
+--- Project Management
+-- Artificial Intelligence
+--- Search Algorithms
+--- Knowledge Representation
+--- Machine Learning
+--- Natural Language Processing
+--- Computer Vision
+-- Machine Learning
+--- Supervised Learning
+--- Unsupervised Learning
+--- Reinforcement Learning
+--- Neural Networks
+--- Deep Learning
+-- Computer Architecture
+--- Digital Logic
+--- Microarchitecture
+--- Instruction Set Architecture
+--- Memory Hierarchy
+--- Parallel Computing
+- Engineering
+-- Mechanical Engineering
+--- Statics and Dynamics
+--- Thermodynamics
+--- Fluid Mechanics
+--- Materials Science
+--- Manufacturing Processes
+-- Electrical Engineering
+--- Circuit Analysis
+--- Electronics
+--- Signal Processing
+--- Control Systems
+--- Power Systems
+-- Civil Engineering
+--- Structural Engineering
+--- Geotechnical Engineering
+--- Transportation Engineering
+--- Water Resources Engineering
+--- Environmental Engineering
+-- Chemical Engineering
+--- Material and Energy Balances
+--- Transport Phenomena
+--- Chemical Reaction Engineering
+--- Process Control
+--- Plant Design
+-- Industrial Engineering
+--- Operations Research
+--- Quality Control
+--- Ergonomics
+--- Supply Chain Management
+--- Simulation Modeling
+
+Social Sciences
+- Psychology
+-- Abnormal Psychology
+--- Anxiety Disorders
+--- Mood Disorders
+--- Personality Disorders
+--- Schizophrenia
+--- Substance Abuse Disorders
+-- Cognitive Psychology
+--- Perception
+--- Attention
+--- Memory
+--- Language Processing
+--- Decision Making
+-- Developmental Psychology
+--- Prenatal Development
+--- Infancy and Toddlerhood
+--- Childhood
+--- Adolescence
+--- Adulthood and Aging
+-- Social Psychology
+--- Social Cognition
+--- Attitudes and Persuasion
+--- Group Processes
+--- Interpersonal Relationships
+--- Prejudice and Discrimination
+- Sociology
+-- Sociological Theory
+--- Classical Sociological Theory
+--- Contemporary Sociological Theory
+--- Macro-sociology
+--- Micro-sociology
+-- Social Inequality
+--- Social Stratification
+--- Poverty and Welfare
+--- Race and Ethnicity
+--- Gender Inequality
+--- Sexuality and Inequality
+-- Race & Ethnicity
+--- Racial and Ethnic Relations
+--- Sociology of Race
+--- Racial and Ethnic Identity
+--- Immigration and Assimilation
+-- Gender & Sexuality
+--- Sociology of Gender
+--- Sociology of Sexuality
+--- Feminist Theory
+--- LGBTQ+ Studies
+- Anthropology
+-- Cultural Anthropology
+--- Ethnography
+--- Kinship and Family
+--- Religion and Ritual
+--- Economic Anthropology
+--- Political Anthropology
+-- Biological Anthropology
+--- Human Evolution
+--- Primatology
+--- Human Genetics
+--- Forensic Anthropology
+-- Archaeology
+--- Prehistoric Archaeology
+--- Historical Archaeology
+--- Archaeological Methods
+--- Archaeological Theory
+-- Linguistic Anthropology
+--- Language and Culture
+--- Language Acquisition
+--- Language and Identity
+--- Language and Power
+- Political Science
+-- Comparative Politics
+--- Political Systems
+--- Democratization
+--- Authoritarianism
+--- Political Economy
+--- Comparative Public Policy
+-- International Relations
+--- International Security
+--- International Political Economy
+--- Foreign Policy Analysis
+--- International Organizations
+--- Global Governance
+-- Political Theory
+--- Ancient and Medieval Political Thought
+--- Modern Political Thought
+--- Contemporary Political Theory
+--- Feminist Political Theory
+--- Postcolonial Political Theory
+- Economics
+-- Microeconomics
+--- Consumer Theory
+--- Producer Theory
+--- Market Structures
+--- Game Theory
+--- Behavioral Economics
+-- Macroeconomics
+--- Economic Growth
+--- Business Cycles
+--- Monetary Policy
+--- Fiscal Policy
+--- International Macroeconomics
+-- Econometrics
+--- Regression Analysis
+--- Time Series Analysis
+--- Panel Data Analysis
+--- Instrumental Variables
+--- Bayesian Econometrics
+-- Game Theory
+--- Strategic Form Games
+--- Extensive Form Games
+--- Cooperative Games
+--- Evolutionary Game Theory
+--- Mechanism Design
+- Geography
+-- Human Geography
+--- Urban Geography
+--- Economic Geography
+--- Political Geography
+--- Cultural Geography
+--- Population Geography
+-- Physical Geography
+--- Geomorphology
+--- Climatology
+--- Biogeography
+--- Hydrology
+--- Soil Geography
+-- Geographic Information Systems (GIS)
+--- Spatial Analysis
+--- Remote Sensing
+--- Cartography
+--- Web GIS
+--- Geostatistics
+
+Arts & Humanities
+- History
+-- World History
+--- Ancient History
+--- Medieval History
+--- Modern History
+--- Contemporary History
+-- U.S. History
+--- Colonial America
+--- American Revolution
+--- Civil War Era
+--- 20th Century U.S.
+--- Recent U.S. History
+-- European History
+--- Ancient Greece and Rome
+--- Middle Ages
+--- Renaissance and Reformation
+--- Age of Enlightenment
+--- 19th Century Europe
+--- 20th Century Europe
+-- Asian History
+--- Chinese History
+--- Japanese History
+--- Indian History
+--- Southeast Asian History
+--- Central Asian History
+-- Art History
+--- Ancient Art
+--- Medieval Art
+--- Renaissance Art
+--- Baroque Art
+--- 19th Century Art
+--- Modern Art
+--- Contemporary Art
+- Literature
+-- American Literature
+--- Colonial and Early American Literature
+--- 19th Century American Literature
+--- 20th Century American Literature
+--- Contemporary American Literature
+-- British Literature
+--- Old English Literature
+--- Middle English Literature
+--- Renaissance Literature
+--- 18th Century British Literature
+--- Romantic Period
+--- Victorian Literature
+--- 20th Century British Literature
+-- World Literature
+--- Classical Literature
+--- Medieval Literature
+--- African Literature
+--- Latin American Literature
+--- Asian Literature
+--- Middle Eastern Literature
+-- Literary Theory
+--- Formalism
+--- Structuralism
+--- Post-structuralism
+--- Marxist Literary Theory
+--- Feminist Literary Theory
+--- Postcolonial Theory
+-- Creative Writing
+--- Fiction Writing
+--- Poetry Writing
+--- Nonfiction Writing
+--- Screenwriting
+--- Playwriting
+- Philosophy
+-- History of Philosophy
+--- Ancient Philosophy
+--- Medieval Philosophy
+--- Modern Philosophy
+--- Contemporary Philosophy
+-- Ethics
+--- Normative Ethics
+--- Applied Ethics
+--- Meta-ethics
+-- Epistemology
+--- Skepticism
+--- Rationalism
+--- Empiricism
+--- Pragmatism
+-- Logic
+--- Formal Logic
+--- Informal Logic
+--- Modal Logic
+--- Fuzzy Logic
+-- Metaphysics
+--- Ontology
+--- Philosophy of Mind
+--- Philosophy of Time
+--- Free Will and Determinism
+- Languages
+-- Spanish
+--- Spanish Language (Beginner to Advanced)
+--- Spanish Literature
+--- Spanish Culture and Civilization
+-- French
+--- French Language (Beginner to Advanced)
+--- French Literature
+--- French Culture and Civilization
+-- German
+--- German Language (Beginner to Advanced)
+--- German Literature
+--- German Culture and Civilization
+-- Italian
+--- Italian Language (Beginner to Advanced)
+--- Italian Literature
+--- Italian Culture and Civilization
+-- Chinese
+--- Mandarin Chinese (Beginner to Advanced)
+--- Classical Chinese
+--- Chinese Literature
+--- Chinese Culture and Civilization
+-- Japanese
+--- Japanese Language (Beginner to Advanced)
+--- Classical Japanese
+--- Japanese Literature
+--- Japanese Culture and Civilization
+-- Arabic
+--- Modern Standard Arabic (Beginner to Advanced)
+--- Classical Arabic
+--- Arabic Literature
+--- Islamic Culture and Civilization
+- Fine Arts
+-- Drawing
+--- Life Drawing
+--- Perspective Drawing
+--- Anatomy for Artists
+--- Illustration
+-- Painting
+--- Oil Painting
+--- Acrylic Painting
+--- Watercolor Painting
+--- Mixed Media Painting
+-- Sculpture
+--- Clay Sculpture
+--- Stone Carving
+--- Metal Sculpture
+--- Installation Art
+-- Photography
+--- Digital Photography
+--- Analog Photography
+--- Studio Lighting
+--- Documentary Photography
+-- Graphic Design
+--- Typography
+--- Layout Design
+--- Web Design
+--- Motion Graphics
+- Performing Arts
+-- Theater
+--- Acting
+--- Directing
+--- Stagecraft
+--- Costume Design
+--- Lighting Design
+-- Dance
+--- Ballet
+--- Modern Dance
+--- Jazz Dance
+--- Choreography
+--- Dance History
+-- Music Theory
+--- Harmony
+--- Counterpoint
+--- Form and Analysis
+--- Orchestration
+--- Music Composition
+-- Music Performance
+--- Piano Performance
+--- Vocal Performance
+--- Instrumental Performance (various instruments)
+--- Conducting
+--- Music Technology
+
+Business
+- Accounting
+-- Financial Accounting
+--- Financial Statements
+--- Accounting Cycle
+--- Generally Accepted Accounting Principles (GAAP)
+--- International Financial Reporting Standards (IFRS)
+-- Managerial Accounting
+--- Cost Accounting
+--- Budgeting and Forecasting
+--- Performance Measurement
+--- Decision Making
+-- Auditing
+--- Audit Planning
+--- Internal Control
+--- Substantive Testing
+--- Audit Reports
+-- Tax Accounting
+--- Individual Taxation
+--- Corporate Taxation
+--- Partnership Taxation
+--- International Taxation
+--- Tax Planning Strategies
+- Finance
+-- Corporate Finance
+--- Capital Budgeting
+--- Capital Structure
+--- Working Capital Management
+--- Dividend Policy
+--- Mergers and Acquisitions
+-- Investments
+--- Portfolio Theory
+--- Asset Pricing Models
+--- Fixed Income Securities
+--- Derivatives
+--- Alternative Investments
+-- Financial Markets
+--- Equity Markets
+--- Bond Markets
+--- Foreign Exchange Markets
+--- Money Markets
+--- Derivative Markets
+-- International Finance
+--- International Financial Markets
+--- Foreign Direct Investment
+--- Currency Risk Management
+--- International Capital Budgeting
+--- International Trade Finance
+- Marketing
+-- Consumer Behavior
+--- Consumer Decision Making
+--- Perception and Attitudes
+--- Motivation and Emotion
+--- Social and Cultural Influences
+--- Consumer Research Methods
+-- Marketing Research
+--- Research Design
+--- Sampling Methods
+--- Data Collection Techniques
+--- Data Analysis and Interpretation
+--- Reporting and Presentation
+-- Digital Marketing
+--- Search Engine Marketing
+--- Social Media Marketing
+--- Email Marketing
+--- Content Marketing
+--- Web Analytics
+-- Brand Management
+--- Brand Equity
+--- Brand Positioning
+--- Brand Architecture
+--- Brand Communication Strategies
+--- Brand Performance Metrics
+- Management
+-- Organizational Behavior
+--- Individual Behavior
+--- Group Dynamics
+--- Leadership
+--- Motivation
+--- Organizational Culture
+-- Operations Management
+--- Process Analysis and Design
+--- Quality Management
+--- Supply Chain Management
+--- Inventory Management
+--- Project Management
+-- Strategic Management
+--- Environmental Scanning
+--- Strategy Formulation
+--- Strategy Implementation
+--- Performance Evaluation
+--- Corporate Governance
+-- Entrepreneurship
+--- Opportunity Recognition
+--- Business Model Development
+--- Startup Financing
+--- Growth Strategies
+--- Social Entrepreneurship
+- Business Analytics
+-- Statistics
+--- Descriptive Statistics
+--- Probability Distributions
+--- Sampling and Estimation
+--- Hypothesis Testing
+--- Regression Analysis
+-- Data Analysis
+--- Data Preprocessing
+--- Exploratory Data Analysis
+--- Data Mining
+--- Machine Learning
+--- Big Data Analytics
+-- Data Visualization
+--- Information Design
+--- Visual Perception
+--- Data Storytelling
+--- Dashboards and Scorecards
+--- Interactive Visualization
+-- Predictive Modeling
+--- Classification Models
+--- Regression Models
+--- Time Series Analysis
+--- Survival Analysis
+--- Ensemble Methods>)
 
 - Mathematics
 -- Calculus

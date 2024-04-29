@@ -42,7 +42,7 @@ The scale consists of seven main categories[1][2][3]:
 - Type VI-minus: Control over elementary particles like quarks and leptons in [[fundamental physics]] to create organized structures.
 - Type Omega-minus (Ω-minus): Ability to manipulate the fundamental structure of [[spacetime]].
 
-The Barrow scale is often compared to the [[Kardashev scales]], which measures a civilization's technological advancement based on its energy consumption[3]. While the Kardashev scale focuses on the macro-level, the Barrow scale emphasizes the micro-level, suggesting that as civilizations advance, they will increasingly focus on manipulating matter at smaller scales[1][2].
+The Barrow scale is often compared to the [[Kardashev scale]], which measures a civilization's technological advancement based on its energy consumption[3]. While the Kardashev scale focuses on the macro-level, the Barrow scale emphasizes the micro-level, suggesting that as civilizations advance, they will increasingly focus on manipulating matter at smaller scales[1][2].
 
 Some argue that the Barrow scale may be a more accurate representation of technological progress, as it directly correlates with the development of advanced technologies like [[nanotechnology]] and [[biotechnology]][1][2]. However, the scale remains largely theoretical, as the higher categories involve [[technology|technologies]] that are currently beyond human [[capability|capabilities]].
 

@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Kardashev scales]], [[Physics]]
+- Part of: [[Kardashev scale]], [[Physics]]
 - Related: 
 - Includes:
 - Additional: 
