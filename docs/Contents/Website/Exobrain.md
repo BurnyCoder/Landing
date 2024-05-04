@@ -1,4 +1,3 @@
-- [[Highlights]]
 - [[Science]]
 - [[Technology]]
 - [[Philosophy]] 
@@ -6,6 +5,7 @@
 - [[Everything]]
 - [[Aesthetics]]
 - [[Unsorted to be included]]
+- [[Highlights]]
 - [[Book]]
 - [[Everything.canvas|Canvas of everything]]
 
