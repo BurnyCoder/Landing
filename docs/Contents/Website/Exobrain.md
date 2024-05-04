@@ -1,5 +1,3 @@
-- [[Book]]
-- [[Everything.canvas|Canvas of everything]]
 - [[Highlights]]
 - [[Science]]
 - [[Technology]]
@@ -8,6 +6,8 @@
 - [[Everything]]
 - [[Aesthetics]]
 - [[Unsorted to be included]]
+- [[Book]]
+- [[Everything.canvas|Canvas of everything]]
 
 - Greetings fellow [[ontology|reality]] connoisseur!
 
