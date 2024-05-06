@@ -12,7 +12,7 @@
 -  
 ## Main resources 
 - [Intelligence - Wikipedia](https://en.wikipedia.org/wiki/Intelligence)
-	- <iframe src="https://en.wikipedia.org/wiki/Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
+<iframe src="https://en.wikipedia.org/wiki/Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Definitions
 - [KARL FRISTON - INTELLIGENCE 3.0 - YouTube](https://youtu.be/V_VXOdf1NMw?si=YuVfcfc0R_jrjZqW&t=1898)
 - Shane Legg: 
@@ -20,6 +20,8 @@
 	- [\[0712.3329\] Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/abs/0712.3329)
 	- [Shane Legg (DeepMind Founder) - 2028 AGI, Superhuman Alignment, New Architectures - YouTube](https://www.youtube.com/watch?v=Kc1atfJkiJU)
 - [Definitions Intelligence](https://agisi.org/Defs_intelligence.html)
+- [[Generalization]]
+	- [[Intelligence x Generalization]]
 ## Landscapes
 - By origin
 	- [[Biological intelligence]]

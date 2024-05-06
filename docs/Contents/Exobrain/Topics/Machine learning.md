@@ -45,6 +45,9 @@
 		- [[Classification]]
 		- [[Bioinformatics]]
 		- [[Natural language processing]]
+			- [[Large language model]]
+				- [[Transformer]]
+			- [[Large multimodal model]]
 		- [[Pattern recognition]]
 		- [[Recommendation system]]
 		- [[Search engine]]
@@ -65,8 +68,60 @@
 - [The landscape of the Machine Learning section of ArXiv.](https://twitter.com/leland_mcinnes/status/1731752287788265726)
 	- [[landing/docs/Images/d53207aee25be09f22c9bebc583ac099_MD5.jpeg|Open: Pasted image 20231204230523.png]]
 ![[landing/docs/Images/d53207aee25be09f22c9bebc583ac099_MD5.jpeg]]
+## Lists of resouces
+
+[GitHub - patrickloeber/ml-study-plan: The Ultimate FREE Machine Learning Study Plan](https://github.com/patrickloeber/ml-study-plan)
+[GitHub - dair-ai/ML-YouTube-Courses: 📺 Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
+[GitHub - yazdotai/machine-learning-video-courses: Comprehensive list of machine learning videos](https://github.com/yazdotai/machine-learning-video-courses)
+[GitHub - mirerfangheibi/Machine-Learning-Resources: Free and High-Quality Materials to Study Deep Learning](https://github.com/mirerfangheibi/Machine-Learning-Resources)
+[ML Resources](https://sgfin.github.io/learning-resources/#ml)
+[GitHub - therealsreehari/Learn-Data-Science-For-Free: This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in Twitter.](https://github.com/therealsreehari/Learn-Data-Science-For-Free)
+[GitHub - openlists/MathStatsResources](https://github.com/openlists/MathStatsResources)
+[GitHub - mdozmorov/Statistics_notes: Statistics, data analysis tutorials and learning resources](https://github.com/mdozmorov/Statistics_notes)
+[GitHub - Machine-Learning-Tokyo/AI_Curriculum: Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.](https://github.com/Machine-Learning-Tokyo/AI_Curriculum)
+[GitHub - bentrevett/machine-learning-courses: A collection of machine learning courses.](https://github.com/bentrevett/machine-learning-courses)
+[GitHub - Developer-Y/cs-video-courses: List of Computer Science courses with video lectures.](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file#artificial-intelligence)
+[GitHub - tigerneil/awesome-deep-rl: For deep RL and the future of AI.](https://github.com/tigerneil/awesome-deep-rl)
+[GitHub - Developer-Y/math-science-video-lectures: List of Science courses with video lectures](https://github.com/Developer-Y/math-science-video-lectures)
+[GitHub - Machine-Learning-Tokyo/Math_resources](https://github.com/Machine-Learning-Tokyo/Math_resources)
+[GitHub - dair-ai/Mathematics-for-ML: 🧮  A collection of resources to learn mathematics for machine learning](https://github.com/dair-ai/Mathematics-for-ML)
+[Foundations of Machine Learning](https://bloomberg.github.io/foml/#lectures)
+[Data Science and Machine Learning Resources — Jon Krohn](https://www.jonkrohn.com/resources)
+https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning
+[GitHub - exajobs/university-courses-collection: A collection of awesome CS courses, assignments, lectures, notes, readings & examinations available online for free.](https://github.com/exajobs/university-courses-collection?tab=readme-ov-file#artificial-intelligence)
+[GitHub - prakhar1989/awesome-courses: :books: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses?tab=readme-ov-file#artificial-intelligence)
+[GitHub - owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.](https://github.com/owainlewis/awesome-artificial-intelligence)
+[GitHub - josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
+[GitHub - academic/awesome-datascience: :memo: An awesome Data Science repository to learn and apply for real world problems.](https://github.com/academic/awesome-datascience?tab=readme-ov-file#the-data-science-toolbox)
+[GitHub - ChristosChristofidis/awesome-deep-learning: A curated list of awesome Deep Learning tutorials, projects and communities.](https://github.com/ChristosChristofidis/awesome-deep-learning)
+[GitHub - guillaume-chevalier/Awesome-Deep-Learning-Resources: Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources?tab=readme-ov-file#online-classes)
+[GitHub - MartinuzziFrancesco/awesome-scientific-machine-learning: A curated list of awesome Scientific Machine Learning (SciML) papers, resources and software](https://github.com/MartinuzziFrancesco/awesome-scientific-machine-learning)
+[GitHub - SE-ML/awesome-seml: A curated list of articles that cover the software engineering best practices for building machine learning applications.](https://github.com/SE-ML/awesome-seml)
+[GitHub - jtoy/awesome-tensorflow: TensorFlow - A curated list of dedicated resources http://tensorflow.org](https://github.com/jtoy/awesome-tensorflow)
+[GitHub - altamiracorp/awesome-xai: Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources](https://github.com/altamiracorp/awesome-xai)
+[GitHub - ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+[GitHub - kiloreux/awesome-robotics: A list of awesome Robotics resources](https://github.com/kiloreux/awesome-robotics)
+[GitHub - jbhuang0604/awesome-computer-vision: A curated list of awesome computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision)
+[GitHub - dk-liang/Awesome-Visual-Transformer: Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)](https://github.com/dk-liang/Awesome-Visual-Transformer)
+[GitHub - ChanganVR/awesome-embodied-vision: Reading list for research topics in embodied vision](https://github.com/ChanganVR/awesome-embodied-vision)
+[GitHub - EthicalML/awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+[GitHub - wangyongjie-ntu/Awesome-explainable-AI: A  collection of research materials on explainable AI/ML](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+[GitHub - jphall663/awesome-machine-learning-interpretability: A curated list of awesome responsible machine learning resources.](https://github.com/jphall663/awesome-machine-learning-interpretability)
+[GitHub - JShollaj/awesome-llm-interpretability: A curated list of Large Language Model (LLM) Interpretability resources.](https://github.com/JShollaj/awesome-llm-interpretability)
+[GitHub - MinghuiChen43/awesome-deep-phenomena: A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...](https://github.com/MinghuiChen43/awesome-deep-phenomena)
+[GitHub - Nikasa1889/awesome-deep-learning-theory: A curated list of awesome Deep Learning theories that shed light on the mysteries of DL](https://github.com/Nikasa1889/awesome-deep-learning-theory)
+[[2106.10165] The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)
+[GitHub - awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.](https://github.com/awesomedata/awesome-public-datasets)
+[GitHub - jsbroks/awesome-dataset-tools: 🔧 A curated list of awesome dataset tools](https://github.com/jsbroks/awesome-dataset-tools)
+[GitHub - mint-lab/awesome-robotics-datasets: A collection of useful datasets for robotics and computer vision](https://github.com/mint-lab/awesome-robotics-datasets)
+[GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
+[GitHub - Bisonai/awesome-edge-machine-learning: A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.](https://github.com/Bisonai/awesome-edge-machine-learning)
+[GitHub - HQarroum/awesome-iot: 🤖 A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot)
+[GitHub - kitspace/awesome-electronics: A curated list of awesome resources for Electronic Engineers and hobbyists](https://github.com/kitspace/awesome-electronics)
 ## Contents
 - 
+## Crossovers
+![[Artificial Intelligence#Crossovers]]
 ## Deep dives
 - [[Theory of Everything in Intelligence]]
 	-  ![[Theory of Everything in Intelligence#Definitions]]

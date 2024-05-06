@@ -28,7 +28,7 @@ aliases:
 	- [[Generative artificial intelligence]]
 	- [[Robotics]]
 - By application 
-	- [[AI in healthcare]]
+	- [[Artificial intelligence x Healthcare]]
 	- [[AI in education]]
 - By approach
 	- [[Symbolic artificial intelligence]] 
@@ -98,8 +98,10 @@ aliases:
 - [[Mechanistic interpretability]]
 - [[Explainable artificial intelligence]]
 - [[Mathematical theory of artificial intelligence]]
-## Contents
-- 
+## Crossovers
+- [[Artificial intelligence x Healthcare]]
+- [[Artificial intelligence x Science]]
+- [[Artificial intelligence x Finance]]
 ## Deep dives
 - [[Theory of Everything in Intelligence]]
 	-  ![[Theory of Everything in Intelligence#Definitions]]

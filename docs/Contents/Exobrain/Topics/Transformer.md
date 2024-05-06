@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Artificial Intelligence]] [[Natural language processing]] [[Language model]] [[Attention]] [[Machine Learning]]
+- Part of: [[Artificial Intelligence]] [[Natural language processing]] [[Large language model]] [[Attention]] [[Machine Learning]]
 - Related: 
 - Includes:
 - Additional: 

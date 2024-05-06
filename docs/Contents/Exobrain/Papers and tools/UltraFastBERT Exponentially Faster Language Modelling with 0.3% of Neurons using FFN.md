@@ -1,5 +1,5 @@
 ## Tags
-- Topics: [[Artificial Intelligence]] [[Language model]] [[Natural language processing]] [[Transformer]] [[Speed optimization]] [[landing/docs/Contents/Exobrain/Topics/Open source|Open source]] 
+- Topics: [[Artificial Intelligence]] [[Large language model]] [[Natural language processing]] [[Transformer]] [[Speed optimization]] [[landing/docs/Contents/Exobrain/Topics/Open source|Open source]] 
 - Additional: [[SotA]] 
 ## Significance
 - Extremely reducing the size of LLMs and losing as little accuracy as possible

@@ -15,6 +15,8 @@
 	- [[Artificial intelligence safety]]
 	- [[Mechanistic interpretability]]
 	- [[Omniintelligence]]
+	- [[Mathematical theory of artificial intelligence]]
+	- [[Large language model]]
 - [[Theory of Everything]]
 	- [[Theory of Everything in Fundamental Physics]]
 	- [[Theory of Everything in All of Physics]]

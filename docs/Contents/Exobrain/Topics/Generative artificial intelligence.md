@@ -16,7 +16,7 @@
 - 
 <iframe src="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[Language model]]
+- [[Large language model]]
 - [[Vision model]]
 - [[Audio model]]
 - [[Multimodal model]]

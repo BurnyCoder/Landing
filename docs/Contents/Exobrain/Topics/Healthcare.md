@@ -16,7 +16,7 @@
 - 
 	- <iframe src="https://en.wikipedia.org/wiki/Healthcare" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
-- [[AI in healthcare]]
+- [[Artificial intelligence x Healthcare]]
 - [[Medicine]]
 ## Contents
 - 

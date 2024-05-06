@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Form of evaluation that elicits model vulnerabilities that might lead to undesirable behaviors. The goal of red-teaming [[Language model|language models]] is to craft a prompt that would trigger the model to generate text that is likely to cause harm
+- Form of evaluation that elicits model vulnerabilities that might lead to undesirable behaviors. The goal of red-teaming [[Large language model|language models]] is to craft a prompt that would trigger the model to generate text that is likely to cause harm
 ## Technical summaries
 -  
 ## Main resources 
