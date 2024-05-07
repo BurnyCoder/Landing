@@ -1,6 +1,6 @@
 ## Tags
 - Metadata: #topic 
-- Part of: [[Meta]] [[Metaanalysis]] [[Science]] [[Natural science]]
+- Part of: [[Meta]] [[Meta-analysis]] [[Science]] [[Natural science]]
 - Related: 
 - Includes:
 - Additional: 

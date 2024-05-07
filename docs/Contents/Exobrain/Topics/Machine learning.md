@@ -63,7 +63,7 @@
 - [[Thermodynamic AI]]
 - [[Mechanistic interpretability]]
 - [[Mathematical theory of artificial intelligence]]
-- [[Meta learning]]
+- [[Meta-learning]]
 - [[Online machine learning]]
 - [The landscape of the Machine Learning section of ArXiv.](https://twitter.com/leland_mcinnes/status/1731752287788265726)
 	- [[landing/docs/Images/d53207aee25be09f22c9bebc583ac099_MD5.jpeg|Open: Pasted image 20231204230523.png]]
@@ -116,8 +116,6 @@ https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning
 [GitHub - mint-lab/awesome-robotics-datasets: A collection of useful datasets for robotics and computer vision](https://github.com/mint-lab/awesome-robotics-datasets)
 [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
 [GitHub - Bisonai/awesome-edge-machine-learning: A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.](https://github.com/Bisonai/awesome-edge-machine-learning)
-[GitHub - HQarroum/awesome-iot: 🤖 A curated list of awesome Internet of Things projects and resources.](https://github.com/HQarroum/awesome-iot)
-[GitHub - kitspace/awesome-electronics: A curated list of awesome resources for Electronic Engineers and hobbyists](https://github.com/kitspace/awesome-electronics)
 ## Contents
 - 
 ## Crossovers

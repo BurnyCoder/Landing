@@ -1,3 +1,7 @@
+---
+aliases:
+  - interdisciplionary
+---
 ## Tags
 - Metadata: #topic 
 - Part of:

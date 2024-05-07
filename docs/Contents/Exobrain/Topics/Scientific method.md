@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- Observe [[phenomena]], formulate [[hypothesis]], test and refine [[theory]] that makes explanations, predictions, controlling and building protocols. Be skeptical of results and assumptions. Do [[metaanalysis|metaanalyses]].
+- Observe [[phenomena]], formulate [[hypothesis]], test and refine [[theory]] that makes explanations, predictions, controlling and building protocols. Be skeptical of results and assumptions. Do [[Meta-analysis|metaanalyses]].
 ## Technical summaries
 -  
 ## Main resources 

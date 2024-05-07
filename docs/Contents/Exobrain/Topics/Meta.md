@@ -2,7 +2,7 @@
 - Metadata: #topic 
 - Part of: [[Philosophy]] [[Mathematics]]
 - Related: 
-- Includes: [[Metaanalysis]], [[Higher-order logic]] [[Metatheory]] [[Metamathematics]] [[Meta Theory of Everything]] [[Metaphilosophy]] 
+- Includes: [[Meta-analysis]], [[Higher-order logic]] [[Metatheory]] [[Metamathematics]] [[Meta Theory of Everything]] [[Metaphilosophy]] 
 - Additional: 
 ## Significance
 - 

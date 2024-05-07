@@ -9,7 +9,7 @@
 ## Intuitive summaries
 - 
 ## Definitions
-- One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of [[physicalism|physical]] [[Process|processes]] based on [[empiricism]] with [[scientific method]]: observation, [[Hypothesis|hypotheses]], [[Theory|theories]], experimentation, replication, [[Metaanalysis|metaanalyses]].
+- One of the branches of [[science]] concerned with the description, understanding, prediction and control and building of [[physicalism|physical]] [[Process|processes]] based on [[empiricism]] with [[scientific method]]: observation, [[Hypothesis|hypotheses]], [[Theory|theories]], experimentation, replication, [[Meta-analysis|metaanalyses]].
 - Using the tools of applied [[mathematics]], mathematics constrained by making predictions about reality
 ## Technical summaries
 -  

@@ -15,6 +15,7 @@ aliases:
 ## Definitions
 - A [[Systems theory|system]] that is [[intelligence|intelligent]] and constructed by humans.
 - A branch of [[computer science]] which develops and studies [[intelligence|intelligent]] machines.
+- Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined [[goal|goals]].
 ## Technical summaries
 - 
 ## Main resources 
@@ -22,8 +23,6 @@ aliases:
 <iframe src="https://en.wikipedia.org/wiki/Artificial Intelligence" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
 ## Landscapes
 
-- [[Intelligence#Definitions]]
-- [[Intersection between biological and artificial intelligence]]
 - By domain
 	- [[Generative artificial intelligence]]
 	- [[Robotics]]
@@ -83,9 +82,13 @@ aliases:
 <iframe title="Map of Artificial Intelligence" src="https://www.youtube.com/embed/hDWDtH1jnXg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 - [GitHub - dair-ai/ML-YouTube-Courses: 📺 Discover the latest machine learning / AI courses on YouTube.](https://github.com/dair-ai/ML-YouTube-Courses)
 - [Applications of artificial intelligence - Wikipedia](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-- [[Consciousness]]
-	- [[Artificial consciousness]]
-- [[Neurotechnology]]
+- Phenomena:
+	- [[Consciousness]]
+		- [[Artificial consciousness]]
+- Related fields:
+	- [[Statistics]]
+	- [[Data science]]
+	- [[Neurotechnology]]
 - [[Selfreplicating machines]]
 - [[Singularity]]
 	- [[Recursive self improvement]]
@@ -95,10 +98,19 @@ aliases:
 	- [[Transhumanism]]
 - [[Risks of artificial intelligence]]
 	- [[Artificial intelligence safety]]
-- [[Mechanistic interpretability]]
-- [[Explainable artificial intelligence]]
-- [[Mathematical theory of artificial intelligence]]
+- Theory
+	- [[Mechanistic interpretability]]
+	- [[Mathematical theory of artificial intelligence]]
+	- [[Explainable artificial intelligence]]
+- [[Intelligence#Definitions]]
+	- ![[Intelligence#Definitions]]
+	- [[Artificial Intelligence x Biological Intelligence x Collective Intelligence]]
+	- [[Generalization]]
+		- [[Artificial Intelligence x Generalization]]
+
 ## Crossovers
+-  [[Artificial Intelligence x Biological Intelligence x Collective Intelligence]]
+- [[Artificial Intelligence x Generalization]]
 - [[Artificial intelligence x Healthcare]]
 - [[Artificial intelligence x Science]]
 - [[Artificial intelligence x Finance]]
