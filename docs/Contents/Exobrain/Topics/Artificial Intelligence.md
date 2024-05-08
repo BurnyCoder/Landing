@@ -114,6 +114,22 @@ aliases:
 - [[Artificial intelligence x Healthcare]]
 - [[Artificial intelligence x Science]]
 - [[Artificial intelligence x Finance]]
+
+## Resources
+Stanford machine learning https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy
+Stanford machine learning https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+Stanford transformers https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
+Stanford generative models including diffusion  https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8
+Stanford deep learning https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+Stanford natural language processing with deep learning https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
+MIT deep learning https://www.youtube.com/playlist?list=PLTZ1bhP8GBuTCqeY19TxhHyrwFiot42_U
+Stanford artificial intelligence https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX
+Stanford machine learning with graphs https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+Stanford natural language understanding https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp
+Stanford reinforcement learning https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
+Stanford meta-learning https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI
+Stanford artificial intelligence https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3
+Stanford machine learning theory https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh
 ## Deep dives
 - [[Theory of Everything in Intelligence]]
 	-  ![[Theory of Everything in Intelligence#Definitions]]

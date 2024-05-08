@@ -116,6 +116,9 @@ https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning
 [GitHub - mint-lab/awesome-robotics-datasets: A collection of useful datasets for robotics and computer vision](https://github.com/mint-lab/awesome-robotics-datasets)
 [GitHub - kelvins/awesome-mlops: :sunglasses: A curated list of awesome MLOps tools](https://github.com/kelvins/awesome-mlops)
 [GitHub - Bisonai/awesome-edge-machine-learning: A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.](https://github.com/Bisonai/awesome-edge-machine-learning)
+
+[Before you continue to YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+[Before you continue to YouTube](https://www.youtube.com/@stanfordonline/playlists)
 ## Contents
 - 
 ## Crossovers
