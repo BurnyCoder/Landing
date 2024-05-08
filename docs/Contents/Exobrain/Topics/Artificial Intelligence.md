@@ -134,7 +134,16 @@ Stanford computer vision [https://www.youtube.com/playlist?list=PLkt2uSq6rBVctEN
 [https://www.youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ](https://www.youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ)  
 Stanford statistics [https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)  
 Stanford methods in AI [https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)  
-[https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+[https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)  
+Stanford MIT robotics [https://www.youtube.com/playlist?list=PLkx8KyIQkMfUmB3j-DyP58ThDXM7enA8x](https://www.youtube.com/playlist?list=PLkx8KyIQkMfUmB3j-DyP58ThDXM7enA8x) [https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69](https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69) [https://www.youtube.com/playlist?list=PL65CC0384A1798ADF](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF) [https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD) [https://www.youtube.com/playlist?list=PLN1iOWWHLJz3ndzRIvpbby75G2_2pYYrL](https://www.youtube.com/playlist?list=PLN1iOWWHLJz3ndzRIvpbby75G2_2pYYrL)  
+MIT machine learning [https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV) [https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux](https://www.youtube.com/playlist?list=PLnvKubj2-I2LhIibS8TOGC42xsD3-liux)  
+MIT efficient machine learning [https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)  
+MIT linear algebra in machine learning [https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)  
+Principles of Deep Learning Theory [https://arxiv.org/abs/2106.10165](https://arxiv.org/abs/2106.10165) [https://www.youtube.com/watch?v=YzR2gZrsdJc](https://www.youtube.com/watch?v=YzR2gZrsdJc) [https://www.youtube.com/watch?v=pad023JIXVA](https://www.youtube.com/watch?v=pad023JIXVA)  
+Active Inference book [https://mitpress.mit.edu/9780262045353/active-inference/](https://mitpress.mit.edu/9780262045353/active-inference/)  
+Geometric deep learning [https://geometricdeeplearning.com/](https://geometricdeeplearning.com/)  
+Mechanistic intepretability [https://www.neelnanda.io/mechanistic-interpretability](https://www.neelnanda.io/mechanistic-interpretability)  
+Topological data analysis [https://www.youtube.com/playlist?list=PLzERW_Obpmv_UW7RgbZW4Ebhw87BcoXc7](https://www.youtube.com/playlist?list=PLzERW_Obpmv_UW7RgbZW4Ebhw87BcoXc7)
 ## Deep dives
 - [[Theory of Everything in Intelligence]]
 	-  ![[Theory of Everything in Intelligence#Definitions]]
