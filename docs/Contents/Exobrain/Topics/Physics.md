@@ -17,7 +17,7 @@ aliases:
 ## Main resources 
 - [Physics - Wikipedia](https://en.wikipedia.org/wiki/Physics)
 	- <iframe src="https://en.wikipedia.org/wiki/Physics" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe>
-- Easiest way to learn physics: [Leonard Susskind The Theoretical Minimum Course](https://theoreticalminimum.com/courses)
+- Easiest way to learn physics: [Leonard Susskind The Theoretical Minimum Course](https://theoreticalminimum.com/courses) Sean Carroll [https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
 - Hardest way to learn physics: [geometry of physics in nLab](https://ncatlab.org/nlab/show/geometry+of+physics)
 ## Landscapes
 - [Outline of physics - Wikipedia](https://en.wikipedia.org/wiki/Outline_of_physics)
