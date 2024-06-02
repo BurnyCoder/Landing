@@ -1,0 +1,6855 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Neurophysics/">
+      
+      
+        <link rel="next" href="../Non-equilibrium%20statistical%20mechanics/">
+      
+      
+      <link rel="icon" href="../../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.25">
+    
+    
+      
+        <title>Neuroscience - Burny website</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#tags" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../.." title="Burny website" class="md-header__button md-logo" aria-label="Burny website" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Burny website
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Neuroscience
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="Burny website" class="md-nav__button md-logo" aria-label="Burny website" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Burny website
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hai!
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Contents
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Contents
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Exobrain
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Exobrain
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Highlights/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Highlights
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Omniintelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omniintelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Aethetics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Aethetics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Aethetics/Aesthetics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aesthetics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_4" id="__nav_2_1_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Canvas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Canvas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canvas/Everything%20canvas%20notes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everything canvas notes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_5" id="__nav_2_1_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entities
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entities
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/Joscha%20Bach/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Joscha Bach
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/Karl%20Friston/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Karl Friston
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/OpenAI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenAI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/Qualia%20Research%20Institute/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Qualia Research Institute
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_6" id="__nav_2_1_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Other and unrelated
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            Other and unrelated
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Other%20and%20unrelated/SotA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SotA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_7" id="__nav_2_1_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Papers and tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_7">
+            <span class="md-nav__icon md-icon"></span>
+            Papers and tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Papers%20and%20tools/UltraFastBERT%20Exponentially%20Faster%20Language%20Modelling%20with%200.3%25%20of%20Neurons%20using%20FFN/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    UltraFastBERT Exponentially Faster Language Modelling with 0.3% of Neurons using FFN
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_8" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_8" id="__nav_2_1_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1_8">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../A%20posteriori%20knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A posteriori knowledge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../A%20priori%20knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A priori knowledge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../AIXI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AIXI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../AIXItl/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AIXItl
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agent%20foundations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agent foundations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agent/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agent
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Algorithm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Algorithm
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../All%20possible%20intelligence%20architectures%20and%20substrates%20merging%20into%20ultimate%20shapeshifting%20superflexible%20superadaptive%20superhybrid%20collective%20general%20superintelligence%20galactic%20supercluster/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    All possible intelligence architectures and substrates merging into ultimate shapeshifting superflexible superadaptive superhybrid collective general superintelligence galactic supercluster
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Applied%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Applied science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20Intelligence%20x%20Generalization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence x Generalization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20Intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20consciousness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial consciousness
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20general%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial general intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20safety/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence safety
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20x%20Finance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence x Finance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20x%20Healthcare/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence x Healthcare
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20x%20Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence x Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20narrow%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial narrow intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20neural%20network/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial neural network
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20superintelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial superintelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Audio%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Audio model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Autogen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Autogen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Barrow%20scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barrow scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Basic%20research/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Basic research
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Biology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Biophysics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biophysics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Book%20-%20Understanding%20the%20nature%20of%20reality%20using%20math%20and%20creating%20it/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Book   Understanding the nature of reality using math and creating it
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Boundary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Boundary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Capability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Category%20Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Category Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Chemistry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemistry
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Classical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Classical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cognitive%20Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cognitive Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cognitive%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cognitive science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Complex%20analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Complex analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computational%20Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computational Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computer%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computer science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computer%20vision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computer vision
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Connectionism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Connectionism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Connectionist%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Connectionist artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Consciousness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consciousness
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Control%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Control theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cosmology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cosmology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cryptography/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cryptography
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cybernetics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cybernetics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Data%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Deep%20Learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deep Learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Discipline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discipline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dynamical%20systems%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dynamical systems theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dyson%20sphere/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dyson sphere
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Effective%20Accelerationism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Effective Accelerationism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Effective%20Altruism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Effective Altruism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Empiricism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Empiricism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Engineering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Engineering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Epistemology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Epistemology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ethics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ethics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Event/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Everybeing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everybeing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Experience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Experience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Explainable%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Explainable artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Finitism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Finitism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal%20logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal%20system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal system
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Foundations%20of%20mathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Foundations of mathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Free%20energy%20principle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Free energy principle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Future%20of%20humanity%20and%20sentience%20futorology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Future of humanity and sentience futorology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Future%20of%20universe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Future of universe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Future/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Future
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Game%20B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game B
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../General%20systems%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General systems theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Generalization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Generalization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Generative%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Generative artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Godel%20machine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Godel machine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Governance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Healthcare/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Healthcare
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Higher-order%20logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Higher order logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Homological%20algebra/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Homological algebra
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Humanities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Humanities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Humanity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Humanity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hybrid%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hybrid artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Identity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Identity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ideology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ideology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Immortality/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Immortality
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Information%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Information theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Intelligence%20x%20Generalization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Intelligence x Generalization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Interdisciplinarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interdisciplinarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Interpretations%20of%20quantum%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interpretations of quantum mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Kardashev%20scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kardashev scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Knowledge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Language/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Language
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Large%20language%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Large language model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Linguistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linguistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Longevity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Longevity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Loop%20Quantum%20Gravity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loop Quantum Gravity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../M%20Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    M Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Machine%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Machine learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Markov%20blanket/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Markov blanket
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematical%20analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematical analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematical%20logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematical logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematical%20theory%20of%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematical theory of artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mechanistic%20interpretability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mechanistic interpretability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Medicine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Medicine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meditation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meditation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta%20Theory%20of%20Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta Theory of Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta-analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta-learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metamathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metamathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metamodernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metamodernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metaphilosophy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metaphilosophy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metaphysics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metaphysics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metascience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metascience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metatheory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metatheory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Model%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Modernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Movements/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Movements
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Multiagent%20framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Multiagent framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Multimodal%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Multimodal model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Natural%20language%20processing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Natural language processing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Natural%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Natural science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neuromodulation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neuromodulation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neurophenomenology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurophenomenology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neurophysics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurophysics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Neuroscience
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Neuroscience
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tags" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tags
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#significance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Significance
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intuitive-summaries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intuitive summaries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definitions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-summaries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technical summaries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#main-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Main resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#landscapes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Landscapes
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#-" class="md-nav__link">
+    <span class="md-ellipsis">
+      -
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deep-dives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Deep dives
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#brain-storming" class="md-nav__link">
+    <span class="md-ellipsis">
+      Brain storming
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Additional resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related" class="md-nav__link">
+    <span class="md-ellipsis">
+      Related
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      AI
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="AI">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-cellular-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Cellular Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-molecular-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Molecular Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-systems-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Systems Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-behavioral-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Behavioral Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-cognitive-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Cognitive Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-clinical-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Clinical Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-computational-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. Computational Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-neuroimaging" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. Neuroimaging
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#9-developmental-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      9. Developmental Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#10-neuropharmacology-and-neurochemistry" class="md-nav__link">
+    <span class="md-ellipsis">
+      10. Neuropharmacology and Neurochemistry
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11-neuroanatomy" class="md-nav__link">
+    <span class="md-ellipsis">
+      11. Neuroanatomy
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-neurophysiology" class="md-nav__link">
+    <span class="md-ellipsis">
+      12. Neurophysiology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-neurogenetics" class="md-nav__link">
+    <span class="md-ellipsis">
+      13. Neurogenetics
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-evolutionary-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      14. Evolutionary Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-neuropathology" class="md-nav__link">
+    <span class="md-ellipsis">
+      15. Neuropathology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-interventional-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      16. Interventional Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-specialized-research-areas" class="md-nav__link">
+    <span class="md-ellipsis">
+      17. Specialized Research Areas
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-metadata" class="md-nav__link">
+    <span class="md-ellipsis">
+      Additional metadata
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#processed-processing-toprocess-important-short-long-casual-focus" class="md-nav__link">
+    <span class="md-ellipsis">
+      processed #processing #toprocess #important #short #long #casual #focus
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Non-equilibrium%20statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non equilibrium statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Non-equilibrium%20thermodynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non equilibrium thermodynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Notetaking%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Notetaking theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Noumenon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Noumenon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Object/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Object
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Omnidisciplinarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnidisciplinarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Omnidisciplionary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnidisciplionary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Omnimodal%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnimodal model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Online%20machine%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Online machine learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ontology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ontology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Open%20source/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open source
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Optimization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optimization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Panpsychism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Panpsychism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Phenomenology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phenomenology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Phenomenon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phenomenon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy%20of%20Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy of Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy%20of%20mathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy of mathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy%20of%20mind/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy of mind
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Physicalism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physicalism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Postmodernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Postmodernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Power%20generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Predictive%20coding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Predictive coding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Premodernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Premodernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Probability%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Probability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Process%20supervision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Process supervision
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Psychology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Psychology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Psychotechnology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Psychotechnology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Qualia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Qualia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20Darwinism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum Darwinism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20computing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum computing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20electrodynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum electrodynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20field%20statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum field statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20field%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum field theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20gravity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum gravity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20machine%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum machine learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Readteaming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Readteaming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Regularity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Regularity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Riemann%20hypothesis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Riemann hypothesis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Risks%20of%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Risks of artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Risks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Risks
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Robotics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robotics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Science%20fiction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Scientific%20method/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scientific method
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sean%20Caroll%E2%80%99s%20physics%20project/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sean Caroll’s physics project
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Self/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Self
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Semiotics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semiotics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Set%20Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Set Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Shard%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shard theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Singularity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Singularity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social system
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20systems/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social systems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sociology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sociology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Speed%20optimization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speed optimization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Spirituality/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spirituality
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Standard%20Model%20of%20Particle%20Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Standard Model of Particle Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Statistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../String%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    String theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Structure/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Subjective/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Subjective
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Surviving%20the%20end%20of%20the%20universe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Surviving the end of the universe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Symbol/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symbol
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Symbolic%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symbolic artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Symbolic%20system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symbolic system
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Systems%20Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Systems%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Systems%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Technology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Technology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theorem/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theorem
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theoretical%20linguistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theoretical linguistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20All%20of%20Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in All of Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20All%20of%20Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in All of Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Culture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Culture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Fundamental%20Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Fundamental Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Natural%20Sciences/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Natural Sciences
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Philosophy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Philosophy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20computation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of computation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20relativity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of relativity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thermodynamic%20AI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thermodynamic AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thermodynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thermodynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Totalitarianism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Totalitarianism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Transdisciplinarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transdisciplinarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Transformer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transformer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Unsorted%20to%20be%20included/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Unsorted to be included
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vision%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vision model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Wellbeing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wellbeing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Why%20is%20there%20something%20rather%20than%20nothing%3F/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Why is there something rather than nothing?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Wolfram%E2%80%99s%20Theory%20of%20Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wolfram’s Theory of Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Zettelkasten%20notetaking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zettelkasten notetaking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../decentralization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decentralization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../minimal%20state/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Minimal state
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../neurotechnology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurotechnology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Website
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Website
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Website/About%20me/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About me
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Website/Blog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Website/Exobrain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Exobrain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#tags" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tags
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#significance" class="md-nav__link">
+    <span class="md-ellipsis">
+      Significance
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intuitive-summaries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intuitive summaries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definitions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definitions
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technical-summaries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technical summaries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#main-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Main resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#landscapes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Landscapes
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#-" class="md-nav__link">
+    <span class="md-ellipsis">
+      -
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deep-dives" class="md-nav__link">
+    <span class="md-ellipsis">
+      Deep dives
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#brain-storming" class="md-nav__link">
+    <span class="md-ellipsis">
+      Brain storming
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Additional resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related" class="md-nav__link">
+    <span class="md-ellipsis">
+      Related
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      AI
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="AI">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-cellular-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Cellular Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-molecular-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Molecular Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-systems-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Systems Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-behavioral-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Behavioral Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-cognitive-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Cognitive Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-clinical-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Clinical Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-computational-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. Computational Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-neuroimaging" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. Neuroimaging
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#9-developmental-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      9. Developmental Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#10-neuropharmacology-and-neurochemistry" class="md-nav__link">
+    <span class="md-ellipsis">
+      10. Neuropharmacology and Neurochemistry
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#11-neuroanatomy" class="md-nav__link">
+    <span class="md-ellipsis">
+      11. Neuroanatomy
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-neurophysiology" class="md-nav__link">
+    <span class="md-ellipsis">
+      12. Neurophysiology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-neurogenetics" class="md-nav__link">
+    <span class="md-ellipsis">
+      13. Neurogenetics
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-evolutionary-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      14. Evolutionary Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-neuropathology" class="md-nav__link">
+    <span class="md-ellipsis">
+      15. Neuropathology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-interventional-neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      16. Interventional Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-specialized-research-areas" class="md-nav__link">
+    <span class="md-ellipsis">
+      17. Specialized Research Areas
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-metadata" class="md-nav__link">
+    <span class="md-ellipsis">
+      Additional metadata
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#processed-processing-toprocess-important-short-long-casual-focus" class="md-nav__link">
+    <span class="md-ellipsis">
+      processed #processing #toprocess #important #short #long #casual #focus
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h2 id="tags">Tags<a class="headerlink" href="#tags" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Metadata: #topic </li>
+<li>Part of: <a href="../Natural%20science/">Natural science</a> <a href="../Cognitive%20science/">Cognitive science</a></li>
+<li>Related: </li>
+<li>Includes:</li>
+<li>Additional: </li>
+</ul>
+<h2 id="significance">Significance<a class="headerlink" href="#significance" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="intuitive-summaries">Intuitive summaries<a class="headerlink" href="#intuitive-summaries" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="definitions">Definitions<a class="headerlink" href="#definitions" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../Set%20Theory/">Subset</a> of <a href="../Biology/">biology</a> studying the nervous system.</li>
+</ul>
+<h2 id="technical-summaries">Technical summaries<a class="headerlink" href="#technical-summaries" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="main-resources">Main resources<a class="headerlink" href="#main-resources" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Neuroscience">Neuroscience - Wikipedia</a><ul>
+<li><iframe src="https://en.wikipedia.org/wiki/Neuroscience" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe></li>
+</ul>
+</li>
+</ul>
+<h2 id="landscapes">Landscapes<a class="headerlink" href="#landscapes" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Outline_of_neuroscience">Outline of neuroscience - Wikipedia</a><h2 id="-">-  <iframe src="https://en.wikipedia.org/wiki/Outline_of_neuroscience" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe><a class="headerlink" href="#-" title="Permanent link">&para;</a></h2>
+<pre><code>- [[Neurophysiology]] - study of the function (as opposed to structure) of the nervous system
+- [[Neuroanatomy]] - study of the anatomy of nervous tissue and neural structures of the nervous system
+- [[Neuropharmacology]] -  study of how [[Substance|substances]] affect cellular function in the nervous system.
+    - [[Neuropsychopharmacology]] -  study of the neural mechanisms that [[Substance|substances]] act upon to influence behavior
+- [[Behavioral neuroscience]] - application of the principles of [biology](&lt;./Biology.md&gt;) to the study of [mental](&lt;./Experience.md&gt;) processes and behavior in human and non-human animals
+- [[Developmental neuroscience]] - aims to describe the cellular basis of brain development and to address the underlying mechanisms
+- [Cognitive neuroscience](&lt;./Cognitive Neuroscience.md&gt;) - study of biological substrates underlying cognition, with a focus on the neural substrates of mental processes
+- [Systems neuroscience](&lt;./Systems Neuroscience.md&gt;) - studies the function of neural circuits and [[System theory|systems]],.It is an umbrella term, encompassing a number of areas of study concerned with how nerve cells behave when connected together to form neural networks
+- [[Molecular neuroscience]] - examines the biology of the nervous system with [[molecular biology]], molecular [[genetics]], [[protein]] [chemistry](&lt;./Chemistry.md&gt;) and related methodologies
+- [Computational neuroscience](&lt;./Computational Neuroscience.md&gt;) - study of the [[Information processing theory|information processing]] functions of the nervous system, and the use of digital computers to study the nervous system instegrating [neuroscience](&lt;./Neuroscience.md&gt;), [cognitive science](&lt;./Cognitive science.md&gt;) and [psychology](&lt;./Psychology.md&gt;), [[electrical engineering]], [computer science](&lt;./Computer science.md&gt;), [physics](&lt;./Physics.md&gt;) and [mathematics](&lt;./Mathematics.md&gt;).
+- [[Philosophy of neuroscience]] - [interdisciplionary](&lt;./Transdisciplinarity.md&gt;) study of [neuroscience](&lt;./Neuroscience.md&gt;) and [philosophy](&lt;./Philosophy.md&gt;)
+- [[Neurology]] - medical specialty dealing with disorders of the nervous system
+- [[Neuropsychology]] - studies the [structure](&lt;./Structure.md&gt;) and [[function]] of the brain related to [psychological](&lt;./Psychology.md&gt;) [[process|processes]] and behaviors
+- [[Neuroevolution]] - dates back to the first development of nervous systems in animals
+</code></pre>
+</li>
+<li><a href="../Neurophysics/">Neurophysics</a></li>
+<li><a href="../Wellbeing/">Wellbeing</a></li>
+<li><a href="../Philosophy%20of%20mind/">Philosophy of mind</a></li>
+<li><a href="../Longevity/">Longevity</a>, <a href="../Immortality/">Immortality</a></li>
+<li><a href="../Neuromodulation/">Neuromodulation</a></li>
+</ul>
+<h2 id="contents">Contents<a class="headerlink" href="#contents" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="deep-dives">Deep dives<a class="headerlink" href="#deep-dives" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience">List of unsolved problems in neuroscience - Wikipedia</a><ul>
+<li><iframe src="https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 5; "></iframe></li>
+</ul>
+</li>
+</ul>
+<h2 id="brain-storming">Brain storming<a class="headerlink" href="#brain-storming" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="additional-resources">Additional resources<a class="headerlink" href="#additional-resources" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="related">Related<a class="headerlink" href="#related" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="ai">AI<a class="headerlink" href="#ai" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Neuroscience is an interdisciplinary field that studies the nervous system and its impact on behavior and cognitive functions. It encompasses a wide range of sub-disciplines and specializations. Here's a comprehensive list:</li>
+</ul>
+<h3 id="1-cellular-neuroscience">1. Cellular Neuroscience<a class="headerlink" href="#1-cellular-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neuron Anatomy</li>
+<li>Synaptic Transmission</li>
+<li>Neurogenesis</li>
+<li>Glial Cell Function</li>
+<li>Cellular Neurophysiology</li>
+<li>Molecular Neurobiology</li>
+<li>Signal Transduction</li>
+</ul>
+<h3 id="2-molecular-neuroscience">2. Molecular Neuroscience<a class="headerlink" href="#2-molecular-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neurochemistry</li>
+<li>Neuropharmacology</li>
+<li>Neurogenetics</li>
+<li>Molecular Neuroanatomy</li>
+<li>Neurotransmitters and Receptors</li>
+<li>Molecular Basis of Neurological Disorders</li>
+<li>Genetic Engineering in Neuroscience</li>
+</ul>
+<h3 id="3-systems-neuroscience">3. <a href="../Systems%20Neuroscience/">Systems Neuroscience</a><a class="headerlink" href="#3-systems-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Sensory Systems</li>
+<li>Motor Systems</li>
+<li>Neural Circuits</li>
+<li>Neurophysiology</li>
+<li>Comparative Neuroscience</li>
+<li>Brain Mapping and Imaging</li>
+<li>Neural Networks</li>
+</ul>
+<h3 id="4-behavioral-neuroscience">4. Behavioral Neuroscience<a class="headerlink" href="#4-behavioral-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neuropsychology</li>
+<li>Cognitive Neuroscience</li>
+<li>Emotion and Affective Neuroscience</li>
+<li>Social Neuroscience</li>
+<li>Neuroethology (Animal Behavior)</li>
+<li>Psychophysics</li>
+<li>Learning and Memory</li>
+</ul>
+<h3 id="5-cognitive-neuroscience">5. <a href="../Cognitive%20Neuroscience/">Cognitive Neuroscience</a><a class="headerlink" href="#5-cognitive-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Memory and Learning</li>
+<li>Attention and Decision-Making</li>
+<li>Language Processing</li>
+<li>Perception</li>
+<li>Consciousness Studies</li>
+<li>Executive Functions</li>
+<li>Neuroimaging</li>
+</ul>
+<h3 id="6-clinical-neuroscience">6. Clinical Neuroscience<a class="headerlink" href="#6-clinical-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neurology</li>
+<li>Psychiatry</li>
+<li>Neurosurgery</li>
+<li>Pediatric Neuroscience</li>
+<li>Neuropsychiatry</li>
+<li>Neurorehabilitation</li>
+<li>Brain Injury Medicine</li>
+</ul>
+<h3 id="7-computational-neuroscience">7. <a href="../Computational%20Neuroscience/">Computational Neuroscience</a><a class="headerlink" href="#7-computational-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neural Modeling</li>
+<li>Computational Neuroanatomy</li>
+<li>Neuroinformatics</li>
+<li>Theoretical Neuroscience</li>
+<li>Brain-Computer Interfaces</li>
+<li>Machine Learning in Neuroscience</li>
+<li>Network Neuroscience</li>
+</ul>
+<h3 id="8-neuroimaging">8. Neuroimaging<a class="headerlink" href="#8-neuroimaging" title="Permanent link">&para;</a></h3>
+<ul>
+<li>MRI and fMRI</li>
+<li>PET and SPECT</li>
+<li>EEG and MEG</li>
+<li>DTI and QBI</li>
+<li>Optical Imaging</li>
+<li>Single-Photon Emission Computed Tomography</li>
+<li>Near-Infrared Spectroscopy</li>
+</ul>
+<h3 id="9-developmental-neuroscience">9. Developmental Neuroscience<a class="headerlink" href="#9-developmental-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neuroembryology</li>
+<li>Neural Development</li>
+<li>Synaptic Plasticity</li>
+<li>Neurotrophic Factors</li>
+<li>Developmental Neurobiology</li>
+<li>Pediatric Neurology</li>
+<li>Neurodevelopmental Disorders</li>
+</ul>
+<h3 id="10-neuropharmacology-and-neurochemistry">10. Neuropharmacology and Neurochemistry<a class="headerlink" href="#10-neuropharmacology-and-neurochemistry" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Psychopharmacology</li>
+<li>Neurotoxicology</li>
+<li>Drug Development and Testing</li>
+<li>Neurotransmitter Systems</li>
+<li>Chemical Neuroanatomy</li>
+<li>Neuromodulators and Neurohormones</li>
+</ul>
+<h3 id="11-neuroanatomy">11. Neuroanatomy<a class="headerlink" href="#11-neuroanatomy" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Gross Anatomy of the Brain</li>
+<li>Comparative Neuroanatomy</li>
+<li>Histology of Nervous Tissue</li>
+<li>Tractography</li>
+<li>Functional Neuroanatomy</li>
+<li>Cytoarchitecture</li>
+</ul>
+<h3 id="12-neurophysiology">12. Neurophysiology<a class="headerlink" href="#12-neurophysiology" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Electrophysiology</li>
+<li>Neuroendocrinology</li>
+<li>Sensory Physiology</li>
+<li>Motor Physiology</li>
+<li>Autonomic Nervous System</li>
+<li>Neurovascular Physiology</li>
+</ul>
+<h3 id="13-neurogenetics">13. Neurogenetics<a class="headerlink" href="#13-neurogenetics" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Genetic Disorders of the Nervous System</li>
+<li>Epigenetics in Neuroscience</li>
+<li>Neurogenomic Studies</li>
+<li>Gene Therapy in Neurological Diseases</li>
+<li>Molecular Genetics of Neural Development</li>
+</ul>
+<h3 id="14-evolutionary-neuroscience">14. Evolutionary Neuroscience<a class="headerlink" href="#14-evolutionary-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Evolution of the Nervous System</li>
+<li>Comparative Neurology</li>
+<li>Paleo-Neurobiology</li>
+<li>Animal Models in Neuroscience</li>
+</ul>
+<h3 id="15-neuropathology">15. Neuropathology<a class="headerlink" href="#15-neuropathology" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Neurodegenerative Diseases</li>
+<li>Stroke and Cerebrovascular Diseases</li>
+<li>Brain Tumors</li>
+<li>Infectious Diseases of the Nervous System</li>
+<li>Traumatic Brain Injury</li>
+<li>Neuroimmunology</li>
+</ul>
+<h3 id="16-interventional-neuroscience">16. Interventional Neuroscience<a class="headerlink" href="#16-interventional-neuroscience" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Deep Brain Stimulation</li>
+<li>Neural Prosthetics</li>
+<li>Neuromodulation Therapies</li>
+<li>Neurosurgical Techniques</li>
+<li>Transcranial Magnetic Stimulation</li>
+</ul>
+<h3 id="17-specialized-research-areas">17. Specialized Research Areas<a class="headerlink" href="#17-specialized-research-areas" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Nutritional Neuroscience</li>
+<li>Music Neuroscience</li>
+<li>Sports Neuroscience</li>
+<li>Geriatric Neuroscience</li>
+<li>Environmental Neuroscience</li>
+<li>Neuroaesthetics</li>
+</ul>
+<p>Each of these branches focuses on different aspects of the nervous system, from molecular and cellular processes to complex behaviors and cognitive functions. Neuroscience is a dynamic and expanding field, continuously evolving with new discoveries and technologies.</p>
+<h2 id="additional-metadata">Additional metadata<a class="headerlink" href="#additional-metadata" title="Permanent link">&para;</a></h2>
+<ul>
+<li>
+<h1 id="processed-processing-toprocess-important-short-long-casual-focus">processed #processing #toprocess #important #short #long #casual #focus<a class="headerlink" href="#processed-processing-toprocess-important-short-long-casual-focus" title="Permanent link">&para;</a></h1>
+</li>
+<li>Unfinished: #metadata #tags</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../..", "features": [], "search": "../../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.081f42fc.min.js"></script>
+      
+        <script src="../../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>

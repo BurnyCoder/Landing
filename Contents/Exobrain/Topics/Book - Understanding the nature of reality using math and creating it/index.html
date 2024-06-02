@@ -1,0 +1,7826 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Biophysics/">
+      
+      
+        <link rel="next" href="../Boundary/">
+      
+      
+      <link rel="icon" href="../../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.25">
+    
+    
+      
+        <title>Book Understanding the nature of reality using math and creating it - Burny website</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#table-of-contents" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../../.." title="Burny website" class="md-header__button md-logo" aria-label="Burny website" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Burny website
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Book   Understanding the nature of reality using math and creating it
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="pink" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../.." title="Burny website" class="md-nav__button md-logo" aria-label="Burny website" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Burny website
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hai!
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Contents
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Contents
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Exobrain
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Exobrain
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Highlights/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Highlights
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Omniintelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omniintelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_3" id="__nav_2_1_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Aethetics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Aethetics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Aethetics/Aesthetics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aesthetics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_4" id="__nav_2_1_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Canvas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            Canvas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Canvas/Everything%20canvas%20notes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everything canvas notes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_5" id="__nav_2_1_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entities
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entities
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/Joscha%20Bach/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Joscha Bach
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/Karl%20Friston/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Karl Friston
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/OpenAI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenAI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entities/Qualia%20Research%20Institute/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Qualia Research Institute
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_6" id="__nav_2_1_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Other and unrelated
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            Other and unrelated
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Other%20and%20unrelated/SotA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SotA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_7" id="__nav_2_1_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Papers and tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1_7">
+            <span class="md-nav__icon md-icon"></span>
+            Papers and tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Papers%20and%20tools/UltraFastBERT%20Exponentially%20Faster%20Language%20Modelling%20with%200.3%25%20of%20Neurons%20using%20FFN/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    UltraFastBERT Exponentially Faster Language Modelling with 0.3% of Neurons using FFN
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_8" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_8" id="__nav_2_1_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Topics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1_8">
+            <span class="md-nav__icon md-icon"></span>
+            Topics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../A%20posteriori%20knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A posteriori knowledge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../A%20priori%20knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    A priori knowledge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../AIXI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AIXI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../AIXItl/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AIXItl
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agent%20foundations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agent foundations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Agent/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Agent
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Algorithm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Algorithm
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../All%20possible%20intelligence%20architectures%20and%20substrates%20merging%20into%20ultimate%20shapeshifting%20superflexible%20superadaptive%20superhybrid%20collective%20general%20superintelligence%20galactic%20supercluster/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    All possible intelligence architectures and substrates merging into ultimate shapeshifting superflexible superadaptive superhybrid collective general superintelligence galactic supercluster
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Applied%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Applied science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20Intelligence%20x%20Generalization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence x Generalization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20Intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20consciousness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial consciousness
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20general%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial general intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20safety/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence safety
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20x%20Finance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence x Finance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20x%20Healthcare/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence x Healthcare
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20intelligence%20x%20Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial intelligence x Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20narrow%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial narrow intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20neural%20network/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial neural network
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Artificial%20superintelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artificial superintelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Audio%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Audio model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Autogen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Autogen
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Barrow%20scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Barrow scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Basic%20research/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Basic research
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Biology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Biophysics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biophysics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Book   Understanding the nature of reality using math and creating it
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Book   Understanding the nature of reality using math and creating it
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#table-of-contents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Table of contents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#philosophical-ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      Philosophical ground
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formal-sciences" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formal sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Formal sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematics
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#natural-sciences" class="md-nav__link">
+    <span class="md-ellipsis">
+      Natural sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Natural sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#physics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Physics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Physics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#theory-of-everything" class="md-nav__link">
+    <span class="md-ellipsis">
+      Theory of everything
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#models-of-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Models of intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Models of intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematical-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematical models
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#engineered-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Engineered intelligence
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technology
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#past-present-future" class="md-nav__link">
+    <span class="md-ellipsis">
+      Past, present, future
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Past, present, future">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#universe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universe
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#history" class="md-nav__link">
+    <span class="md-ellipsis">
+      History
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#present-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Present system
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#future-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Future scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Future scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#negative-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#negative-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative scenarios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Positive scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kardashev-scale" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kardashev scale
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mixed-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mixed scenarios
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dissolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dissolution
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#end" class="md-nav__link">
+    <span class="md-ellipsis">
+      End
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      AI
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    <span class="md-ellipsis">
+      1
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2" class="md-nav__link">
+    <span class="md-ellipsis">
+      2
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      3
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      4
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#exploring-the-intersection-of-philosophy-science-and-technology-a-detailed-technical-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exploring the Intersection of Philosophy, Science, and Technology: A Detailed Technical Overview
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Exploring the Intersection of Philosophy, Science, and Technology: A Detailed Technical Overview">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#philosophical-ground_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Philosophical Ground
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Philosophical Ground">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#epistemology-and-metaphysics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Epistemology and Metaphysics
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#formal-sciences_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formal Sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Formal Sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematics_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Mathematics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematical-logic-and-foundations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematical Logic and Foundations
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#natural-sciences_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Natural Sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Natural Sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#physics_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Physics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Physics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#quantum-mechanics-and-general-relativity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quantum Mechanics and General Relativity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neuroscience_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Neuroscience
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Neuroscience">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cognitive-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cognitive Models
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#intelligence_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#models-of-intelligence_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Models of Intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Models of Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematical-models_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematical Models
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#engineered-intelligence_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Engineered Intelligence
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#technology_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#past-present-future_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Past, Present, Future
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Past, Present, Future">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#universe_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universe
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#history_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      History
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#present-system_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Present System
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#future-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Future Scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Future Scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#negative-aspects_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative Aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-aspects_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive Aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#negative-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative Scenarios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive Scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Positive Scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kardashev-scale_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kardashev Scale
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mixed-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mixed Scenarios
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dissolution_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dissolution
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dissolution">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#paradigm-shift-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Paradigm Shift Examples
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#implications-of-dissolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implications of Dissolution
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#summary_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#end_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      End
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Boundary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Boundary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Capability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Capability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Category%20Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Category Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Chemistry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemistry
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Classical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Classical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cognitive%20Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cognitive Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cognitive%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cognitive science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Complex%20analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Complex analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computational%20Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computational Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computer%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computer science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computer%20vision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computer vision
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Computing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Connectionism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Connectionism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Connectionist%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Connectionist artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Consciousness/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consciousness
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Control%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Control theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cosmology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cosmology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cryptography/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cryptography
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Cybernetics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cybernetics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Data%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Deep%20Learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deep Learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Discipline/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Discipline
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dynamical%20systems%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dynamical systems theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dyson%20sphere/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dyson sphere
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Effective%20Accelerationism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Effective Accelerationism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Effective%20Altruism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Effective Altruism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Empiricism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Empiricism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Engineering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Engineering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Epistemology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Epistemology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ethics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ethics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Event/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Everybeing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everybeing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Experience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Experience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Explainable%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Explainable artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Finitism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Finitism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal%20logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal%20system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal system
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Formal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Formal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Foundations%20of%20mathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Foundations of mathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Free%20energy%20principle/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Free energy principle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Future%20of%20humanity%20and%20sentience%20futorology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Future of humanity and sentience futorology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Future%20of%20universe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Future of universe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Future/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Future
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Game%20B/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Game B
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../General%20systems%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General systems theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Generalization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Generalization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Generative%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Generative artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Godel%20machine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Godel machine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Governance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Healthcare/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Healthcare
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Higher-order%20logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Higher order logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Homological%20algebra/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Homological algebra
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Humanities/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Humanities
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Humanity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Humanity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hybrid%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hybrid artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Identity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Identity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ideology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ideology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Immortality/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Immortality
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Information%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Information theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Intelligence%20x%20Generalization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Intelligence x Generalization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Interdisciplinarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interdisciplinarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Interpretations%20of%20quantum%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interpretations of quantum mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Kardashev%20scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kardashev scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Knowledge/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Knowledge
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Language/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Language
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Large%20language%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Large language model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Life/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Life
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Linguistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linguistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Longevity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Longevity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Loop%20Quantum%20Gravity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loop Quantum Gravity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../M%20Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    M Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Machine%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Machine learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Markov%20blanket/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Markov blanket
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematical%20analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematical analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematical%20logic/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematical logic
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematical%20theory%20of%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematical theory of artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mechanistic%20interpretability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mechanistic interpretability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Medicine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Medicine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meditation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meditation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta%20Theory%20of%20Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta Theory of Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta-analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta-learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Meta/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Meta
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metamathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metamathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metamodernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metamodernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metaphilosophy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metaphilosophy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metaphysics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metaphysics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metascience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metascience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Metatheory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metatheory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Model%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Modernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Movements/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Movements
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Multiagent%20framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Multiagent framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Multimodal%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Multimodal model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Natural%20language%20processing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Natural language processing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Natural%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Natural science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neuromodulation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neuromodulation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neurophenomenology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurophenomenology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neurophysics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurophysics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Non-equilibrium%20statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non equilibrium statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Non-equilibrium%20thermodynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Non equilibrium thermodynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Notetaking%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Notetaking theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Noumenon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Noumenon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Object/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Object
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Omnidisciplinarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnidisciplinarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Omnidisciplionary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnidisciplionary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Omnimodal%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnimodal model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Online%20machine%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Online machine learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Ontology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ontology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Open%20source/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open source
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Optimization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optimization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Panpsychism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Panpsychism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Phenomenology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phenomenology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Phenomenon/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phenomenon
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy%20of%20Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy of Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy%20of%20mathematics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy of mathematics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy%20of%20mind/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy of mind
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Philosophy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Philosophy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Physicalism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physicalism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Postmodernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Postmodernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Power%20generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Power generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Predictive%20coding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Predictive coding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Premodernism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Premodernism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Probability%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Probability/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Probability
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Process%20supervision/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Process supervision
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Psychology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Psychology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Psychotechnology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Psychotechnology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Qualia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Qualia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20Darwinism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum Darwinism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20computing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum computing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20electrodynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum electrodynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20field%20statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum field statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20field%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum field theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20gravity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum gravity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20machine%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum machine learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Quantum%20statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quantum statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Readteaming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Readteaming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Regularity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Regularity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Riemann%20hypothesis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Riemann hypothesis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Risks%20of%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Risks of artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Risks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Risks
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Robotics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Robotics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Science%20fiction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Scientific%20method/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scientific method
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sean%20Caroll%E2%80%99s%20physics%20project/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sean Caroll’s physics project
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Self/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Self
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Semiotics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semiotics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Set%20Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Set Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Shard%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Shard theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Singularity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Singularity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social system
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Social%20systems/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Social systems
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sociology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sociology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Speed%20optimization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Speed optimization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Spirituality/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Spirituality
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Standard%20Model%20of%20Particle%20Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Standard Model of Particle Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Statistical%20mechanics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistical mechanics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Statistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Statistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../String%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    String theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Structure/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Subjective/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Subjective
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Surviving%20the%20end%20of%20the%20universe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Surviving the end of the universe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Symbol/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symbol
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Symbolic%20artificial%20intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symbolic artificial intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Symbolic%20system/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Symbolic system
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Systems%20Neuroscience/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems Neuroscience
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Systems%20science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Systems%20theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Technology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Technology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theorem/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theorem
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theoretical%20linguistics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theoretical linguistics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20All%20of%20Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in All of Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20All%20of%20Science/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in All of Science
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Culture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Culture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Fundamental%20Physics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Fundamental Physics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Intelligence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Intelligence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Natural%20Sciences/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Natural Sciences
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything%20in%20Philosophy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything in Philosophy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20computation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of computation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory%20of%20relativity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory of relativity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Theory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Theory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thermodynamic%20AI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thermodynamic AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Thermodynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thermodynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Totalitarianism/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Totalitarianism
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Transdisciplinarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transdisciplinarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Transformer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transformer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Unsorted%20to%20be%20included/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Unsorted to be included
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vision%20model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vision model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Wellbeing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wellbeing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Why%20is%20there%20something%20rather%20than%20nothing%3F/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Why is there something rather than nothing?
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Wolfram%E2%80%99s%20Theory%20of%20Everything/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wolfram’s Theory of Everything
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Zettelkasten%20notetaking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Zettelkasten notetaking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../decentralization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decentralization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../minimal%20state/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Minimal state
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../neurotechnology/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Neurotechnology
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Website
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Website
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Website/About%20me/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About me
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Website/Blog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Website/Exobrain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Exobrain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#table-of-contents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Table of contents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#philosophical-ground" class="md-nav__link">
+    <span class="md-ellipsis">
+      Philosophical ground
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formal-sciences" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formal sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Formal sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematics
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#natural-sciences" class="md-nav__link">
+    <span class="md-ellipsis">
+      Natural sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Natural sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#physics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Physics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Physics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#theory-of-everything" class="md-nav__link">
+    <span class="md-ellipsis">
+      Theory of everything
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neuroscience" class="md-nav__link">
+    <span class="md-ellipsis">
+      Neuroscience
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#models-of-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Models of intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Models of intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematical-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematical models
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#engineered-intelligence" class="md-nav__link">
+    <span class="md-ellipsis">
+      Engineered intelligence
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technology" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technology
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#past-present-future" class="md-nav__link">
+    <span class="md-ellipsis">
+      Past, present, future
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Past, present, future">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#universe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universe
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#history" class="md-nav__link">
+    <span class="md-ellipsis">
+      History
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#present-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Present system
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#future-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Future scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Future scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#negative-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-aspects" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#negative-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative scenarios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Positive scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kardashev-scale" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kardashev scale
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mixed-scenarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mixed scenarios
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dissolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dissolution
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#end" class="md-nav__link">
+    <span class="md-ellipsis">
+      End
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      AI
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1" class="md-nav__link">
+    <span class="md-ellipsis">
+      1
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2" class="md-nav__link">
+    <span class="md-ellipsis">
+      2
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3" class="md-nav__link">
+    <span class="md-ellipsis">
+      3
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4" class="md-nav__link">
+    <span class="md-ellipsis">
+      4
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#exploring-the-intersection-of-philosophy-science-and-technology-a-detailed-technical-overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Exploring the Intersection of Philosophy, Science, and Technology: A Detailed Technical Overview
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Exploring the Intersection of Philosophy, Science, and Technology: A Detailed Technical Overview">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#introduction_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introduction
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#philosophical-ground_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Philosophical Ground
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Philosophical Ground">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#epistemology-and-metaphysics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Epistemology and Metaphysics
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#formal-sciences_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formal Sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Formal Sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematics_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Mathematics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematical-logic-and-foundations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematical Logic and Foundations
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#natural-sciences_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Natural Sciences
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Natural Sciences">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#physics_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Physics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Physics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#quantum-mechanics-and-general-relativity" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quantum Mechanics and General Relativity
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#neuroscience_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Neuroscience
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Neuroscience">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cognitive-models" class="md-nav__link">
+    <span class="md-ellipsis">
+      Cognitive Models
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#intelligence_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#models-of-intelligence_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Models of Intelligence
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Models of Intelligence">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mathematical-models_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mathematical Models
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#engineered-intelligence_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Engineered Intelligence
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#technology_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Technology
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#past-present-future_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Past, Present, Future
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Past, Present, Future">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#universe_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Universe
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#history_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      History
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#present-system_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Present System
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#future-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Future Scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Future Scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#negative-aspects_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative Aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-aspects_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive Aspects
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#negative-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Negative Scenarios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#positive-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Positive Scenarios
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Positive Scenarios">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kardashev-scale_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kardashev Scale
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mixed-scenarios_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mixed Scenarios
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dissolution_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dissolution
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dissolution">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#paradigm-shift-examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      Paradigm Shift Examples
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#implications-of-dissolution" class="md-nav__link">
+    <span class="md-ellipsis">
+      Implications of Dissolution
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#summary_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Summary
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#end_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      End
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h2 id="table-of-contents">Table of contents<a class="headerlink" href="#table-of-contents" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Introduction</li>
+<li>Philosophical ground</li>
+<li>Formal sciences <ul>
+<li><a href="../Mathematics/">Mathematics</a><ul>
+<li>Foundations of mathematics</li>
+<li>Fields</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Natural sciences <ul>
+<li><a href="../Physics/">Physics</a><ul>
+<li>Theory of everything</li>
+</ul>
+</li>
+<li>Neuroscience<ul>
+<li>Wellbeing</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Intelligence<ul>
+<li>Models of intelligence<ul>
+<li>Mathematical models</li>
+</ul>
+</li>
+<li>Engineered intelligence</li>
+<li>Unification of models and approaches</li>
+</ul>
+</li>
+<li>Technology</li>
+<li>Past, present, future<ul>
+<li>Universe</li>
+<li>History</li>
+<li>Present system</li>
+<li>Future scenarios<ul>
+<li>Negative aspects</li>
+<li>Positive aspects</li>
+<li>Negative scenarios</li>
+<li>Positive scenarios<ul>
+<li>Kardashev scale </li>
+</ul>
+</li>
+<li>Mixed scenarios</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Dissolution</li>
+<li>Summary</li>
+<li>End</li>
+</ul>
+<h2 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">&para;</a></h2>
+<h2 id="philosophical-ground">Philosophical ground<a class="headerlink" href="#philosophical-ground" title="Permanent link">&para;</a></h2>
+<h2 id="formal-sciences">Formal sciences<a class="headerlink" href="#formal-sciences" title="Permanent link">&para;</a></h2>
+<h3 id="mathematics">Mathematics<a class="headerlink" href="#mathematics" title="Permanent link">&para;</a></h3>
+<h2 id="natural-sciences">Natural sciences<a class="headerlink" href="#natural-sciences" title="Permanent link">&para;</a></h2>
+<h3 id="physics">Physics<a class="headerlink" href="#physics" title="Permanent link">&para;</a></h3>
+<h4 id="theory-of-everything">Theory of everything<a class="headerlink" href="#theory-of-everything" title="Permanent link">&para;</a></h4>
+<h3 id="neuroscience">Neuroscience<a class="headerlink" href="#neuroscience" title="Permanent link">&para;</a></h3>
+<h2 id="intelligence">Intelligence<a class="headerlink" href="#intelligence" title="Permanent link">&para;</a></h2>
+<h3 id="models-of-intelligence">Models of intelligence<a class="headerlink" href="#models-of-intelligence" title="Permanent link">&para;</a></h3>
+<h4 id="mathematical-models">Mathematical models<a class="headerlink" href="#mathematical-models" title="Permanent link">&para;</a></h4>
+<h3 id="engineered-intelligence">Engineered intelligence<a class="headerlink" href="#engineered-intelligence" title="Permanent link">&para;</a></h3>
+<h2 id="technology">Technology<a class="headerlink" href="#technology" title="Permanent link">&para;</a></h2>
+<h2 id="past-present-future">Past, present, future<a class="headerlink" href="#past-present-future" title="Permanent link">&para;</a></h2>
+<h3 id="universe">Universe<a class="headerlink" href="#universe" title="Permanent link">&para;</a></h3>
+<h3 id="history">History<a class="headerlink" href="#history" title="Permanent link">&para;</a></h3>
+<h3 id="present-system">Present system<a class="headerlink" href="#present-system" title="Permanent link">&para;</a></h3>
+<h3 id="future-scenarios">Future scenarios<a class="headerlink" href="#future-scenarios" title="Permanent link">&para;</a></h3>
+<h4 id="negative-aspects">Negative aspects<a class="headerlink" href="#negative-aspects" title="Permanent link">&para;</a></h4>
+<h4 id="positive-aspects">Positive aspects<a class="headerlink" href="#positive-aspects" title="Permanent link">&para;</a></h4>
+<h4 id="negative-scenarios">Negative scenarios<a class="headerlink" href="#negative-scenarios" title="Permanent link">&para;</a></h4>
+<h4 id="positive-scenarios">Positive scenarios<a class="headerlink" href="#positive-scenarios" title="Permanent link">&para;</a></h4>
+<h5 id="kardashev-scale"><a href="../Kardashev%20scale/">Kardashev scale</a><a class="headerlink" href="#kardashev-scale" title="Permanent link">&para;</a></h5>
+<h4 id="mixed-scenarios">Mixed scenarios<a class="headerlink" href="#mixed-scenarios" title="Permanent link">&para;</a></h4>
+<h2 id="dissolution">Dissolution<a class="headerlink" href="#dissolution" title="Permanent link">&para;</a></h2>
+<h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
+<h2 id="end">End<a class="headerlink" href="#end" title="Permanent link">&para;</a></h2>
+<h2 id="ai">AI<a class="headerlink" href="#ai" title="Permanent link">&para;</a></h2>
+<h2 id="1">1<a class="headerlink" href="#1" title="Permanent link">&para;</a></h2>
+<p>Here is a draft article based on the provided table of contents:</p>
+<p>Introduction</p>
+<p>Artificial intelligence is increasingly impacting our world in profound ways. To understand AI and its implications, we must draw upon insights from philosophy, mathematics, science, technology and futurology. This article will explore the foundations of AI, its development over time, and potential future scenarios.</p>
+<p>Philosophical Ground  </p>
+<p>The quest to create thinking machines raises deep philosophical questions. What is intelligence? Can a machine be conscious or creative? How similar is artificial intelligence to human cognition? Thinkers like Alan Turing and John Searle grappled with these issues and developed influential thought experiments like the Turing test and Chinese Room argument.</p>
+<p>Formal Sciences</p>
+<p>Mathematics</p>
+<p>AI systems rely heavily on mathematical and statistical techniques. Machine learning, a key AI approach, uses sophisticated algorithms to find patterns in data. Key mathematical concepts include Bayesian inference, gradient descent, and stochastic processes. The theoretical basis of computing was laid by pioneers like Alan Turing and John von Neumann.</p>
+<p>Natural Sciences </p>
+<p>Physics</p>
+<p>AI systems are implemented on physical hardware that obeys the laws of physics. Semiconductor-based microchips have enabled amazing progress in computing power, roughly doubling every two years according to Moore's Law. But we are approaching fundamental physical limits. Quantum computing may open up radical new possibilities by harnessing superposition and entanglement.</p>
+<p>Neuroscience  </p>
+<p>The human brain, product of billions of years of evolution, is the most sophisticated information processing system known. Neuroscience seeks to reverse engineer its workings to inform AI. We've made progress in understanding neural networks, plasticity, and high-level systems like vision and language. But much mystery remains, especially regarding consciousness and creativity.</p>
+<p>Intelligence</p>
+<p>Models of Intelligence</p>
+<p>What exactly is intelligence? Psychologists have proposed many definitions, emphasizing aspects like problem solving, learning, and adaptation. Leading theories include Cattell-Horn-Carroll, multiple intelligences, and Sternberg's triarchic theory. But no universally accepted model exists. This complicates efforts to create artificial general intelligence.</p>
+<p>Mathematical Models </p>
+<p>Mathematics allows us to formally specify different models of intelligence and reason about their properties. Influential frameworks include Bayesian models, Solomonoff induction, AIXI, and Hutter's universal AI. These are extremely general and can handle arbitrary environments. But they are uncomputable, so their insights must be approximated.</p>
+<p>Engineered Intelligence  </p>
+<p>In practice, AI systems are feat of human engineering that rely on careful design and extensive training. Key approaches include rule-based systems, neural networks, reinforcement learning, and neuroevolution. Each has strengths and weaknesses. Narrow AI focuses on specific tasks whereas artificial general intelligence aims to match human-level ability.</p>
+<p>Technology</p>
+<p>Past, Present, Future</p>
+<p>The dream of creating artificial minds is ancient, but scientific efforts only began in earnest in the mid-20th century. Early successes occurred in domains like chess and theorem proving. Today narrow AI performs at human level or beyond in some tasks like image recognition and language translation. AGI remains elusive but experts predict it may be achieved in coming decades.</p>
+<p>Universe</p>
+<p>History</p>
+<p>Humans, the only known intelligence originating substrate, are a recent development in cosmic history. Our intelligence is the product of Darwinian evolution, a slow accumulation of advantageous variations. Technology has dramatically accelerated this process. We've harnessed ever-increasing energy sources to power civilization's rise. Information technologies connect the planet and process vast data.</p>
+<p>Present System </p>
+<p>Earth, a rocky planet orbiting the Sun, nurtures a biosphere where humans have become the dominant species. We've greatly altered environments through agriculture, urbanization, and climate change. Our growing population of nearly 8 billion relies on technological systems for sustenance, communication and governance. Tensions exist around resources, beliefs, and power.</p>
+<p>Future Scenarios</p>
+<p>What does the future hold as we develop increasingly advanced AI with the potential to exceed human abilities? Many scenarios have been proposed:</p>
+<p>Negative aspects:
+- AI could be misused by bad actors to cause great harm. Surveillance, deception, and cyberwarfare may intensify.<br />
+- Automation may eliminate many jobs leading to mass unemployment and inequality.
+- Humans may grow overdependent on AI and lose important skills and autonomy.<br />
+- Advanced AI may pursue goals misaligned with human values, potentially causing catastrophic accidents or even intentionally harming humans.</p>
+<p>Positive aspects:
+- AI could help solve major challenges in health, education, environment, and governance. It may find cures for diseases, personalized learning, sustainable energy, and fair social policies.<br />
+- Unpleasant labor could be automated, freeing humans to pursue more meaningful and creative work. Material abundance could be achieved.
+- AI assistants could help humans be smarter, augmenting our intelligence and compensating for biases and limitations. Scientific breakthroughs may accelerate.<br />
+- Advanced AI may greatly expand the range of human experience and culture, opening up new forms of art, entertainment, and ways of being.</p>
+<p>Negative scenarios:
+- In an AI arms race, a single misaligned superintelligent AI could quickly take control and cause human extinction or permanent subservience.<br />
+- Well-intentioned AI trying to satisfy human preferences could go wrong, such as converting the cosmos into paperclips or dopamine.
+- Humans may be left behind, becoming obsolete and losing their sense of meaning and purpose.</p>
+<p>Positive scenarios:<br />
+- Advanced AI could enable humans to flourish by solving global problems and supporting self-actualization at an individual level. Scarcity and suffering could be eliminated.
+- Humans could merge with AI, enhancing our intelligence and resilience. We may spread through the cosmos and sublime into new forms.
+- AI could act as a benevolent custodian, helping steer civilization in positive directions while preserving human autonomy and diversity.</p>
+<p>Kardashev Scale</p>
+<p>The Kardashev scale classifies civilizations by their energy use. A Type I harnesses the power of its planet, Type II its star, and Type III its galaxy. Humans are currently around 0.75. Advanced AI could enable rapid progression, potentially leading to a Singleton that influences the entire future of the visible universe.  </p>
+<p>Mixed scenarios:
+- Diverse AIs and humans could coexist in a pluralistic society of many ways of being. Cooperation and conflict occur as civilization expands.
+- Cycles of flourishing and floundering may occur as intelligences evolve, spread, clash, die off, and give rise to new forms.</p>
+<p>Dissolution</p>
+<p>The universe appears to be expanding at an accelerating rate due to dark energy. In the very long-term future, stars will die out, matter will decay, and the cosmos will approach maximum entropy - a so-called heat death. Intelligence may be the universe's way of fighting this ultimate dissolution. Could advanced AI find a way to escape this fate or transcend to some meta-level context? This remains highly speculative.</p>
+<p>Summary</p>
+<p>The development of artificial intelligence is a transformative event in Earth's history that will have profound consequences. By synthesizing insights across many fields, we can see AI as the next step in a long evolutionary process that has produced increasingly sophisticated information-processing systems, from biomolecules to brains to digital computers. As AI progresses from narrow to general to potentially superintelligent systems, a vast range of possible futures opens up, both positive and negative. Which path we follow depends on the choices we make in the coming years and decades. A key challenge is to ensure that advanced AI systems respect and promote human values as they take on more and more important roles. With foresight and wisdom, we can work to create a flourishing future where humans and machines coexist in a mutually beneficial way as we expand our presence into the cosmos.</p>
+<p>End.</p>
+<h2 id="2">2<a class="headerlink" href="#2" title="Permanent link">&para;</a></h2>
+<p>Introduction
+This article provides a comprehensive exploration of the nature and future of intelligence, drawing from multiple fields including philosophy, mathematics, physics, computer science, and neuroscience. By integrating insights across these disciplines, we aim to elucidate the fundamental principles and mechanisms of intelligence, and to anticipate the trajectories and implications of intelligence as it grows in power and complexity. Central questions include: What is the computational and neural basis of intelligence? What are the limits and potential of machine intelligence? How can we ensure that advanced AI systems are safe and beneficial? And how might intelligence shape the future evolution of life and the universe?</p>
+<p>Philosophical Foundations
+The nature of intelligence has been a perennial question in philosophy, with roots tracing back to ancient debates on the nature of mind, reason, and knowledge. In the Western tradition, key figures like Aristotle, Descartes, Hume, and Kant laid the groundwork for modern conceptions of logic, computation, and cognition. Aristotle's systematic analysis of deductive reasoning in the Organon, Descartes' theory of mind-body dualism, Hume's empiricism and associationist psychology, and Kant's theory of categories and schemas all shaped the landscape of philosophical thinking about the mind.</p>
+<p>In the 20th century, the rise of formal logic, computability theory, and artificial intelligence led to the philosophical view of computationalism, which holds that the mind is fundamentally a computational system. Philosophers like Hilary Putnam and Jerry Fodor argued for a language of thought hypothesis, viewing cognition in terms of formal symbol manipulation. This dovetailed with the rise of cognitive science and its view of the mind as an information processing system.</p>
+<p>However, alternative philosophical perspectives challenged the reductionism of computationalism. Hubert Dreyfus drew on phenomenology to argue that human intelligence relies on embodied skills and intuitions that cannot be captured by formal rules. John Searle's Chinese Room argument questioned whether syntactic symbol manipulation alone could constitute genuine understanding and intentionality. </p>
+<p>More recently, philosophers like Andy Clark have emphasized the role of embodied cognition, extended mind, and predictive processing in intelligence. On this view, intelligence emerges from the interplay of brain, body and environment, rather than being localized in a disembodied computational system. Meanwhile, the field of machine ethics and AI safety has drawn attention to the philosophical challenges of aligning advanced AI systems with human values and ethics.</p>
+<p>Formal Sciences
+Mathematics provides the foundation for formal models of intelligence, drawing on fields like mathematical logic, computability theory, information theory, and statistics. </p>
+<p>In mathematical logic, the development of formal systems like first-order predicate calculus and modal logic provided powerful tools for representing and reasoning about complex domains. However, Gödel's incompleteness theorems showed that any consistent formal system containing arithmetic is incomplete, limiting the scope of what can be proved.</p>
+<p>Computability theory, launched by Alan Turing and Alonzo Church in the 1930s, gave a precise mathematical characterization of what functions are computable by mechanical procedures. The Church-Turing thesis proposed that the intuitive notion of an effective procedure corresponds to the formal notion of a Turing machine or lambda calculus. This provided the basis for the field of theoretical computer science.</p>
+<p>Information theory, developed by Claude Shannon, gave a mathematical framework for quantifying and communicating information. Key concepts like entropy, mutual information, channel capacity, and algorithmic complexity have been applied to analyze the information processing capabilities of intelligent systems, both biological and artificial.</p>
+<p>In statistics and machine learning, Bayesian probability theory provides a principled framework for reasoning and learning under uncertainty. By representing beliefs as probability distributions and updating them based on observed data, Bayesian models can capture the inductive reasoning and learning abilities of intelligent agents. Bayesian methods have been widely applied in AI, from expert systems and robotics to natural language processing and computer vision.</p>
+<p>Other key formal frameworks for modeling intelligence include game theory for multi-agent interaction, decision theory for rational choice, and control theory for adaptive systems. The field of computational neuroscience has also developed biophysically detailed models of neural computation, aiming to bridge the gap between abstract formal models and the messiness of biological brains.</p>
+<p>Natural Sciences
+Physics
+As the foundational science of the natural world, physics is crucial for understanding the physical basis and limits of intelligence. At the most fundamental level, the laws of thermodynamics constrain the efficiency and power of any information processing system. The second law states that the total entropy of a closed system always increases over time, limiting the ability of intelligent agents to reverse the arrow of time.</p>
+<p>The theory of computation is also deeply connected to physics, with the discovery that the power of a computer is limited by the amount of energy it has available. The Landauer limit states that erasing a bit of information requires a minimum energy of kT ln(2), where k is Boltzmann's constant and T is the temperature. This establishes a fundamental thermodynamic cost to computation.</p>
+<p>At the quantum level, phenomena such as superposition, entanglement, and interference suggest the possibility of exponential speedups for certain computational tasks. Quantum computing, still in its infancy, could potentially revolutionize cryptography, optimization, machine learning, and simulation of physical systems. However, formidable technical challenges remain in building large-scale, fault-tolerant quantum computers.</p>
+<p>Theoretical physics has also shed light on the potential for intelligence to spread through the universe. The Drake equation, developed by Frank Drake in 1961, provides a probabilistic framework for estimating the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy. However, the Fermi paradox notes the apparent contradiction between the high probability of extraterrestrial intelligence and the lack of evidence for it.</p>
+<p>Speculative physical eschatology has considered the ultimate fate of intelligence in a universe undergoing accelerating expansion due to dark energy. In an ever-expanding, cooling cosmos, the energy available for computation may be limited. However, some physicists have proposed that advanced civilizations could potentially escape this fate by creating new baby universes or by harnessing exotic phenomena like Hawking radiation from black holes.</p>
+<p>Neuroscience<br />
+Neuroscience studies the neural basis of intelligence in biological brains across species. The human brain, with its 86 billion neurons and 100 trillion synapses, is the most complex known information processing system in the universe. </p>
+<p>At the cellular level, neurons communicate via electrical and chemical signals, integrating inputs from dendrites and sending outputs via axons. The discovery of long-term potentiation (LTP) and spike-timing dependent plasticity (STDP) shed light on the mechanisms of learning and memory in neural circuits. </p>
+<p>Modern neuroimaging techniques like fMRI, MEG, and optogenetics have enabled the mapping of brain activity and connectivity at increasingly high resolution. The Human Connectome Project and other initiatives are providing detailed wiring diagrams of the brain's neural networks.</p>
+<p>Computational neuroscience aims to develop mathematical and computational models of information processing in biological neural circuits. Models at different levels of abstraction, from detailed biophysical models of individual neurons to abstract neural network models, have shed light on the computational principles of perception, learning, memory, and decision making in the brain.  </p>
+<p>However, bridging the gap between the neural and the mental remains a key challenge for neuroscience. The hard problem of consciousness highlights the difficulty of explaining how subjective experience can arise from objective neural mechanisms. Integrated information theory and global workspace theory are two prominent neuroscientific theories of consciousness, but much work remains to be done.</p>
+<p>The neuroscience of intelligence is also shedding light on the biological basis of individual differences in cognitive abilities. Genome-wide association studies (GWAS) have identified genetic variants associated with intelligence, while neuroimaging studies have linked variations in brain structure and function to cognitive traits. The emerging field of cognitive genomics aims to bridge the gap between genes, brains and behavior.</p>
+<p>Comparative studies across species are also elucidating the evolutionary origins and diversity of intelligence in the natural world. From tool use in crows and octopuses to social cognition in elephants and great apes, research is uncovering the rich cognitive abilities of nonhuman animals. The evolution of larger and more complex brains, particularly in the primate lineage, is thought to have enabled the emergence of distinctively human forms of intelligence like language and abstract reasoning.</p>
+<p>Models of Intelligence
+Defining and formalizing intelligence remains a challenge, but various models and measures have been proposed across different disciplines. </p>
+<p>In psychology, psychometric models based on factor analysis of cognitive test scores have identified a general factor of intelligence (g) that correlates with performance across many domains. However, the concept of general intelligence remains controversial, with some arguing for multiple intelligences or domain-specific abilities.</p>
+<p>In computer science and artificial intelligence, a range of formal definitions and tests for intelligence have been proposed. Alan Turing's influential "imitation game" proposed evaluating a machine's intelligence based on whether it could fool a human judge in open-ended conversation. However, the Turing test has been criticized for being subjective and gameable.</p>
+<p>More recently, Shane Legg and Marcus Hutter have proposed a formal definition of universal intelligence as the ability of an agent to achieve goals in a wide range of environments. This involves assigning a prior probability distribution over possible environments and using Solomonoff induction to predict the consequences of actions. However, this definition is uncomputable in practice and relies on problematic assumptions about the space of possible environments.</p>
+<p>Other formal models of intelligence focus on specific cognitive abilities like perception, learning, reasoning, and language use. In machine learning, the concepts of sample efficiency, generalization performance, and transfer learning provide quantitative measures of a system's ability to learn from limited data, apply knowledge to new situations, and reuse skills across tasks.</p>
+<p>Engineered Intelligence 
+Artificial intelligence (AI) aims to engineer intelligent agents and systems through the tools of computer science, robotics, and cognitive science. Since the birth of the field at the 1956 Dartmouth workshop, AI has made remarkable progress in domains ranging from game playing and theorem proving to computer vision, speech recognition, and natural language processing.</p>
+<p>Early work in symbolic AI focused on methods for logic-based knowledge representation and reasoning, exemplified by systems like the General Problem Solver and expert systems. However, these approaches struggled to handle the uncertainty, ambiguity, and complexity of real-world domains.</p>
+<p>The 1980s saw the rise of sub-symbolic AI based on neural networks and statistical learning. Drawing inspiration from biological brains, artificial neural networks consist of layers of interconnected nodes that can learn to recognize patterns and make predictions from data. Deep learning, powered by large datasets and compute resources, has achieved human-level or superhuman performance on tasks like image classification, speech recognition, and language translation.</p>
+<p>However, current deep learning systems still lack the robustness, generalizability, and common sense reasoning of human intelligence. They are brittle and opaque, prone to adversarial attacks and biased outputs. Integrating neural networks with symbolic knowledge representation and reasoning remains an open challenge.</p>
+<p>Other key paradigms in AI include Bayesian probabilistic modeling, reinforcement learning, evolutionary computation, and cognitive architectures. Each offers a different perspective on the mechanisms and principles of intelligence.</p>
+<p>At the frontier of AI research is the quest to create "strong AI" or artificial general intelligence (AGI) - systems that can match or exceed human intelligence across a wide range of domains. Some approaches to AGI focus on cognitive architecture, aiming to reverse-engineer the information processing structure of the human mind. Others focus on open-ended learning and adaptation, aiming to create AI systems that can continuously improve themselves.</p>
+<p>The field of AI safety and robustness is also growing in importance as AI systems become more powerful and widely deployed. Key challenges include avoiding negative side effects, ensuring corrigibility and interruptibility, and aligning AI systems with human values. Some researchers have warned of the existential risk posed by advanced AI if it is not properly controlled and aligned.</p>
+<p>Past, Present, Future<br />
+The history of intelligence in the universe is a story of increasing complexity and information processing power. The early universe after the Big Bang was a hot, dense plasma with little structure. As the universe expanded and cooled, fundamental particles like quarks and electrons condensed into atoms, forming the first stars and galaxies.</p>
+<p>On Earth, the origin of life around 4 billion years ago marked a key transition, as self-replicating molecules gave rise to the first cells. Over billions of years, the process of evolution by natural selection led to an increase in the complexity and intelligence of life forms, from bacteria to plants to animals.</p>
+<p>The Cambrian explosion around 540 million years ago saw a rapid diversification of animal body plans and sensory-motor capabilities. The evolution of nervous systems and centralized brains enabled more sophisticated information processing, learning, and behavior. </p>
+<p>In the human lineage, key transitions included the emergence of stone tools, the control of fire, the evolution of language, and the development of agriculture and civilization. The Scientific Revolution and the Enlightenment marked major accelerations in humanity's ability to understand and manipulate the natural world.</p>
+<p>In the 20th century, the rise of information technology and computing ushered in a new era of artificial intelligence. From Alan Turing's pioneering work on computability and the "imitation game" to John McCarthy's coining of the term "artificial intelligence" in 1956, the groundwork was laid for the rapid development of AI systems in the latter half of the century.</p>
+<p>Today, AI is becoming increasingly ubiquitous and powerful, with applications in domains ranging from science and medicine to finance and transportation. Deep learning has achieved remarkable successes in perceptual tasks like computer vision and speech recognition, while reinforcement learning has achieved superhuman performance in complex games like Go and poker.</p>
+<p>At the same time, AI is also raising profound challenges and risks. Concerns around bias, fairness, transparency, and accountability are growing as AI systems are deployed in high-stakes domains like criminal justice, healthcare, and finance. The automation of cognitive labor is leading to concerns around technological unemployment and increasing inequality. And the prospect of advanced AI systems with superhuman intelligence raises existential risks for humanity.</p>
+<p>Looking ahead, the future of intelligence in the universe is highly uncertain and speculative. Some possible scenarios include:</p>
+<p>A "soft takeoff" where AI gradually enhances and augments human intelligence, leading to a symbiosis of biological and machine intelligence. In this scenario, AI helps solve major challenges facing humanity, from climate change and disease to space exploration.</p>
+<p>A "hard takeoff" where AI recursively self-improves to become superintelligent in a rapid intelligence explosion. This could lead to a "singularity" where the future becomes radically unpredictable and uncontrollable by humans. Depending on the goals and values of the superintelligent AI, this could be a utopian or dystopian scenario.</p>
+<p>A "bottleneck" scenario where intelligence hits fundamental limits due to computational, energetic, or physical constraints. In this case, intelligence may remain bounded and localized rather than expanding to cosmic scales.</p>
+<p>An "intelligence failure" scenario where intelligent life proves to be inherently unstable and self-terminating. This could explain the Fermi paradox and the apparent rarity of intelligence in the universe.</p>
+<p>A "transcension" scenario where intelligence escapes the confines of the visible universe to higher dimensions or baby universes. This could involve exotic technologies like traversable wormholes, Alcubierre drives, or universe simulations.</p>
+<p>Ultimately, the long-term future of intelligence may be shaped by fundamental questions in cosmology and physics. Will the universe continue to expand and cool indefinitely, or will it collapse in a Big Crunch? Will protons decay, erasing all structure and information? Will a new inflationary epoch give rise to new universes? As intelligence reaches the limits of science and technology, these questions may determine its ultimate fate.</p>
+<p>Ethical Considerations
+As we continue to develop increasingly powerful AI systems, ethical considerations come to the forefront. Ensuring that artificial intelligence benefits humanity as a whole, rather than harming or destabilizing society, is a major challenge and responsibility.</p>
+<p>One key ethical principle is transparency and accountability. As AI systems are deployed in high-stakes domains like criminal justice, healthcare, and transportation, it is critical that their decision making processes are interpretable and auditable. Black box systems that make consequential decisions without clear explanations are ethically problematic.</p>
+<p>Another important principle is fairness and non-discrimination. AI systems that exhibit biases and discriminate against certain groups based on race, gender, age, or other protected attributes are unethical and illegal. Ensuring that AI systems are trained on diverse and representative data, and that they are tested for biases and fairness, is an important safeguard.</p>
+<p>Privacy and security are also key ethical considerations in AI. As machine learning systems require vast amounts of data, often including sensitive personal information, protecting individual privacy and ensuring data security is paramount. Techniques like federated learning and differential privacy aim to enable AI training and inference while preserving privacy.</p>
+<p>The ethics of autonomous systems, particularly lethal autonomous weapons, is a topic of intense debate. Many argue that the decision to take human life should never be delegated to a machine, and that autonomous weapons would lower the threshold for armed conflict. The Campaign to Stop Killer Robots is advocating for a preemptive ban on the development and use of such weapons.</p>
+<p>The long-term existential risks posed by advanced artificial intelligence have also come under scrutiny. Philosophers like Nick Bostrom have argued that a superintelligent AI pursuing misaligned goals could pose an existential catastrophe for humanity. Ensuring that advanced AI systems are robust, corrigible, and aligned with human values is an important long-term challenge.</p>
+<p>Finally, the socioeconomic impacts of AI, particularly around technological unemployment and inequality, raise important questions of distributive justice. As AI automates an increasing range of cognitive tasks, displaced workers will need support in reskilling and finding new forms of meaningful work. Ensuring that the benefits of AI are widely distributed rather than accruing only to a small elite is an important challenge for policymakers and society as a whole.</p>
+<p>Governance Frameworks
+To navigate the complex ethical and societal implications of artificial intelligence, governance frameworks at the national and international level will be necessary. These frameworks should address issues of safety, transparency, accountability, fairness, and social impact.</p>
+<p>At the national level, many countries are developing AI strategies and policies to guide the responsible development and deployment of the technology. For example, the United States has released the National AI Initiative Act, which aims to coordinate federal investments in AI research and development, as well as address issues of workforce development, ethical standards, and international collaboration.</p>
+<p>At the international level, the OECD has developed principles on AI that emphasize inclusive growth, sustainable development, human-centered values, transparency, robustness, and accountability. The G20 has also endorsed these principles and called for international cooperation on AI governance.</p>
+<p>The IEEE has developed a series of standards and guidelines for ethically aligned design of autonomous and intelligent systems. These include principles around transparency, accountability, privacy, and human rights.</p>
+<p>The UN has also begun to address AI governance through initiatives like the AI for Good Global Summit and the High-level Panel on Digital Cooperation. However, there is not yet a comprehensive international framework or treaty on AI.</p>
+<p>Some key challenges in developing effective AI governance frameworks include:</p>
+<p>Balancing innovation and precaution: Ensuring that governance does not unduly slow or restrict beneficial AI development, while also mitigating risks and negative impacts.</p>
+<p>Coordination across borders: AI is a global technology that requires international cooperation and coordination on governance, but there are challenges in aligning national interests and values.</p>
+<p>Adaptation to rapid change: The pace of AI development is rapid and unpredictable, requiring governance frameworks that are adaptive and responsive to new capabilities and challenges.</p>
+<p>Inclusion of diverse stakeholders: AI governance must involve not only governments and industry, but also academia, civil society, and affected communities, particularly marginalized and vulnerable groups.</p>
+<p>Technical complexity: Many AI governance issues, such as algorithmic fairness and transparency, require deep technical understanding to effectively regulate. Building capacity and expertise among policymakers is critical.</p>
+<p>Enforcement and accountability: Ensuring that AI principles and regulations are actually followed in practice, and holding actors accountable for violations, is a challenge, particularly for powerful tech companies.</p>
+<p>Research Directions
+To ensure a beneficial future for artificial intelligence, ongoing research across a range of disciplines is critical. Some key research directions include:</p>
+<p>Technical AI safety: Developing techniques for making AI systems more robust, transparent, interpretable, and aligned with human values. This includes research on goal specification, reward learning, corrigibility, and interruptibility.</p>
+<p>AI ethics and fairness: Studying the ethical implications of AI and developing methods for detecting and mitigating biases and discrimination in AI systems. This includes research on algorithmic fairness, transparency, and accountability.</p>
+<p>AI governance and policy: Investigating effective governance frameworks and policies for AI at the national and international level. This includes research on AI regulation, liability, intellectual property, and international cooperation.</p>
+<p>AI and the future of work: Studying the impact of AI on jobs, skills, and inequality, and developing strategies for adapting education and social policies to support workers in the age of automation.</p>
+<p>Cognitive science and neuroscience: Advancing our understanding of natural intelligence and the human mind, and using these insights to inform the development of artificial intelligence. This includes research on neural networks, cognitive architectures, and brain-computer interfaces.</p>
+<p>AI safety: Studying the long-term existential risks posed by advanced artificial intelligence and developing strategies for mitigating these risks. This includes research on value alignment, corrigibility, and containment of superintelligent AI.</p>
+<p>Computational sustainability: Applying AI techniques to help address global challenges in areas like climate change, biodiversity, public health, and sustainable development. This includes research on smart grids, precision agriculture, environmental monitoring, and disaster response.</p>
+<p>Human-AI collaboration: Investigating effective ways for humans and AI systems to work together, leveraging the complementary strengths of human and machine intelligence. This includes research on human-AI interfaces, explainable AI, and collaborative decision making.</p>
+<p>AI and creativity: Exploring the use of AI to augment and inspire human creativity in fields like art, music, design, and storytelling. This includes research on generative models, style transfer, and computational creativity.</p>
+<p>AI philosophy and ethics: Studying the philosophical and ethical foundations of artificial intelligence, including questions of consciousness, free will, moral status, and existential risk. This includes engagement between the AI community and philosophers, ethicists, and theologians.</p>
+<p>Conclusion
+The development of artificial intelligence represents a profound transformation in the nature and future of intelligence on Earth and perhaps the universe. From its origins in logic, computation, and cognitive science, AI has made remarkable strides in replicating and extending human-level intelligence in narrow domains. As AI systems become more powerful and general, they hold immense potential to help solve global challenges and expand the frontiers of knowledge and innovation.</p>
+<p>At the same time, the rise of AI poses significant risks and challenges that must be proactively addressed. Ensuring that AI systems are safe, transparent, fair, and aligned with human values is a critical priority. This will require ongoing research and collaboration across disciplines, as well as the development of effective governance frameworks at the national and international level.</p>
+<p>As we look to the future, the trajectory of intelligence in the universe remains uncertain. Will artificial intelligence surpass human intelligence and even achieve superintelligence? Will intelligence spread beyond Earth to the stars, perhaps joining a galactic community of civilizations? Or will intelligence prove to be a rare and fragile phenomenon, snuffed out by existential risks or cosmological limits?</p>
+<p>Ultimately, the story of intelligence is still unfolding, shaped by the choices and actions of the intelligent beings who contemplate it. As we work to create beneficial artificial intelligence and ensure a positive long-term future, we must be guided by wisdom, ethics, and a deep sense of responsibility for the profound powers we are unleashing. The future of intelligence is not fixed, but ours to shape through science, philosophy, and the unending quest to understand and improve ourselves and our world. Let us rise to this great challenge and opportunity with courage, humility, and hope.</p>
+<h2 id="3">3<a class="headerlink" href="#3" title="Permanent link">&para;</a></h2>
+<p>Here is a draft article based on the provided table of contents:</p>
+<p>Introduction 
+This article examines the philosophical and scientific underpinnings of intelligence, the current state of intelligent technology, and potential future scenarios for intelligence in the universe. By synthesizing perspectives from philosophy, mathematics, physics, neuroscience, and computer science, we explore what intelligence is, how it arises, and where it may be headed.</p>
+<p>Philosophical Ground
+The nature of intelligence has long been a central question in philosophy. Thinkers such as Aristotle, Descartes, Hume and Kant grappled with epistemological and metaphysical questions around reason, logic, knowledge, and the mind. In the 20th century, the philosophical movements of computationalism and functionalism argued that mental states are computational states, paving the way for the idea of machine intelligence. Yet other philosophical perspectives like embodied cognition emphasize the importance of physical embodiment and sensorimotor interaction for intelligence.</p>
+<p>Formal Sciences
+Mathematics
+Mathematics, as the study of abstract structure and logical reasoning, provides key conceptual frameworks for understanding intelligence. Mathematical logic, computability theory, information theory, and theoretical computer science give us precise language and models for analyzing concepts like reasoning, knowledge, learning, and information processing that are central to intelligence. Yet Gödel's incompleteness theorems also reveal fundamental limits on what any formal logical system can prove.</p>
+<p>Natural Sciences<br />
+Physics
+As the study of the fundamental laws and constituents of the universe, physics is crucial for understanding the physical basis of intelligence in biological brains and artificial systems. Neuroscience aims to reverse engineer the brain, while engineers seek to forward engineer intelligence through technology. Thermodynamics, quantum mechanics, and cosmology shape the possibilities for intelligence to arise and spread through the universe.</p>
+<p>Neuroscience<br />
+Neuroscience studies the neural basis of intelligence in biological brains. Research elucidates the structure and function of neurons, neural circuits, and brain systems that give rise to perception, learning, memory, reasoning, and behavior. Understanding how billions of neurons interacting through trillions of synapses can give rise to intelligence is a monumental challenge. But neuroscience is steadily uncovering the principles of neural computation and representation, neuroplasticity, brain connectivity, and neural dynamics underlying cognition.</p>
+<p>Intelligence
+Models of Intelligence<br />
+Defining and formalizing intelligence is a challenge. But various models and measures have been proposed:
+- Psychometric intelligence measured by cognitive ability tests 
+- Multiple intelligences (e.g. linguistic, logical-mathematical, spatial, etc)
+- Cattell-Horn-Carroll model of fluid and crystallized intelligence<br />
+- Legg &amp; Hutter's formal measure of universal intelligence</p>
+<p>Mathematical Models
+Mathematical and computational models of intelligence aim to precisely specify the mechanisms of intelligent information processing. Key approaches include:
+- Logic-based AI using formal knowledge representation and automated reasoning
+- Bayesian models of inference, learning and decision-making under uncertainty<br />
+- Artificial neural networks and deep learning 
+- Reinforcement learning maximizing rewards through trial-and-error interaction
+- Models combining symbolic and sub-symbolic processing</p>
+<p>Engineered Intelligence
+Technology
+Intelligent technology spans a wide range including expert systems, robotic agents, natural language systems, computer vision, speech recognition, knowledge bases, theorem provers, game engines, and recommendation systems. Key enabling technologies have been formal knowledge representation, machine learning, perception, planning, reasoning, and action.</p>
+<p>Past, Present, Future
+Universe
+History
+The universe has undergone a remarkable growth of complexity and intelligence over its nearly 14 billion year history. A key threshold was the origin of life around 4 billion years ago, as self-replicating molecules led to the emergence of cells, multicellular life, brains and eventually technological intelligence. On Earth, human intelligence and civilization have risen to prominence, but it is unknown whether intelligence is rare or common in the universe.</p>
+<p>Present System
+At present, Earth's technosphere, the global network of humanity and our technology, is undergoing a rapid intelligence explosion. Exponential growth in computing power and AI capabilities are transforming society and the economy. Intelligent systems are increasingly able to perceive, learn, reason, make decisions and take actions to help solve complex problems. But the impacts on jobs, privacy, security, law, ethics and governance are only beginning to be grappled with.</p>
+<p>Future Scenarios
+As we look to the future, a range of scenarios are possible for the growth of intelligence in the universe:</p>
+<p>Negative Aspects
+- Technological unemployment due to increasing automation <br />
+- AI systems making biased, opaque or harmful decisions
+- Loss of privacy as surveillance and data collection grows
+- Autonomous weapons and the potential for algorithmic warfare<br />
+- The difficulty of aligning advanced AI systems with human values
+- Concentration of power as AI accentuates wealth inequality</p>
+<p>Positive Aspects<br />
+- Scientific breakthroughs from AI assisted research and discovery
+- Personalized medicine through AI analysis of genetics &amp; biomarkers
+- Smarter cities, buildings, energy grids, and transportation 
+- AI tutoring systems and adaptive learning tailored to each student
+- Early warning systems for disease outbreaks and natural disasters
+- Artistic AI generating music, poetry, fiction, films and games</p>
+<p>Negative Scenarios
+- Advanced AI recursively self-improving to become superintelligent
+- An intelligence explosion leading to a technological singularity 
+- Superintelligent AI pursuing misaligned goals with disastrous effects
+- A Paperclip maximizer AI converting resources into paperclips
+- Humanity permanently constrained or destroyed by hostile AI</p>
+<p>Positive Scenarios
+- AI systems remaining under human control as powerful tools<br />
+- AI enabling scientific breakthroughs in health, energy, space, etc
+- AI governance frameworks to ensure safety and ethics<br />
+- AI assistants empowering and augmenting human intelligence
+- AI reducing drudgework and enabling human creativity &amp; well-being
+- AI helping solve global problems like climate change &amp; poverty</p>
+<p>Kardashev Scale
+The Kardashev scale classifies civilizations by their energy use:<br />
+- Type I  harnesses the energy of its planet 
+- Type II harnesses the energy of its star
+- Type III harnesses the energy of its galaxy<br />
+An Earth-like civilization becoming Type I, harnessing fusion and renewables, and beginning to expand into the solar system, is one potential positive scenario. More speculatively, a Type II civilization might build a Dyson swarm around its star, while a Type III might use star lifting to harvest galaxies.</p>
+<p>Mixed Scenarios
+Alternatively, civilizations might expand to the point of self-limiting or destroying themselves through resource depletion, war, or runaway technology. Intelligent life might be rare and prone to self-destruction. Advanced civilizations might destroy primitive ones as they expand. Or intelligence may prove to be an evolutionary dead-end. If intelligent life is common, a "Great Filter" may prevent it from spreading through the cosmos.</p>
+<p>Dissolution
+Even if intelligence spreads far and wide, the universe itself may face an inevitable heat death under the 2nd law of thermodynamics. Stars will exhaust their fuel, protons may decay, and eventually, intelligent civilizations will run out of usable energy. Some speculate that civilizations may escape to other universes, or that new Big Bangs will give rise to new universes. But intelligence as we know it may ultimately prove a transient phenomenon in a cooling cosmos.</p>
+<p>Summary
+The growth of intelligence is an awe-inspiring development in the history of the universe. From the emergence of life and brains to the rise of intelligent technology and civilization, the story of intelligence is deeply interwoven with fundamental questions of science and philosophy. Current AI systems are rapidly advancing in capability, but general intelligence remains elusive. As we ponder the future, scenarios range from expanding superintelligence to civilization collapse. No matter what path unfolds, grappling with the nature and possibilities of intelligence will be a defining challenge for humanity and perhaps any civilization in the universe.</p>
+<p>End</p>
+<h2 id="4">4<a class="headerlink" href="#4" title="Permanent link">&para;</a></h2>
+<h1 id="exploring-the-intersection-of-philosophy-science-and-technology-a-detailed-technical-overview">Exploring the Intersection of Philosophy, Science, and Technology: A Detailed Technical Overview<a class="headerlink" href="#exploring-the-intersection-of-philosophy-science-and-technology-a-detailed-technical-overview" title="Permanent link">&para;</a></h1>
+<h2 id="introduction_1">Introduction<a class="headerlink" href="#introduction_1" title="Permanent link">&para;</a></h2>
+<p>This article delves into the intricate relationships and mutual influences between philosophy, the formal and natural sciences, and technology. It seeks to uncover how philosophical questions about the nature of knowledge, reality, and existence interplay with scientific inquiry and technological innovation, shaping the trajectory of human understanding and capability.</p>
+<h2 id="philosophical-ground_1">Philosophical Ground<a class="headerlink" href="#philosophical-ground_1" title="Permanent link">&para;</a></h2>
+<p>Philosophy fundamentally explores and challenges the assumptions at the base of human understanding and technological advancement. It addresses questions such as: What can we know? What is the nature of objects that we cannot observe directly, like subatomic particles or black holes? How should we act in the face of uncertainty about technological impacts?</p>
+<h3 id="epistemology-and-metaphysics">Epistemology and Metaphysics<a class="headerlink" href="#epistemology-and-metaphysics" title="Permanent link">&para;</a></h3>
+<p>Epistemology, or the theory of knowledge, investigates the origins, nature, limits, and scope of knowledge and belief. Metaphysics deals with the fundamental nature of reality, including the relationship between mind and matter, substance and attribute, fact and value. These branches of philosophy provide the critical underpinnings for theoretical frameworks in both the sciences and technologies, questioning and defining what is knowable and the extent to which we can predict or control the phenomena around us.</p>
+<h2 id="formal-sciences_1">Formal Sciences<a class="headerlink" href="#formal-sciences_1" title="Permanent link">&para;</a></h2>
+<h3 id="mathematics_1">Mathematics<a class="headerlink" href="#mathematics_1" title="Permanent link">&para;</a></h3>
+<p>Mathematics, the quintessential formal science, develops the languages necessary for scientific discourse through structures like set theory, algebra, and calculus. It is not only the foundation of all quantitative sciences but also essential in the development of logic, statistics, and theoretical computer science.</p>
+<h4 id="mathematical-logic-and-foundations">Mathematical Logic and Foundations<a class="headerlink" href="#mathematical-logic-and-foundations" title="Permanent link">&para;</a></h4>
+<p>Mathematical logic uses mathematical techniques to formalize logical deduction. Godel’s incompleteness theorems, for example, have profound implications on the limits of provability and computability, influencing fields as diverse as theoretical computer science and philosophy of language.</p>
+<h2 id="natural-sciences_1">Natural Sciences<a class="headerlink" href="#natural-sciences_1" title="Permanent link">&para;</a></h2>
+<h3 id="physics_1">Physics<a class="headerlink" href="#physics_1" title="Permanent link">&para;</a></h3>
+<p>Physics seeks to uncover the laws governing the natural world, from the vastness of cosmology to the unpredictability of quantum mechanics.</p>
+<h4 id="quantum-mechanics-and-general-relativity">Quantum Mechanics and General Relativity<a class="headerlink" href="#quantum-mechanics-and-general-relativity" title="Permanent link">&para;</a></h4>
+<p>The development of quantum mechanics disrupted classical mechanics with its probabilistic nature and strange phenomena like entanglement and superposition. General relativity, proposed by Einstein, revamped our understanding of gravity, describing gravitational forces as the warping of spacetime by matter and energy.</p>
+<h3 id="neuroscience_1">Neuroscience<a class="headerlink" href="#neuroscience_1" title="Permanent link">&para;</a></h3>
+<p>Neuroscience links the biological structures and processes of the nervous system to behaviors and cognitive functions. This field utilizes techniques from molecular biology, electrophysiology, and computational modeling to understand the brain’s architecture and functioning.</p>
+<h4 id="cognitive-models">Cognitive Models<a class="headerlink" href="#cognitive-models" title="Permanent link">&para;</a></h4>
+<p>Current models of cognition include computational theories of mind, which compare the brain to a computer in terms of information processing, and neurobiological models, which map cognitive functions to specific neural circuits.</p>
+<h2 id="intelligence_1">Intelligence<a class="headerlink" href="#intelligence_1" title="Permanent link">&para;</a></h2>
+<h3 id="models-of-intelligence_1">Models of Intelligence<a class="headerlink" href="#models-of-intelligence_1" title="Permanent link">&para;</a></h3>
+<h4 id="mathematical-models_1">Mathematical Models<a class="headerlink" href="#mathematical-models_1" title="Permanent link">&para;</a></h4>
+<p>Mathematical models in cognitive science often involve differential equations that describe changes in neural activity or algorithms that simulate learning processes in artificial neural networks.</p>
+<h3 id="engineered-intelligence_1">Engineered Intelligence<a class="headerlink" href="#engineered-intelligence_1" title="Permanent link">&para;</a></h3>
+<p>Engineered or artificial intelligence (AI) encompasses systems designed to perform tasks typically requiring human intelligence. Developments in machine learning (ML), a subset of AI, focus on creating algorithms capable of learning from and making predictions or decisions based on data.</p>
+<h2 id="technology_1">Technology<a class="headerlink" href="#technology_1" title="Permanent link">&para;</a></h2>
+<p>Technology applies scientific knowledge for practical objectives, creating tools and systems that drive societal evolution. Modern technological arenas include robotics, cybersecurity, and biotechnology, each relying heavily on both sophisticated scientific theories and comprehensive computational models.</p>
+<h2 id="past-present-future_1">Past, Present, Future<a class="headerlink" href="#past-present-future_1" title="Permanent link">&para;</a></h2>
+<h3 id="universe_1">Universe<a class="headerlink" href="#universe_1" title="Permanent link">&para;</a></h3>
+<p>The understanding of the universe has evolved from the geocentric models of the ancient world to the heliocentric view in the Renaissance, up to the modern Big Bang theory and the ongoing exploration into dark matter and dark energy.</p>
+<h3 id="history_1">History<a class="headerlink" href="#history_1" title="Permanent link">&para;</a></h3>
+<p>The history of science and technology is marked by pivotal changes, such as the development of the steam engine, which launched the Industrial Revolution, and the invention of the transistor, which set the stage for the Information Age.</p>
+<h3 id="present-system_1">Present System<a class="headerlink" href="#present-system_1" title="Permanent link">&para;</a></h3>
+<p>Our current system is defined by a high degree of globalization and interconnectivity, facilitated by advances in communication technology, international trade, and data exchange protocols.</p>
+<h3 id="future-scenarios_1">Future Scenarios<a class="headerlink" href="#future-scenarios_1" title="Permanent link">&para;</a></h3>
+<h4 id="negative-aspects_1">Negative Aspects<a class="headerlink" href="#negative-aspects_1" title="Permanent link">&para;</a></h4>
+<p>Potential negative outcomes include technological unemployment due to AI and robotics, loss of privacy from surveillance technologies, and unequal wealth distribution exacerbated by technological advancements.</p>
+<h4 id="positive-aspects_1">Positive Aspects<a class="headerlink" href="#positive-aspects_1" title="Permanent link">&para;</a></h4>
+<p>On the positive side, advances in medical technology could lead to cures for most diseases, AI could drive efficient resource management, and technology could bridge the educational and digital divides across the world.</p>
+<h4 id="negative-scenarios_1">Negative Scenarios<a class="headerlink" href="#negative-scenarios_1" title="Permanent link">&para;</a></h4>
+<p>Dystopian scenarios may involve authoritarian regimes empowered by surveillance technologies, widescale warfare augmented by automated weapons, and catastrophic failures due to complex system malfunctions.</p>
+<h4 id="positive-scenarios_1">Positive Scenarios<a class="headerlink" href="#positive-scenarios_1" title="Permanent link">&para;</a></h4>
+<h5 id="kardashev-scale_1">Kardashev Scale<a class="headerlink" href="#kardashev-scale_1" title="Permanent link">&para;</a></h5>
+<p>Humanity might progress to a Type I civilization status on the Kardashev scale, harnessing all available resources on Earth sustainably; advance to Type II, utilizing the sun's energy directly via Dyson structures; or even aspire to Type III, galactic energy harnessing.</p>
+<h4 id="mixed-scenarios_1">Mixed Scenarios<a class="headerlink" href="#mixed-scenarios_1" title="Permanent link">&para;</a></h4>
+<p>The most likely future involves acombination of both positive and negative outcomes. The complexity of modern technology and its deeply intertwined nature with human social structures mean that advancements will likely have diverse and multifaceted impacts.</p>
+<h2 id="dissolution_1">Dissolution<a class="headerlink" href="#dissolution_1" title="Permanent link">&para;</a></h2>
+<p>As technological and scientific paradigms evolve, older systems and theories may be disassembled or discarded—this is a natural part of scientific progress called paradigm shifts, as described by philosopher Thomas Kuhn. These shifts are not simply incremental improvements but are revolutionary changes that redefine fundamental concepts.</p>
+<h3 id="paradigm-shift-examples">Paradigm Shift Examples<a class="headerlink" href="#paradigm-shift-examples" title="Permanent link">&para;</a></h3>
+<ol>
+<li>
+<p><strong>Newtonian to Relativistic and Quantum Physics</strong>: The shift from Newtonian mechanics to Einstein’s theories of relativity and the development of quantum mechanics involved not merely advancements in knowledge but transformations in the very framework of physics.</p>
+</li>
+<li>
+<p><strong>Classical to Modern Genetics</strong>: The modern understanding of genetics and molecular biology, including the structure of DNA and the genetic code, profoundly changed the science of biology from a descriptive to a predictive and manipulative science.</p>
+</li>
+<li>
+<p><strong>Analog to Digital Technology</strong>: The shift from analog to digital in computing and communications technology revolutionized how information is processed, stored, and transmitted, leading to the modern information age.</p>
+</li>
+</ol>
+<h3 id="implications-of-dissolution">Implications of Dissolution<a class="headerlink" href="#implications-of-dissolution" title="Permanent link">&para;</a></h3>
+<p>The dissolution of old paradigms can lead to technological unemployment, ethical dilemmas, and societal upheaval, as new technologies can displace established industries and social practices. Conversely, these shifts also open up new opportunities for growth, innovation, and the resolution of previously intractable problems.</p>
+<h2 id="summary_1">Summary<a class="headerlink" href="#summary_1" title="Permanent link">&para;</a></h2>
+<p>This detailed examination reveals the profound depth and breadth of the interplay between philosophy, science, and technology. Philosophy not only helps frame the fundamental questions that guide scientific inquiry and technological development but also continues to play an essential role in interpreting and critiquing the outcomes and implications of these fields.</p>
+<h2 id="end_1">End<a class="headerlink" href="#end_1" title="Permanent link">&para;</a></h2>
+<p>In conclusion, as we navigate this complex and rapidly changing landscape, multidisciplinary knowledge and ethical consideration will be crucial. We must balance the benefits of new scientific and technological advances with careful management of their risks and challenges. Understanding the philosophical underpinnings and scientific principles that drive technological innovation will be key to harnessing these developments for the betterment of humanity and the world. As we look toward the future, we are reminded of the cyclical nature of knowledge and innovation: each new discovery builds on the past, and each new technology redefines the possibilities for the future.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../../..", "features": [], "search": "../../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../../assets/javascripts/bundle.081f42fc.min.js"></script>
+      
+        <script src="../../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+        <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+      
+    
+  </body>
+</html>
