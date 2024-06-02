@@ -7,7 +7,7 @@
 - [[Aesthetics]]
 - [[Unsorted to be included]]
 - [[Highlights]]
-- [[Book]]
+- [[Book - Understanding the nature of reality using math and creating it]]
 - [[Everything.canvas|Canvas of everything]]
 
 - Greetings fellow [[ontology|reality]] connoisseur!

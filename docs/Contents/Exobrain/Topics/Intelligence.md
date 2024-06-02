@@ -2,7 +2,7 @@
 - Metadata: #topic 
 - Part of:
 - Related: 
-- Includes:
+- Includes: [[Artificial Intelligence]], [[Biological intelligence]], [[Collective Intelligence]], [[Artificial Intelligence x Biological Intelligence x Collective Intelligence]]
 - Additional: 
 ## Significance
 - 

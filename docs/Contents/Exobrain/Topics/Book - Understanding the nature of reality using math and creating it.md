@@ -2,13 +2,14 @@
 - Introduction
 - Philosophical ground
 - Formal sciences 
-	- Mathematics
+	- [[Mathematics]]
 		- Foundations of mathematics
 		- Fields
 - Natural sciences 
-	- Physics
+	- [[Physics]]
 		- Theory of everything
 	- Neuroscience
+		- Wellbeing
 - Intelligence
 	- Models of intelligence
 		- Mathematical models

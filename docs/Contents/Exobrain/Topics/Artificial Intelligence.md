@@ -107,6 +107,7 @@ aliases:
 	- [[Artificial Intelligence x Biological Intelligence x Collective Intelligence]]
 	- [[Generalization]]
 		- [[Artificial Intelligence x Generalization]]
+	Let's make a benchmark testing for AI systems that can nicely do causal modeling, strong generalization, continuous learning, data & compute efficiency and stability/reliability in symbolic reasoning, agency, more complex tasks across time and space, long term planning, optimal bayesian inference etc. The ultimate benchmark would be giving Ai systems all the information that Newton, Maxwell, Boltzman, Einstein, Feynman, Edward Witten, Von Neumann etc. had before their discoveries in physics or other fields and then seeing if the system could come up with the same or isomorphic discoveries.
 
 ## Crossovers
 -  [[Artificial Intelligence x Biological Intelligence x Collective Intelligence]]
@@ -375,7 +376,517 @@ Most respondents expressed substantial uncertainty about the long-term value of 
    - Quantum Computing for AI
    - Quantum Optimization
 
-Each of these branches involves a range of techniques, theories, and applications, making AI a diverse and interdisciplinary field. The rapid advancements in AI technology continue to expand the possibilities and scope of these branches.
+I want to learn and have a map of as much of the mathematical theory and practice of as much methods as possible used everywhere for example in:  
+- statistical methods (frequentist, bayesian statistics,...)  
+- machine learning (supervised learning (classification, all sorts of regression), unsupervised learning (clusering, dimensionality reduction,...), semisupervised learning, reinforcement learning, ensemble methods,...)  
+- deep learning (all variations and combinations of classic neural nets, convolutional NNs, recurrent NNs, LSTMs, GANs, selforganizing maps, deep belief networks, deep RL, graph NNs, neural turing machines, all variations of transformers, rwkw, xLSTM, diffusion,...)  
+- symbolic methods, neurosymbolics, statespace models, graph analysis, other stuff in natural language processing, computer vision, signal processing, anomaly detection, recommender systems, different optimization algorithms and metaheuristics, metalearning,...  
+etc. etc. etc.  
+All of it includes essentially infinite amount of infinite rabbitholes, but it's worth it
+
+Map of algorithms for extracting patterns from data  
+  
+1. Statistical Methods  
+- Descriptive Statistics  
+- Central Tendency (Mean, Median, Mode, Geometric Mean, Harmonic Mean)  
+- Dispersion (Range, Variance, Standard Deviation, Coefficient of Variation, Quartiles, Interquartile Range)  
+- Skewness and Kurtosis  
+- Inferential Statistics  
+- Hypothesis Testing (Z-test, t-test, F-test, Chi-Square Test, ANOVA, MANOVA, ANCOVA)  
+- Confidence Intervals  
+- Non-parametric Tests (Mann-Whitney U, Wilcoxon Signed-Rank, Kruskal-Wallis, Friedman)  
+- Regression Analysis  
+- Linear Regression (Simple, Multiple)  
+- Logistic Regression (Binary, Multinomial, Ordinal)  
+- Polynomial Regression  
+- Stepwise Regression  
+- Ridge Regression  
+- Lasso Regression  
+- Elastic Net Regression  
+- Bayesian Statistics  
+- Bayesian Inference  
+- Naive Bayes Classifier  
+- Bayesian Networks  
+- Markov Chain Monte Carlo (MCMC) Methods  
+- Survival Analysis  
+- Kaplan-Meier Estimator  
+- Cox Proportional Hazards Model  
+- Spatial Statistics  
+- Kriging  
+- Spatial Autocorrelation (Moran's I, Geary's C)  
+  
+2. Machine Learning  
+- Supervised Learning  
+- Classification  
+- Decision Trees & Random Forests  
+- Naive Bayes (Gaussian, Multinomial, Bernoulli)  
+- Support Vector Machines (SVM) (Linear, RBF, Polynomial)  
+- k-Nearest Neighbors (k-NN)  
+- Logistic Regression  
+- Neural Networks (Feedforward, Convolutional, Recurrent)  
+- Gradient Boosting Machines (GBM)  
+- AdaBoost  
+- XGBoost  
+- LightGBM  
+- CatBoost  
+- Regression  
+- Linear Regression  
+- Polynomial Regression  
+- Support Vector Regression (SVR)  
+- Decision Trees & Random Forests  
+- Neural Networks (Feedforward, Convolutional, Recurrent)  
+- Gradient Boosting Machines (GBM)  
+- AdaBoost  
+- XGBoost  
+- LightGBM  
+- CatBoost  
+- Unsupervised Learning  
+- Clustering  
+- k-Means  
+- Mini-Batch k-Means  
+- Hierarchical Clustering (Agglomerative, Divisive)  
+- DBSCAN  
+- OPTICS  
+- Mean Shift  
+- Gaussian Mixture Models  
+- Fuzzy C-Means  
+- Dimensionality Reduction  
+- Principal Component Analysis (PCA)  
+- Kernel PCA  
+- Incremental PCA  
+- t-SNE  
+- UMAP  
+- Isomap  
+- Locally Linear Embedding (LLE)  
+- Independent Component Analysis (ICA)  
+- Non-Negative Matrix Factorization (NMF)  
+- Latent Dirichlet Allocation (LDA)  
+- Autoencoders (Vanilla, Variational, Denoising)  
+- Association Rule Mining  
+- Apriori  
+- FP-Growth  
+- ECLAT  
+- Semi-Supervised Learning  
+- Self-Training  
+- Co-Training  
+- Graph-Based Methods  
+- Transductive SVM  
+- Generative Models  
+- Reinforcement Learning  
+- Q-Learning  
+- SARSA  
+- Deep Q Networks (DQN)  
+- Policy Gradients (REINFORCE, Actor-Critic)  
+- Proximal Policy Optimization (PPO)  
+- Monte Carlo Methods  
+- Temporal Difference Learning  
+- AlphaZero  
+- Ensemble Methods  
+- Bagging  
+- Boosting (AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost)  
+- Stacking  
+- Voting (Majority, Weighted, Soft)  
+- Random Subspace Method  
+- Rotation Forests  
+  
+3. Deep Learning  
+- Feedforward Neural Networks  
+- Convolutional Neural Networks (CNN)  
+- LeNet  
+- AlexNet  
+- VGGNet  
+- ResNet  
+- Inception  
+- DenseNet  
+- EfficientNet  
+- Recurrent Neural Networks (RNN)  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Units (GRU)  
+- Bidirectional RNNs  
+- Transformers  
+- Attention Mechanism  
+- Self-Attention  
+- Multi-Head Attention  
+- BERT  
+- GPT  
+- Transformer-XL  
+- XLNet  
+- Autoencoders  
+- Vanilla Autoencoders  
+- Variational Autoencoders (VAE)  
+- Denoising Autoencoders  
+- Sparse Autoencoders  
+- Generative Adversarial Networks (GANs)  
+- Vanilla GANs  
+- Deep Convolutional GANs (DCGANs)  
+- Conditional GANs  
+- Wasserstein GANs (WGANs)  
+- Cycle GANs  
+- StyleGANs  
+- Self-Organizing Maps (SOMs)  
+- Deep Belief Networks (DBNs)  
+- Deep Reinforcement Learning  
+- Deep Q Networks (DQN)  
+- Double DQN  
+- Dueling DQN  
+- Deep Deterministic Policy Gradient (DDPG)  
+- Asynchronous Advantage Actor-Critic (A3C)  
+  
+4. Time Series Analysis  
+- Exploratory Data Analysis  
+- Seasonality  
+- Trend  
+- Cyclicality  
+- Autocorrelation  
+- Partial Autocorrelation  
+- Smoothing Techniques  
+- Moving Averages (Simple, Weighted, Exponential)  
+- Holt-Winters (Additive, Multiplicative)  
+- Kalman Filter  
+- Decomposition Methods  
+- Classical Decomposition (Additive, Multiplicative)  
+- STL Decomposition  
+- Regression-based Methods  
+- Linear Regression  
+- Autoregressive Models (AR)  
+- Moving Average Models (MA)  
+- Autoregressive Moving Average Models (ARMA)  
+- Autoregressive Integrated Moving Average Models (ARIMA)  
+- Seasonal ARIMA (SARIMA)  
+- Vector Autoregression (VAR)  
+- State Space Models  
+- Exponential Smoothing State Space Models (ETS)  
+- Structural Time Series Models  
+- Dynamic Linear Models (DLMs)  
+- Machine Learning Methods  
+- Prophet  
+- Recurrent Neural Networks (RNNs)  
+- Long Short-Term Memory (LSTM)  
+- Gated Recurrent Units (GRUs)  
+- Temporal Convolutional Networks (TCNs)  
+- XGBoost  
+- Ensemble Methods  
+- Bagging  
+- Boosting  
+- Stacking  
+- Anomaly Detection  
+- Statistical Process Control  
+- Isolation Forests  
+- Robust PCA  
+- Causality Analysis  
+- Granger Causality  
+- Vector Autoregression (VAR)  
+- Convergent Cross Mapping (CCM)  
+  
+5. Anomaly Detection  
+- Statistical Methods  
+- Z-Score  
+- Interquartile Range (IQR)  
+- Mahalanobis Distance  
+- Kernel Density Estimation (KDE)  
+- Clustering-Based Methods  
+- k-Means  
+- DBSCAN  
+- Density-Based Methods  
+- Local Outlier Factor (LOF)  
+- Connectivity-Based Outlier Factor (COF)  
+- Subspace Outlier Detection (SOD)  
+- Distance-Based Methods  
+- k-Nearest Neighbors (k-NN)  
+- Ensemble Methods  
+- Isolation Forest  
+- Feature Bagging  
+- Subsampling  
+- One-Class Classification  
+- One-Class SVM  
+- Support Vector Data Description (SVDD)  
+- Autoencoder-based Methods  
+- Probabilistic Methods  
+- Gaussian Mixture Models (GMMs)  
+- Hidden Markov Models (HMMs)  
+- Bayesian Networks  
+  
+6. Natural Language Processing (NLP)  
+- Text Preprocessing  
+- Tokenization  
+- Stop Word Removal  
+- Stemming & Lemmatization  
+- Part-of-Speech (POS) Tagging  
+- Named Entity Recognition (NER)  
+- Parsing  
+- Text Representation  
+- Bag-of-Words (BoW)  
+- TF-IDF  
+- Word Embeddings (Word2Vec, GloVe, FastText)  
+- Sentence Embeddings (Doc2Vec, Sent2Vec)  
+- Contextual Embeddings (ELMo, BERT, GPT)  
+- Text Classification  
+- Naive Bayes  
+- Support Vector Machines (SVM)  
+- Logistic Regression  
+- Decision Trees & Random Forests  
+- Neural Networks (CNNs, RNNs, Transformers)  
+- Sequence Labeling  
+- Hidden Markov Models (HMMs)  
+- Conditional Random Fields (CRFs)  
+- Recurrent Neural Networks (RNNs)  
+- Transformers  
+- Topic Modeling  
+- Latent Dirichlet Allocation (LDA)  
+- Non-Negative Matrix Factorization (NMF)  
+- Latent Semantic Analysis (LSA)  
+- Hierarchical Dirichlet Process (HDP)  
+- Text Summarization  
+- Extractive Methods (TextRank, LexRank)  
+- Abstractive Methods (Seq2Seq Models, Transformers)  
+- Machine Translation  
+- Statistical Machine Translation (SMT)  
+- Neural Machine Translation (NMT)  
+- Seq2Seq Models  
+- Attention Mechanisms  
+- Transformers  
+- Sentiment Analysis  
+- Lexicon-based Methods  
+- Machine Learning Methods (Naive Bayes, SVM, Logistic Regression)  
+- Deep Learning Methods (CNNs, RNNs, Transformers)  
+- Language Modeling  
+- N-gram Models  
+- Neural Language Models (RNNs, LSTMs, GRUs)  
+- Transformers (GPT, BERT)  
+- Text Generation  
+- Rule-based Methods  
+- Statistical Language Models  
+- Neural Language Models (RNNs, LSTMs, GRUs)  
+- Transformers (GPT, BERT)  
+- Information Retrieval  
+- Boolean Models  
+- Vector Space Models (TF-IDF)  
+- Probabilistic Models (BM25)  
+- Learning to Rank (LTR)  
+- Named Entity Recognition (NER)  
+- Rule-based Methods  
+- Machine Learning Methods (CRFs, HMMs)  
+- Deep Learning Methods (BiLSTM-CRF, Transformers)  
+- Relationship Extraction  
+- Pattern-based Methods  
+- Machine Learning Methods (SVMs, CRFs)  
+- Deep Learning Methods (CNNs, RNNs, Transformers)  
+- Coreference Resolution  
+- Rule-based Methods  
+- Machine Learning Methods (Mention-Pair, Entity-Mention)  
+- Deep Learning Methods (Mention Ranking, End-to-End Models)  
+  
+7. Computer Vision  
+- Image Preprocessing  
+- Pixel-level Operations (Scaling, Cropping, Rotation, Flipping)  
+- Filtering (Gaussian, Median, Bilateral)  
+- Edge Detection (Sobel, Canny, Laplacian)  
+- Morphological Operations (Erosion, Dilation, Opening, Closing)  
+- Feature Extraction  
+- Scale-Invariant Feature Transform (SIFT)  
+- Speeded Up Robust Features (SURF)  
+- Oriented FAST and Rotated BRIEF (ORB)  
+- Histogram of Oriented Gradients (HOG)  
+- Local Binary Patterns (LBP)  
+- Object Detection  
+- Viola-Jones  
+- Sliding Window  
+- Deformable Part Models (DPM)  
+- Region-based CNN (R-CNN, Fast R-CNN, Faster R-CNN)  
+- You Only Look Once (YOLO)  
+- Single Shot MultiBox Detector (SSD)  
+- RetinaNet  
+- Semantic Segmentation  
+- Fully Convolutional Networks (FCNs)  
+- U-Net  
+- DeepLab  
+- Mask R-CNN  
+- Instance Segmentation  
+- Mask R-CNN  
+- PANet  
+- Image Classification  
+- Convolutional Neural Networks (CNNs)  
+- Transfer Learning (VGG, ResNet, Inception, DenseNet, EfficientNet)  
+- Ensemble Methods (Bagging, Boosting)  
+- Object Tracking  
+- Kalman Filter  
+- Particle Filter  
+- Optical Flow  
+- Siamese Networks  
+- Correlation Filter  
+- Pose Estimation  
+- Deformable Part Models (DPM)  
+- Convolutional Pose Machines (CPMs)  
+- Stacked Hourglass Networks  
+- OpenPose  
+- Face Recognition  
+- Eigenfaces  
+- Local Binary Patterns Histograms (LBPH)  
+- FaceNet  
+- DeepFace  
+- DeepID  
+- Generative Models  
+- Variational Autoencoders (VAEs)  
+- Generative Adversarial Networks (GANs)  
+- Neural Style Transfer  
+- Deep Dream  
+- 3D Computer Vision  
+- Structure from Motion (SfM)  
+- Simultaneous Localization and Mapping (SLAM)  
+- Stereo Vision  
+- Point Cloud Processing  
+- Voxel-based Methods  
+  
+8. Graph Analytics  
+- Graph Representation  
+- Adjacency Matrix  
+- Adjacency List  
+- Edge List  
+- Incidence Matrix  
+- Graph Traversal  
+- Breadth-First Search (BFS)  
+- Depth-First Search (DFS)  
+- Shortest Path Algorithms  
+- Dijkstra's Algorithm  
+- Bellman-Ford Algorithm  
+- A* Search  
+- Floyd-Warshall Algorithm  
+- Centrality Measures  
+- Degree Centrality  
+- Betweenness Centrality  
+- Closeness Centrality  
+- Eigenvector Centrality  
+- PageRank  
+- HITS (Hubs and Authorities)  
+- Community Detection  
+- Girvan-Newman Algorithm  
+- Louvain Algorithm  
+- Infomap  
+- Spectral Clustering  
+- Stochastic Block Models  
+- Link Prediction  
+- Common Neighbors  
+- Jaccard Coefficient  
+- Adamic-Adar Index  
+- Preferential Attachment  
+- Katz Index  
+- Matrix Factorization  
+- Graph Embeddings  
+- DeepWalk  
+- node2vec  
+- Graph Convolutional Networks (GCNs)  
+- GraphSAGE  
+- Graph Attention Networks (GATs)  
+- Subgraph Matching  
+- Ullmann's Algorithm  
+- VF2 Algorithm  
+- Graph Kernels  
+- Network Motifs  
+- Motif Counting  
+- Motif Discovery  
+- Temporal Graph Analysis  
+- Temporal Motifs  
+- Dynamic Community Detection  
+- Temporal Link Prediction  
+- Graph Neural Networks (GNNs)  
+- Graph Convolutional Networks (GCNs)  
+- Graph Attention Networks (GATs)  
+- Graph Recurrent Networks (GRNs)  
+- Graph Autoencoders  
+- Graph Generative Models  
+  
+9. Recommender Systems  
+- Content-based Filtering  
+- TF-IDF  
+- Cosine Similarity  
+- Jaccard Similarity  
+- Collaborative Filtering  
+- User-based Collaborative Filtering  
+- Item-based Collaborative Filtering  
+- Matrix Factorization (Singular Value Decomposition, Non-Negative Matrix Factorization)  
+- Factorization Machines  
+- Probabilistic Matrix Factorization  
+- Hybrid Methods  
+- Weighted Hybrid  
+- Switching Hybrid  
+- Cascade Hybrid  
+- Feature Combination  
+- Meta-level  
+- Context-Aware Recommender Systems  
+- Contextual Pre-filtering  
+- Contextual Post-filtering  
+- Contextual Modeling  
+- Deep Learning-based Recommender Systems  
+- Neural Collaborative Filtering  
+- Deep Matrix Factorization  
+- Autoencoders  
+- Convolutional Neural Networks (CNNs)  
+- Recurrent Neural Networks (RNNs)  
+- Graph Neural Networks (GNNs)  
+- Evaluation Metrics  
+- Precision and Recall  
+- Mean Average Precision (MAP)  
+- Normalized Discounted Cumulative Gain (NDCG)  
+- Mean Reciprocal Rank (MRR)  
+- Coverage  
+- Diversity  
+- Novelty  
+- Serendipity  
+  
+10. Optimization Algorithms  
+- Gradient Descent  
+- Batch Gradient Descent  
+- Stochastic Gradient Descent (SGD)  
+- Mini-batch Gradient Descent  
+- Newton's Method  
+- Quasi-Newton Methods  
+- BFGS  
+- L-BFGS  
+- Conjugate Gradient Methods  
+- Momentum  
+- Nesterov Accelerated Gradient (NAG)  
+- Adagrad  
+- Adadelta  
+- RMSprop  
+- Adam  
+- AdaMax  
+- Nadam  
+- AMSGrad  
+- Evolutionary Algorithms  
+- Genetic Algorithms  
+- Evolutionary Strategies  
+- Particle Swarm Optimization (PSO)  
+- Ant Colony Optimization (ACO)  
+- Differential Evolution  
+- Swarm Intelligence Algorithms  
+- Artificial Bee Colony (ABC)  
+- Firefly Algorithm  
+- Cuckoo Search  
+- Bat Algorithm  
+- Simulated Annealing  
+- Tabu Search  
+- Hill Climbing  
+- Gradient-Free Optimization  
+- Nelder-Mead Method  
+- Pattern Search  
+- Bayesian Optimization  
+- Constrained Optimization  
+- Lagrange Multipliers  
+- Karush-Kuhn-Tucker (KKT) Conditions  
+- Interior Point Methods  
+- Penalty Methods  
+- Multi-Objective Optimization  
+- Weighted Sum Method  
+- ε-Constraint Method  
+- Pareto Optimization  
+- Non-dominated Sorting Genetic Algorithm (NSGA-II)  
+- Strength Pareto Evolutionary Algorithm (SPEA2)  
+  
+This comprehensive map covers a wide range of algorithms and techniques used for extracting patterns and insights from various types of data, including tabular data, time series data, text data, image data, and graph data. It encompasses statistical methods, machine learning algorithms (both traditional and deep learning-based), natural language processing techniques, computer vision algorithms, graph analytics, recommender systems, and optimization algorithms.  
+  
+The choice of algorithm depends on the specific problem at hand, the nature and structure of the data, the desired outcome, and the trade-offs between accuracy, interpretability, scalability, and computational efficiency. It is essential to have a good understanding of the strengths and limitations of each algorithm and to experiment with different approaches to find the most suitable one for a given task.  
+  
+Furthermore, data preprocessing, feature engineering, model selection, hyperparameter tuning, and model evaluation are crucial steps in the data analysis pipeline that can significantly impact the performance of the chosen algorithm. It is also important to consider the ethical implications and potential biases associated with the use of these algorithms, especially in sensitive domains such as healthcare, finance, and criminal justice.
 ## Additional metadata 
 -  #processed #processing #toprocess #important #short #long #casual #focus
 - Unfinished: #metadata #tags
